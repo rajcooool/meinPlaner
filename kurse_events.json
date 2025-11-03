@@ -1,6 +1,44 @@
 {
     "events":  [
                    {
+                       "title":  "Die Kunst des Zuhörens -NEU-",
+                       "description":  "Die Fähigkeit des Zuhörens ist eine zentrale Bedingung für eine gelingende Kommunikation, gerade bei widerstreitenden (politischen) Debatten. Der Vortrag geht der Frage nach, was gutes Zuhören ausmacht. Warum fällt Zuhören mitunter schwer? Was läuft dabei im menschlichen Gehirn ab? Lässt sich gutes Zuhören erlernen? Und nicht zuletzt: Wie gelingt ein konstruktiver Dialog und auf welche Weise kann Zuhören das Gespräch über Kontroversen hinweg fördern?\r\n\r\nProf. Dr. Margarete Imhof ist Seniorprofessorin für Psychologie in den Bildungswissenschaften an der Universität Mainz und forscht seit vielen Jahrzehnten zu den Themen des Abends.",
+                       "location":  "TIETZ, Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2025-12-02",
+                                         "date_to":  "2025-12-02",
+                                         "time_to":  "20:30",
+                                         "time_from":  "19:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2510120",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Zuhören. Die Kunst, sich der Welt zu öffnen",
+                       "description":  "Was heißt es, wirklich zuzuhören, die eigenen Überzeugungen in Frage zu stellen, sich der Weltsicht eines anderen auszusetzen? Gerade in politischen Debatten fällt das Zuhören mitunter schwer. Der Medienwissenschaftler Prof. Dr. Bernhard Pörksen formuliert in seinem Buch „Zuhören. Die Kunst, sich der Welt zu öffnen“ eine Schule der Wahrnehmung. Er zeigt, welche Mechanismen das Zuhören verhindern – ob im privaten Umgang oder in der Öffentlichkeit. Und er präsentiert Ansätze und Methoden, die eine neue Offenheit, ein  tieferes Verstehen und empathisches Zuhören ermöglichen. Wir laden Sie ein, darüber mit ihm in Gespräch zu kommen.\r\nDiese Veranstaltung ist eine Kooperation der Sächsischen Landeszentrale für politische Bildung und der Volkshochschule Chemnitz.",
+                       "location":  "online",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2025-12-08",
+                                         "date_to":  "2025-12-08",
+                                         "time_to":  "20:30",
+                                         "time_from":  "19:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2510125",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Autonomes Fahren mit Künstlicher Intelligenz",
                        "description":  "Autos und Busse, die keine Fahrer brauchen: Das sind Visionen vom autonomen Fahren, die immer noch Zukunftsmusik sind. Im Vortrag werden aktuelle Forschungsfragen zum autonomen Fahren diskutiert. Welche Probleme haben Autos und mobile Roboter, wenn sie sich selbstständig in einer komplexen Umwelt zurechtfinden müssen? Das ist auch bekannt als „Moravecsches Paradoxon“: Computern fallen Dinge leicht, die für Menschen schwer sind, sie erreichen aber nicht die sensorischen und motorischen Fähigkeiten eines Kindes.\r\nProf. Dr. Peter Protzel forscht an der TU Chemnitz zu diesen Fragen und vermittelt an diesem Abend einen Einblick ins autonome Fahren.",
                        "location":  "TIETZ, Kursraum 4.07",
