@@ -75,6 +75,25 @@
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2511020",
                        "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Künstliche Intelligenz auf dem Smartphone -NEU-",
+                       "description":  "Voraussetzungen: Der Kurs spricht Seniorinnen und Senioren, die ihr Smartphone schon kennen, nutzen und sich weiterführend mit ihrem Android-Smartphone oder iOS-Gerät beschäftigen möchten, an.\r\n\r\nSie haben festgestellt, dass sich eine Vielzahl von sogenannten „KI-Anwendungen“ in Ihr Smartphone „geschmuggelt“ hat. Sie möchten diese Funktionen künstlicher Intelligenz gern kennen, verstehen und auch nutzen? Dabei kann Ihnen dieser Kurs helfen. Der erfahrene Kursleiter stellt Ihnen mithilfe verschiedener Anwendungen die Nutzungsmöglichkeiten von künstlicher Intelligenz auf Ihrem Smartphone vor. Dabei werden auch die Themen Datenschutz und Sicherheit besprochen. In diesem Semester starten Sie mit dem Oberbegriff der künstlichen Intelligenz. Bringen Sie Ihre Fragen mit!",
+                       "location":  "TIETZ, Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2025-12-09",
+                                         "date_to":  "2025-12-09",
+                                         "time_to":  "18:30",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2553222",
+                       "ticket_phone":  ""
                    }
                ]
 }
