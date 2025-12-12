@@ -1,98 +1,83 @@
 {
     "events":  [
                    {
-                       "title":  "Die Kunst des Zuhörens -NEU-",
-                       "description":  "Die Fähigkeit des Zuhörens ist eine zentrale Bedingung für eine gelingende Kommunikation, gerade bei widerstreitenden (politischen) Debatten. Der Vortrag geht der Frage nach, was gutes Zuhören ausmacht. Warum fällt Zuhören mitunter schwer? Was läuft dabei im menschlichen Gehirn ab? Lässt sich gutes Zuhören erlernen? Und nicht zuletzt: Wie gelingt ein konstruktiver Dialog und auf welche Weise kann Zuhören das Gespräch über Kontroversen hinweg fördern?\r\n\r\nProf. Dr. Margarete Imhof ist Seniorprofessorin für Psychologie in den Bildungswissenschaften an der Universität Mainz und forscht seit vielen Jahrzehnten zu den Themen des Abends.",
-                       "location":  "TIETZ, Kursraum 4.07",
+                       "title":  "Zur chinesischen Klimapolitik",
+                       "description":  "In der Volksrepublik China entsteht ein erheblicher Teil der globalen Treibhausgasemissionen; das Land hat sich jedoch zugleich ehrgeizige Ziele in der Klimapolitik gesetzt. Der Vortrag stellt die Grundzüge der chinesischen Klimapolitik und deren globale Bedeutung vor: Chinas Klimaziel, das sogenannte Doppelziel, sieht einen Höchststand der CO2-Emissionen „vor 2030“ und die Erreichung von Klimaneutralität bis 2060 vor.\r\nWie werden die Ziele in den Fünfjahresplänen umgesetzt? Welche Rolle spielt China in der internationalen Klimapolitik und bei der globalen Energiewende? Und nicht zuletzt: Wo liegen die Potenziale und Grenzen einer Zusammenarbeit mit China im Klimaschutz?",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
                        "organizer":  "",
                        "images":  [
 
                                   ],
                        "dates":  [
                                      {
-                                         "date_from":  "2025-12-02",
-                                         "date_to":  "2025-12-02",
-                                         "time_to":  "20:30",
-                                         "time_from":  "19:00"
+                                         "date_from":  "2026-03-19",
+                                         "date_to":  "2026-03-19",
+                                         "time_to":  "19:30",
+                                         "time_from":  "18:00"
                                      }
                                  ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2510120",
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-System.Data.DataRow.NR_ANZEIGE",
                        "ticket_phone":  ""
                    },
                    {
-                       "title":  "Zuhören. Die Kunst, sich der Welt zu öffnen",
-                       "description":  "Was heißt es, wirklich zuzuhören, die eigenen Überzeugungen in Frage zu stellen, sich der Weltsicht eines anderen auszusetzen? Gerade in politischen Debatten fällt das Zuhören mitunter schwer. Der Medienwissenschaftler Prof. Dr. Bernhard Pörksen formuliert in seinem Buch „Zuhören. Die Kunst, sich der Welt zu öffnen“ eine Schule der Wahrnehmung. Er zeigt, welche Mechanismen das Zuhören verhindern – ob im privaten Umgang oder in der Öffentlichkeit. Und er präsentiert Ansätze und Methoden, die eine neue Offenheit, ein  tieferes Verstehen und empathisches Zuhören ermöglichen. Wir laden Sie ein, darüber mit ihm in Gespräch zu kommen.\r\nDiese Veranstaltung ist eine Kooperation der Sächsischen Landeszentrale für politische Bildung und der Volkshochschule Chemnitz.",
+                       "title":  "Chemnitz und seine Vorgeschichte",
+                       "description":  "Was steckt hinter „Aus wilder Wurzel…“, dem „Wolfsjäger“ und der gefälschten Urkunde von 1143? In diesem Vortrag erfahren Sie, wie spannend und überraschend die Chemnitzer Vorzeit wirklich ist. Der Referent nimmt Sie mit auf eine Zeitreise bis zu 291 Millionen Jahre zurück und zeigt, wie Chemnitz auf erdgeschichtlich fruchtbarem Boden entstand. Ein Kurs für alle, die ihre Stadt und ihre Geschichte neu entdecken möchten.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 5.38",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-03-14",
+                                         "date_to":  "2026-03-14",
+                                         "time_to":  "20:15",
+                                         "time_from":  "18:45"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-System.Data.DataRow.NR_ANZEIGE",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "KI-Kompetenzen für Führungskräfte -NEU-",
+                       "description":  "Führung verändert sich, insbesondere durch die Möglichkeiten von Künstlicher Intelligenz (KI). Dieser praxisnahe Kurs bereitet Sie als Führungskraft darauf vor, KI nicht nur zu verstehen, sondern gezielt und verantwortungsbewusst in Ihrem Führungsalltag einzusetzen. Sie erwerben die Kompetenzen, um KI-Tools strategisch zu nutzen. Sie erfahren, wie Sie Kommunikation, Entscheidungsfindung und Wissensmanagement mithilfe von KI nachhaltig verbessern. Gestalten Sie den digitalen Wandel aktiv mit und führen Sie Ihr Team erfolgreich in die Zukunft.",
                        "location":  "online",
+                       "room":  "",
                        "organizer":  "",
                        "images":  [
 
                                   ],
                        "dates":  [
                                      {
-                                         "date_from":  "2025-12-08",
-                                         "date_to":  "2025-12-08",
-                                         "time_to":  "20:30",
-                                         "time_from":  "19:00"
+                                         "date_from":  "2026-03-26",
+                                         "date_to":  "2026-03-26",
+                                         "time_to":  "11:15",
+                                         "time_from":  "09:00"
                                      }
                                  ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2510125",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Warum es sich lohnt, den \"Osten\" zu erkunden. Vortrag und Diskussion",
-                       "description":  "Der Historiker und Journalist Dr. Gerhard Gnauck berichtet an diesem Abend von persönlichen Begegnungen in Polen, Russland und der Ukraine während seiner ausgedehnten Reisen nach Mittel- und Osteuropa in den letzten drei Jahrzehnten. Der Referent kam, trotz seiner westdeutschen Herkunft, früh in seinem Leben mit dem „Osten“ in Berührung, betreute freigekaufte DDR-Häftlinge und pflegte Kontakte zu Bürgerrechtlern. Schon vor 1989 reiste er hinter den Eisernen Vorhang und erlebte Personen wie Michail Gorbatschow und Wolodymyr Selenskyj aus der Nähe. \r\nDie politischen und gesellschaftlichen Veränderungen nahm er als Korrespondent für Osteuropa unter anderem für die „Frankfurter Allgemeine Zeitung“ und die „Welt“ wahr. In der Veranstaltung verknüpft er persönliche Erfahrungen mit historischem Wissen und einem Blick auf aktuelle politische Debatten. Gerhard Gnauck berichtet in der Veranstaltung von seinen Begegnungen mit Menschen und von der Zeitgeschichte. Er fragt, ob sich aus eigenem Erleben historisches Wissen und Verständnis für die Nachbarländer im Osten heute schöpfen lassen. \r\nDie Veranstaltung ist eine Kooperation des Lehrstuhls für Politische Theorie und Ideengeschichte am Institut für Politikwissenschaft der TU Chemnitz, des Lern- und Gedenkorts Kaßberg-Gefängnis und der Volkshochschule Chemnitz.",
-                       "location":  "Lern- und Gedenkort Kaßberg-Gefängnis, Kaßbergstraße 16c",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2025-11-25",
-                                         "date_to":  "2025-11-25",
-                                         "time_to":  "20:30",
-                                         "time_from":  "19:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2510131",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Autonomes Fahren mit Künstlicher Intelligenz",
-                       "description":  "Autos und Busse, die keine Fahrer brauchen: Das sind Visionen vom autonomen Fahren, die immer noch Zukunftsmusik sind. Im Vortrag werden aktuelle Forschungsfragen zum autonomen Fahren diskutiert. Welche Probleme haben Autos und mobile Roboter, wenn sie sich selbstständig in einer komplexen Umwelt zurechtfinden müssen? Das ist auch bekannt als „Moravecsches Paradoxon“: Computern fallen Dinge leicht, die für Menschen schwer sind, sie erreichen aber nicht die sensorischen und motorischen Fähigkeiten eines Kindes.\r\nProf. Dr. Peter Protzel forscht an der TU Chemnitz zu diesen Fragen und vermittelt an diesem Abend einen Einblick ins autonome Fahren.",
-                       "location":  "TIETZ, Kursraum 4.07",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2025-10-28",
-                                         "date_to":  "2025-10-28",
-                                         "time_to":  "20:30",
-                                         "time_from":  "19:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2511020",
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-System.Data.DataRow.NR_ANZEIGE",
                        "ticket_phone":  ""
                    },
                    {
                        "title":  "Künstliche Intelligenz auf dem Smartphone -NEU-",
                        "description":  "Voraussetzungen: Der Kurs spricht Seniorinnen und Senioren, die ihr Smartphone schon kennen, nutzen und sich weiterführend mit ihrem Android-Smartphone oder iOS-Gerät beschäftigen möchten, an.\r\n\r\nSie haben festgestellt, dass sich eine Vielzahl von sogenannten „KI-Anwendungen“ in Ihr Smartphone „geschmuggelt“ hat. Sie möchten diese Funktionen künstlicher Intelligenz gern kennen, verstehen und auch nutzen? Dabei kann Ihnen dieser Kurs helfen. Der erfahrene Kursleiter stellt Ihnen mithilfe verschiedener Anwendungen die Nutzungsmöglichkeiten von künstlicher Intelligenz auf Ihrem Smartphone vor. Dabei werden auch die Themen Datenschutz und Sicherheit besprochen. In diesem Semester starten Sie mit dem Oberbegriff der künstlichen Intelligenz. Bringen Sie Ihre Fragen mit!",
-                       "location":  "TIETZ, Kursraum 4.62",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.64",
                        "organizer":  "",
                        "images":  [
 
                                   ],
                        "dates":  [
                                      {
-                                         "date_from":  "2025-12-09",
-                                         "date_to":  "2025-12-09",
+                                         "date_from":  "2025-12-11",
+                                         "date_to":  "2025-12-11",
                                          "time_to":  "18:30",
                                          "time_from":  "17:00"
                                      }
                                  ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2553222",
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-System.Data.DataRow.NR_ANZEIGE",
                        "ticket_phone":  ""
                    }
                ]
