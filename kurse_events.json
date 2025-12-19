@@ -21,6 +21,26 @@
                        "ticket_phone":  ""
                    },
                    {
+                       "title":  "Unbekanntes Italien -NEU-",
+                       "description":  "Italien zählt zu den Lieblingsreiseländern der Deutschen: Geschichte, Kunst, mittelalterliche Städte, gutes Essen und Wein locken Besucherinnen und Besucher. Neben bekannten Zielen wie Gardasee, Venedig, Florenz oder Toskana gibt es zahlreiche wenig bekannte Orte, die ihren ursprünglichen Charme bewahrt haben. Kopfsteingepflasterte Straßen, Städte wie Mantua, Cremona, Bologna oder Montefalco und besondere Regionen wie Lago Iseo oder die Orchideenwiesen auf Gargano laden zu Entdeckungen abseits des Massentourismus ein. Genießen Sie Bilder, Reisetipps und einen Schluck Wein, den Sie vielleicht noch nie gekostet haben.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 5.38",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-03-09",
+                                         "date_to":  "2026-03-09",
+                                         "time_to":  "20:15",
+                                         "time_from":  "18:45"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2622120",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Chemnitz und seine Vorgeschichte",
                        "description":  "Was steckt hinter „Aus wilder Wurzel…“, dem „Wolfsjäger“ und der gefälschten Urkunde von 1143? In diesem Vortrag erfahren Sie, wie spannend und überraschend die Chemnitzer Vorzeit wirklich ist. Der Referent nimmt Sie mit auf eine Zeitreise bis zu 291 Millionen Jahre zurück und zeigt, wie Chemnitz auf erdgeschichtlich fruchtbarem Boden entstand. Ein Kurs für alle, die ihre Stadt und ihre Geschichte neu entdecken möchten.",
                        "location":  "TIETZ",
@@ -38,6 +58,46 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2622121",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Touch for Health: Einführung in die Kinesiologie",
+                       "description":  "In diesem Kurs erfahren Sie, wie Sie Ihr Energiesystem in Balance bringen können. Oberflächlich merkt jede und jeder, ob es einem gut geht, ob man Schmerzen empfindet, müde oder traurig ist. Was wenig bekannt ist: Es gibt einen energetischen Spiegel all dieser Zustände in den Energiebahnen, auch Meridiane genannt. Sind die Meridiane im Fluss, fühlt man sich wohl. Staut sich die Energie, so zeigt sich das als Unwohlsein, Energielosigkeit oder Schmerz.\r\n\r\nIm Kurs lernen Sie die Lehre des Touch for Health (Gesund durch Berühren) kennen. Gezielte Berührungen dienen dazu, den Energiefluss im Körper zu unterstützen. Sie nehmen erste Selbsthilfetechniken mit nach Hause, mit denen Sie Ihr Wohlbefinden fördern können.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.18",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-04-28",
+                                         "date_to":  "2026-04-28",
+                                         "time_to":  "12:15",
+                                         "time_from":  "10:45"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2632206",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Die Kunst des Fermentierens",
+                       "description":  "Rohes fermentiertes Gemüse ist lebendige Nahrung, die natürliche Enzyme und aktive Milchsäurebakterien enthält. Diese nützlichen Winzlinge schaffen ein gesundes und ausgewogenes Milieu in den Verdauungsorganen und können die Darmflora harmonisieren. Im Kurs entdecken Sie uralte und traditionsreiche Techniken des Fermentierens neu und versehen diese mit einer modernen Note. Sie können vielfältige Rezepte wie Kimchi oder veganen Käse kennenlernen. Der Kurs vermittelt zudem ausgewählte Techniken, um selbst in der Küche aktiv zu werden.",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-06-10",
+                                         "date_to":  "2026-06-10",
+                                         "time_to":  "20:45",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2632506",
                        "ticket_phone":  ""
                    },
                    {
