@@ -1,305 +1,6 @@
 {
     "events": [
         {
-            "title": "Geheimnisse vom Dachboden",
-            "description": "<p>Die Kinder der Sprechspielerei sowie Sch\u00fcler:innen aus den Bereichen Gesang, Klavier, Querfl\u00f6te und Streichinstrumente haben sich gemeinsam das Ziel gesetzt, die Geheimnisse zu l\u00fcften, die auf einem alten Dachboden schlummern.<br />In unserer musikalischen Erz\u00e4hlung \u201eGeheimnisse vom Dachboden\u201c begleiten wir die Geschwister Paul, Tino und Charlotte, die bei ihrem Opa zu Besuch sind. Auf dem staubigen Dachboden entdecken sie zahlreiche spannende Dinge, die durch Opas Geschichten und passende Musik lebendig werden. So entsteht eine bezaubernde Geschichte zum Tr\u00e4umen und Staunen.</p>  ",
-            "location": "Konzertsaal/ St\u00e4dtische Musikschule Chemnitz",
-            "organizer": "",
-            "images": [
-                {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Geheimnisse_vom_Dachboden_Plakat.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-05",
-                    "date_to": "",
-                    "time_from": "17:00",
-                    "time_to": "18:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/geheimnisse-vom-dachboden"
-        },
-        {
-            "title": "Fortbildung \"Elementare Musikp\u00e4dagogik in heterogenen Gruppen\"",
-            "description": "<p>Gerade die Elementare Musikp\u00e4dagogik er\u00f6ffnet zahlreiche M\u00f6glichkeiten, wie sich Kinder mit unterschiedlichen Vorraussetzungen musikalisch ausdr\u00fccken k\u00f6nnen, mit anderen in Interaktion treten und sich selbst erleben. Beobachtungen haben gezeigt, dass Musik, Sprache und Bewegung Handlungsfelder sind, in welchen die Kinder gerade auch im Fall von Entwicklungsverz\u00f6gerungen oder bei Beeintr\u00e4chtigungen ihre St\u00e4rken erleben d\u00fcrfen. Als integrative Musik- und Bewegungserziehung versteht sich auch die Arbeit mit altersgemischten Gruppen, welche in der musikp\u00e4dagogischen Praxis keine Seltenheit darstellen. Immer gilt es, musikbezogene Inhalte in spielerischer Form \u00fcber das sinnliche Erleben und \u00fcber die K\u00f6rpererfahrung zu erarbeiten.</p> <p>Am 06.06.2026 findet in der St\u00e4dtischen Musikschule zu diesem Thema eine Fortbildung statt, geleitet von der ehemaligen Fachberaterin der elementaren Musikp\u00e4dagogik in Dresden, Kerstin Kern.</p> <p><strong>Eintritt:</strong> Die Fortbildung ist f\u00fcr Mitarbeiter:innen der VdM-Musikschulen sowie die Kooperationspartner:innen der St\u00e4dtischen Musikschule Chemnitz kostenlos.</p> <p><strong>F\u00fcr weitere Informationen und die Anmeldung</strong> kontaktieren Sie bitte Janet Lindner, Fachbereichsleiterin der Musikalischen Fr\u00fcherziehung an der St\u00e4dtischen Musikschule Chemnitz ( <a href=\"mailto:janet.lindner@stadt-chemnitz.de\">janet.lindner@stadt-chemnitz.de</a> ).</p> <p><strong>Anmeldeschluss: </strong>30.05.2026</p> <p>Lehrkr\u00e4fte an Musikschulen und Erzieher:innen in Kindertagesst\u00e4tten sind herzlich zur Fortbildung \u201cElementare Musikp\u00e4dagogik in heterogenen Gruppen\u201d eingeladen! Freuen Sie sich auf zahlreiche Anregungen f\u00fcr die Praxis.</p>",
-            "location": "Kammermusiksaal/ St\u00e4dtische Musikschule Chemnitz, Gerichtsstr. 1",
-            "organizer": "",
-            "images": [
-                {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/EMTP_Bild.png",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-06",
-                    "date_to": "",
-                    "time_from": "09:30",
-                    "time_to": "16:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/fortbildung-elementare-musikpaedagogik-in-heterogenen-gruppen"
-        },
-        {
-            "title": "Geheimnisse vom Dachboden",
-            "description": "<p>Die Kinder der Sprechspielerei sowie Sch\u00fcler:innen aus den Bereichen Gesang, Klavier, Querfl\u00f6te und Streichinstrumente haben sich gemeinsam das Ziel gesetzt, die Geheimnisse zu l\u00fcften, die auf einem alten Dachboden schlummern.<br />In unserer musikalischen Erz\u00e4hlung \u201eGeheimnisse vom Dachboden\u201c begleiten wir die Geschwister Paul, Tino und Charlotte, die bei ihrem Opa zu Besuch sind. Auf dem staubigen Dachboden entdecken sie zahlreiche spannende Dinge, die durch Opas Geschichten und passende Musik lebendig werden. So entsteht eine bezaubernde Geschichte zum Tr\u00e4umen und Staunen.</p>",
-            "location": "Konzertsaal/ St\u00e4dtische Musikschule Chemnitz",
-            "organizer": "",
-            "images": [
-                {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Geheimnisse_vom_Dachboden_Plakat.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-06",
-                    "date_to": "",
-                    "time_from": "10:00",
-                    "time_to": "11:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/geheimnisse-vom-dachboden-1"
-        },
-        {
-            "title": "Auf leisen Sohlen\u2026 im Vita",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "location": "Stadtteilbibliothek Vita-Center, Wladimir-Sagorski-Stra\u00dfe 22, 09122 Chemnitz",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Kinder.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-06",
-                    "date_to": "",
-                    "time_from": "10:30",
-                    "time_to": "11:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-4-4-1"
-        },
-        {
-            "title": "Auf leisen Sohlen\u2026  im TIETZ",
-            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-06",
-                    "date_to": "",
-                    "time_from": "11:00",
-                    "time_to": "12:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-tietz-1"
-        },
-        {
-            "title": "Sommerkonzert der DaCapo-Gruppe und Streicherklasse von Christiane Korn",
-            "description": "<p>Die Sch\u00fcler:innen der Streicherklasse von Christiane Korn sowie die Gruppe \u201cDaCapo\u201d spielen am 07. Juni in der Kirche des Rehabilitationszentrums f\u00fcr Blinde ein Sommerkonzert! Ab 17:00 Uhr kann man den Streicher-Kl\u00e4ngen lauschen. Der Eintritt ist frei, Spenden sind herzlich willkommen.</p>",
-            "location": "Kirche im Rehabilitationszentrum f\u00fcr Blinde, Flemmingstr. 8c, 09116 Chemnitz",
-            "organizer": "",
-            "images": [
-                {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Streicher_Sommerkonzert.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-07",
-                    "date_to": "",
-                    "time_from": "17:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/sommerkonzert-der-dacapo-gruppe-und-streicherklasse-von-christiane-korn"
-        },
-        {
-            "title": "Kommst du runter?",
-            "description": "<p>H\u00f6rst du gern spannende und lustige Geschichten? Mitarbeiter:innen der Stadtbibliothek betrachten gemeinsam mit Ehrenamtlichen des F\u00f6rdervereins mit euch liebevoll illustrierte Bilderb\u00fccher und entf\u00fchren in die fantastische Welt der Buchstaben und W\u00f6rter. Decken, Kissen und Ausmalbilder bringen wir mit unserem Lastenrad Lara mit. Kommst du runter?</p> <p><strong>Termin:</strong> Dienstag, 9. Juni 2026</p> <p><strong>Zeit:</strong> 17:00 bis 18:00 Uhr</p> <p><strong>Ort:</strong> Chemnitz, Reitbahnviertel, Spielplatz Reitbahnstra\u00dfe 42</p> <p>Eintritt: frei</p>",
-            "location": "",
-            "organizer": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/002_news/2026/Lara-Parksommer.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-09",
-                    "date_to": "",
-                    "time_from": "17:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/kommst-du-runter-1"
-        },
-        {
-            "title": "Auf leisen Sohlen... im Yorck",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "location": "Stadtteilbibliothek im Yorckgebiet, Scharnhorststra\u00dfe 11, 09130 Chemnitz",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Yorck.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-09",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-5"
-        },
-        {
-            "title": "Auf leisen Sohlen\u2026 im TIETZ",
-            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-09",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-1-8-7-6-1"
-        },
-        {
-            "title": "Refugees welcome to the library!",
-            "description": "<p>Lernpaten helfen beim Lernen der deutschen Sprache und bei Hausaufgaben der DaZ- und DaF-Kurse (Deutsch als Zweit- / Deutsch als Fremdsprache).</p> <p><i>kostenfrei</i></p>",
-            "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder, Moritzstra\u00dfe 20, Chemnitz 09111",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Refugees.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-09",
-                    "date_to": "",
-                    "time_from": "13:00",
-                    "time_to": "15:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-5"
-        },
-        {
-            "title": "Auf leisen Sohlen... in Einsiedel",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "location": "Stadtteilbibliothek Einsiedel, Einsiedler Hauptstra\u00dfe 79b, 09123 Chemnitz, OT Einsiedel",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Einsiedel.JPG",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-09",
-                    "date_to": "",
-                    "time_from": "16:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-8-2"
-        },
-        {
-            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
-            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik, Moritzstra\u00dfe 20, 09111 Chemnitz",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-09",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-3"
-        },
-        {
-            "title": "Meisterhaft gespielt",
-            "description": "<p>\u201cMeisterhaft gespielt\u201d - unter diesem Titel stellen sich die Begabtensch\u00fcler:innen der Fachbereiche Blas- und Streichinstrumente am 10. Juni im Konzertsaal der St\u00e4dtischen Musikschule vor. In der Studienvorbereitenden Abteilung der St\u00e4dtischen Musikschule werden besonders talentierte Sch\u00fcler:innen intensiv gef\u00f6rdert, um danach beispielsweise an einer Musikhochschule zu studieren. Diese Talente k\u00f6nnen Sie bei diesem Konzert erleben und einfach nur Zuh\u00f6ren und Genie\u00dfen. Der Eintritt ist frei, Spenden sind herzlich willkommen!</p>",
-            "location": "Konzertsaal/ St\u00e4dtische Musikschule Chemnitz",
-            "organizer": "",
-            "images": [
-                {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Begabtenkonzert_10.06.2026.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-06-10",
-                    "date_to": "",
-                    "time_from": "18:30",
-                    "time_to": "20:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/meisterhaft-gespielt"
-        },
-        {
             "title": "Sprechstunde digitale Angebote und E-Books",
             "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
             "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik, Moritzstra\u00dfe 20, 09111 Chemnitz",
@@ -971,6 +672,29 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-tietz-1-1-3"
         },
         {
+            "title": "Benefizkonzert mit Musiker:innen der Robert-Schumann-Philharmonie",
+            "description": "<p>Zugunsten des Vereins \u201cOrchester des Wandels e.V.\u201d findet am 28. Juni im Konzertsaal der St\u00e4dtischen Musikschule ein Benefizkonzert statt. Es spielen Musiker:innen der Robert-Schumann-Philharmonie.&nbsp;</p> <p><strong>Orchester des Wandels:</strong> Die beteiligten Musiker:innen der Orchester im Wandel, welche jeweils Mitglieder in deutschen Berufsorchestern sind, setzen sich f\u00fcr den Klima-, Natur- und Artenschutz ein. Mit der Kraft der Musik sollen die Menschen erreicht und inspiriert werden. Durch die stattfindenden Benefizkonzerte werden die Hauptprojekte auf Madagaskar und in Brasilien sowie zahlreiche Klima- und Naturschutzprojekte gef\u00f6rdert.</p>",
+            "location": "Konzertsaal/ St\u00e4dtische Musikschule Chemnitz",
+            "organizer": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Plakat_Benefiz_28.06.2026.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-06-28",
+                    "date_to": "",
+                    "time_from": "17:00",
+                    "time_to": "18:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/benefizkonzert-mit-musikerinnen-der-robert-schumann-philharmonie"
+        },
+        {
             "title": "Lesezeit: Zusammen liest man weniger allein",
             "description": "<p>Schluss mit einsamer Lekt\u00fcre in den eigenen vier W\u00e4nden! Unsere Vorlesepatin Regine Klinger hat wieder interessante B\u00fccher f\u00fcr Erwachsene ausgesucht und liest daraus vor.</p> <p><i>Eintritt: frei</i></p>",
             "location": "Tietz, Zentralbibliothek, BibLab-C",
@@ -1385,24 +1109,6 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-freifunk-sprechstunde-tietz-edition-1-3-1-4"
         },
         {
-            "title": "Gitarrentage 2026",
-            "description": "",
-            "location": "St\u00e4dtische Musikschule Chemnitz",
-            "organizer": "",
-            "images": [],
-            "dates": [
-                {
-                    "date_from": "2026-08-09",
-                    "date_to": "2026-08-15",
-                    "time_from": "10:00",
-                    "time_to": "19:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/gitarrentage-2026"
-        },
-        {
             "title": "Vorlesehund Kanu stellt sich vor.",
             "description": "<p>Mit tierischer Unterst\u00fctzung auf zu neuen Leseabenteuern.</p> <p>Empfohlen ab 6 bis 10 Jahren</p> <p>Ort: Stadtteilbibliothek im Vita-Center&nbsp;</p> <p>Eintritt: frei</p>   ",
             "location": "",
@@ -1470,6 +1176,52 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-einfuehrung-audiostudio-2-3-4-1"
+        },
+        {
+            "title": "Hofkonzerte 2026",
+            "description": "<p>Kurz nach dem Beginn des neuen Schuljahres l\u00e4dt die St\u00e4dtische Musikschule zu einer sp\u00e4tsommerlichen Konzertreihe ein. Die Hofkonzerte bieten eine Plattform f\u00fcr Ensembles der verschiedenen Fachbereiche und pr\u00e4sentieren ein vielf\u00e4ltiges Programm. Mitwirkende sind unter anderem der Junge Chor, Kinder der musikalischen Fr\u00fcherziehung sowie die Streicherband des Fachbereichs f\u00fcr Rock/Pop/Jazz. Auch alle Orchester der Schule werden auftreten.&nbsp;</p> <p><strong>24.-28. August 2026; Innenhof St\u00e4dtische Musikschule Chemnitz; Eintritt frei</strong></p> <p>Bei ung\u00fcnstigen Wetterbedingungen finden die Konzerte im Konzertsaal der St\u00e4dtischen Musikschule statt.<br />&nbsp;</p>",
+            "location": "Innenhof/ St\u00e4dtische Musikschule Chemnitz",
+            "organizer": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/HOFKONZERT_2022.2.PHOTO-2023-07-05-18-22-16.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-08-24",
+                    "date_to": "2026-08-28",
+                    "time_from": "16:00",
+                    "time_to": "20:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/hofkonzerte-2026"
+        },
+        {
+            "title": "Ein j\u00fcdischer Deutscher auf Widerruf?",
+            "description": "<p><strong>Stefan Heyms Lebenszeugnisse in Cambridge und Chemnitz</strong></p> <p>Termin: Mittwoch, 26. August, 18 Uhr</p> <p>Ort: TIETZ, Stefan-Heym-Forum (3. Etage)&nbsp;</p> <p><i>Eintritt: frei</i></p> <p>Mit dem Sterben der Zeitzeugen des 20. Jahrhunderts werden deren schriftliche Nachl\u00e4sse immer wichtiger. Stefan Heym (1913 \u2013 2011) vermachte seine Manuskripte, Korrespondenzen und Videoaufzeichnungen 1993 \u00fcber\uffferaschend der Universit\u00e4ts-bibliothek in Cambridge. Misstraute er seinen Deutschen? War er, der j\u00fcdische Exilant, der amerikanische Soldat, der streitbare Schriftsteller in der DDR, der 2001 in Israel starb, ein \u201ej\u00fcdischer Deutscher auf Widerruf\u201c? Der Bildervortrag pr\u00e4sentiert einige der eindrucksvollen Dokumente aus Cambridge und Chemnitz und pl\u00e4diert f\u00fcr digitale Zug\u00e4nge.</p> <p>Prof. Dr. Thomas B\u00fcrger war bis 2018 Generaldirektor der SLUB. Im Jahr 2023 arbeitete er als Gast des Trinity College drei Monate in Cambridge, davon drei Wochen im Stefan Heym Archive der Cambridge University Library.</p> <p>Eine Veranstaltung zum Jahr der j\u00fcdischen Kultur in Sachsen, in Kooperation mit der Internationalen Stefan-Heym-Gesellschaft, der S\u00e4chsischen Landeszentrale f\u00fcr politische Bildung und der S\u00e4chsischen Bibliotheksgesellschaft&nbsp;</p>  ",
+            "location": "",
+            "organizer": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Heym-Arbeitsbibliothek.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-08-26",
+                    "date_to": "",
+                    "time_from": "18:00",
+                    "time_to": "20:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/ein-juedischer-deutscher-auf-widerruf"
         },
         {
             "title": "Einf\u00fchrung/ F\u00fchrerschein 3D-Drucker",
