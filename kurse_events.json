@@ -1,26 +1,6 @@
 {
     "events":  [
                    {
-                       "title":  "Was bedeutet Radikalisierung?",
-                       "description":  "Wie werden Menschen radikalisiert? Dies ist eine komplexe Entwicklung, bei der die Radikalisierung von Einstellungen und die Radikalisierung von Gewalt in ihrem Zusammenwirken betrachtet werden müssen. Dr. Verena Schneider forscht zu Co-Radikalisierung als einem Prozess, bei dem verschiedene extreme Gruppen sich aufeinander beziehen, voneinander abgrenzen und sich wechselseitig steigern. In ihrem Vortrag stellt sie darüber hinaus die Bedeutung des gesellschaftlichen Klimas für Radikalisierungsprozesse heraus.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.07/online",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-06-10",
-                                         "date_to":  "2026-06-10",
-                                         "time_to":  "20:30",
-                                         "time_from":  "19:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2611120",
-                       "ticket_phone":  ""
-                   },
-                   {
                        "title":  "Wie der Wein nach Kalifornien kam -NEU-",
                        "description":  "Wie gelangten Weinreben über die Rocky Mountains bis an den Pazifik? Wer pflanzte 1769 nahe San Diego den ersten Weinberg - und warum scheiterte der frühe Anbau zunächst am Klima? Heute stammen rund 90 % der US-Weine aus Kalifornien. Doch wie wurde aus einem Experiment eine der bedeutendsten Weinregionen der Welt? Und welche Rolle spielten kalifornische Rebstöcke sogar bei der Rettung des europäischen Weinbaus nach der Reblauskatastrophe? Entdecken Sie Zinfandel, Sauvignon Blanc und andere Rebsorten - und erfahren Sie, warum sogar die Rotkäppchen-Sektkellerei einen großen Teil ihrer Trauben aus Kalifornien bezieht. Eine kleine Weinprobe darf natürlich nicht fehlen. Let´s go to San Francisco! \r\nDiese Veranstaltung ist Teil des Thementages \"Meet the USA! - Dialog, Kultur und Begegnungen\" der Stadtverwaltung Chemnitz.",
                        "location":  "Stadtwirtschaft",
@@ -38,26 +18,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2622122",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Die Kunst des Fermentierens",
-                       "description":  "Rohes fermentiertes Gemüse ist lebendige Nahrung, die natürliche Enzyme und aktive Milchsäurebakterien enthält. Diese nützlichen Winzlinge schaffen ein gesundes und ausgewogenes Milieu in den Verdauungsorganen und können die Darmflora harmonisieren. Im Kurs entdecken Sie uralte und traditionsreiche Techniken des Fermentierens neu und versehen diese mit einer modernen Note. Sie können vielfältige Rezepte wie Kimchi oder veganen Käse kennenlernen. Der Kurs vermittelt zudem ausgewählte Techniken, um selbst in der Küche aktiv zu werden.",
-                       "location":  "TIETZ",
-                       "room":  "Kochstudio 5.23.0",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-06-10",
-                                         "date_to":  "2026-06-10",
-                                         "time_to":  "20:45",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2632506",
                        "ticket_phone":  ""
                    },
                    {
