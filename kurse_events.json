@@ -1,26 +1,6 @@
 {
     "events":  [
                    {
-                       "title":  "Wie der Wein nach Kalifornien kam -NEU-",
-                       "description":  "Wie gelangten Weinreben über die Rocky Mountains bis an den Pazifik? Wer pflanzte 1769 nahe San Diego den ersten Weinberg - und warum scheiterte der frühe Anbau zunächst am Klima? Heute stammen rund 90 % der US-Weine aus Kalifornien. Doch wie wurde aus einem Experiment eine der bedeutendsten Weinregionen der Welt? Und welche Rolle spielten kalifornische Rebstöcke sogar bei der Rettung des europäischen Weinbaus nach der Reblauskatastrophe? Entdecken Sie Zinfandel, Sauvignon Blanc und andere Rebsorten - und erfahren Sie, warum sogar die Rotkäppchen-Sektkellerei einen großen Teil ihrer Trauben aus Kalifornien bezieht. Eine kleine Weinprobe darf natürlich nicht fehlen. Let´s go to San Francisco! \r\nDiese Veranstaltung ist Teil des Thementages \"Meet the USA! - Dialog, Kultur und Begegnungen\" der Stadtverwaltung Chemnitz.",
-                       "location":  "Stadtwirtschaft",
-                       "room":  "Foyer, Jakobstr. 46 über Brücke",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-06-12",
-                                         "date_to":  "2026-06-12",
-                                         "time_to":  "21:15",
-                                         "time_from":  "19:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2622122",
-                       "ticket_phone":  ""
-                   },
-                   {
                        "title":  "Migration verstehen -NEU-",
                        "description":  "Kinder mit Migrationshintergrund sind Alltag in Kitas. Pädagogische Fachkräfte kann dies vor die verschiedensten Herausforderungen stellen. In diesem Seminar nähern Sie sich dem Thema Migration einmal von einer anderen Richtung und versuchen zu verstehen, warum Migration geschieht, dass es sie schon immer gab und welche Auswirkungen sie auf die individuelle Situation des Kitakindes hat. Sie betrachten verschiedene Migrationsanlässe und daraus resultierende Herausforderungen wie Sprachbarrieren und Mehrsprachigkeitserziehung.",
                        "location":  "TIETZ",
@@ -193,7 +173,7 @@
                                      {
                                          "date_from":  "2026-09-30",
                                          "date_to":  "2026-09-30",
-                                         "time_to":  "20:45",
+                                         "time_to":  "20:00",
                                          "time_from":  "17:00"
                                      }
                                  ],
