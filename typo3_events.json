@@ -1,30 +1,6 @@
 {
     "events": [
         {
-            "title": "Lesezeit \u2013 zusammen liest man weniger allein ... im Yorck",
-            "description": "<p>Schluss mit einsamer Lekt\u00fcre in den eigenen vier W\u00e4nden! Unsere Vorlesepatin Petra Lory hat wieder interessante B\u00fccher f\u00fcr Erwachsene ausgesucht und liest daraus vor.</p> <p><i>kostenfrei</i></p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Stadtteilbibliothek im Yorckgebiet",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2020/Lesezeit_Erwachsene.JPG",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-07-22",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "16:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lesezeit-zusammen-liest-man-weniger-allein-im-yorck-1"
-        },
-        {
             "title": "Sprechstunde digitale Angebote und E-Books",
             "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -143,6 +119,30 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-tietz-1-1-1"
+        },
+        {
+            "title": "Lesezeit: Zusammen liest man weniger allein",
+            "description": "<p>Schluss mit einsamer Lekt\u00fcre in den eigenen vier W\u00e4nden! Unsere Vorlesepatin Heike Kozik hat wieder interessante B\u00fccher f\u00fcr Erwachsene ausgesucht und liest daraus vor.</p> <p>Ort: TIETZ, Zentralbibliothek, Bibliothekslabor Open Space</p> <p><i>Eintritt: frei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2020/2020-Lesezeit_Erwachsene-stadtbibliothekt-chemnitz.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-07-27",
+                    "date_to": "",
+                    "time_from": "14:30",
+                    "time_to": "15:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lesezeit-zusammen-liest-man-weniger-allein"
         },
         {
             "title": "Auf leisen Sohlen... in Einsiedel",
@@ -1262,7 +1262,7 @@
         },
         {
             "title": "Buchpr\u00e4sentation: \u00bbBeyer\u2019s Tinten sind die besten.\u00ab",
-            "description": "<p><strong>Zur Geschichte der Tintenproduktion in Chemnitz (1856 \u20131955) - Buchpr\u00e4sentation mit der Autorin Jutta Aurich</strong></p> <p><strong>Termin: Dienstag, 18. August 2026</strong></p> <p><strong>Beginn: 17 Uhr</strong></p> <p><strong>Ort: TIETZ, Veranstaltungssaal, 3. Etage, Moritzstra\u00dfe 20, 09111 Chemnitz</strong></p> <p class=\"text-justify\">Die reich bebilderte Neuerscheinung ist der ehemaligen Chemnitzer Tintenfabrik an der Beyerstra\u00dfe gewidmet und wird vom S\u00e4chsischen Wirtschaftsarchiv e. V. und dem Sax-Verlag herausgegeben. Die Historikerin und Archivarin Jutta Aurich beschreibt auf 240 Seiten erstmals umfassend die Geschichte der Tintenproduktion in Chemnitz . Im Mittelpunkt stehen neben der Tintenfabrik an der Beyerstra\u00dfe auch das Leben und Wirken ihres Gr\u00fcnders Eduard Beyer und seiner Nachfolger.&nbsp;</p> <p class=\"text-justify\">Beyers Weg vom Apotheker und Chemiker zum erfolgreichen Fabrikanten steht beispielhaft f\u00fcr&nbsp;das typische&nbsp;\u201es\u00e4chsische&nbsp;Unternehmertum\u201c des 19. und 20. Jahrhunderts. Mit dem Bau seiner Fabrik 1863 betrat er technisches Neuland und wurde zum Industriepionier. Als Erster stellte er Qualit\u00e4tstinten in gro\u00dfen Mengen her und machte Chemnitz zu einem Zentrum der deutschen Tintenindustrie. Sei</p> <p class=\"text-justify\"><i><strong>\u201eBeyer\u2019s Tinten sind die besten\u201c</strong></i> \u2013 unter diesem Motto produzierte die Tintenfabrik fast 100 Jahre lang. Das \u201eChemnitzer schwarze Na\u00df\u201c sprudelte sehr ergiebig und wurde an tausende Kunden in aller Welt exportiert. Drei Generationen der Familie Beyer-Koerner f\u00fchrten das Familienunternehmen bis 1955. Mit Mut und Kreativit\u00e4t machten sie es zu einem der gr\u00f6\u00dften deutschen Vertreter einer neuen Industriebranche, die vom gro\u00dfen Bedarf an Tinten und anderen Artikeln in der modernen B\u00fcrowelt profitierte. Sie stellten sich den Herausforderungen der technischen Entwicklung, \u00fcberwanden Wirtschaftskrisen und zwei Weltkriege, bis Kriegszerst\u00f6rungen 1945 und&nbsp;politische Ver\u00e4nderungen der Tintenproduktion in Chemnitz 1955 ein Ende setzten.&nbsp;</p> <p class=\"text-justify\">Die Geschichte der Tintenfabrik von ihren Anf\u00e4ngen 1856 bis zur Enteignung wird erg\u00e4nzt mit Informationen zu Nachfolgern auf dem ehemaligen Betriebsgel\u00e4nde an der Beyerstra\u00dfe. Die &nbsp;Bau- und Nutzungsgeschichte der Fabrikantenvillen \u2013 Villa Quisisana und Villa Koerner - und ausf\u00fchrliche Biografien der Tintenfabrikanten geben dem Leser Einblicke in Leben und Wirken sowie in ihr Engagement f\u00fcr die Chemnitzer Stadtgesellschaft.</p> <p class=\"text-justify\">Heute sind die letzten Fabrikgeb\u00e4ude verschwunden und nur die Villen noch geblieben als Erinnerungsorte. 70 Jahre nach dem Ende der Tintenfabrik von Eduard Beyer wird mit dieser Neuerscheinung&nbsp;ein fast vergessenes Kapitel Chemnitzer und s\u00e4chsischer Wirtschaftsgeschichte wieder lebendig.&nbsp;</p> <p class=\"text-justify\">&nbsp;</p> <p class=\"text-justify\"><strong>Neuerscheinung im Sax-Verlag 2026</strong></p> <p class=\"text-justify\">ISBN 978-3-86729-323-5</p> <p class=\"text-justify\">Gebundene Ausgabe, 21 x 27 cm,</p> <p class=\"text-justify\">240 Seiten mit rd. 300 \u00fcberwiegend farbigen Abbildungen<strong>&nbsp;</strong></p>  ",
+            "description": "<p><strong>Zur Geschichte der Tintenproduktion in Chemnitz (1856 \u20131955) - Buchpr\u00e4sentation mit der Autorin Jutta Aurich</strong></p> <p><strong>Termin: Dienstag, 18. August 2026</strong></p> <p><strong>Beginn: 17 Uhr</strong></p> <p><strong>Ort: TIETZ, Veranstaltungssaal, 3. Etage, Moritzstra\u00dfe 20, 09111 Chemnitz</strong></p> <p><strong>Veranstalter: S\u00e4chsisches Wirtschaftsarchiv e. V., Sax-Verlag Markleeberg und Chemnitzer Geschichtsverein e. V. in Kooperation mit der Stadtbibliothek Chemnitz</strong></p> <p class=\"text-justify\">Die reich bebilderte Neuerscheinung ist der ehemaligen Chemnitzer Tintenfabrik an der Beyerstra\u00dfe gewidmet und wird vom S\u00e4chsischen Wirtschaftsarchiv e. V. und dem Sax-Verlag herausgegeben. Die Historikerin und Archivarin Jutta Aurich beschreibt auf 240 Seiten erstmals umfassend die Geschichte der Tintenproduktion in Chemnitz . Im Mittelpunkt stehen neben der Tintenfabrik an der Beyerstra\u00dfe auch das Leben und Wirken ihres Gr\u00fcnders Eduard Beyer und seiner Nachfolger.&nbsp;</p> <p class=\"text-justify\">Beyers Weg vom Apotheker und Chemiker zum erfolgreichen Fabrikanten steht beispielhaft f\u00fcr&nbsp;das typische&nbsp;\u201es\u00e4chsische&nbsp;Unternehmertum\u201c des 19. und 20. Jahrhunderts. Mit dem Bau seiner Fabrik 1863 betrat er technisches Neuland und wurde zum Industriepionier. Als Erster stellte er Qualit\u00e4tstinten in gro\u00dfen Mengen her und machte Chemnitz zu einem Zentrum der deutschen Tintenindustrie. Sei</p> <p class=\"text-justify\"><i><strong>\u201eBeyer\u2019s Tinten sind die besten\u201c</strong></i> \u2013 unter diesem Motto produzierte die Tintenfabrik fast 100 Jahre lang. Das \u201eChemnitzer schwarze Na\u00df\u201c sprudelte sehr ergiebig und wurde an tausende Kunden in aller Welt exportiert. Drei Generationen der Familie Beyer-Koerner f\u00fchrten das Familienunternehmen bis 1955. Mit Mut und Kreativit\u00e4t machten sie es zu einem der gr\u00f6\u00dften deutschen Vertreter einer neuen Industriebranche, die vom gro\u00dfen Bedarf an Tinten und anderen Artikeln in der modernen B\u00fcrowelt profitierte. Sie stellten sich den Herausforderungen der technischen Entwicklung, \u00fcberwanden Wirtschaftskrisen und zwei Weltkriege, bis Kriegszerst\u00f6rungen 1945 und&nbsp;politische Ver\u00e4nderungen der Tintenproduktion in Chemnitz 1955 ein Ende setzten.&nbsp;</p> <p class=\"text-justify\">Die Geschichte der Tintenfabrik von ihren Anf\u00e4ngen 1856 bis zur Enteignung wird erg\u00e4nzt mit Informationen zu Nachfolgern auf dem ehemaligen Betriebsgel\u00e4nde an der Beyerstra\u00dfe. Die &nbsp;Bau- und Nutzungsgeschichte der Fabrikantenvillen \u2013 Villa Quisisana und Villa Koerner - und ausf\u00fchrliche Biografien der Tintenfabrikanten geben dem Leser Einblicke in Leben und Wirken sowie in ihr Engagement f\u00fcr die Chemnitzer Stadtgesellschaft.</p> <p class=\"text-justify\">Heute sind die letzten Fabrikgeb\u00e4ude verschwunden und nur die Villen noch geblieben als Erinnerungsorte. 70 Jahre nach dem Ende der Tintenfabrik von Eduard Beyer wird mit dieser Neuerscheinung&nbsp;ein fast vergessenes Kapitel Chemnitzer und s\u00e4chsischer Wirtschaftsgeschichte wieder lebendig.&nbsp;</p> <p class=\"text-justify\">&nbsp;</p> <p class=\"text-justify\"><strong>Neuerscheinung im Sax-Verlag 2026</strong></p> <p class=\"text-justify\">ISBN 978-3-86729-323-5</p> <p class=\"text-justify\">Gebundene Ausgabe, 21 x 27 cm,</p> <p class=\"text-justify\">240 Seiten mit rd. 300 \u00fcberwiegend farbigen Abbildungen<strong>&nbsp;</strong></p>  ",
             "organizer": "",
             "location": "",
             "room": "",
@@ -1574,13 +1574,13 @@
         },
         {
             "title": "Ein j\u00fcdischer Deutscher auf Widerruf?",
-            "description": "<p><strong>Stefan Heyms Lebenszeugnisse in Cambridge und Chemnitz</strong></p> <p>Termin: Mittwoch, 26. August, 18 Uhr</p> <p>Ort: TIETZ, Stefan-Heym-Forum (3. Etage)&nbsp;</p> <p><i>Eintritt: frei</i></p> <p>Mit dem Sterben der Zeitzeugen des 20. Jahrhunderts werden deren schriftliche Nachl\u00e4sse immer wichtiger. Stefan Heym (1913 \u2013 2011) vermachte seine Manuskripte, Korrespondenzen und Videoaufzeichnungen 1993 \u00fcber\uffferaschend der Universit\u00e4ts-bibliothek in Cambridge. Misstraute er seinen Deutschen? War er, der j\u00fcdische Exilant, der amerikanische Soldat, der streitbare Schriftsteller in der DDR, der 2001 in Israel starb, ein \u201ej\u00fcdischer Deutscher auf Widerruf\u201c? Der Bildervortrag pr\u00e4sentiert einige der eindrucksvollen Dokumente aus Cambridge und Chemnitz und pl\u00e4diert f\u00fcr digitale Zug\u00e4nge.</p> <p>Prof. Dr. Thomas B\u00fcrger war bis 2018 Generaldirektor der SLUB. Im Jahr 2023 arbeitete er als Gast des Trinity College drei Monate in Cambridge, davon drei Wochen im Stefan Heym Archive der Cambridge University Library.</p> <p>Eine Veranstaltung zum Jahr der j\u00fcdischen Kultur in Sachsen, in Kooperation mit der Internationalen Stefan-Heym-Gesellschaft, der S\u00e4chsischen Landeszentrale f\u00fcr politische Bildung und der S\u00e4chsischen Bibliotheksgesellschaft&nbsp;</p>  ",
+            "description": "<p><strong>Stefan Heyms Lebenszeugnisse in Cambridge und Chemnitz</strong></p> <p>Termin: Mittwoch, 26. August, 18 Uhr</p> <p>Ort: TIETZ, Stefan-Heym-Forum (3. Etage)&nbsp;</p> <p><i>Eintritt: frei</i></p> <p>Mit dem Sterben der Zeitzeugen des 20. Jahrhunderts werden deren schriftliche Nachl\u00e4sse immer wichtiger. Stefan Heym (1913 \u2013 2001) vermachte seine Manuskripte, Korrespondenzen und Videoaufzeichnungen 1993 \u00fcber\uffferaschend der Universit\u00e4ts-bibliothek in Cambridge. Misstraute er seinen Deutschen? War er, der j\u00fcdische Exilant, der amerikanische Soldat, der streitbare Schriftsteller in der DDR, der 2001 in Israel starb, ein \u201ej\u00fcdischer Deutscher auf Widerruf\u201c? Der Bildervortrag pr\u00e4sentiert einige der eindrucksvollen Dokumente aus Cambridge und Chemnitz und pl\u00e4diert f\u00fcr digitale Zug\u00e4nge.</p> <p>Prof. Dr. Thomas B\u00fcrger war bis 2018 Generaldirektor der SLUB. Im Jahr 2023 arbeitete er als Gast des Trinity College drei Monate in Cambridge, davon drei Wochen im Stefan Heym Archive der Cambridge University Library.</p> <p>Eine Veranstaltung zum Jahr der j\u00fcdischen Kultur in Sachsen, in Kooperation mit der Internationalen Stefan-Heym-Gesellschaft, der S\u00e4chsischen Landeszentrale f\u00fcr politische Bildung und der S\u00e4chsischen Bibliotheksgesellschaft&nbsp;</p> <p>Abbildung: Die Stadtbibliothek Duisburg gratulierte Heym mit dieser Zeichnung 1988 zu seinem 75. Geburtstag (s. die Gl\u00fcckwunschkarte im Anhang aus dem Heym-Archiv in Cambridge). Wie ein Fakir musste Heym viele Nadelstiche aushalten - und als engagierter Dissident schrieb er selbst immer mit angespitzen Stiften... &nbsp;</p>  ",
             "organizer": "",
             "location": "",
             "room": "",
             "images": [
                 {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Heym-Arbeitsbibliothek.jpg",
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/002_news/6a571da1f0523.png",
                     "copyright": ""
                 }
             ],
@@ -1766,7 +1766,7 @@
         },
         {
             "title": "Lesezeit - Zusammen liest man weniger allein",
-            "description": "<p>Schluss mit einsamer Lekt\u00fcre in den eigenen vier W\u00e4nden! Unsere Vorlesepatin Heike Kozik hat wieder interessante B\u00fccher f\u00fcr Erwachsene ausgesucht und liest daraus vor.</p> <p>Es ist keine Anmeldung notwendig, kommen Sie einfach vorbei!</p> <p>Ort: TIETZ, Zentralbibliothek, Bibliothekslabor Open Space</p> <p><i>kostenfrei</i></p>",
+            "description": "<p>Schluss mit einsamer Lekt\u00fcre in den eigenen vier W\u00e4nden! Unsere Vorlesepatin Frau Klinger hat wieder interessante B\u00fccher f\u00fcr Erwachsene ausgesucht und liest daraus vor.</p> <p>Es ist keine Anmeldung notwendig, kommen Sie einfach vorbei!</p> <p>Ort: TIETZ, Zentralbibliothek, Bibliothekslabor Open Space</p> <p><i>kostenfrei</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder",
             "room": "",
