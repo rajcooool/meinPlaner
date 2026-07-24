@@ -1,78 +1,6 @@
 {
     "events": [
         {
-            "title": "Sprechstunde digitale Angebote und E-Books",
-            "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Sprechstunde3.png",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-07-23",
-                    "date_to": "",
-                    "time_from": "14:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1"
-        },
-        {
-            "title": "Gaming Arena: Let's play \u2013 Zocken in der Bibo",
-            "description": "<p class=\"MsoNoSpacing\">Wir spielen gemeinsam neue Spiele an der PlayStation5, Nintendo Switch 2 und anderen Konsolen.</p> <p class=\"MsoNoSpacing\">Empfohlen ab 12 Jahren. Eine Anmeldung ist nicht erforderlich.</p> <p class=\"MsoNoSpacing\"><i>kostenfrei</i></p> <p class=\"MsoNoSpacing\">&nbsp;</p> <p class=\"MsoNoSpacing\">&nbsp;</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2023/Gaming_let_s_play.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-07-23",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-lets-play-zocken-in-der-bibo-1-2"
-        },
-        {
-            "title": "Mobilit\u00e4ts-Apps im Alltag sicher nutzen",
-            "description": "<p><strong>Was?</strong></p> <p>Ob im Urlaub oder Alltag, mit Bus, Bahn, Auto oder zu Fu\u00df - viele Wege lassen sich heute ganz einfach mit dem Smartphone planen.</p> <p><strong>Wo?</strong></p> <p>Stadtbibliothek im TIETZ, 3.Etage, Heym-Forum</p> <p><strong>Wann?</strong></p> <p>23.07.2026 10 bis 12 Uhr</p> <p>kostenfrei, Anmeldung erbeten</p> <p><strong>Wer?</strong></p> <p>Seniorinnen und Senioren</p>   ",
-            "organizer": "BibLab-C Projektnetzwerk",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Digitaler-Engel-c-Joerg-Farys-379.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-07-23",
-                    "date_to": "",
-                    "time_from": "10:00",
-                    "time_to": "12:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/kontakte-finden-pflegen-und-erweitern-digitaler-austausch-projekt-digitaler-engel"
-        },
-        {
             "title": "Auf leisen Sohlen\u2026 im Vita",
             "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
             "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
@@ -1694,7 +1622,7 @@
         },
         {
             "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG)",
-            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 12 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* \u2026<br />* \u2026</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
+            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 12 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Dungeons &amp; Dragons (Deutsch OR English)&nbsp;<br />* Hamster mit Gitarren (Deutsch)&nbsp;<br />* Pirate Borg oder Vaesen (Deutsch OR English)&nbsp;<br />* ...</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, GamingArena/OpenSpace, 3. Etage",
             "room": "",
@@ -2239,8 +2167,8 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/abschied-literaturstipendiaten-der-stadt-chemnitz-2026"
         },
         {
-            "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG)",
-            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 12 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* \u2026<br />* \u2026</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
+            "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG) - auch f\u00fcr Kinder",
+            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 7 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Abenteuer im M\u00e4rchenwald (Deutsch, ab 7 Jahre)&nbsp;<br />* \"Das Badehaus\", basierend auf den Regeln von Hamster mit Gitarren (Deutsch, ab 14 Jahre)&nbsp;<br />* Honey Heist (ihr spielt B\u00e4ren... Deutsch, ab 8 Jahre)&nbsp;<br />* ...</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, GamingArena/OpenSpace, 3. Etage",
             "room": "",
@@ -2287,8 +2215,8 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-freifunk-sprechstunde-tietz-edition-1-3-1-6"
         },
         {
-            "title": "Mit dem Imker durch Bienenjahr",
-            "description": "<p><strong>Was?</strong></p> <p>folgende Themen erwarten Sie:</p> <p>- Imker und Bienen im Jahresverlauf &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Aufbau und Organisation eines Bienenvolks<br />- Leistungen der Honigbiene (Honigleistung, Best\u00e4ubung)<br />- Schutz von Wildbienen</p> <p><strong>Wo?</strong></p> <p>Stadtbibliothek im TIETZ, 3.Etage, Heym-Forum</p> <p><strong>Wer?</strong></p> <p>Ein praxisnaher Vortrag f\u00fcr int. Erwachsene</p> <p><strong>Wann?</strong></p> <p>06.10.2026 14 bis 15 Uhr</p> <p>kostenfrei, Anmeldung erbeten</p>   ",
+            "title": "Mit dem Imker Marcus Frenzel durch das Bienenjahr",
+            "description": "<p><strong>Was?</strong></p> <p>folgende Themen erwarten Sie:</p> <ul><li data-list-item-id=\"e8448b6d8479d539cb9f9d7396207cfcb\">Imker und Bienen im Jahresverlauf &nbsp;</li><li data-list-item-id=\"ec284cd0c52ed877f98367d52f523ba13\">Aufbau und Organisation eines Bienenvolks</li><li data-list-item-id=\"e5b8639247f0232d9684c2b56d3caf855\">Leistungen der Honigbiene (Honigleistung, Best\u00e4ubung)</li><li data-list-item-id=\"ee9cd07e0a08d36bb26224c3551d300b2\">Schutz von Wildbienen</li></ul> <p><strong>Wo?</strong></p> <p>Stadtbibliothek im TIETZ, 3.Etage, Heym-Forum</p> <p><strong>Wer?</strong></p> <p>Ein praxisnaher Vortrag f\u00fcr int. Erwachsene mit dem Imker M.Frenzel.</p> <p><strong>Wann?</strong></p> <p>06.10.2026, 14 bis 15 Uhr</p> <p>kostenfrei, Anmeldung erbeten</p>   ",
             "organizer": "",
             "location": "",
             "room": "",
@@ -2453,6 +2381,34 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1"
+        },
+        {
+            "title": "Pen & Paper Rollenspieletreff (Halloween Special) (DE/EN)",
+            "description": "<p>Wir spielen kurz vor Halloween wieder auf Deutsch und auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.<br /><br />Dieses mal werden wir zwei Durchl\u00e4ufe haben. Dabei k\u00f6nnen sich alle ab 8 Jahre den Nachmittagsrunden (14:00 bis 17:30 Uhr) anschlie\u00dfen und abends (18:30 bis 22:00 Uhr) k\u00f6nnen alle Erwachsenen mitspielen.&nbsp;</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von Gewalt, Tod und emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen.&nbsp;</p> <p>Bisher sind folgende Runden best\u00e4tigt:&nbsp;<br /><br />14:00 - 17:30 Uhr:&nbsp;<br />* Little Wizards: Der Zauber der alten Zeit (Deutsch, ab 8 Jahre)&nbsp;<br />* HeXXen 1733 (Deutsch, ab 14 Jahre)&nbsp;<br />* ...&nbsp;<br /><br />18:30 - 22:00 Uhr:&nbsp;<br />* Call of Cthulhu: \"The Dare\" (Deutsch OR English), <i>Triggerwarnung: m\u00f6glicher Kindstod</i>&nbsp;<br />* D&amp;D oder Daggerheart (Deutsch OR English)&nbsp;<br />* Symbaroum (Deutsch OR English)&nbsp;<br />* ...</p> <p>F\u00fcr die Teilnahme bitte unbedingt anmelden, damit wir die Spielleitungen vorab gut planen k\u00f6nnen:<br /><a href=\"https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung\">https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung</a>&nbsp;</p> <p>*** EN **&nbsp;<br />A few nights before Halloween we offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.&nbsp;</p> <p>Minors are excluded from the events after 6:00pm. There will be sessions suitable for children (mostly in German) in the afternoon hours (see above).&nbsp;<br /><br />Trigger warning: The individual roleplaying groups may experience verbal descriptions of violence, death (also of minors) and emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. &nbsp;We are also looking for English speaking players and game hosts. Please write us an e-mail beforehand:<br /><a href=\"mailto:biblab-c@stadtbibliothek-chemnitz.de\">biblab-c@stadtbibliothek-chemnitz.de</a> &nbsp;<br /><br />Please sign up for the sessions. This helps us having enough game hosts available:<br /><a href=\"https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung\">https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung</a>&nbsp;</p> <p>Eintritt: frei / free admission&nbsp;</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/timothy-dykes-0Z_E3uSChxo-unsplash.jpg",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/PenPaperHalloween.png",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-28",
+                    "date_to": "",
+                    "time_from": "14:00",
+                    "time_to": "22:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/pen-paper-rollenspieletreff-einfuehrung-4"
         },
         {
             "title": "BibLab: Freifunk Sprechstunde",
