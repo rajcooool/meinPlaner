@@ -1,30 +1,6 @@
 {
     "events": [
         {
-            "title": "Lesezeit: Zusammen liest man weniger allein",
-            "description": "<p>Schluss mit einsamer Lekt\u00fcre in den eigenen vier W\u00e4nden! Unsere Vorlesepatin Heike Kozik hat wieder interessante B\u00fccher f\u00fcr Erwachsene ausgesucht und liest daraus vor.</p> <p>Ort: TIETZ, Zentralbibliothek, Bibliothekslabor Open Space</p> <p><i>Eintritt: frei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2020/2020-Lesezeit_Erwachsene-stadtbibliothekt-chemnitz.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-07-27",
-                    "date_to": "",
-                    "time_from": "14:30",
-                    "time_to": "15:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lesezeit-zusammen-liest-man-weniger-allein"
-        },
-        {
             "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
             "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
