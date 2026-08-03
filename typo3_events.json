@@ -1807,6 +1807,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/abschied-literaturstipendiaten-der-stadt-chemnitz-2026"
         },
         {
+            "title": "Buchverkauf",
+            "description": "<p>Es ist wieder Zeit f\u00fcr den Buchverkauf! Wir verkaufen ausgesonderte Bibliotheksmedien zum Schn\u00e4ppchenpreis. Der Erl\u00f6s kommt unserem F\u00f6rderverein zugute.</p> <p>26.09.2026 | 10:00 Uhr - 14:00 Uhr | im Tietz-Foyer</p> <p>Wir freuen uns auf Euren Besuch!</p>  <p>N\u00e4chster Termin: 14.11.2026.</p>   ",
+            "organizer": "",
+            "location": "",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Buchverkauf_1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-26",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "14:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/buchverkauf"
+        },
+        {
             "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG) - auch f\u00fcr Kinder",
             "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 7 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Abenteuer im M\u00e4rchenwald (Deutsch, ab 7 Jahre)&nbsp;<br />* \"Das Badehaus\", basierend auf den Regeln von Hamster mit Gitarren (Deutsch, ab 14 Jahre)&nbsp;<br />* Honey Heist (ihr spielt B\u00e4ren... Deutsch, ab 8 Jahre)&nbsp;<br />* ...</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -2169,6 +2193,30 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/digitale-barrieren-und-wie-wir-sie-ueberwinden"
+        },
+        {
+            "title": "Buchverkauf",
+            "description": "<p>Es ist wieder Zeit f\u00fcr den Buchverkauf! Wir verkaufen ausgesonderte Bibliotheksmedien zum Schn\u00e4ppchenpreis. Der Erl\u00f6s kommt unserem F\u00f6rderverein zugute.</p> <p>14.11.2026 | 10:00 Uhr - 14:00 Uhr | im Tietz-Foyer</p> <p>Wir freuen uns auf Euren Besuch!</p>   ",
+            "organizer": "",
+            "location": "",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Buchverkauf_1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-14",
+                    "date_to": "2026-11-14",
+                    "time_from": "10:00",
+                    "time_to": "14:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/buchverkauf-1"
         },
         {
             "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG)",
