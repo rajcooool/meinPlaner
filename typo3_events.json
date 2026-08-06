@@ -1,30 +1,6 @@
 {
     "events": [
         {
-            "title": "Auf den Spuren der Fr\u00f6sche Teil II",
-            "description": "<p>Ort: Zentralbibliothek, Treffpunkt Eingang 3. Etage</p> <p><i>Eintritt: frei</i></p> <p>Die Aufnahmen aus dem Vivarium nutzen wir in der Stadtbibliothek, um ein eigenes kleines H\u00f6rspiel zum Thema \u201eFr\u00f6sche\u201c zu gestalten. So verbinden wir Naturerlebnis mit Kreativit\u00e4t und Medienarbeit!</p> <p>Empfohlen ab 8 Jahren, max. 10 Kinder, Begleitpersonen sind willkommen</p>",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Foto_22_Fr\u00f6sche.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-05",
-                    "date_to": "",
-                    "time_from": "11:00",
-                    "time_to": "14:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-den-spuren-der-froesche-teil-ii"
-        },
-        {
             "title": "Taucht ein in eure Lieblingsgeschichte!",
             "description": "<p class=\"text-justify\">Kommt vorbei zu einem gem\u00fctlichen Lesevormittag mit Bilderbuchkino! Bringt einfach euer eigenes Lieblingsbuch von zu Hause mit oder st\u00f6bert in Ruhe durch die Regale und sucht euch ein Buch aus unserer Kinderbibliothek aus. Wir machen es uns gem\u00fctlich und lesen gemeinsam.</p> <p>Au\u00dferdem k\u00f6nnt ihr eurer Kreativit\u00e4t freien Lauf lassen: Wir basteln zusammen coole Lesezeichen, damit ihr immer wisst, auf welcher Seite euer n\u00e4chstes Lese-Abenteuer weitergeht!</p> <p>Empfohlen von 5 bis 10 Jahre</p> <p>Keine Anmeldung erforderlich</p> <p><i>Eintritt frei</i></p>",
             "organizer": "",
