@@ -1,30 +1,6 @@
 {
     "events": [
         {
-            "title": "Gitarrentage 2026 - Er\u00f6ffnungskonzert",
-            "description": "<p>Die St\u00e4dtische Musikschule und ihr F\u00f6rderverein laden herzlich zu den diesj\u00e4hrigen Gitarrentagen vom 09. bis 15. August ein. In dieser Woche erwartet die G\u00e4ste ein abwechslungsreiches Programm mit virtuosen Konzerten und inspirierenden Kursen.&nbsp;</p> <p>Den Auftakt bildet das Er\u00f6ffnungskonzert am 09. August um 14:30 Uhr mit dem Duo Anastasia und Philippe Villa aus Frankreich. Die beiden Gastdozenten leiten bei den Gitarrentagen die Meisterkurse f\u00fcr klassische Gitarre.</p> <p>Der Eintritt ist frei, Sie sind herzlich zu diesem besonderen Opening der Workshop-Woche eingeladen!</p>",
-            "organizer": "",
-            "location": "Konzertsaal/ St\u00e4dtische Musikschule Chemnitz",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Gitarrentage_Plakat.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-09",
-                    "date_to": "",
-                    "time_from": "14:30",
-                    "time_to": "16:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/gitarrentage-2026"
-        },
-        {
             "title": "Gitarrentage 2026 - Meisterkurse vom 10. bis 14. August",
             "description": "<p>Die St\u00e4dtische Musikschule und ihr F\u00f6rderverein laden herzlich zu den diesj\u00e4hrigen Gitarrentagen vom 09. bis 15. August ein. In dieser Woche erwartet die G\u00e4ste ein abwechslungsreiches Programm mit virtuosen Konzerten und inspirierenden Kursen.&nbsp;</p> <p>Die Gastdozent:innen Philippe und Anastasia Villa leiten von Montag (10.08.) bis Freitag (14.08.) die Meisterkurse f\u00fcr klassische Gitarre. Diese finden t\u00e4glich vormittags jeweils 45 Minuten statt. Es wird sowohl ein Meisterkurs f\u00fcr Solo-Gitarre als auch f\u00fcr Gitarre Duo/Trio/Quartett angeboten. Der Solo-Meisterkurs kostet f\u00fcr 5x45 Minuten 100,00 \u20ac, der Ensemble-Meisterkurs f\u00fcr 5x45 Minuten 75,00 \u20ac.&nbsp;</p> <p>Neben klassischer Gitarre gibt es zudem einen Meisterkurs f\u00fcr Flamenco-Gitarre, geleitet von Martin Schmieder aus Leipzig. Dieser Meisterkurs findet am Freitag, den 14.08. 11:00 bis 13:00 Uhr statt und kostet 40,00 \u20ac Teilnahmegeb\u00fchr.&nbsp;<br />Zus\u00e4tzlich kann ein Workshop f\u00fcr Gitarrenorchester bzw. Kinderzupforchester belegt werden. T\u00e4glich findet der Workshop vom 10. bis 14. August ab 16:00 Uhr statt. F\u00fcr Teilnehmer:innen der Meisterkurse ist die Belegung des Workshops kostenlos, f\u00fcr alle anderen betr\u00e4gt die Teilnahmegeb\u00fchr am Workshop f\u00fcr die gesamte Woche 25,00 \u20ac.</p> <p><strong>Teilnahme/Anmeldung: </strong>F\u00fcr das Kursangebot wird um Anmeldung bis <strong>sp\u00e4t. 28. Juni</strong> gebeten bei Stefan Scherf: <a href=\"mailto:stefanscherfgit@me.com\">stefanscherfgit@me.com</a> oder +49 151 53071298</p>  <p><a class=\"cc_download\" href=\"t3://file?uid=4295\" target=\"_blank\">FLYER mit allen Informationen im \u00dcberblick&nbsp;</a></p>",
             "organizer": "",
@@ -241,7 +217,7 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/leseclub-zusammen-liest-man-weniger-allein-1"
         },
         {
-            "title": "Ferienangebot: Lern-Roboter programmieren",
+            "title": "Ferienangebot: Lern-Roboter programmieren (ausgebucht!)",
             "description": "<p>In dieser Veranstaltung lernen die Kinder, wie man die Lernroboter Bee-Bot, Dash und Ozobot programmiert und steuert. Dabei k\u00f6nnen die Roboter an verschiedenen Stationen spielerisch ausprobiert werden.</p>  <p>Termin: 12.08.2026, 14 bis 16 Uhr</p> <p>Ort: Bibliothek im TIETZ / BibliotheksLabor</p> <p>Alter: 7-10 Jahre</p> <p>Teilnehmer: max. 12 Kinder</p> <p>Anmeldung (bis 10.08.26 - 12 Uhr) erbeten unter:</p> <p>kostenfrei</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, BibLab-C",
