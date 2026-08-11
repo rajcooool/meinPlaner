@@ -25,8 +25,8 @@
             "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/gitarrentage-2026-meisterkurse"
         },
         {
-            "title": "Ferienangebot: Gestalte dein digitales Buch! (ausgebucht)",
-            "description": "<p>Nach einer Einf\u00fchrung in die App \u201cBook Creator\u201d und der Themenfindung, k\u00f6nnt ihr selbst verschiedene Elemente erstellen (Text, Fotos, Sounds, Grafiken\u2026) und bearbeiten. Am Ende entsteht ein digitales Buch, welches ihr dann zu Hause pr\u00e4sentieren k\u00f6nnt. <strong>(Veranstaltung ist ausgebucht!)</strong></p> <p><strong>Wann?</strong></p> <p>11.08.2026 (13-16 Uhr)</p> <p><strong>Wo?</strong></p> <p>Zentralbibliothek im TIETZ/ BibliotheksLabor</p> <p><strong>Wer?</strong></p> <p>empfohlen von 9 bis 12 Jahren</p> <p><strong>Wie?</strong></p> <p>kostenfrei, mit Anmeldung</p>",
+            "title": "Ferienangebot: Gestalte dein digitales Buch!",
+            "description": "<p>Nach einer Einf\u00fchrung in die App \u201cBook Creator\u201d und der Themenfindung, k\u00f6nnt ihr selbst verschiedene Elemente erstellen (Text, Fotos, Sounds, Grafiken\u2026) und bearbeiten. Am Ende entsteht ein digitales Buch, welches ihr dann zu Hause pr\u00e4sentieren k\u00f6nnt.&nbsp;</p> <p><strong>Wann?</strong></p> <p>11.08.2026 (13-16 Uhr)</p> <p><strong>Wo?</strong></p> <p>Zentralbibliothek im TIETZ/ BibliotheksLabor</p> <p><strong>Wer?</strong></p> <p>empfohlen von 9 bis 12 Jahren</p> <p><strong>Wie?</strong></p> <p>kostenfrei, mit Anmeldung</p>",
             "organizer": "",
             "location": "",
             "room": "",
@@ -169,30 +169,6 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-3"
         },
         {
-            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
-            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-11",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-7"
-        },
-        {
             "title": "Leseclub \u2013 zusammen liest man weniger allein",
             "description": "<p>Wir sprechen gemeinsam \u00fcber B\u00fccher die uns aktuell beindruckt und inspiriert haben. Leserinnen und Leser, welche ihre Lekt\u00fcreerlebnisse gern mit anderen teilen und diskutieren m\u00f6chten, sind herzlich willkommen. Eintritt: frei</p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -217,7 +193,7 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/leseclub-zusammen-liest-man-weniger-allein-1"
         },
         {
-            "title": "Ferienangebot: Lern-Roboter programmieren (ausgebucht!)",
+            "title": "Ferienangebot: Lern-Roboter programmieren",
             "description": "<p>In dieser Veranstaltung lernen die Kinder, wie man die Lernroboter Bee-Bot, Dash und Ozobot programmiert und steuert. Dabei k\u00f6nnen die Roboter an verschiedenen Stationen spielerisch ausprobiert werden.</p>  <p>Termin: 12.08.2026, 14 bis 16 Uhr</p> <p>Ort: Bibliothek im TIETZ / BibliotheksLabor</p> <p>Alter: 7-10 Jahre</p> <p>Teilnehmer: max. 12 Kinder</p> <p>Anmeldung (bis 10.08.26 - 12 Uhr) erbeten unter:</p> <p>kostenfrei</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, BibLab-C",
@@ -945,6 +921,54 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lesezeit-zusammen-liest-man-weniger-allein-1"
         },
         {
+            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
+            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-01",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "18:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-2-1"
+        },
+        {
+            "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
+            "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.31_Lerntisch_c_SBC.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-01",
+                    "date_to": "",
+                    "time_from": "13:00",
+                    "time_to": "15:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-2"
+        },
+        {
             "title": "Daniel Haas: Einsamkeit. Eine Befreiungsgeschichte",
             "description": "<p>Ort: TIETZ, Veranstaltungssaal</p> <p><i>Eintritt: frei</i></p> <p>Der Spiegel-Kolumnist Daniel Haas verarbeitet im Buch seine pers\u00f6nlichen Erfahrungen mit Isolation und famili\u00e4ren Pr\u00e4gungen. Nach dem Suizid seiner Eltern und einem Burn-out begibt er sich auf eine ehrliche, poetische Suche nach den Wurzeln der Einsamkeit.&nbsp;</p> <p>Eine Veranstaltung in Kooperation mit dem Evangelischen Forum Chemnitz</p>",
             "organizer": "",
@@ -969,6 +993,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lesung-daniel-haas-einsamkeit-eine-befreiungsgeschichte"
         },
         {
+            "title": "Sprechstunde digitale Angebote und E-Books",
+            "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Sprechstunde3.png",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-03",
+                    "date_to": "",
+                    "time_from": "14:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1"
+        },
+        {
             "title": "BibLab: Freifunk Sprechstunde",
             "description": "<p>Der Freifunk Chemnitz e.V. trifft sich inmitten einer seiner gr\u00f6\u00dften Installationen und zeigt in gem\u00fctlichem Umfeld, was mit WLAN heute alles machbar ist.</p> <p>Vom einfachen Router, den man sich ans Fenster stellt bis zur komplexen Veranstaltungsplanung k\u00f6nnt ihr mit entsprechenden Fragen vorbeikommen oder gemeinsam mit uns euren ersten eigenen Freifunk-Router einrichten.<br /><br />Zielgruppe: Technikinteressierte und Veranstaltungsplaner:innen<br />Veranstalter: Freifunk Chemnitz e.V.<br /><br />kostenfrei, ohne Anmeldung</p>",
             "organizer": "BibLab-C Projektnetzwerk",
@@ -991,6 +1039,34 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-freifunk-sprechstunde-tietz-edition-1-3-1-5"
+        },
+        {
+            "title": "Sprachcaf\u00e9",
+            "description": "<p>Sprachcaf\u00e9 in der Stadtbibliothek \u2013 Sprachen lernen in entspannter Atmosph\u00e4re. Lockere Unterhaltung mit deutschen Muttersprachlern. Jede/r ist willkommen: Vorbeikommen, Kontakte kn\u00fcpfen, Erfahrungen austauschen, Sprechen \u00fcben oder einfach nur zuh\u00f6ren. Ohne Druck \u2013 daf\u00fcr Tee, Pl\u00e4tzchen und nette Leute. Egal welches Sprachniveau du hast, wir freuen uns, dich kennenzulernen.</p> <p><i>Eintritt: frei</i></p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe-playmobil-pixabay.jpg",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe_HP.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-07",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/sprachencafe-1"
         },
         {
             "title": "Verbotene B\u00fccher in der DDR",
@@ -1065,6 +1141,54 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-einfuehrung-audiostudio-2-3-4-2"
         },
         {
+            "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
+            "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.31_Lerntisch_c_SBC.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-08",
+                    "date_to": "",
+                    "time_from": "13:00",
+                    "time_to": "15:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-3"
+        },
+        {
+            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
+            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-08",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "18:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-2"
+        },
+        {
             "title": "Die Shoah und die DDR. Akteure und Aushandlungen im Antifaschismus",
             "description": "<p>Buchvorstellung mit Alexander Walther | Moderation: Daniela Schmohl&nbsp;</p> <p>Ort: TIETZ, Veranstaltungssaal</p> <p><i>Eintritt: frei</i></p> <p>Welche Rolle spielten j\u00fcdische \u00dcberlebende in der DDR in der kulturellen Auseinander-setzung mit der Shoah und dem Nationalsozialismus? Wie konnten j\u00fcdische Verfolgungserfahrungen und antifaschistische \u00dcberzeugungen angesichts eines staatlich forcierten Antifaschismus verhandelt und artikuliert werden?&nbsp;</p> <p>Eine gemeinsame Veranstaltung mit der Rosa Luxemburg Stiftung Sachsen.&nbsp;</p> <p>Diese Ma\u00dfnahme wird mitfinanziert durch Steuermittel auf der Grundlage des vom S\u00e4chsischen Landtag beschlossenen Haushaltes.</p>    ",
             "organizer": "",
@@ -1087,6 +1211,30 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/die-shoah-und-die-ddr-akteure-und-aushandlungen-im-antifaschismus"
+        },
+        {
+            "title": "Sprechstunde digitale Angebote und E-Books",
+            "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Sprechstunde5.png",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-10",
+                    "date_to": "",
+                    "time_from": "14:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1-1"
         },
         {
             "title": "Gaming Arena: Let's play \u2013 Zocken in der Bibo",
@@ -1163,6 +1311,78 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/smartphone-sprechstunde-fuer-senioren-1-1"
+        },
+        {
+            "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
+            "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.31_Lerntisch_c_SBC.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-15",
+                    "date_to": "",
+                    "time_from": "13:00",
+                    "time_to": "15:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-5"
+        },
+        {
+            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
+            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-15",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "18:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-3"
+        },
+        {
+            "title": "Sprechstunde digitale Angebote und E-Books",
+            "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Sprechstunde_gif.gif",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-17",
+                    "date_to": "",
+                    "time_from": "14:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1-2-1"
         },
         {
             "title": "K\u00fcnstliche Intelligenz einfach erkl\u00e4rt",
@@ -1275,6 +1495,54 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/boris-von-heesen-mann-am-steuer"
         },
         {
+            "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
+            "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.31_Lerntisch_c_SBC.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-22",
+                    "date_to": "",
+                    "time_from": "13:00",
+                    "time_to": "15:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-6"
+        },
+        {
+            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
+            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-22",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "18:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-7"
+        },
+        {
             "title": "Carmen Rohrbach: Jakobsweg \u2013 Wandern auf dem Himmelspfad",
             "description": "<p>Ort: Stadtteilbibliothek im Yorck-Center</p> <p><i>Eintritt: 5 \u20ac, erm\u00e4\u00dfigt 3 \u20ac</i></p> <p>Lange vor dem heutigen Pilgerboom machte sich Carmen Rohrbach in den 1980er-Jahren auf den Jakobsweg \u2013 von St.-Jean-Pied-de-Port bis nach Finisterre. Damals gab es kaum Wegmarkierungen und Pilgerherbergen waren rar, und nur wenige wagten sich auf die Route. Sie durchquerte eine urspr\u00fcngliche, landwirtschaftlich gepr\u00e4gte Gegend,&nbsp;</p> <p>fast allein auf weiter Flur. Ein eindrucksvoller Reisebericht und ein beliebter Klassiker der Pilgerliteratur.</p>",
             "organizer": "",
@@ -1321,6 +1589,30 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/wo-die-toten-sprechen"
+        },
+        {
+            "title": "Sprechstunde digitale Angebote und E-Books",
+            "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Sprechstunde_gif.gif",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-24",
+                    "date_to": "",
+                    "time_from": "14:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1-2"
         },
         {
             "title": "GamingArena: Let's play \u2013 Zocken in der Bibo",
@@ -1441,6 +1733,30 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/pen-paper-rollenspieletreff-einfuehrung-1-2"
+        },
+        {
+            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
+            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-29",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "18:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-6"
         },
         {
             "title": "BibLab: Freifunk Sprechstunde",
@@ -1609,6 +1925,54 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/smartphone-einstiegshilfe-teil1-1"
+        },
+        {
+            "title": "Einf\u00fchrung/ F\u00fchrerschein 3D-Drucker",
+            "description": "<p>Wie funktioniert ein 3D-Drucker? Wo finde ich nutzbare Modelle? Was muss ich einstellen?<br />Wir zeigen Ihnen, wie sie den 3D-Drucker und die Software PursaSlicer bedienen. Die Einf\u00fchrung dauert circa 2 Stunden und ist kostenfrei.</p> <p>Danach erhalten Sie einen F\u00fchrerschein und k\u00f6nnen die Technik selbstst\u00e4ndig nutzen.</p> <p>M\u00f6chten Sie sich schon vorab mit 3D-Drucken besch\u00e4ftigen? Dann st\u00f6bern Sie doch mal in unseren Medien zu 3D-Druck oder besuchen Sie den Kurs \u201e3D-Druck \u2013Grundlagen\u201c auf unserem E-Learning-Portal.</p>  <p>Zielgruppe: <strong>Einf\u00fchrungsveranstaltung f\u00fcr Erwachsene und Kinder ab 12 Jahren in Begleitung eines Erwachsenen</strong></p> <p><i>kostenfrei, mit Anmeldung</i></p>  <p>Die Termine:<br />&nbsp;| 22.10. | 15 bis 17 Uhr<br /><br />Ort: TIETZ, Zentralbibliothek, BibLab-C, MakerBereich</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/1695049139058.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-22",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1-3"
+        },
+        {
+            "title": "Einf\u00fchrung/ F\u00fchrerschein 3D-Drucker",
+            "description": "<p>Wie funktioniert ein 3D-Drucker? Wo finde ich nutzbare Modelle? Was muss ich einstellen?<br />Wir zeigen Ihnen, wie sie den 3D-Drucker und die Software PursaSlicer bedienen. Die Einf\u00fchrung dauert circa 2 Stunden und ist kostenfrei.</p> <p>Danach erhalten Sie einen F\u00fchrerschein und k\u00f6nnen die Technik selbstst\u00e4ndig nutzen.</p> <p>M\u00f6chten Sie sich schon vorab mit 3D-Drucken besch\u00e4ftigen? Dann st\u00f6bern Sie doch mal in unseren Medien zu 3D-Druck oder besuchen Sie den Kurs \u201e3D-Druck \u2013Grundlagen\u201c auf unserem E-Learning-Portal.</p>  <p>Zielgruppe: <strong>Einf\u00fchrungsveranstaltung f\u00fcr Erwachsene und Kinder ab 12 Jahren in Begleitung eines Erwachsenen</strong></p> <p><i>kostenfrei, mit Anmeldung</i></p>  <p>Die Termine:<br />&nbsp;| 22.10. | 15 bis 17 Uhr<br /><br />Ort: TIETZ, Zentralbibliothek, BibLab-C, MakerBereich</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/1695049139058.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-22",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1-2"
         },
         {
             "title": "Einf\u00fchrung/ F\u00fchrerschein 3D-Drucker",
