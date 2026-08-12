@@ -1,6 +1,30 @@
 {
     "events": [
         {
+            "title": "Kaleidoskopkonzert",
+            "description": "<p>Wir laden Sie herzlich in die St\u00e4dtische Musikschule Chemnitz ein!</p> <p>Es musizieren P\u00e4dagogen und G\u00e4ste der St\u00e4dtischen Musikschule Chemnitz.</p>",
+            "organizer": "",
+            "location": "Konzertsaal/St\u00e4dtische Musikschule Chemnitz",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Kaleidoskopkonzert_2026.png",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2025-09-27",
+                    "date_to": "2026-09-27",
+                    "time_from": "11:00",
+                    "time_to": "12:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/kaleidoskopkonzert-1"
+        },
+        {
             "title": "Gitarrentage 2026 - Meisterkurse vom 10. bis 14. August",
             "description": "<p>Die St\u00e4dtische Musikschule und ihr F\u00f6rderverein laden herzlich zu den diesj\u00e4hrigen Gitarrentagen vom 09. bis 15. August ein. In dieser Woche erwartet die G\u00e4ste ein abwechslungsreiches Programm mit virtuosen Konzerten und inspirierenden Kursen.&nbsp;</p> <p>Die Gastdozent:innen Philippe und Anastasia Villa leiten von Montag (10.08.) bis Freitag (14.08.) die Meisterkurse f\u00fcr klassische Gitarre. Diese finden t\u00e4glich vormittags jeweils 45 Minuten statt. Es wird sowohl ein Meisterkurs f\u00fcr Solo-Gitarre als auch f\u00fcr Gitarre Duo/Trio/Quartett angeboten. Der Solo-Meisterkurs kostet f\u00fcr 5x45 Minuten 100,00 \u20ac, der Ensemble-Meisterkurs f\u00fcr 5x45 Minuten 75,00 \u20ac.&nbsp;</p> <p>Neben klassischer Gitarre gibt es zudem einen Meisterkurs f\u00fcr Flamenco-Gitarre, geleitet von Martin Schmieder aus Leipzig. Dieser Meisterkurs findet am Freitag, den 14.08. 11:00 bis 13:00 Uhr statt und kostet 40,00 \u20ac Teilnahmegeb\u00fchr.&nbsp;<br />Zus\u00e4tzlich kann ein Workshop f\u00fcr Gitarrenorchester bzw. Kinderzupforchester belegt werden. T\u00e4glich findet der Workshop vom 10. bis 14. August ab 16:00 Uhr statt. F\u00fcr Teilnehmer:innen der Meisterkurse ist die Belegung des Workshops kostenlos, f\u00fcr alle anderen betr\u00e4gt die Teilnahmegeb\u00fchr am Workshop f\u00fcr die gesamte Woche 25,00 \u20ac.</p> <p><strong>Teilnahme/Anmeldung: </strong>F\u00fcr das Kursangebot wird um Anmeldung bis <strong>sp\u00e4t. 28. Juni</strong> gebeten bei Stefan Scherf: <a href=\"mailto:stefanscherfgit@me.com\">stefanscherfgit@me.com</a> oder +49 151 53071298</p>  <p><a class=\"cc_download\" href=\"t3://file?uid=4295\" target=\"_blank\">FLYER mit allen Informationen im \u00dcberblick&nbsp;</a></p>",
             "organizer": "",
@@ -23,150 +47,6 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/gitarrentage-2026-meisterkurse"
-        },
-        {
-            "title": "Ferienangebot: Gestalte dein digitales Buch!",
-            "description": "<p>Nach einer Einf\u00fchrung in die App \u201cBook Creator\u201d und der Themenfindung, k\u00f6nnt ihr selbst verschiedene Elemente erstellen (Text, Fotos, Sounds, Grafiken\u2026) und bearbeiten. Am Ende entsteht ein digitales Buch, welches ihr dann zu Hause pr\u00e4sentieren k\u00f6nnt.&nbsp;</p> <p><strong>Wann?</strong></p> <p>11.08.2026 (13-16 Uhr)</p> <p><strong>Wo?</strong></p> <p>Zentralbibliothek im TIETZ/ BibliotheksLabor</p> <p><strong>Wer?</strong></p> <p>empfohlen von 9 bis 12 Jahren</p> <p><strong>Wie?</strong></p> <p>kostenfrei, mit Anmeldung</p>",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/11_Book_Creator_940x440.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-11",
-                    "date_to": "",
-                    "time_from": "13:00",
-                    "time_to": "16:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/gestalte-dein-digitales-buch"
-        },
-        {
-            "title": "Vorlesehund Kanu stellt sich vor",
-            "description": "<p>Mit tierischer Unterst\u00fctzung auf zu neuen Leseabenteuern.</p> <p>Empfohlen ab 6 bis 10 Jahren</p> <p>Ort: Stadtteilbibliothek im Vita-Center&nbsp;</p> <p>Eintritt: frei</p>   ",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Foto_21_SBC_Lesehund_Kanu.png",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-11",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/vorlesehund-kanu-stellt-sich-vor"
-        },
-        {
-            "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
-            "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Refugees.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-11",
-                    "date_to": "",
-                    "time_from": "13:00",
-                    "time_to": "15:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-6-1"
-        },
-        {
-            "title": "Auf leisen Sohlen... in Einsiedel",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Stadtteilbibliothek Einsiedel",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Einsiedel.JPG",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-11",
-                    "date_to": "",
-                    "time_from": "16:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-8-3-3"
-        },
-        {
-            "title": "Auf leisen Sohlen\u2026 im TIETZ",
-            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-11",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-1-8-7-5-1"
-        },
-        {
-            "title": "Auf leisen Sohlen... im Yorck",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Stadtteilbibliothek im Yorckgebiet",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Yorck.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-11",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-3"
         },
         {
             "title": "Leseclub \u2013 zusammen liest man weniger allein",
@@ -193,7 +73,7 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/leseclub-zusammen-liest-man-weniger-allein-1"
         },
         {
-            "title": "Ferienangebot: Lern-Roboter programmieren",
+            "title": "Ferienangebot: Lern-Roboter programmieren (ausgebucht!)",
             "description": "<p>In dieser Veranstaltung lernen die Kinder, wie man die Lernroboter Bee-Bot, Dash und Ozobot programmiert und steuert. Dabei k\u00f6nnen die Roboter an verschiedenen Stationen spielerisch ausprobiert werden.</p>  <p>Termin: 12.08.2026, 14 bis 16 Uhr</p> <p>Ort: Bibliothek im TIETZ / BibliotheksLabor</p> <p>Alter: 7-10 Jahre</p> <p>Teilnehmer: max. 12 Kinder</p> <p>Anmeldung (bis 10.08.26 - 12 Uhr) erbeten unter:</p> <p>kostenfrei</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, BibLab-C",
@@ -280,7 +160,7 @@
             "room": "",
             "images": [
                 {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Gitarrentage_Plakat.jpg",
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/form_definitions_musikschule/Gitarrentage_2026.png",
                     "copyright": ""
                 }
             ],
@@ -328,7 +208,7 @@
             "room": "",
             "images": [
                 {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Gitarrentage_Plakat.jpg",
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/form_definitions_musikschule/Gitarrentage_2026.png",
                     "copyright": ""
                 }
             ],
@@ -1266,7 +1146,7 @@
         },
         {
             "title": "Vorhang auf!",
-            "description": "<p>Du hast Lust, schauspielerische Grundlagen zu erlernen und gemeinsam in einer Gruppe zu improvisieren? Dann bist du bei \u201cVorhang auf!\u201d genau richtig! Am 12. Spetember k\u00f6nnen alle Interessierten ab 8 Jahren von 09:30 Uhr bis 16:30 Uhr an einem Workshop teilnehmen, bei dem im Konzertsaal der St\u00e4dtischen Musikschule gemeinsam Szenen erarbeitet werden. 15:30 Uhr zeigen alle Teilnehmer:innen zum Abschluss die Szenen bei einer \u00f6ffentlichen Pr\u00e4sentation.<br />Die Teilnahme kostet 10,00 \u20ac.</p> <p><strong><u>Anmeldung:&nbsp;</u></strong> &nbsp;&nbsp;&nbsp;bis 07.09.2026 an Katja.kriesel@stadt-chemnitz.de<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hierf\u00fcr bitte das Anmeldeformular unten ausf\u00fcllen.</p> <p><a class=\"cc_download\" href=\"t3://file?uid=4259\" target=\"_blank\">Anmeldeformular (Word beschreibbar)</a><br /><a class=\"cc_download\" href=\"t3://file?uid=4258\" target=\"_blank\">Anmeldeformular (PDF zum Eincannen)</a></p>  ",
+            "description": "<p>Du hast Lust, schauspielerische Grundlagen zu erlernen und gemeinsam in einer Gruppe zu improvisieren? Dann bist du bei \u201cVorhang auf!\u201d genau richtig! Am 12. September k\u00f6nnen alle Interessierten ab 8 Jahren von 09:30 Uhr bis 16:30 Uhr an einem Workshop teilnehmen, bei dem im Konzertsaal der St\u00e4dtischen Musikschule gemeinsam Szenen erarbeitet werden. 15:30 Uhr zeigen alle Teilnehmer:innen zum Abschluss die Szenen bei einer \u00f6ffentlichen Pr\u00e4sentation.<br />Die Teilnahme kostet 10,00 \u20ac.</p> <p><strong><u>Anmeldung:&nbsp;</u></strong> &nbsp;&nbsp;&nbsp;bis 07.09.2026 an katja.kriesel@stadt-chemnitz.de<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hierf\u00fcr bitte das Anmeldeformular unten ausf\u00fcllen.</p> <p><a class=\"cc_download\" href=\"t3://file?uid=4259\" target=\"_blank\">Anmeldeformular (Word beschreibbar)</a><br /><a class=\"cc_download\" href=\"t3://file?uid=4258\" target=\"_blank\">Anmeldeformular (PDF zum Eincannen)</a></p>  ",
             "organizer": "",
             "location": "Konzertsaal/ St\u00e4dtische Musikschule Chemnitz",
             "room": "",
@@ -1433,42 +1313,52 @@
             "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/familienkonzert-kunterbunt"
         },
         {
-            "title": "K\u00e4ferkonzert",
-            "description": "<p>weitere Informationen folgen bald\u2026</p>",
+            "title": "Antonia im Wald",
+            "description": "<p><strong>Taucht ein in einen zauberhaften Herbsttag im Wald!&nbsp;</strong></p> <p>Gemeinsam mit der K\u00e4ferdame Antonia erlebt ihr eine Welt voller faszinierender Kl\u00e4nge, interessanter Tiere und geheimnisvoller Begegnungen. Darsteller, Instrumentalisten, Kinderchor und Ballett der St\u00e4dtischen Musikschule Chemnitz gestalten f\u00fcr euch ein stimmungsvolles, musikalisches Erlebnis f\u00fcr Gro\u00df und Klein \u2013 zum Zuh\u00f6ren, Staunen und Tr\u00e4umen.</p> <p>Es finden am 19.09. zwei Vorstellungen im Konzertsaal statt: 9:30Uhr und 11:00Uhr.</p> <p>Karten k\u00f6nnen an der <strong>Tageskasse </strong>oder im <strong>Vorverkauf </strong>in der Verwaltung zu unseren Sprechzeiten erworben werden oder nach individueller Terminvereinbarung per Mail an musikschule@stadt-chemnitz.de.</p> <p><strong>Eintritt:</strong></p> <p>Tageskasse:</p> <p>Erwachsene: 4,00\u20ac</p> <p>Auszubildende, Studierende, Menschen mit Behinderung: 3,00\u20ac</p> <p>Kinder, Sch\u00fcler:innen, Inhaber:innen des CHemnitzpasses: 2,50\u20ac</p> <p>Vorverkauf: 0,50\u20ac reduziert</p>",
             "organizer": "",
-            "location": "Konzertsaal/ St\u00e4dtische Musikschule Chemnitz",
+            "location": "Konzertsaal/St\u00e4dtische Musikschule Chemnitz",
             "room": "",
-            "images": [],
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/form_definitions_musikschule/Plakat_K\u00e4ferkonzert_2026.png",
+                    "copyright": ""
+                }
+            ],
             "dates": [
                 {
                     "date_from": "2026-09-19",
-                    "date_to": "",
-                    "time_from": "11:30",
-                    "time_to": "12:30"
+                    "date_to": "2026-09-19",
+                    "time_from": "11:00",
+                    "time_to": "11:45"
                 }
             ],
             "ticket_url": "",
             "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/kaeferkonzert-3"
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/antonia-im-wald-1"
         },
         {
-            "title": "K\u00e4ferkonzert",
-            "description": "<p>weitere Informationen folgen bald\u2026</p>",
+            "title": "Antonia im Wald",
+            "description": "<p><strong>Taucht ein in einen zauberhaften Herbsttag im Wald!&nbsp;</strong></p> <p>Gemeinsam mit der K\u00e4ferdame Antonia erlebt ihr eine Welt voller faszinierender Kl\u00e4nge, interessanter Tiere und geheimnisvoller Begegnungen. Darsteller, Instrumentalisten, Kinderchor und Ballett der St\u00e4dtischen Musikschule Chemnitz gestalten f\u00fcr euch ein stimmungsvolles, musikalisches Erlebnis f\u00fcr Gro\u00df und Klein \u2013 zum Zuh\u00f6ren, Staunen und Tr\u00e4umen.</p> <p>Es finden am 19.09. zwei Vorstellungen im Konzertsaal statt: 9:30Uhr und 11:00Uhr.</p> <p>Karten k\u00f6nnen an der <strong>Tageskasse </strong>oder im <strong>Vorverkauf </strong>in der Verwaltung zu unseren Sprechzeiten erworben werden oder nach individueller Terminvereinbarung per Mail an musikschule@stadt-chemnitz.de.</p> <p><strong>Eintritt:</strong></p> <p>Tageskasse:</p> <p>Erwachsene: 4,00\u20ac</p> <p>Auszubildende, Studierende, Menschen mit Behinderung: 3,00\u20ac</p> <p>Kinder, Sch\u00fcler:innen, Inhaber:innen des CHemnitzpasses: 2,50\u20ac</p> <p>Vorverkauf: 0,50\u20ac reduziert</p>",
             "organizer": "",
-            "location": "Konzertsaal/ St\u00e4dtische Musikschule Chemnitz",
+            "location": "Konzertsaal/St\u00e4dtische Musikschule Chemnitz",
             "room": "",
-            "images": [],
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/form_definitions_musikschule/Plakat_K\u00e4ferkonzert_2026.png",
+                    "copyright": ""
+                }
+            ],
             "dates": [
                 {
                     "date_from": "2026-09-19",
-                    "date_to": "",
+                    "date_to": "2026-09-19",
                     "time_from": "09:30",
-                    "time_to": "10:30"
+                    "time_to": "10:15"
                 }
             ],
             "ticket_url": "",
             "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/kaeferkonzert-2"
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/antonia-im-wald"
         },
         {
             "title": "Boris von Heesen: Mann am Steuer.",
