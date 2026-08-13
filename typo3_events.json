@@ -49,54 +49,6 @@
             "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/gitarrentage-2026-meisterkurse"
         },
         {
-            "title": "Leseclub \u2013 zusammen liest man weniger allein",
-            "description": "<p>Wir sprechen gemeinsam \u00fcber B\u00fccher die uns aktuell beindruckt und inspiriert haben. Leserinnen und Leser, welche ihre Lekt\u00fcreerlebnisse gern mit anderen teilen und diskutieren m\u00f6chten, sind herzlich willkommen. Eintritt: frei</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Stadtteilbibliothek Vita-Center",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Leseclub-Vita-_c_pixabay.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-12",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "16:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/leseclub-zusammen-liest-man-weniger-allein-1"
-        },
-        {
-            "title": "Ferienangebot: Lern-Roboter programmieren (ausgebucht!)",
-            "description": "<p>In dieser Veranstaltung lernen die Kinder, wie man die Lernroboter Bee-Bot, Dash und Ozobot programmiert und steuert. Dabei k\u00f6nnen die Roboter an verschiedenen Stationen spielerisch ausprobiert werden.</p>  <p>Termin: 12.08.2026, 14 bis 16 Uhr</p> <p>Ort: Bibliothek im TIETZ / BibliotheksLabor</p> <p>Alter: 7-10 Jahre</p> <p>Teilnehmer: max. 12 Kinder</p> <p>Anmeldung (bis 10.08.26 - 12 Uhr) erbeten unter:</p> <p>kostenfrei</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Collage_Roboter.png",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-08-12",
-                    "date_to": "",
-                    "time_from": "14:00",
-                    "time_to": "16:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/ferienangebot-lern-roboter-programmieren"
-        },
-        {
             "title": "Let's play \u2013 Kids' Edition: Auf die Pl\u00e4tze... fertig... los!",
             "description": "<p class=\"Default\">Wir spielen mit euch verschiedene Rennspiele auf unseren Konsolen und lassen im Mario Kart Home Circuit Rennautos durch die Bibo d\u00fcsen.</p> <p>Empfohlen ab 6 Jahren. Anmeldung ist nicht erforderlich.</p> <p><i>kostenfrei</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -801,6 +753,78 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lesezeit-zusammen-liest-man-weniger-allein-1"
         },
         {
+            "title": "Auf leisen Sohlen... in Einsiedel",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek Einsiedel",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Einsiedel.JPG",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-01",
+                    "date_to": "",
+                    "time_from": "16:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-8-3-2"
+        },
+        {
+            "title": "Auf leisen Sohlen... im Yorck",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek im Yorckgebiet",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Yorck.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-01",
+                    "date_to": "",
+                    "time_from": "16:30",
+                    "time_to": "17:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-1"
+        },
+        {
+            "title": "Auf leisen Sohlen\u2026 im TIETZ",
+            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-01",
+                    "date_to": "",
+                    "time_from": "16:30",
+                    "time_to": "17:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-1-8-7-6-1"
+        },
+        {
             "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
             "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -849,6 +873,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-2"
         },
         {
+            "title": "Leseclub \u2013 zusammen liest man weniger allein",
+            "description": "<p>Wir sprechen gemeinsam \u00fcber B\u00fccher die uns aktuell beindruckt und inspiriert haben. Leserinnen und Leser, welche ihre Lekt\u00fcreerlebnisse gern mit anderen teilen und diskutieren m\u00f6chten, sind herzlich willkommen. Eintritt: frei</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Stadtteilbibliothek Vita-Center",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Leseclub-Vita-_c_pixabay.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-02",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/leseclub-zusammen-liest-man-weniger-allein-1"
+        },
+        {
             "title": "Daniel Haas: Einsamkeit. Eine Befreiungsgeschichte",
             "description": "<p>Ort: TIETZ, Veranstaltungssaal</p> <p><i>Eintritt: frei</i></p> <p>Der Spiegel-Kolumnist Daniel Haas verarbeitet im Buch seine pers\u00f6nlichen Erfahrungen mit Isolation und famili\u00e4ren Pr\u00e4gungen. Nach dem Suizid seiner Eltern und einem Burn-out begibt er sich auf eine ehrliche, poetische Suche nach den Wurzeln der Einsamkeit.&nbsp;</p> <p>Eine Veranstaltung in Kooperation mit dem Evangelischen Forum Chemnitz</p>",
             "organizer": "",
@@ -895,6 +943,54 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1"
+        },
+        {
+            "title": "Auf leisen Sohlen\u2026  im TIETZ",
+            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-05",
+                    "date_to": "",
+                    "time_from": "11:00",
+                    "time_to": "12:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-tietz-1"
+        },
+        {
+            "title": "Auf leisen Sohlen\u2026 im Vita",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek Vita-Center",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Kinder.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-05",
+                    "date_to": "",
+                    "time_from": "10:30",
+                    "time_to": "11:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-4"
         },
         {
             "title": "BibLab: Freifunk Sprechstunde",
@@ -1021,6 +1117,54 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-einfuehrung-audiostudio-2-3-4-2"
         },
         {
+            "title": "Auf leisen Sohlen... in Einsiedel",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek Einsiedel",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Einsiedel.JPG",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-08",
+                    "date_to": "",
+                    "time_from": "16:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-8-3-3"
+        },
+        {
+            "title": "Auf leisen Sohlen... im Yorck",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek im Yorckgebiet",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Yorck.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-08",
+                    "date_to": "",
+                    "time_from": "16:30",
+                    "time_to": "17:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-3"
+        },
+        {
             "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
             "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -1043,6 +1187,30 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-3"
+        },
+        {
+            "title": "Auf leisen Sohlen\u2026 im TIETZ",
+            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-08",
+                    "date_to": "",
+                    "time_from": "16:30",
+                    "time_to": "17:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-1-8-7-6"
         },
         {
             "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
@@ -1169,6 +1337,54 @@
             "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/vorhang-auf"
         },
         {
+            "title": "Auf leisen Sohlen\u2026 im Vita",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek Vita-Center",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Kinder.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-12",
+                    "date_to": "",
+                    "time_from": "10:30",
+                    "time_to": "11:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-4-4-1"
+        },
+        {
+            "title": "Auf leisen Sohlen\u2026  im TIETZ",
+            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-12",
+                    "date_to": "",
+                    "time_from": "11:00",
+                    "time_to": "12:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-tietz-1-1-1"
+        },
+        {
             "title": "Smartphone Sprechstunde f\u00fcr Senioren",
             "description": "<p>Sie haben Fragen zu Einstellungen, Apps und Diensten rund um das Smartphone? Dann melden Sie sich zu unserer Sprechstunde an.</p> <p><strong>Wo?</strong></p> <p>Stadtbibliothek im TIETZ/ Lernraum</p> <p><strong>Wann?</strong></p> <p>Di, 15.09. (10-13 Uhr)</p> <p><strong>Wie?</strong></p> <p>Anmeldung erbeten, es gibt zwei Zeitfenster - ab 10 Uhr oder ab 11.30 Uhr, um auf alle Fragen und Probleme einzugehen ist die Teilnehmerzahl begrenzt</p>",
             "organizer": "BibLab-C Projektnetzwerk",
@@ -1193,6 +1409,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/smartphone-sprechstunde-fuer-senioren-1-1"
         },
         {
+            "title": "Auf leisen Sohlen... im Yorck",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek im Yorckgebiet",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Yorck.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-15",
+                    "date_to": "",
+                    "time_from": "16:30",
+                    "time_to": "17:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-5"
+        },
+        {
             "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
             "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -1215,6 +1455,54 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-5"
+        },
+        {
+            "title": "Auf leisen Sohlen... in Einsiedel",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek Einsiedel",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Einsiedel.JPG",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-15",
+                    "date_to": "",
+                    "time_from": "16:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-8-2"
+        },
+        {
+            "title": "Auf leisen Sohlen\u2026 im TIETZ",
+            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-15",
+                    "date_to": "",
+                    "time_from": "16:30",
+                    "time_to": "17:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-tietz"
         },
         {
             "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
@@ -1314,7 +1602,7 @@
         },
         {
             "title": "Antonia im Wald",
-            "description": "<p><strong>Taucht ein in einen zauberhaften Herbsttag im Wald!&nbsp;</strong></p> <p>Gemeinsam mit der K\u00e4ferdame Antonia erlebt ihr eine Welt voller faszinierender Kl\u00e4nge, interessanter Tiere und geheimnisvoller Begegnungen. Darsteller, Instrumentalisten, Kinderchor und Ballett der St\u00e4dtischen Musikschule Chemnitz gestalten f\u00fcr euch ein stimmungsvolles, musikalisches Erlebnis f\u00fcr Gro\u00df und Klein \u2013 zum Zuh\u00f6ren, Staunen und Tr\u00e4umen.</p> <p>Es finden am 19.09. zwei Vorstellungen im Konzertsaal statt: 9:30Uhr und 11:00Uhr.</p> <p>Karten k\u00f6nnen an der <strong>Tageskasse </strong>oder im <strong>Vorverkauf </strong>in der Verwaltung zu unseren Sprechzeiten erworben werden oder nach individueller Terminvereinbarung per Mail an musikschule@stadt-chemnitz.de.</p> <p><strong>Eintritt:</strong></p> <p>Tageskasse:</p> <p>Erwachsene: 4,00\u20ac</p> <p>Auszubildende, Studierende, Menschen mit Behinderung: 3,00\u20ac</p> <p>Kinder, Sch\u00fcler:innen, Inhaber:innen des CHemnitzpasses: 2,50\u20ac</p> <p>Vorverkauf: 0,50\u20ac reduziert</p>",
+            "description": "<p><strong>Taucht ein in einen zauberhaften Herbsttag im Wald!&nbsp;</strong></p> <p>Gemeinsam mit der K\u00e4ferdame Antonia erlebt ihr eine Welt voller faszinierender Kl\u00e4nge, interessanter Tiere und geheimnisvoller Begegnungen. Darsteller, Instrumentalisten, Kinderchor und Ballett der St\u00e4dtischen Musikschule Chemnitz gestalten f\u00fcr euch ein stimmungsvolles, musikalisches Erlebnis f\u00fcr Gro\u00df und Klein \u2013 zum Zuh\u00f6ren, Staunen und Tr\u00e4umen.</p> <p>Es finden am 19.09. zwei Vorstellungen im Konzertsaal statt: 9:30Uhr und 11:00Uhr.</p> <p>Karten k\u00f6nnen an der <strong>Tageskasse </strong>oder ab Montag, 24.08. im <strong>Vorverkauf </strong>in der Verwaltung zu unseren Sprechzeiten erworben werden oder nach individueller Terminvereinbarung per Mail an musikschule@stadt-chemnitz.de.</p> <p><strong>Eintritt:</strong></p> <p>Tageskasse:</p> <p>Erwachsene: 4,00\u20ac</p> <p>Auszubildende, Studierende, Menschen mit Behinderung: 3,00\u20ac</p> <p>Kinder, Sch\u00fcler:innen, Inhaber:innen des CHemnitzpasses: 2,50\u20ac</p> <p>Vorverkauf: 0,50\u20ac reduziert</p>",
             "organizer": "",
             "location": "Konzertsaal/St\u00e4dtische Musikschule Chemnitz",
             "room": "",
@@ -1338,7 +1626,7 @@
         },
         {
             "title": "Antonia im Wald",
-            "description": "<p><strong>Taucht ein in einen zauberhaften Herbsttag im Wald!&nbsp;</strong></p> <p>Gemeinsam mit der K\u00e4ferdame Antonia erlebt ihr eine Welt voller faszinierender Kl\u00e4nge, interessanter Tiere und geheimnisvoller Begegnungen. Darsteller, Instrumentalisten, Kinderchor und Ballett der St\u00e4dtischen Musikschule Chemnitz gestalten f\u00fcr euch ein stimmungsvolles, musikalisches Erlebnis f\u00fcr Gro\u00df und Klein \u2013 zum Zuh\u00f6ren, Staunen und Tr\u00e4umen.</p> <p>Es finden am 19.09. zwei Vorstellungen im Konzertsaal statt: 9:30Uhr und 11:00Uhr.</p> <p>Karten k\u00f6nnen an der <strong>Tageskasse </strong>oder im <strong>Vorverkauf </strong>in der Verwaltung zu unseren Sprechzeiten erworben werden oder nach individueller Terminvereinbarung per Mail an musikschule@stadt-chemnitz.de.</p> <p><strong>Eintritt:</strong></p> <p>Tageskasse:</p> <p>Erwachsene: 4,00\u20ac</p> <p>Auszubildende, Studierende, Menschen mit Behinderung: 3,00\u20ac</p> <p>Kinder, Sch\u00fcler:innen, Inhaber:innen des CHemnitzpasses: 2,50\u20ac</p> <p>Vorverkauf: 0,50\u20ac reduziert</p>",
+            "description": "<p><strong>Taucht ein in einen zauberhaften Herbsttag im Wald!&nbsp;</strong></p> <p>Gemeinsam mit der K\u00e4ferdame Antonia erlebt ihr eine Welt voller faszinierender Kl\u00e4nge, interessanter Tiere und geheimnisvoller Begegnungen. Darsteller, Instrumentalisten, Kinderchor und Ballett der St\u00e4dtischen Musikschule Chemnitz gestalten f\u00fcr euch ein stimmungsvolles, musikalisches Erlebnis f\u00fcr Gro\u00df und Klein \u2013 zum Zuh\u00f6ren, Staunen und Tr\u00e4umen.</p> <p>Es finden am 19.09. zwei Vorstellungen im Konzertsaal statt: 9:30Uhr und 11:00Uhr.</p> <p>Karten k\u00f6nnen an der <strong>Tageskasse </strong>oder ab Montag, 24.08. im <strong>Vorverkauf </strong>in der Verwaltung zu unseren Sprechzeiten erworben werden oder nach individueller Terminvereinbarung per Mail an musikschule@stadt-chemnitz.de.</p> <p><strong>Eintritt:</strong></p> <p>Tageskasse:</p> <p>Erwachsene: 4,00\u20ac</p> <p>Auszubildende, Studierende, Menschen mit Behinderung: 3,00\u20ac</p> <p>Kinder, Sch\u00fcler:innen, Inhaber:innen des CHemnitzpasses: 2,50\u20ac</p> <p>Vorverkauf: 0,50\u20ac reduziert</p>",
             "organizer": "",
             "location": "Konzertsaal/St\u00e4dtische Musikschule Chemnitz",
             "room": "",
@@ -1359,6 +1647,54 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/antonia-im-wald"
+        },
+        {
+            "title": "Auf leisen Sohlen\u2026  im TIETZ",
+            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-19",
+                    "date_to": "",
+                    "time_from": "11:00",
+                    "time_to": "12:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-tietz-1-1-3"
+        },
+        {
+            "title": "Auf leisen Sohlen\u2026 im Vita",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek Vita-Center",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Kinder.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-19",
+                    "date_to": "",
+                    "time_from": "10:30",
+                    "time_to": "11:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-4-4-2"
         },
         {
             "title": "Boris von Heesen: Mann am Steuer.",
@@ -1385,6 +1721,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/boris-von-heesen-mann-am-steuer"
         },
         {
+            "title": "Auf leisen Sohlen\u2026 im TIETZ",
+            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-22",
+                    "date_to": "",
+                    "time_from": "16:30",
+                    "time_to": "17:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-1-8-7-5-1"
+        },
+        {
             "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
             "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -1407,6 +1767,30 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-6"
+        },
+        {
+            "title": "Auf leisen Sohlen... im Yorck",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek im Yorckgebiet",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Yorck.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-22",
+                    "date_to": "",
+                    "time_from": "16:30",
+                    "time_to": "17:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-2"
         },
         {
             "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
@@ -1625,6 +2009,54 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/pen-paper-rollenspieletreff-einfuehrung-1-2"
         },
         {
+            "title": "Auf leisen Sohlen\u2026 im Vita",
+            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek Vita-Center",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Kinder.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-26",
+                    "date_to": "",
+                    "time_from": "10:30",
+                    "time_to": "11:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-4-4-2-1"
+        },
+        {
+            "title": "Auf leisen Sohlen\u2026  im TIETZ",
+            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-26",
+                    "date_to": "",
+                    "time_from": "11:00",
+                    "time_to": "12:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-1-8-7-3-1-1"
+        },
+        {
             "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
             "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -1647,6 +2079,30 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-6"
+        },
+        {
+            "title": "Lesezeit \u2013 zusammen liest man weniger allein ... im Yorck",
+            "description": "<p>Schluss mit einsamer Lekt\u00fcre in den eigenen vier W\u00e4nden! Unsere Vorlesepatin Petra Lory hat wieder interessante B\u00fccher f\u00fcr Erwachsene ausgesucht und liest daraus vor.</p> <p><i>kostenfrei</i></p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Stadtteilbibliothek im Yorckgebiet",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2020/Lesezeit_Erwachsene.JPG",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-30",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "16:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lesezeit-zusammen-liest-man-weniger-allein-im-yorck-1"
         },
         {
             "title": "BibLab: Freifunk Sprechstunde",
