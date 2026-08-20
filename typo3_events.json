@@ -1,30 +1,6 @@
 {
     "events": [
         {
-            "title": "Kaleidoskopkonzert",
-            "description": "<p>Wir laden Sie herzlich in die St\u00e4dtische Musikschule Chemnitz ein!</p> <p>Es musizieren P\u00e4dagogen und G\u00e4ste der St\u00e4dtischen Musikschule Chemnitz.</p>",
-            "organizer": "",
-            "location": "Konzertsaal/St\u00e4dtische Musikschule Chemnitz",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Kaleidoskopkonzert_2026.png",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2025-09-27",
-                    "date_to": "2026-09-27",
-                    "time_from": "11:00",
-                    "time_to": "12:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/kaleidoskopkonzert-1"
-        },
-        {
             "title": "Auf leisen Sohlen\u2026  im TIETZ",
             "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -1735,6 +1711,30 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-1-8-7-3-1-1"
+        },
+        {
+            "title": "Kaleidoskopkonzert",
+            "description": "<p>Der Chemnitzer Musikverein und die St\u00e4dtische Musikschule Chemnitz laden herzlich zum diesj\u00e4hrigen Kaleidoskopkonzert ein \u2013 eine musikalische Reise durch Westeuropa, Arabien und Afrika. Freuen Sie sich auf facettenreiche Kl\u00e4nge von Claude Debussy, Gaspar Cassad\u00f3 und den zeitgen\u00f6ssischen Komponisten Gary Ryan und Ghaith Al Jammal. Au\u00dferdem werden Volkslieder aus Armenien und Tansania sowie spannende Improvisationen zu h\u00f6ren sein. Erleben Sie beeindruckende Darbietungen von Lehrkr\u00e4ften und G\u00e4sten der St\u00e4dtischen Musikschule Chemnitz!</p> <p>Karten an der Tageskasse oder Kartenreservierung unter Chemnitzer Musikverein, K\u00e4the-Kollwitz-Stra\u00dfe 7, 09111 Chemnitz oder <a href=\"mailto:vorstand@chemnitzer-musikverein.de\">vorstand@chemnitzer-musikverein.de</a></p>",
+            "organizer": "",
+            "location": "Konzertsaal/St\u00e4dtische Musikschule Chemnitz",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Kaleidoskopkonzert_2026.png",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-09-27",
+                    "date_to": "2026-09-27",
+                    "time_from": "11:00",
+                    "time_to": "12:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/kaleidoskopkonzert-1"
         },
         {
             "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
