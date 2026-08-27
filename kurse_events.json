@@ -1,46 +1,6 @@
 {
     "events":  [
                    {
-                       "title":  "Migration verstehen -NEU-",
-                       "description":  "Kinder mit Migrationshintergrund sind Alltag in Kitas. Pädagogische Fachkräfte kann dies vor die verschiedensten Herausforderungen stellen. In diesem Seminar nähern Sie sich dem Thema Migration einmal von einer anderen Richtung und versuchen zu verstehen, warum Migration geschieht, dass es sie schon immer gab und welche Auswirkungen sie auf die individuelle Situation des Kitakindes hat. Sie betrachten verschiedene Migrationsanlässe und daraus resultierende Herausforderungen wie Sprachbarrieren und Mehrsprachigkeitserziehung.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.62",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-06-20",
-                                         "date_to":  "2026-06-20",
-                                         "time_to":  "12:45",
-                                         "time_from":  "09:30"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S265B406",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Browser, Suchmaschinen und E-Mail -NEU-",
-                       "description":  "Voraussetzungen: Der Kurs spricht Personen an, die sich weiterführend mit ihrem Smartphone beschäftigen möchten.\r\n\r\nSuchmaschinen sind Programme, mit denen Sie im Internet Antworten auf von Ihnen eingegebene Fragen oder Begriffe erhalten. Die Bekannteste ist Google. Welche alternativen Suchmaschinen gibt es? Wie können Sie diese sinnvoll für Ihre Fragen nutzen? Welche Verbindung besteht zwischen Ihrem E-Mail-Konto bei Google und der gleichnamigen Suchmaschine? In diesem Kurs erfahren Sie Hilfreiches rund um Suchmaschinen, E-Mails und deren Einstellungen – für die sichere und clevere Nutzung.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.62",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-06-23",
-                                         "date_to":  "2026-06-23",
-                                         "time_to":  "18:30",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S265M120",
-                       "ticket_phone":  ""
-                   },
-                   {
                        "title":  "Chemnitz und seine Vorgeschichte",
                        "description":  "Was steckt hinter „Aus wilder Wurzel …“, dem „Wolfsjäger“ und der gefälschten Urkunde von 1143? \r\nIn diesem Vortrag erfahren Sie, wie spannend und überraschend die Chemnitzer Vorzeit wirklich ist. Der Referent nimmt Sie mit auf eine Zeitreise bis zu 291 Millionen Jahre zurück und zeigt, wie Chemnitz auf erdgeschichtlich fruchtbarem Boden entstand. Ein Kurs für alle, die ihre Stadt und ihre Geschichte neu entdecken möchten.",
                        "location":  "TIETZ",
@@ -102,7 +62,7 @@
                    },
                    {
                        "title":  "Mit Angst umgehen und mehr Sicherheit gewinnen",
-                       "description":  "Angst kann Gedanken, Entscheidungen und Beziehungen bestimmen und den eigenen\r\nLebensraum einengen. Je mehr wir Angst vermeiden oder verdrängen, desto größer wird ihr Einfluss. Sie zeigt sich in unterschiedlichen Formen und kann bedrohlich wirken. Ihre Funktion und Bedeutung werden jedoch missverstanden, und sie wird oft als Störung oder als Blockade erlebt. \r\nIn diesem Kurs erfahren Sie, wie ein neuer Blick auf Angst und ein bewusster Umgang helfen können, Schritt für Schritt mehr Sicherheit, Selbstvertrauen und innere Freiheit zu entwickeln.",
+                       "description":  "Angst kann Gedanken, Entscheidungen und Beziehungen bestimmen und den eigenen Lebensraum einengen. Je mehr wir Angst vermeiden oder verdrängen, desto größer wird ihr Einfluss. Sie zeigt sich in unterschiedlichen Formen und kann bedrohlich wirken. Ihre Funktion und Bedeutung werden jedoch missverstanden, und sie wird oft als Störung oder als Blockade erlebt. \r\nIn diesem Kurs erfahren Sie, wie ein neuer Blick auf Angst und ein bewusster Umgang helfen können, Schritt für Schritt mehr Sicherheit, Selbstvertrauen und innere Freiheit zu entwickeln.",
                        "location":  "TIETZ",
                        "room":  "Kursraum 4.20",
                        "organizer":  "",
@@ -142,7 +102,7 @@
                    },
                    {
                        "title":  "Die Kunst des Fermentierens - Grundlagen",
-                       "description":  "Rohes fermentiertes Gemüse ist lebendige Nahrung, die natürliche Enzyme und aktive Milchsäurebakterien enthält. Diese nützlichen Winzlinge schaffen ein gesundes und ausgewogenes Milieu in den Verdauungsorganen und können die Darmflora harmonisieren. Im Kurs entdecken Sie uralte und traditionsreiche Techniken des Fermentierens neu und versehen diese mit einer modernen Note. Sie können vielfältige Rezepte wie Kimchi oder veganen Käse kennenlernen. Der Kurs vermittelt zudem ausgewählte Techniken, um selbst in der Küche aktiv zu werden.",
+                       "description":  "Rohes fermentiertes Gemüse ist lebendige Nahrung, die natürliche Enzyme und aktive Milchsäurebakterien enthält. Diese nützlichen Winzlinge schaffen ein gesundes und ausgewogenes Milieu in den Verdauungsorganen und können die Darmflora harmonisieren. \r\n\r\nIm Kurs entdecken Sie uralte und traditionsreiche Techniken des Fermentierens neu und versehen diese mit einer modernen Note. Sie können vielfältige Rezepte wie Kimchi oder veganen Käse kennenlernen. Der Kurs vermittelt zudem ausgewählte Techniken, um selbst in der Küche aktiv zu werden.",
                        "location":  "TIETZ",
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
@@ -262,7 +222,7 @@
                    },
                    {
                        "title":  "Seelennahrung – Wärme und innere Stabilität",
-                       "description":  "Wenn die Tage lange dunkel sind, wächst das Bedürfnis nach Wärme und Wohligkeit.  Nahrung kann in dieser Zeit mehr sein als bloße Sättigung, sie kann Kraft schenken, Stabilität fördern und von innen stärken. \r\nIn diesem Kurs geht es darum, Lebensmittel als unterstützende Begleiter im Alltag zu entdecken. Sie lernen, wie bestimmte Zutaten das Nervensystem beruhigen, den Blutzucker stabilisieren und zu einem ausgeglichenen Gefühl beitragen können. \r\nGemeinsam kreieren Sie eine cremige Kürbis-Kokos-Suppe mit wärmenden Gewürzen sowie einen sanft gekochten Amaranth mit Birne, geröstetem Sesam und Vanille – weich, mineralstoffreich und bewusst komponiert. \r\nSie erhalten Impulse, wie Sie durch eine stimmige Auswahl von Lebensmitteln mehr innere Ruhe und Stabilität entwickeln können – gerade dann, wenn es draußen kalt, feucht und unruhig ist.",
+                       "description":  "Wenn die Tage lange dunkel sind, wächst das Bedürfnis nach Wärme und Wohligkeit. Nahrung kann in dieser Zeit mehr sein als bloße Sättigung, sie kann Kraft schenken, Stabilität fördern und von innen stärken. \r\nIn diesem Kurs geht es darum, Lebensmittel als unterstützende Begleiter im Alltag zu entdecken. Sie lernen, wie bestimmte Zutaten das Nervensystem beruhigen, den Blutzucker stabilisieren und zu einem ausgeglichenen Gefühl beitragen können. \r\nGemeinsam kreieren Sie eine cremige Kürbis-Kokos-Suppe mit wärmenden Gewürzen sowie einen sanft gekochten Amaranth mit Birne, geröstetem Sesam und Vanille – weich, mineralstoffreich und bewusst komponiert. \r\nSie erhalten Impulse, wie Sie durch eine stimmige Auswahl von Lebensmitteln mehr innere Ruhe und Stabilität entwickeln können – gerade dann, wenn es draußen kalt, feucht und unruhig ist.",
                        "location":  "TIETZ",
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
