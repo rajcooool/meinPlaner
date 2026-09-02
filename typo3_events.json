@@ -1,126 +1,6 @@
 {
     "events": [
         {
-            "title": "Auf leisen Sohlen... in Einsiedel",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Stadtteilbibliothek Einsiedel",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Einsiedel.JPG",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-01",
-                    "date_to": "",
-                    "time_from": "16:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-8-3-2"
-        },
-        {
-            "title": "Auf leisen Sohlen... im Yorck",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Stadtteilbibliothek im Yorckgebiet",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Yorck.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-01",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-1"
-        },
-        {
-            "title": "Auf leisen Sohlen\u2026 im TIETZ",
-            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-01",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-1-8-7-6-1"
-        },
-        {
-            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
-            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-01",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-2-1"
-        },
-        {
-            "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
-            "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.31_Lerntisch_c_SBC.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-01",
-                    "date_to": "",
-                    "time_from": "13:00",
-                    "time_to": "15:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-2"
-        },
-        {
             "title": "Leseclub \u2013 zusammen liest man weniger allein",
             "description": "<p>Wir sprechen gemeinsam \u00fcber B\u00fccher die uns aktuell beindruckt und inspiriert haben. Leserinnen und Leser, welche ihre Lekt\u00fcreerlebnisse gern mit anderen teilen und diskutieren m\u00f6chten, sind herzlich willkommen. Eintritt: frei</p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -1282,7 +1162,7 @@
         },
         {
             "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG) - auch f\u00fcr Kinder",
-            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 7 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Abenteuer im M\u00e4rchenwald (Deutsch, ab 7 Jahre)&nbsp;<br />* \"Das Badehaus\", basierend auf den Regeln von Hamster mit Gitarren (Deutsch, ab 14 Jahre)&nbsp;<br />* Honey Heist (ihr spielt B\u00e4ren... Deutsch, ab 8 Jahre)&nbsp;<br />* ...</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
+            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 7 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Dinner &amp; Dice (Deutsch, ab 14 Jahre)&nbsp;<br />* Fiasco (ENGLISH, 16+ years)&nbsp;<br />* Honey Heist (ihr spielt B\u00e4ren, die einen Bank\u00fcberfall planen... Deutsch, ab 8 Jahre)&nbsp;<br />* Subversion (Deutsch, ab 14 Jahre)&nbsp;<br />* Yokai Hunters Society (ihr spielt Geisterj\u00e4ger in Japan vor 150 Jahren\u2026 Deutsch, ab 8 Jahre)&nbsp;</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, GamingArena/OpenSpace, 3. Etage",
             "room": "",
@@ -1761,6 +1641,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1"
         },
         {
+            "title": "Finsteres Erzgebirge",
+            "description": "<p>Termin: Mittwoch, 28. Oktober 2026, 17 Uhr</p> <p>Ort: Stadtteilbibliothek Einsiedel&nbsp;</p> <p>Eintritt: 5 \u20ac, erm\u00e4\u00dfigt 3 \u20ac</p> <p>Walpurgisnacht in Crottendorf: Beim allj\u00e4hrlichen Hexenfeuer verschwindet ein M\u00e4dchen spurlos. Kurz darauf ist ihr Vater tot. Alles deutet auf eine Familientrag\u00f6die hin, doch dann wird ein weiteres M\u00e4dchen vermisst. W\u00e4hrend sich im Dorf zunehmend die Angst breitmacht, beginnt f\u00fcr Hauptkommissar Alexander Berghaus und seine Kollegin Anne Keller ein gef\u00e4hrlicher Wettlauf gegen die Zeit.</p> <p>Danielle Zinn entf\u00fchrt die Leser in <i>Finsteres Erzgebirge</i> in eine Welt zwischen idyllischem Dorfleben und d\u00fcsteren Geheimnissen. Mit viel Gesp\u00fcr f\u00fcr Spannung und Atmosph\u00e4re l\u00e4sst sie die mystische Landschaft des Erzgebirges lebendig werden. Ein intelligent konstruierter Plot und vielschichtige Charaktere machen diesen Krimi zu einem fesselnden Leseerlebnis.</p> <p>Ein packender Krimi voller Spannung und Mystik</p> <p><strong>Danielle Zinn</strong>, geboren 1986 im Erzgebirge, besitzt eine ausgepr\u00e4gte Leidenschaft f\u00fcr englische Literatur. Ihre ersten Kriminalromane erschienen zuerst in englischer Sprache und haben international ein treues Publikum gefunden. Seit 2023 f\u00fchrt sie die Erzgebirge-Krimis ihres Partners Ren\u00e9 Seidenglanz weiter. Sie hat einen Hochschulabschluss in Wirtschaft und Management des New College Durham/UK. Heute arbeitet sie in Leipzig als Managerin in einer IT-Beratung.</p>",
+            "organizer": "",
+            "location": "",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.36.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-28",
+                    "date_to": "",
+                    "time_from": "17:00",
+                    "time_to": "18:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/finsteres-erzgebirge"
+        },
+        {
             "title": "Pen & Paper Rollenspieletreff (Halloween Special) (DE/EN)",
             "description": "<p>Wir spielen kurz vor Halloween wieder auf Deutsch und auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.<br /><br />Dieses mal werden wir zwei Durchl\u00e4ufe haben. Dabei k\u00f6nnen sich alle ab 8 Jahre den Nachmittagsrunden (14:00 bis 17:30 Uhr) anschlie\u00dfen und abends (18:30 bis 22:00 Uhr) k\u00f6nnen alle Erwachsenen mitspielen.&nbsp;</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von Gewalt, Tod und emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen.&nbsp;</p> <p>Bisher sind folgende Runden best\u00e4tigt:&nbsp;<br /><br />14:00 - 17:30 Uhr:&nbsp;<br />* Little Wizards: Der Zauber der alten Zeit (Deutsch, ab 8 Jahre)&nbsp;<br />* HeXXen 1733 (Deutsch, ab 14 Jahre)&nbsp;<br />* ...&nbsp;<br /><br />18:30 - 22:00 Uhr:&nbsp;<br />* Call of Cthulhu: \"The Dare\" (Deutsch OR English), <i>Triggerwarnung: m\u00f6glicher Kindstod</i>&nbsp;<br />* D&amp;D oder Daggerheart (Deutsch OR English)&nbsp;<br />* Symbaroum (Deutsch OR English)&nbsp;<br />* ...</p> <p>F\u00fcr die Teilnahme bitte unbedingt anmelden, damit wir die Spielleitungen vorab gut planen k\u00f6nnen:<br /><a href=\"https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung\">https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung</a>&nbsp;</p> <p>*** EN **&nbsp;<br />A few nights before Halloween we offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.&nbsp;</p> <p>Minors are excluded from the events after 6:00pm. There will be sessions suitable for children (mostly in German) in the afternoon hours (see above).&nbsp;<br /><br />Trigger warning: The individual roleplaying groups may experience verbal descriptions of violence, death (also of minors) and emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. &nbsp;We are also looking for English speaking players and game hosts. Please write us an e-mail beforehand:<br /><a href=\"mailto:biblab-c@stadtbibliothek-chemnitz.de\">biblab-c@stadtbibliothek-chemnitz.de</a> &nbsp;<br /><br />Please sign up for the sessions. This helps us having enough game hosts available:<br /><a href=\"https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung\">https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung</a>&nbsp;</p> <p>Eintritt: frei / free admission&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -1955,6 +1859,30 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/buchverkauf-1"
+        },
+        {
+            "title": "Chemnitzer Buchsalon",
+            "description": "<p>Termin: Sonntag, 15. November 2026</p> <p>Beginn: 11 Uhr</p> <p>Ort: TIETZ, Stadtbibliothek, Veranstaltungssaal, Moritzstra\u00dfe 20, 09111 Chemnitz</p> <p>Eintritt: frei</p> <p><strong>Literaturforum Bibliothek: Der Buchsalon zur Matinee</strong></p> <p><strong>Drei Kritiker:innen besprechen drei aktuelle B\u00fccher aus Sachsen.</strong></p> <p><strong>Im Anschluss liest Heike Gei\u00dfler&nbsp;aus ihrem neuen Roman \u201eMichaela Kohlhaas\u201c.</strong></p> <p><strong>Auf dem Podium:&nbsp;</strong></p> <ul><li data-list-item-id=\"e8da85b2a2ed9c8070a8a67d94c6f5ac1\"><p style=\"text-autospace:ideograph-numeric;\">Eileen M\u00e4gel, Dresdner Autorin und Lyrikerin, spricht \u00fcber&nbsp;\u201eNach der Sonne schauen\u201c von Ruth Maria Thomas&nbsp;</p></li><li data-list-item-id=\"ebb9c246c823870e67e3421c1c5ffad6f\"><p style=\"text-autospace:ideograph-numeric;\">Angela Malz, langj\u00e4hriges Mitglied des Chemnitzer Literarischen Quintetts, bespricht \u201eStolz und Zweifel\u201c von Marlen Hobrack.</p></li><li data-list-item-id=\"e3da8d25ca8c69895f4a2c0ec322f9fd4\"><p style=\"text-autospace:ideograph-numeric;\">Burkhard M\u00fcller, langj\u00e4hriger Rezensent des Buchsalons und Literaturkritiker,</p></li></ul> <p>Die Veranstaltungsreihe <a class=\"cc_extern\" href=\"https://bibliotheksverband-sachsen.de/literaturforum-bibliothek/\" target=\"_blank\">Literaturforum Bibliothek</a> wird vom S\u00e4chsischen Staatsministerium f\u00fcr Wissenschaft, Kultur und Tourismus gef\u00f6rdert und vom Bibliotheksverband Sachsen organisiert. Das Projekt wird mitfinanziert durch Steuermittel auf der Grundlage des vom S\u00e4chsischen Landtag beschlossenen Haushaltes.&nbsp;</p>",
+            "organizer": "",
+            "location": "",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.17_Geissler_131_c_HeikeSteinweg_SV-klein.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-15",
+                    "date_to": "",
+                    "time_from": "11:00",
+                    "time_to": "13:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/chemnitzer-buchsalon"
         },
         {
             "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG)",
