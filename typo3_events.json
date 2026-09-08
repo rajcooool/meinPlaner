@@ -1,58 +1,6 @@
 {
     "events": [
         {
-            "title": "BibLab: Freifunk Sprechstunde",
-            "description": "<p>Der Freifunk Chemnitz e.V. trifft sich inmitten einer seiner gr\u00f6\u00dften Installationen und zeigt in gem\u00fctlichem Umfeld, was mit WLAN heute alles machbar ist.</p> <p>Vom einfachen Router, den man sich ans Fenster stellt bis zur komplexen Veranstaltungsplanung k\u00f6nnt ihr mit entsprechenden Fragen vorbeikommen oder gemeinsam mit uns euren ersten eigenen Freifunk-Router einrichten.<br /><br />Zielgruppe: Technikinteressierte und Veranstaltungsplaner:innen<br />Veranstalter: Freifunk Chemnitz e.V.<br /><br />kostenfrei, ohne Anmeldung</p>",
-            "organizer": "BibLab-C Projektnetzwerk",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/1717488529154.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-07",
-                    "date_to": "",
-                    "time_from": "16:00",
-                    "time_to": "19:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-freifunk-sprechstunde-tietz-edition-1-3-1-5"
-        },
-        {
-            "title": "Sprachcaf\u00e9",
-            "description": "<p>Sprachcaf\u00e9 in der Stadtbibliothek \u2013 Sprachen lernen in entspannter Atmosph\u00e4re. Lockere Unterhaltung mit deutschen Muttersprachlern. Jede/r ist willkommen: Vorbeikommen, Kontakte kn\u00fcpfen, Erfahrungen austauschen, Sprechen \u00fcben oder einfach nur zuh\u00f6ren. Ohne Druck \u2013 daf\u00fcr Tee, Pl\u00e4tzchen und nette Leute. Egal welches Sprachniveau du hast, wir freuen uns, dich kennenzulernen.</p> <p><i>Eintritt: frei</i></p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe-playmobil-pixabay.jpg",
-                    "copyright": ""
-                },
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe_HP.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-07",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/sprachencafe-1"
-        },
-        {
             "title": "Verbotene B\u00fccher in der DDR",
             "description": "<p>Ort: TIETZ, VHS, Kursraum 4.07&nbsp;</p> <p><i>Eintritt: frei | Anmeldung unter www.vhs-chemnitz.de</i></p> <p>Das DDR-Regime f\u00f6rderte das Lesen und die Lesefreude. Zugleich unterlag jedes gedruckte Wort einer strengen Kontrolle und Zensur. Das Buch \u201e1984\u201c von George Orwell konnte in der DDR lesen, wer einen sogenannten \u201eGiftschein\u201c hatte. Nur in einigen wissenschaftlichen Bibliotheken lagerten Ausgaben in verschlossenen Schr\u00e4nken. Zur \u201eGiftschrankliteratur\u201c geh\u00f6rten auch Comics oder Liebesromane aus dem Westen.</p>  ",
             "organizer": "",
@@ -849,8 +797,8 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-7"
         },
         {
-            "title": "Carmen Rohrbach: Jakobsweg \u2013 Wandern auf dem Himmelspfad",
-            "description": "<p>Ort: Stadtteilbibliothek im Yorck-Center</p> <p><i>Eintritt: 5 \u20ac, erm\u00e4\u00dfigt 3 \u20ac</i></p> <p>Lange vor dem heutigen Pilgerboom machte sich Carmen Rohrbach in den 1980er-Jahren auf den Jakobsweg \u2013 von St.-Jean-Pied-de-Port bis nach Finisterre. Damals gab es kaum Wegmarkierungen und Pilgerherbergen waren rar, und nur wenige wagten sich auf die Route. Sie durchquerte eine urspr\u00fcngliche, landwirtschaftlich gepr\u00e4gte Gegend,&nbsp;</p> <p>fast allein auf weiter Flur. Ein eindrucksvoller Reisebericht und ein beliebter Klassiker der Pilgerliteratur.</p>",
+            "title": "Ausgebucht! Carmen Rohrbach: Jakobsweg \u2013 Wandern auf dem Himmelspfad",
+            "description": "<p><strong>Die Veranstaltung mit Carmen Rohrbach ist ausgebucht! Es werden keine Platzreservierungen mehr angenommen.</strong></p>  <p>Ort: Stadtteilbibliothek im Yorck-Center</p> <p><i>Eintritt: 5 \u20ac, erm\u00e4\u00dfigt 3 \u20ac</i></p> <p>Lange vor dem heutigen Pilgerboom machte sich Carmen Rohrbach in den 1980er-Jahren auf den Jakobsweg \u2013 von St.-Jean-Pied-de-Port bis nach Finisterre. Damals gab es kaum Wegmarkierungen und Pilgerherbergen waren rar, und nur wenige wagten sich auf die Route. Sie durchquerte eine urspr\u00fcngliche, landwirtschaftlich gepr\u00e4gte Gegend,&nbsp;</p> <p>fast allein auf weiter Flur. Ein eindrucksvoller Reisebericht und ein beliebter Klassiker der Pilgerliteratur.</p>",
             "organizer": "",
             "location": "",
             "room": "",
@@ -1257,6 +1205,34 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-freifunk-sprechstunde-tietz-edition-1-3-1-6"
         },
         {
+            "title": "Sprachcaf\u00e9",
+            "description": "<p>Sprachcaf\u00e9 in der Stadtbibliothek \u2013 Sprachen lernen in entspannter Atmosph\u00e4re. Lockere Unterhaltung mit deutschen Muttersprachlern. Jede/r ist willkommen: Vorbeikommen, Kontakte kn\u00fcpfen, Erfahrungen austauschen, Sprechen \u00fcben oder einfach nur zuh\u00f6ren. Ohne Druck \u2013 daf\u00fcr Tee, Pl\u00e4tzchen und nette Leute. Egal welches Sprachniveau du hast, wir freuen uns, dich kennenzulernen.</p> <p><i>Eintritt: frei</i></p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe-playmobil-pixabay.jpg",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe_HP.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-05",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/sprachencafe-1"
+        },
+        {
             "title": "Krimilesung: Moorgold",
             "description": "<p><strong>Ort: </strong>Stadtteilbibliothek Vita-Center</p> <p><strong>Eintritt:</strong> 5 \u20ac, erm\u00e4\u00dfigt 3 \u20ac</p> <p>Nahe der verlassenen Siedlung Pfaffengr\u00fcn im Erzgebirge werden die Gebeine eines seit Jahren vermissten Mannes entdeckt. Bald schon stirbt ein alter Spielmann unter r\u00e4tselhaften Umst\u00e4nden. Kommissarin Annalena Krest \u00fcbernimmt die Ermittlungen. Hauptkommissar Lorenz steht ihr zur Seite. In den nebelverhangenen W\u00e4ldern entlang der deutsch-b\u00f6hmischen Grenze sto\u00dfen sie auf alte Feindschaften, versch\u00fcttete Schuld und auf die Legende eines sagenhaften Schatzes, f\u00fcr den einst gemordet wurde.&nbsp;</p> <p>Anett Steiner wurde 1976 in Annaberg-Buchholz geboren, legte dort ihr Abitur ab und erlernte den Beruf der Orthop\u00e4dietechnikerin, den sie lange aus\u00fcbte. Aktuell ist sie f\u00fcr eine Handelsagentur t\u00e4tig. F\u00fcr ihr literarisches Schreiben wurde sie mehrfach ausgezeichnet, unter anderem 2011 mit dem dritten Platz beim Chemnitzer Krimipreis. Sie ist Mitglied im Verein \u00bbF\u00fcrWort\u00ab, der sich der Literaturf\u00f6rderung widmet. Bisher erschienen sind in der Erzgebirgskrimireihe \u00bbDunkelwald\u00ab (2018), \u00bbHerzgrube\u00ab (2019), \u00bbSplitternacht\u00ab (2019), \u00bbStollentod\u00ab (2021), \u00bbKellerengel\u00ab (2022) und \u00bbTodest\u00f6ne\u00ab (2023). \u00bbMoorgold\u00ab ist Band sieben und der erste Teil, der im Paperento Verlag erscheint.</p>",
             "organizer": "",
@@ -1570,7 +1546,7 @@
         },
         {
             "title": "Pen & Paper Rollenspieletreff (Halloween Special) (DE/EN)",
-            "description": "<p>Wir spielen kurz vor Halloween wieder auf Deutsch und auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.<br /><br />Dieses mal werden wir zwei Durchl\u00e4ufe haben. Dabei k\u00f6nnen sich alle ab 8 Jahre den Nachmittagsrunden (14:00 bis 17:30 Uhr) anschlie\u00dfen und abends (18:30 bis 22:00 Uhr) k\u00f6nnen alle Erwachsenen mitspielen.&nbsp;</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von Gewalt, Tod und emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen.&nbsp;</p> <p>Bisher sind folgende Runden best\u00e4tigt:&nbsp;<br /><br />14:00 - 17:30 Uhr:&nbsp;<br />* Little Wizards: Der Zauber der alten Zeit (Deutsch, ab 8 Jahre)&nbsp;<br />* HeXXen 1733 (Deutsch, ab 14 Jahre)&nbsp;<br />* Dinner &amp; Dice (Deutsch, ab 12 Jahre)&nbsp;<br />* \u2026<br /><br /><br />18:30 - 22:00 Uhr (<u>jeweils ab 18 Jahre</u>):&nbsp;<br />* Call of Cthulhu: \"The Dare\" (Deutsch OR English), <i>Triggerwarnung: m\u00f6glicher Kindstod</i>&nbsp;<br />* D&amp;D oder Daggerheart (Deutsch OR English)&nbsp;<br />* Icarus: \u201cFreude sch\u00f6ner G\u00f6tterfunken\u201d (Deutsch)<br />* Symbaroum (Deutsch OR English)&nbsp;<br />* ...</p> <p>F\u00fcr die Teilnahme bitte unbedingt anmelden, damit wir die Spielleitungen vorab gut planen k\u00f6nnen:<br /><a href=\"https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung\">https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung</a>&nbsp;</p> <p>*** EN **&nbsp;<br />A few nights before Halloween we offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.&nbsp;</p> <p>Minors are excluded from the events after 6:00pm. There will be sessions suitable for children (mostly in German) in the afternoon hours (see above).&nbsp;<br /><br />Trigger warning: The individual roleplaying groups may experience verbal descriptions of violence, death (also of minors) and emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. &nbsp;We are also looking for English speaking players and game hosts. Please write us an e-mail beforehand:<br /><a href=\"mailto:biblab-c@stadtbibliothek-chemnitz.de\">biblab-c@stadtbibliothek-chemnitz.de</a> &nbsp;<br /><br />Please sign up for the sessions. This helps us having enough game hosts available:<br /><a href=\"https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung\">https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung</a>&nbsp;</p> <p>Eintritt: frei / free admission&nbsp;</p>",
+            "description": "<p>Wir spielen kurz vor Halloween wieder auf Deutsch und auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.<br /><br />Dieses mal werden wir zwei Durchl\u00e4ufe haben. Dabei k\u00f6nnen sich alle ab 8 Jahre den Nachmittagsrunden (14:00 bis 17:30 Uhr) anschlie\u00dfen und abends (18:30 bis 22:00 Uhr) k\u00f6nnen alle Erwachsenen mitspielen.&nbsp;</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von Gewalt, Tod und emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen.&nbsp;</p> <p>Bisher sind folgende Runden best\u00e4tigt:&nbsp;<br /><br />14:00 - 17:30 Uhr:&nbsp;<br />* Little Wizards: Der Zauber der alten Zeit (Deutsch, ab 8 Jahre)&nbsp;<br />* HeXXen 1733 (Deutsch, ab 14 Jahre)&nbsp;<br />* Dinner &amp; Dice (Deutsch, ab 12 Jahre)&nbsp;<br />* \u2026<br /><br /><br />18:30 - 22:00 Uhr (<u>jeweils ab 18 Jahre</u>):&nbsp;<br />* Call of Cthulhu: \"The Dare\" (Deutsch OR English), <i>Triggerwarnung: m\u00f6glicher Kindstod</i>&nbsp;<br />* D&amp;D oder Daggerheart (Deutsch OR English)&nbsp;<br />* Icarus: \u201cFreude sch\u00f6ner G\u00f6tterfunken\u201d (Deutsch)<br />* M\u00f6rk Borg (Deutsch OR English)&nbsp;<br />* Symbaroum (Deutsch OR English)&nbsp;<br />* ...</p> <p>F\u00fcr die Teilnahme bitte unbedingt anmelden, damit wir die Spielleitungen vorab gut planen k\u00f6nnen:<br /><a href=\"https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung\">https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung</a>&nbsp;</p> <p>*** EN **&nbsp;<br />A few nights before Halloween we offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.&nbsp;</p> <p>Minors are excluded from the events after 6:00pm. There will be sessions suitable for children (mostly in German) in the afternoon hours (see above).&nbsp;<br /><br />Trigger warning: The individual roleplaying groups may experience verbal descriptions of violence, death (also of minors) and emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. &nbsp;We are also looking for English speaking players and game hosts. Please write us an e-mail beforehand:<br /><a href=\"mailto:biblab-c@stadtbibliothek-chemnitz.de\">biblab-c@stadtbibliothek-chemnitz.de</a> &nbsp;<br /><br />Please sign up for the sessions. This helps us having enough game hosts available:<br /><a href=\"https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung\">https://www.stadtbibliothek-chemnitz.de/aktuelles/veranstaltungen/veranstaltungsbuchung</a>&nbsp;</p> <p>Eintritt: frei / free admission&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, BibLab-C",
             "room": "",
@@ -1643,6 +1619,34 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-freifunk-sprechstunde-tietz-edition-1-3-1-7"
+        },
+        {
+            "title": "Sprachcaf\u00e9",
+            "description": "<p>Sprachen lernen<i> </i>in entspannte Atmosph\u00e4re, lockere Unterhaltung mit deutschen Muttersprachlern. Jede/r Interessierte kann vorbeikommen und Kontakte oder Erfahrungen austauschen und nebenbei das Sprechen zu \u00fcben oder einfach nur zuh\u00f6ren. Ohne Druck, daf\u00fcr mit Tee, Pl\u00e4tzchen und netten Leuten. Egal welches Sprachniveau du hast, du bist willkommen. Wir freuen uns, dich kennenzulernen.</p> <p><i>Eintritt: frei</i></p>",
+            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe-playmobil-pixabay.jpg",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe_HP.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-02",
+                    "date_to": "2026-11-02",
+                    "time_from": "15:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/sprachencafe"
         },
         {
             "title": "BibLab: Einf\u00fchrung AudioStudio",
