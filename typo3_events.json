@@ -965,6 +965,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lesezeit-zusammen-liest-man-weniger-allein-im-yorck-1"
         },
         {
+            "title": "One Love for Jamaica",
+            "description": "<p>Am 3. Oktober d\u00fcrfen wir Steve Higgins zu einem besonderen musikalischen Nachmittag in unserer Musikschule begr\u00fc\u00dfen. Eingeladen sind Kinder, Jugendliche, Erwachsene, Senioren, eben alle, die sich f\u00fcr Reggae, jamaikanische Musik, Rhythmus, Gesang und kulturellen Austausch interessieren!</p> <p>Von 14:00 bis 16:00 Uhr wird zun\u00e4chst in die Welt der jamaikanischen Musik eingetaucht. Im Mittelpunkt stehen jamaikanische Folk Songs, Reggae, Rhythmus und Gesang. Dabei geht es nicht nur ums gemeinsame Musizieren, sondern auch um das Kennenlernen jamaikanischer Kultur und musikalischer Traditionen.</p> <p>Nach einer kurzen Pause bildet den Abschluss um 17:00 Uhr eine gemeinsame Pr\u00e4sentation, bei der die Teilnehmenden zeigen k\u00f6nnen, was sie an diesem Nachmittag musikalisch entdeckt und erarbeitet haben.</p> <p>Mit dieser Veranstaltung wird jungen Menschen ein direkter Zugang zu jamaikanischer Musik und Kultur erm\u00f6glicht. Zeitgleich setzen wir ein Zeichen der Solidarit\u00e4t f\u00fcr die Menschen in Not in Jamaika. Die Teilnahmebeitr\u00e4ge und Spenden werden f\u00fcr Gemeinden in Jamaika gesammelt, die vom Hurrikan \u201eMelissa\u201c betroffen sind.</p> <p>All are welcome!</p>  <p><strong>Teilnahmegeb\u00fchr:</strong> 5 \u20ac</p>",
+            "organizer": "",
+            "location": "Konzertsaal / St\u00e4dtische Musikschule Chemnitz",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/One_Love_Musik_Workshop.png",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-03",
+                    "date_to": "",
+                    "time_from": "14:00",
+                    "time_to": "18:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/one-love-for-jamaika"
+        },
+        {
             "title": "T\u00fcren auf mit der Maus - Kleine Wunder in eurer Stadtbibliothek",
             "description": "<p>Wunder gibt\u2019s nicht? Von wegen!</p> <p>Tauche mit uns ein in die wundervolle Welt der Geschichten: lausche magischen Abenteuern, begib dich auf Spurensuche in der Zaubererwelt, beame dich am Green Screen an einen Fantasieort und erforsche die Wunder des Elements Wasser in faszinierenden Experimenten.</p> <p>Empfohlen ab 4 Jahren</p> <p><i>Eintritt frei</i></p>",
             "organizer": "",
@@ -1602,11 +1626,16 @@
         },
         {
             "title": "Faszination Akkordeon \u2013 von Vivaldi bis Piazzolla",
-            "description": "<p>2026 ist das Jahr des Akkordeons! Zu diesem Anlass pr\u00e4sentieren das Duo Kratschkowski und die St\u00e4dtische Musikschule Chemnitz ein abwechslungsreiches Konzert mit Werken aus Barock, Klassik, Tango, internationaler Folklore und Klezmer.</p> <p>Das Akkordeon ist ein vergleichsweise junges und sehr vielseitiges Instrument. Ob Knopf- oder Tastenakkordeon, klein oder gro\u00df, als Volksmusikinstrument oder in einer f\u00fcr das klassische Orchester entwickelten Variante: Seine unterschiedlichen Formen erm\u00f6glichen den Einsatz in nahezu allen musikalischen Genres.</p> <p>Obwohl das Akkordeon auf eine noch junge Geschichte zur\u00fcckblickt, haben bereits zahlreiche bedeutende Komponisten f\u00fcr das Instrument geschrieben \u2013 darunter Pjotr Iljitsch Tschaikowski, Arnold Sch\u00f6nberg und Dmitri Schostakowitsch. Auch zeitgen\u00f6ssische Komponistinnen und Komponisten wie Sofia Gubaidulina, Luciano Berio, Adriana H\u00f6lszky, Alfred Schnittke und Edison Denisov haben das Akkordeon durch ihre Werke bereichert.</p> <p>Dar\u00fcber hinaus ist es im Jazz, in Rock und Pop sowie in den vielf\u00e4ltigen Traditionen der Volksmusik zu Hause \u2013 vom Balkan und Klezmer \u00fcber Osteuropa bis nach Westeuropa und S\u00fcdamerika.</p> <p>Das Konzert zeigt die ganze klangliche Bandbreite des Instruments: von einfachen Melodien bis zu komplexen Werken, von zarter Musikalit\u00e4t bis hin zu st\u00fcrmischer Virtuosit\u00e4t. Mit dabei sind Sch\u00fclerinnen und Sch\u00fcler der St\u00e4dtischen Musikschule Chemnitz sowie das Tangoensemble des Landesmusikgymnasiums Dresden.</p> <p>Lassen Sie sich \u00fcberraschen und von der faszinierenden Welt des Akkordeons begeistern!</p> <p><strong>Tickets:</strong></p> <p><strong>Abendkasse:&nbsp;</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Erwachsene:&nbsp;&nbsp;&nbsp;&nbsp;10,00\u20ac<br />&nbsp;&nbsp;&nbsp;&nbsp;Auszubildende, Studierende, Menschen mit Behinderung: &nbsp;9,00\u20ac<br />&nbsp;&nbsp;&nbsp;&nbsp;Kinder, Sch\u00fcler:innen, Inhaber:innen des Chemnitzpasses: &nbsp;8,00\u20ac</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Vorverkauf </strong>(in der Musikschule): 0,50 \u20ac reduziert&nbsp;<br /><br />&nbsp;</p>",
+            "description": "<p>2026 ist das Jahr des Akkordeons! Zu diesem Anlass pr\u00e4sentieren das Duo Kratschkowski und die St\u00e4dtische Musikschule Chemnitz ein abwechslungsreiches Konzert mit Werken aus Barock, Klassik, Tango, internationaler Folklore und Klezmer.</p> <p>Das Akkordeon ist ein vergleichsweise junges und sehr vielseitiges Instrument. Ob Knopf- oder Tastenakkordeon, klein oder gro\u00df, als Volksmusikinstrument oder in einer f\u00fcr das klassische Orchester entwickelten Variante: Seine unterschiedlichen Formen erm\u00f6glichen den Einsatz in nahezu allen musikalischen Genres.</p> <p>Obwohl das Akkordeon auf eine noch junge Geschichte zur\u00fcckblickt, haben bereits zahlreiche bedeutende Komponisten f\u00fcr das Instrument geschrieben \u2013 darunter Pjotr Iljitsch Tschaikowski, Arnold Sch\u00f6nberg und Dmitri Schostakowitsch. Auch zeitgen\u00f6ssische Komponistinnen und Komponisten wie Sofia Gubaidulina, Luciano Berio, Adriana H\u00f6lszky, Alfred Schnittke und Edison Denisov haben das Akkordeon durch ihre Werke bereichert.</p> <p>Dar\u00fcber hinaus ist es im Jazz, in Rock und Pop sowie in den vielf\u00e4ltigen Traditionen der Volksmusik zu Hause \u2013 vom Balkan und Klezmer \u00fcber Osteuropa bis nach Westeuropa und S\u00fcdamerika.</p> <p>Das Konzert zeigt die ganze klangliche Bandbreite des Instruments: von einfachen Melodien bis zu komplexen Werken, von zarter Musikalit\u00e4t bis hin zu st\u00fcrmischer Virtuosit\u00e4t. Mit dabei sind Sch\u00fclerinnen und Sch\u00fcler der St\u00e4dtischen Musikschule Chemnitz sowie das Tangoensemble des Landesmusikgymnasiums Dresden.</p> <p>Lassen Sie sich \u00fcberraschen und von der faszinierenden Welt des Akkordeons begeistern!</p> <p><strong>Kartenvorverkauf</strong> in der Verwaltung der St\u00e4dtischen Musikschule innerhalb der Sprechzeiten oder nach individueller Terminvereinbarung per Mail an musikschule@stadt-chemnitz.de</p> <p><strong>Tickets:</strong></p> <p><strong>Abendkasse:&nbsp;</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Erwachsene:&nbsp;&nbsp;&nbsp;&nbsp;10,00\u20ac<br />&nbsp;&nbsp;&nbsp;&nbsp;Auszubildende, Studierende, Menschen mit Behinderung: &nbsp;9,00\u20ac<br />&nbsp;&nbsp;&nbsp;&nbsp;Kinder, Sch\u00fcler:innen, Inhaber:innen des Chemnitzpasses: &nbsp;8,00\u20ac</p> <p>&nbsp;&nbsp;&nbsp; <strong>Vorverkauf </strong>(in der Musikschule): 0,50 \u20ac reduziert&nbsp;<br /><br />&nbsp;</p>",
             "organizer": "",
             "location": "Konzertsaal / St\u00e4dtischen Musikschule Chemnitz",
             "room": "",
-            "images": [],
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/6._Kratschkowski_Duo3_Foto_by_Elena_Pagel.JPG",
+                    "copyright": "Foto: Elena Pagel"
+                }
+            ],
             "dates": [
                 {
                     "date_from": "2026-11-21",
