@@ -1493,6 +1493,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-4"
         },
         {
+            "title": "Programmieren mit Scratch \u2013 Entdecke die Welt des Programmierens!",
+            "description": "<p><strong>Was?</strong></p> <p>Im Ferienworkshop \u201eProgrammieren mit Scratch\u201c tauchst du spielerisch in die Welt des Codens ein. Mit einfachen Programmierbausteinen gestaltest du eigene Spiele, Animationen oder kleine Geschichten und lernst dabei, wie Computer \"denken\". Scratch macht Programmieren leicht verst\u00e4ndlich und vor allem richtig viel Spa\u00df \u2013 ganz ohne Vorkenntnisse.</p> <p><strong>Wo?</strong></p> <p>Stadtbibliothek im TIETZ/ BibliotheksLabor</p> <p><strong>Wer?</strong></p> <p>Empfohlen f\u00fcr Kinder von 9 bis 12 Jahren.</p> <p><strong>Wann?</strong></p> <p>12.10. (10 bis 14 Uhr)</p> <p><strong>Wie?</strong></p> <p>kostenfrei, mit Anmeldung (max. 10 Teilnehmende),</p> <p>Tablets mit Scratch werden bereitgestellt</p>  ",
+            "organizer": "",
+            "location": "",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Ferienkurs_Scratch_Stadtbibo.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-12",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "14:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/programmieren-mit-scratch-entdecke-die-welt-des-programmierens"
+        },
+        {
             "title": "Raus aus der Spur \u2013 Silly und die DDR",
             "description": "<p>Ort: TIETZ, Veranstaltungssaal</p> <p><i>Eintritt: frei</i></p> <p>Silly galt in der DDR als eine Klasse f\u00fcr sich. Ihre Songs hatten eine enorme Bildkraft, sie klangen international und fanden auch im Westen ein Publikum. Michael Rauhut zeichnet die au\u00dfergew\u00f6hnliche Karriere der Band um S\u00e4ngerin Tamara Danz anhand der f\u00fcnf Amiga-Alben nach. Er erz\u00e4hlt die Emanzipationsgeschichte einer Rockgruppe, die sich St\u00fcck f\u00fcr St\u00fcck aus der Umklammerung des kulturpolitischen Apparats befreite und mit jeder Platte zu neuen k\u00fcnstlerischen Horizonten aufbrach.</p> <p>Eine Veranstaltung in Kooperation mit der S\u00e4chsischen Landesbeauftragten zur Aufarbeitung der SED-Diktatur</p>",
             "organizer": "",
@@ -1515,6 +1539,30 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/raus-aus-der-spur-silly-und-die-ddr"
+        },
+        {
+            "title": "H\u00f6rspiel-Workshop f\u00fcr Kinder",
+            "description": "<p>Wie produziert man ein kurzes H\u00f6rspiel? Was braucht man alles daf\u00fcr?<br />Nach einer Einf\u00fchrung lernst du, wie man Rollen stimmungsvoll spricht, eine Geschichte im Audiostudio aufnimmt, bearbeitet und mit Ger\u00e4uschen unterlegt. Am Ende kannst du dein fertiges Mini-H\u00f6rspiel mitnehmen.</p> <p><br /><strong>Ort:</strong> Zentralbibliothek im TIETZ, BiblotheksLabor<br />Empfohlen f\u00fcr <strong>Kinder 9 bis 12 Jahren</strong>.<br />Die Anzahl der Pl\u00e4tze ist begrenzt, daher wird um Anmeldung gebeten:</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Hoerspiel-WS.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-13",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "13:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/hoerspiel-workshop-fuer-kinder-1"
         },
         {
             "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
@@ -1611,6 +1659,30 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/zocken-aus-leidenschaft"
+        },
+        {
+            "title": "H\u00f6rspiel-Workshop f\u00fcr Kinder",
+            "description": "<p>Wie produziert man ein kurzes H\u00f6rspiel? Was braucht man alles daf\u00fcr?<br />Nach einer Einf\u00fchrung lernst du, wie man Rollen stimmungsvoll spricht, eine Geschichte im Audiostudio aufnimmt, bearbeitet und mit Ger\u00e4uschen unterlegt. Am Ende kannst du dein fertiges Mini-H\u00f6rspiel mitnehmen.</p> <p><br /><strong>Ort:</strong> Zentralbibliothek im TIETZ, BiblotheksLabor<br />Empfohlen f\u00fcr <strong>Kinder 9 bis 12 Jahren</strong>.<br />Die Anzahl der Pl\u00e4tze ist begrenzt, daher wird um Anmeldung gebeten:</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Hoerspiel-WS.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-15",
+                    "date_to": "",
+                    "time_from": "13:00",
+                    "time_to": "16:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/hoerspiel-workshop-fuer-kinder"
         },
         {
             "title": "Sprechstunde digitale Angebote und E-Books",
@@ -1851,54 +1923,6 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1-3"
-        },
-        {
-            "title": "Einf\u00fchrung/ F\u00fchrerschein 3D-Drucker",
-            "description": "<p>Wie funktioniert ein 3D-Drucker? Wo finde ich nutzbare Modelle? Was muss ich einstellen?<br />Wir zeigen Ihnen, wie sie den 3D-Drucker und die Software PursaSlicer bedienen. Die Einf\u00fchrung dauert circa 2 Stunden und ist kostenfrei.</p> <p>Danach erhalten Sie einen F\u00fchrerschein und k\u00f6nnen die Technik selbstst\u00e4ndig nutzen.</p> <p>M\u00f6chten Sie sich schon vorab mit 3D-Drucken besch\u00e4ftigen? Dann st\u00f6bern Sie doch mal in unseren Medien zu 3D-Druck oder besuchen Sie den Kurs \u201e3D-Druck \u2013Grundlagen\u201c auf unserem E-Learning-Portal.</p>  <p>Zielgruppe: <strong>Einf\u00fchrungsveranstaltung f\u00fcr Erwachsene und Kinder ab 12 Jahren in Begleitung eines Erwachsenen</strong></p> <p><i>kostenfrei, mit Anmeldung</i></p>  <p>Die Termine:<br />&nbsp;| 22.10. | 15 bis 17 Uhr<br /><br />Ort: TIETZ, Zentralbibliothek, BibLab-C, MakerBereich</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/1695049139058.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-22",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1-2"
-        },
-        {
-            "title": "Einf\u00fchrung/ F\u00fchrerschein 3D-Drucker",
-            "description": "<p>Wie funktioniert ein 3D-Drucker? Wo finde ich nutzbare Modelle? Was muss ich einstellen?<br />Wir zeigen Ihnen, wie sie den 3D-Drucker und die Software PursaSlicer bedienen. Die Einf\u00fchrung dauert circa 2 Stunden und ist kostenfrei.</p> <p>Danach erhalten Sie einen F\u00fchrerschein und k\u00f6nnen die Technik selbstst\u00e4ndig nutzen.</p> <p>M\u00f6chten Sie sich schon vorab mit 3D-Drucken besch\u00e4ftigen? Dann st\u00f6bern Sie doch mal in unseren Medien zu 3D-Druck oder besuchen Sie den Kurs \u201e3D-Druck \u2013Grundlagen\u201c auf unserem E-Learning-Portal.</p>  <p>Zielgruppe: <strong>Einf\u00fchrungsveranstaltung f\u00fcr Erwachsene und Kinder ab 12 Jahren in Begleitung eines Erwachsenen</strong></p> <p><i>kostenfrei, mit Anmeldung</i></p>  <p>Die Termine:<br />&nbsp;| 22.10. | 15 bis 17 Uhr<br /><br />Ort: TIETZ, Zentralbibliothek, BibLab-C, MakerBereich</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/1695049139058.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-22",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1"
         },
         {
             "title": "Auf der Spur der Diamanten-Diebin",
@@ -2293,6 +2317,25 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/johanniter-in-suedwestsachsen-selbstverstaendnis-und-soziales-wirken"
         },
         {
+            "title": "Programmieren f\u00fcr Kinder - mit Code it!",
+            "description": "<p>Heute kannst du unseren Online-Programmierkurs f\u00fcr Kinder (code it!) kennenlernen und ausprobieren.</p> <p><strong>Wer?</strong></p> <p>F\u00fcr Kinder von 9 bis 12 Jahren</p> <p><strong>Wo?</strong></p> <p>Stadtbibliothek im TIETZ</p> <p><strong>Wie?</strong></p> <p>kostenfrei, mit Anmeldung</p>   ",
+            "organizer": "",
+            "location": "",
+            "room": "",
+            "images": [],
+            "dates": [
+                {
+                    "date_from": "2026-11-07",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "12:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/programmieren-fuer-kinder-mit-code-it"
+        },
+        {
             "title": "Auf leisen Sohlen\u2026 im Vita",
             "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
             "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
@@ -2631,7 +2674,7 @@
             "room": "",
             "images": [
                 {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Weihnachtswerkstatt_25__A4.jpg",
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Weihnachtswerkstatt.jpg",
                     "copyright": ""
                 }
             ],
