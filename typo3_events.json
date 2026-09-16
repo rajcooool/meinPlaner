@@ -1,150 +1,6 @@
 {
     "events": [
         {
-            "title": "Smartphone Sprechstunde f\u00fcr Senioren (ausgebucht!)",
-            "description": "<p>Sie haben Fragen zu Einstellungen, Apps und Diensten rund um das Smartphone? Dann melden Sie sich zu unserer Sprechstunde an.</p> <p><strong>Wo?</strong></p> <p>Stadtbibliothek im TIETZ/ Lernraum</p> <p><strong>Wann?</strong></p> <p>Di, 15.09. (10-13 Uhr)</p> <p><strong>Wie?</strong></p> <p>Anmeldung erbeten, es gibt zwei Zeitfenster - ab 10 Uhr oder ab 11.30 Uhr, um auf alle Fragen und Probleme einzugehen ist die Teilnehmerzahl begrenzt</p>",
-            "organizer": "BibLab-C Projektnetzwerk",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/iphone-4130253_1280.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-15",
-                    "date_to": "",
-                    "time_from": "10:00",
-                    "time_to": "13:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/smartphone-sprechstunde-fuer-senioren-1-1"
-        },
-        {
-            "title": "Auf leisen Sohlen... im Yorck",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Stadtteilbibliothek im Yorckgebiet",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Yorck.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-15",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-5"
-        },
-        {
-            "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
-            "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.31_Lerntisch_c_SBC.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-15",
-                    "date_to": "",
-                    "time_from": "13:00",
-                    "time_to": "15:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-5"
-        },
-        {
-            "title": "Auf leisen Sohlen... in Einsiedel",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Stadtteilbibliothek Einsiedel",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Einsiedel.JPG",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-15",
-                    "date_to": "",
-                    "time_from": "16:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-8-2"
-        },
-        {
-            "title": "Auf leisen Sohlen\u2026 im TIETZ",
-            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-15",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-tietz"
-        },
-        {
-            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
-            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-15",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-3"
-        },
-        {
             "title": "KINDERTRANSPORT \u2013 IN EINE FREMDE WELT\u201c - Filmvorf\u00fchrung und Ausstellungser\u00f6ffnung",
             "description": "<p>Der Film \u201eKindertransport \u2013 In eine fremde Welt\u201c (Into the Arms of Strangers: Stories oft the Kindertransport) dokumentiert einf\u00fchlsam die au\u00dferordentliche Hilfsaktion zur Rettung vieler j\u00fcdischer Kinder in den Jahren 1938/1939 und ihre Bedeutung f\u00fcr das Leben der j\u00fcdischen Familien.</p> <p>Die Besonderheit: Sylva Sabine Avramovici, Mutter der Produ\ufffezentin Deborah Oppenheimer, wurde 1928 in Chemnitz geboren und entkam mit einem der Kindertransporte den Nationalsozialisten.</p> <p>Dr. Alexander Walther, Wissenschaftlicher Mitarbeiter im Team zum Jahr der j\u00fcdischen Kultur in Sachsen 2026, erkl\u00e4rt die Hintergr\u00fcnde zum Film und zur Ausstellung.<br />&nbsp;</p> <p>Anmeldung: nicht erforderlich&nbsp;<br />Eintritt: frei<br />&nbsp;</p> <p>Eine Veranstaltung der Migrationsbeauftragten der Stadt Chemnitz in Kooperation mit Tacheles, Jahr der j\u00fcdischen Kultur in Sachsen 2026, mit dem Kulturbetrieb der Stadt Chemnitz und mit der J\u00fcdischen Gemeinde Chemnitz</p>",
             "organizer": "",
@@ -674,7 +530,7 @@
         },
         {
             "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG) - auch f\u00fcr Kinder",
-            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 7 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* \"Das Badehaus\" (mit den Regeln von \u201cHamster mit Gitarren\u201d, Deutsch, ab 14 Jahre)&nbsp;<br />* Fiasco (ENGLISH, 16+ years)&nbsp;<br />* Honey Heist (ihr spielt B\u00e4ren, die einen Bank\u00fcberfall planen... Deutsch, ab 8 Jahre)&nbsp;<br />* Subversion (Deutsch, ab 14 Jahre)&nbsp;<br />* Yokai Hunters Society (ihr spielt Geisterj\u00e4ger in Japan vor 150 Jahren\u2026 Deutsch, ab 8 Jahre)&nbsp;</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
+            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 7 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Dungeons &amp; Dragons (Deutsch, ab 14 Jahre)&nbsp;<br />* Fiasco (ENGLISH, 16+ years)&nbsp;<br />* Honey Heist (ihr spielt B\u00e4ren, die einen Bank\u00fcberfall planen... Deutsch, ab 8 Jahre)&nbsp;<br />* Subversion (Deutsch, ab 14 Jahre)&nbsp;<br />* <i>Yokai Hunters Society (ihr spielt Geisterj\u00e4ger in Japan vor 150 Jahren\u2026 Deutsch, ab 8 Jahre)</i> - ** RUNDE IST VOLL **</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, GamingArena/OpenSpace, 3. Etage",
             "room": "",
@@ -986,7 +842,7 @@
         },
         {
             "title": "One Love for Jamaica",
-            "description": "<p>Am 3. Oktober d\u00fcrfen wir Steve Higgins zu einem besonderen musikalischen Nachmittag in unserer Musikschule begr\u00fc\u00dfen. Eingeladen sind Kinder, Jugendliche, Erwachsene, Senioren, eben alle, die sich f\u00fcr Reggae, jamaikanische Musik, Rhythmus, Gesang und kulturellen Austausch interessieren!</p> <p>Von 14:00 bis 16:00 Uhr wird zun\u00e4chst in die Welt der jamaikanischen Musik eingetaucht. Im Mittelpunkt stehen jamaikanische Folk Songs, Reggae, Rhythmus und Gesang. Dabei geht es nicht nur ums gemeinsame Musizieren, sondern auch um das Kennenlernen jamaikanischer Kultur und musikalischer Traditionen.</p> <p>Nach einer kurzen Pause bildet den Abschluss um 17:00 Uhr eine gemeinsame Pr\u00e4sentation, bei der die Teilnehmenden zeigen k\u00f6nnen, was sie an diesem Nachmittag musikalisch entdeckt und erarbeitet haben.</p> <p>Mit dieser Veranstaltung wird jungen Menschen ein direkter Zugang zu jamaikanischer Musik und Kultur erm\u00f6glicht. Zeitgleich setzen wir ein Zeichen der Solidarit\u00e4t f\u00fcr die Menschen in Not in Jamaika. Die Teilnahmebeitr\u00e4ge und Spenden werden f\u00fcr Gemeinden in Jamaika gesammelt, die vom Hurrikan \u201eMelissa\u201c betroffen sind.</p> <p>All are welcome!</p>  <p><strong>Teilnahmegeb\u00fchr:</strong> 5 \u20ac</p>",
+            "description": "<p>Am 3. Oktober begr\u00fc\u00dft Steve Higgins zu einem besonderen musikalischen Nachmittag in unserer Musikschule. Eingeladen sind Kinder, Jugendliche, Erwachsene, Senioren, eben alle, die sich f\u00fcr Reggae, jamaikanische Musik, Rhythmus, Gesang und kulturellen Austausch interessieren!</p> <p>Von 14:00 bis 16:00 Uhr wird zun\u00e4chst in die Welt der jamaikanischen Musik eingetaucht. Im Mittelpunkt stehen jamaikanische Folk Songs, Reggae, Rhythmus und Gesang. Dabei geht es nicht nur ums gemeinsame Musizieren, sondern auch um das Kennenlernen jamaikanischer Kultur und musikalischer Traditionen.</p> <p>Nach einer kurzen Pause bildet den Abschluss um 17:00 Uhr eine gemeinsame Pr\u00e4sentation, bei der die Teilnehmenden zeigen k\u00f6nnen, was sie an diesem Nachmittag musikalisch entdeckt und erarbeitet haben.</p> <p>Mit dieser Veranstaltung wird jungen Menschen ein direkter Zugang zu jamaikanischer Musik und Kultur erm\u00f6glicht. Zeitgleich wird ein Zeichen der Solidarit\u00e4t f\u00fcr die Menschen in Not in Jamaika gesetzt. Die Teilnahmebeitr\u00e4ge und Spenden werden von dem Verein \u201cTANZ | MODERNE | TANZ e.V. F\u00f6rderverein f\u00fcr zeitgen\u00f6ssischen Tanz Chemnitz und Region\u201d f\u00fcr Gemeinden in Jamaika gesammelt, die vom Hurrikan \u201eMelissa\u201c betroffen sind.</p> <p>All are welcome!</p> <p>Veranstalter: TANZ | MODERNE | TANZ e.V.</p>  <p><strong>Teilnahmegeb\u00fchr:</strong> 5 \u20ac</p>",
             "organizer": "",
             "location": "Konzertsaal / St\u00e4dtische Musikschule Chemnitz",
             "room": "",
@@ -1397,6 +1253,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1-1"
         },
         {
+            "title": "Kopfh\u00f6rerkino \"Rettet Raffi!\"",
+            "description": "<p>Ort: Regenbogenhaus Wittgensdorf</p> <p>Buchverfilmung/Abenteuer, D 2015, FSK 0</p> <p>Der achtj\u00e4hrige Samuel Wiese f\u00fchlt sich sehr einsam, seit sein Vater vor einem Jahr die Familie verlie\u00df, um als Arzt in Afghanistan zu arbeiten. Besonders wichtig ist ihm nun sein kleiner Goldhamster Raffi, den er von seinem Papa bekommen und der einige erstaunliche Tricks auf Lager hat, wie z. B. in seinem K\u00e4fig Tore zu schie\u00dfen.</p> <p>Entsprechend geschockt ist Sammy, als Raffi eines Tages nach einer Herz-Operation einfach entf\u00fchrt wird. Kurz entschlossen und ohne seiner Mutter Helene oder seiner \u00e4lteren Schwester Molly davon zu erz\u00e4hlen, macht er sich allein auf den Weg, um seinen kleinen Freund im gro\u00dfen Hamburg wiederzufinden. Aber wie findet man in einer Metropole mit gut 1,7 Millionen Einwohnern einen Hamster?</p> <p>Eintritt frei. Empfohlen ab 7 Jahren.</p> <p>Anmeldung erforderlich</p>",
+            "organizer": "",
+            "location": "",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Symbolgrafik_Kopfhoererkino.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-09",
+                    "date_to": "",
+                    "time_from": "15:30",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/kopfhoererkino-rettet-raffi"
+        },
+        {
             "title": "Theater: Mann und Frau",
             "description": "<p>Ort: TIETZ, Veranstaltungssaal</p> <p><i>Eintritt: frei | </i>Anmeldung Telefon: +49 152 58771587 (WhatsApp, Telegram)</p> <p>Die Schriftstellerin und Dramatikerin Kathrina Yakovleva erz\u00e4hlt in ihrem Theaterst\u00fcck die Geschichte zweier Menschen, die nach einem erf\u00fcllten Leben und eigenen Familien unerwartet die Liebe wiederfinden.&nbsp;</p> <p>Eine Veranstaltung in Kooperation mit dem Kulturzentrum Kolorit e. V.</p>",
             "organizer": "",
@@ -1491,6 +1371,30 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-4"
+        },
+        {
+            "title": "Ukrainian Sounds",
+            "description": "<p>Ukrainian Sounds: Verborgene Musik der Ukraine</p> <p><br />\u201eUkrainian Sounds\u201c pr\u00e4sentiert ukrainische Kammermusik verschiedener Epochen \u2013 von Wassyl Barwinskyj und Borys Ljatoschynskyj bis zu zeitgen\u00f6ssischen Komponist:innen.</p> <p><br />Einige dieser Werke waren \u00fcber Jahrzehnte kaum zug\u00e4nglich und sind bis heute auf europ\u00e4ischen Konzertb\u00fchnen nur selten zu h\u00f6ren. Das Konzert verbindet wiederentdecktes musikalisches Erbe mit der ukrainischen Musik der Gegenwart.</p> <p><br />Das Ensemble tritt in der Besetzung eines Klavierquintetts auf. Im Laufe des Konzerts wechseln die Musiker:innen zwischen verschiedenen kammermusikalischen Besetzungen \u2013 vom Solo und Duo bis zum vollst\u00e4ndigen Klavierquintett.</p> <p><br />Das Projekt wurde im Rahmen von Mikroprojekte Chemnitz 2025 realisiert.</p>   <p>Veranstalter: Sense UA Chamber music Collective</p> <p><strong>Tickets online:</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Normal:&nbsp;&nbsp;&nbsp;15,57\u20ac<br />&nbsp;&nbsp;&nbsp;&nbsp;Erm\u00e4\u00dfigt: &nbsp;12,50\u20ac</p>",
+            "organizer": "",
+            "location": "Konzertsaal / St\u00e4dtische Musikschule Chemnitz",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Ukrainische_Sounds_Plakat_11.10.2026.jpg",
+                    "copyright": "Foto:Tom\u00e1\u0161 Tracz"
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-11",
+                    "date_to": "",
+                    "time_from": "17:30",
+                    "time_to": "19:45"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/ukrainian-sounds"
         },
         {
             "title": "Programmieren mit Scratch \u2013 Entdecke die Welt des Programmierens!",
@@ -1925,6 +1829,34 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1-3"
         },
         {
+            "title": "Let's play \u2013 Kids' Edition: Tanz- & Sport-Spezial",
+            "description": "<p>Konsole und Bewegung geh\u00f6ren nicht zusammen? Wir \u00fcberzeugen euch vom Gegenteil!</p> <p>Heute hei\u00dft es bei unserem Gaming-Nachmittag: \u201eSport frei!\u201c, denn wir testen gemeinsam ausleihbare Sport- und Tanzspiele auf verschiedenen Konsolen.</p> <p>Empfohlen ab 6 Jahren. Keine Anmeldung erforderlich.</p> <p><i>Eintritt frei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2020/2020-gaming-02-stadtbibliothek-chemnitz.png",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Gaming-Spezial_kids_tanzsport.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-22",
+                    "date_to": "",
+                    "time_from": "14:00",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lets-play-kids-edition-tanz-sport-spezial"
+        },
+        {
             "title": "Auf der Spur der Diamanten-Diebin",
             "description": "<p><strong>mit tierischer Unterst\u00fctzung von Leseh\u00fcndin Keely</strong></p> <p>Ort: TIETZ, Zentralbibliothek, Lernraum&nbsp;</p> <p><i>Eintritt: frei</i></p> <p><br />WUFF! Hier bellt Kommissar Pfote - und ihr k\u00f6nnt mit ihm gemeinsam ermitteln! Freut euch auf ein interaktives Krimi-Abenteuer, bei dem ihr gemeinsam mit einem Lesehund-Team der Diamanten-Diebin auf die Schliche kommt.<br />&nbsp;</p> <p>F\u00fcr Kinder ab 7 Jahren | Begleitperson willkommen.<br /><br />&nbsp;</p>",
             "organizer": "",
@@ -2115,6 +2047,30 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/finsteres-erzgebirge"
+        },
+        {
+            "title": "Escape Game \u201eStephen King\u201c",
+            "description": "<p>K\u00f6nnt ihr die Flucht aus Derry schaffen, bevor die Zeit abl\u00e4uft?<br />Taucht ein in die d\u00fcstere Welt von Stephen King! Gruselige Kulissen inspiriert von 4 B\u00fcchern Stephen Kings, spannenden R\u00e4tsel und kleine Preise warten auf euch.</p> <p>Aufgrund der gro\u00dfen Nachfrage bieten wir das Escape Game von 2025 erneut an. Es handelt sich um dieselben R\u00e4tsel.</p> <p>Eintritt frei. Teilnahme ab 18 Jahren, max. 4 Personen je Durchgang.</p> <p><i>Anmeldung erforderlich, Zeitslots je 30 Minuten 19 Uhr / 19:30 Uhr / 20 Uhr / 20:30 Uhr / 21 Uhr</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Bild__1__Escape.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-10-28",
+                    "date_to": "",
+                    "time_from": "19:00",
+                    "time_to": "21:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/escape-game-stephen-king"
         },
         {
             "title": "Lesezeit \u2013 zusammen liest man weniger allein ... im Yorck",
@@ -2384,6 +2340,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/smartphone-sprechstunde-fuer-senioren-1"
         },
         {
+            "title": "Die wahre Geschichte eines mutigen Kapit\u00e4ns und seiner j\u00fcdischen Passagiere.",
+            "description": "<p><strong>Graphic Novel von Sara Dellabella (Text) und Alessio Lo Manto (Illustration) - Pr\u00e4sentation und Gespr\u00e4ch mit der \u00dcbersetzerin Anja Kootz im Rahmen des Projektes </strong><a class=\"cc_extern\" href=\"https://bibliotheksverband-sachsen.de/literaturforum-bibliothek/lesungstermine/\" target=\"_blank\"><strong>Literaturforum Bibliothek</strong></a></p> <p>Ort: Zentralbibliothek, GamingArena&nbsp;</p> <p>Eintritt: frei</p> <p class=\"has-medium-font-size\"><strong>Eine eindr\u00fcckliche Graphic Novel \u00fcber ein fast vergessenes Kapitel deutscher Geschichte</strong></p> <p>Am 13. Mai 1939 verl\u00e4sst die <i>St. Louis</i> den Hamburger Hafen mit dem Ziel Kuba. An Bord befinden sich 937 j\u00fcdische Passagiere, in der Hoffnung, dem Terror der Nazis zu entkommen und in Kuba Zuflucht zu finden. Doch kurz vor der Ankunft werden die Hoffnungen der Fl\u00fcchtenden zerst\u00f6rt: Die kubanische Regierung verweigert fast allen die Einreise. Auch die USA und Kanada lehnen das Schiff ab. Kapit\u00e4n Gustav Schr\u00f6der setzt alles daran, einen sicheren Hafen zu finden. Doch wohin, wenn niemand sie aufnehmen will?</p> <p>Diese eindringliche Graphic Novel erz\u00e4hlt die wahre Geschichte von Flucht, Mut, Menschlichkeit und dem moralischen Versagen der internationalen Gemeinschaft: atmosph\u00e4risch, historisch fundiert und bewegend. Erg\u00e4nzt wird die eindrucksvolle Erz\u00e4hlung durch ein Zeitzeugeninterview des \u00dcberlebenden Sol Messinger, ein Vorwort des Shoah-Museums in Rom, sowie die offizielle Entschuldigung der kanadischen Regierung aus dem Jahr 2018.</p> <p>Ein starkes St\u00fcck Erinnerungskultur, das zeigt, was Zivilcourage bedeutet \u2013 damals wie heute. Und warum es so wichtig ist, hinzusehen.</p> <p><strong>Geeignet f\u00fcr Jugendliche ab 13 Jahren.</strong></p> <p><strong>Anja Kootz</strong> (auch bekannt unter dem K\u00fcnstlernamen Anja Kapunkt) wurde 1977 in Mecklenburg geboren und absolvierte ihr Studium der Amerikanistik, Kulturwissenschaften und Germanistik in Berlin. Nach l\u00e4ngeren Auslandsaufenthalten in New York und Paris arbeitet sie heute als freiberufliche \u00dcbersetzerin, Lektorin, Autorin und Fotografin. Sie \u00fcbersetzt literarische Texte aus dem Englischen und Franz\u00f6sischen ins Deutsche, darunter Werke f\u00fcr den Septime Verlag. Neben ihrer \u00fcbersetzerischen T\u00e4tigkeit engagiert sie sich im Vorstand des Vereins F\u00e4hre e. V. \u2013 Forum f\u00fcr Literarische \u00dcbersetzung in Sachsen. Zudem ist sie als Fotografin aktiv: Ihre Portr\u00e4tserie <i>\u201ePlainly Visible\u201c</i>, die literarische \u00dcbersetzerinnen und \u00dcbersetzer zeigt, war unter anderem im Literaturhaus Leipzig zu sehen.</p> <p>Die Veranstaltungsreihe Literaturforum Bibliothek wird vom S\u00e4chsischen Staatsministerium f\u00fcr Wissenschaft, Kultur und Tourismus gef\u00f6rdert und vom Bibliotheksverband Sachsen organisiert. Das Projekt wird mitfinanziert durch Steuermittel auf der Grundlage des vom S\u00e4chsischen Landtag beschlossenen Haushaltes.&nbsp;</p>  ",
+            "organizer": "",
+            "location": "",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/023-0_cover_st-louis_3d_final.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-11",
+                    "date_to": "2026-11-11",
+                    "time_from": "18:00",
+                    "time_to": "19:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/die-wahre-geschichte-eines-mutigen-kapitaens-und-seiner-juedischen-passagiere"
+        },
+        {
             "title": "Digitale Barrieren und wie wir sie \u00fcberwinden",
             "description": "<p>\"Wir leben in einer digitalen Welt. Dabei kommen wir kaum noch darum herum<br />unsere Daten und viele pers\u00f6nliche Informationen von uns preiszugeben.<br />Doch was passiert damit, wenn wir irgendwann nicht mehr da sind? Wie auch<br />in der echten Welt, m\u00fcssen wir uns auch in der digitalen Welt mit unserem<br />Erbe besch\u00e4ftigen. Wir wollen Ihnen dabei unsere Unterst\u00fctzung anbieten.</p> <p>In dieser Veranstaltung wollen wir uns daher zum einen mit dem \"Digitalen<br />Nachlass\" und unserem digitalen Erbe auseinandersetzen. Wir wollen<br />Strategien entwickeln richtig damit umzugehen, technische M\u00f6glichkeiten<br />aufzeigen und auf rechtliche Aspekte hinweisen. Vor allem sollen dabei<br />aber auch pers\u00f6nliche W\u00fcnsche nicht zu kurz kommen.</p> <p>Au\u00dferdem wollen wir im Rahmen dieser Veranstaltung einen Blick in die<br />elektronische Patientenakte werfen - was ist die ePA, wie funktioniert sie<br />und weshalb ist sie sinnvoll?</p> <p>Wie k\u00f6nnen wir mit all diesen digitalen Barrieren umgehen? In dieser<br />Veranstaltung wollen wir ihnen wertvolle Einblicke und praktische Tipps<br />mitgeben.\"</p>",
             "organizer": "",
@@ -2432,14 +2412,18 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/buchverkauf-1"
         },
         {
-            "title": "Chemnitzer Buchsalon",
-            "description": "<p>Termin: Sonntag, 15. November 2026</p> <p>Beginn: 11 Uhr</p> <p>Ort: TIETZ, Stadtbibliothek, Veranstaltungssaal, Moritzstra\u00dfe 20, 09111 Chemnitz</p> <p>Eintritt: frei</p> <p><strong>Literaturforum Bibliothek: Der Buchsalon zur Matinee</strong></p> <p><strong>Drei Kritiker:innen besprechen drei aktuelle B\u00fccher aus Sachsen.</strong></p> <p><strong>Im Anschluss liest Heike Gei\u00dfler&nbsp;aus ihrem neuen Roman \u201eMichaela Kohlhaas\u201c.</strong></p> <p><strong>Auf dem Podium:&nbsp;</strong></p> <ul><li data-list-item-id=\"e8da85b2a2ed9c8070a8a67d94c6f5ac1\"><p style=\"text-autospace:ideograph-numeric;\">Eileen M\u00e4gel, Dresdner Autorin und Lyrikerin, spricht \u00fcber&nbsp;\u201eNach der Sonne schauen\u201c von Ruth Maria Thomas&nbsp;</p></li><li data-list-item-id=\"ebb9c246c823870e67e3421c1c5ffad6f\"><p style=\"text-autospace:ideograph-numeric;\">Angela Malz, langj\u00e4hriges Mitglied des Chemnitzer Literarischen Quintetts, bespricht \u201eStolz und Zweifel\u201c von Marlen Hobrack.</p></li><li data-list-item-id=\"e3da8d25ca8c69895f4a2c0ec322f9fd4\"><p style=\"text-autospace:ideograph-numeric;\">Burkhard M\u00fcller, langj\u00e4hriger Rezensent des Buchsalons und Literaturkritiker,</p></li></ul> <p>Die Veranstaltungsreihe <a class=\"cc_extern\" href=\"https://bibliotheksverband-sachsen.de/literaturforum-bibliothek/\" target=\"_blank\">Literaturforum Bibliothek</a> wird vom S\u00e4chsischen Staatsministerium f\u00fcr Wissenschaft, Kultur und Tourismus gef\u00f6rdert und vom Bibliotheksverband Sachsen organisiert. Das Projekt wird mitfinanziert durch Steuermittel auf der Grundlage des vom S\u00e4chsischen Landtag beschlossenen Haushaltes.&nbsp;</p>",
+            "title": "Chemnitzer Buchsalon zu Gast im Literaturforum Bibliothek",
+            "description": "<h4>Chemnitzer Buchsalon und Heike Gei\u00dfler zu Gast im Literaturforum Bibliothek</h4> <p>Termin: Sonntag, 15. November 2026</p> <p>Beginn: 11 Uhr</p> <p>Ort: TIETZ, Stadtbibliothek, Veranstaltungssaal, Moritzstra\u00dfe 20, 09111 Chemnitz</p> <p>Eintritt: frei</p> <p><strong>Drei Kritiker:innen besprechen drei aktuelle B\u00fccher aus Sachsen.</strong></p> <ul><li data-list-item-id=\"e145558d58e17e5b509979e964c0400f5\">Eileen M\u00e4gel, Dresdner Autorin und Lyrikerin, spricht \u00fcber&nbsp;\u201eNach der Sonne schauen\u201c von Ruth Maria Thomas&nbsp;</li><li data-list-item-id=\"e9ef6fdb45612ace05232e59746921fd8\">Angela Malz, langj\u00e4hriges Mitglied des Chemnitzer Literarischen Quintetts, bespricht \u201eStolz und Zweifel\u201c von Marlen Hobrack.</li><li data-list-item-id=\"e17f4e2ef929c07adcb3e839037ff0768\">Burkhard M\u00fcller, langj\u00e4hriger Rezensent des Buchsalons und Literaturkritiker, spricht \u00fcber \"Nach der Sonne schauen\" von Martina Hefter.</li></ul> <p><strong>Im Anschluss liest Heike Gei\u00dfler&nbsp;aus ihrem neuen Roman \u201eMichaela Kohlhaas\u201c, moderiert von Eileen M\u00e4gel.</strong></p> <p>Die Veranstaltungsreihe <a class=\"cc_extern\" href=\"https://bibliotheksverband-sachsen.de/literaturforum-bibliothek/lesungstermine\" target=\"_blank\">Literaturforum Bibliothek</a> wird vom S\u00e4chsischen Staatsministerium f\u00fcr Wissenschaft, Kultur und Tourismus gef\u00f6rdert und vom Bibliotheksverband Sachsen organisiert. Das Projekt wird mitfinanziert durch Steuermittel auf der Grundlage des vom S\u00e4chsischen Landtag beschlossenen Haushaltes.&nbsp;</p>",
             "organizer": "",
             "location": "",
             "room": "",
             "images": [
                 {
                     "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.17_Geissler_131_c_HeikeSteinweg_SV-klein.jpg",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/michaela-kohlhaas_9783518432808_cover-pdf-627x1024.jpg",
                     "copyright": ""
                 }
             ],
