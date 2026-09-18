@@ -1,54 +1,6 @@
 {
     "events": [
         {
-            "title": "Sprechstunde digitale Angebote und E-Books",
-            "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Sprechstunde_gif.gif",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-17",
-                    "date_to": "",
-                    "time_from": "14:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1-2-1"
-        },
-        {
-            "title": "K\u00fcnstliche Intelligenz einfach erkl\u00e4rt",
-            "description": "<p>\"K\u00fcnstliche Intelligenz ist l\u00e4ngst Teil unseres Lebens - ob beim Schreiben<br />von Texten, in der Internet-Suche, bei \u00dcbersetzungen oder sogar in der<br />Medizin. Oft merken wir gar nicht, dass KI im Hintergrund arbeitet.<br />Gleichzeitig l\u00f6st das Thema Fragen, Neugier - und manchmal auch<br />Unsicherheit aus.</p> <p>In diesem Workshop erkl\u00e4ren wir Schritt f\u00fcr Schritt und in einfacher<br />Sprache, was K\u00fcnstliche Intelligenz ist, wie sie funktioniert und wo sie<br />uns im Alltag begegnet.</p> <p>Gemeinsam probieren wir Anwendungen selbst aus, sprechen \u00fcber Chancen und<br />Risiken und nehmen uns Zeit f\u00fcr Ihre Fragen und Erfahrungen. Ziel ist es,<br />Verst\u00e4ndnis und Sicherheit im Umgang mit neuen Technologien zu f\u00f6rdern -<br />ohne \u00dcberforderung und ganz ohne Fachjargon.</p> <p>Der Workshop l\u00e4dt zum Mitmachen ein: Sie k\u00f6nnen KI-Tools selbst<br />ausprobieren, eigene Beispiele einbringen und mit anderen ins Gespr\u00e4ch<br />kommen. So entsteht ein Austausch auf Augenh\u00f6he, der \u00c4ngste abbaut,<br />Interesse weckt und Lust macht, sich weiter mit dem Thema zu<br />besch\u00e4ftigen.\"</p>",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/KI__1_.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-17",
-                    "date_to": "",
-                    "time_from": "17:30",
-                    "time_to": "19:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/kuenstliche-intelligenz-einfach-erklaert"
-        },
-        {
             "title": "Familienkonzert \"Kunterbunt\"",
             "description": "<p>Auch dieses Jahr veranstaltet die St\u00e4dtische Musikschule in der Kirche des Rehabilitationszentrums f\u00fcr Blinde ein \u201cKunterbunt\u201d-Konzert. Verschiedene Sch\u00fcler:innen und Ensembles der Musikschule pr\u00e4sentieren zusammen ein tolles Programm f\u00fcr das Benefizkonzert. Der Eintritt ist frei, Spenden sind herzlich willkommen.</p>",
             "organizer": "",
