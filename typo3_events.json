@@ -1,102 +1,6 @@
 {
     "events": [
         {
-            "title": "Ausgebucht! Jaroslav Rudi\u0161: Wo die Toten sprechen",
-            "description": "<p>Die Veranstaltung ist ausgebucht. Nicht abgeholte Tickets gibt es an der Abendkasse.</p> <p><strong>Jaroslav Rudi\u0161 liest aus seinem neuen Roman</strong></p> <p>Ort: TIETZ, Neue S\u00e4chsische Galerie</p> <p><i>Eintritt 10 \u20ac, erm\u00e4\u00dfigt 6 \u20ac</i></p> <p><strong>Das Buch: </strong>Lorenzo, Caspar und Miss Detroit sind unterwegs im alten Saab. Drei Freunde, irgendwo zwischen Lebensmitte und Lebensm\u00fcdigkeit. Ihr Ziel: die Friedh\u00f6fe Mitteleuropas. W\u00e4hrend sich Lorenzo durch B\u00fccher frisst und versucht, eine Doktorarbeit \u00fcber die toten europ\u00e4ischen Dichter zu schreiben, tr\u00e4umt Miss Detroit hinter dem Lenkrad davon, Friedhofsbotanikerin zu werden und durch die Blumen mit den Toten zu sprechen. Und der fast blinde Caspar denkt an seinen Vater im B\u00f6hmischen Paradies, dessen verstorbene Freunde noch immer durch seine Stammkneipe geistern. Mit jedem gefahrenen Kilometer r\u00fccken die drei n\u00e4her aneinander und h\u00f6ren die Stimmen der Toten von Grab zu Grab deutlicher: Wovon sprechen sie, wenn man ihnen zuh\u00f6rt? Und wem h\u00f6rt man besser nicht zu? Als sie auf einem Berliner Friedhof pl\u00fcndernden Reichsb\u00fcrgern zuvorkommen und die Knochen eines NS-Verbrechers entwenden, beginnt eine absurde Verfolgungsjagd entlang der Grenzen der europ\u00e4ischen Mitte.<br /><br />Ein temporeicher Roman voller lakonischem Humor: Jaroslav Rudi\u0161 bricht auf zu einer rasanten Odyssee und erz\u00e4hlt von Freundschaft, Verg\u00e4nglichkeit und davon, was uns in Europa zusammenh\u00e4lt.</p> <p><strong>Der Autor:</strong> Jaroslav Rudi\u0161, geboren 1972, ist Schriftsteller, Drehbuchautor und Dramatiker. Er studierte Deutsch und Geschichte in Liberec, Z\u00fcrich und Berlin und arbeitete u.a. als Lehrer und Journalist. Im Luchterhand Literaturverlag erschienen seine aus dem Tschechischen \u00fcbersetzten Romane \u00bbGrand Hotel\u00ab, \u00bbDie Stille in Prag\u00ab, \u00bbVom Ende des Punks in Helsinki\u00ab und \u00bbNationalstra\u00dfe\u00ab, bei btb au\u00dferdem \u00bbDer Himmel unter Berlin\u00ab. \u00bbWinterbergs letzte Reise\u00ab, der erste Roman, den Jaroslav Rudi\u0161 auf Deutsch geschrieben hat, wurde 2019 f\u00fcr den Preis der Leipziger Buchmesse nominiert. F\u00fcr sein Werk wurde er au\u00dferdem mit dem Usedomer Literaturpreis, dem Preis der Literaturh\u00e4user sowie dem Chamisso-Preis/Hellerau ausgezeichnet. Zuletzt erschien bei Luchterhand die von Jarom\u00edr 99 illustrierte Erz\u00e4hlung \u00bbWeihnachten in Prag\u00ab.</p>",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Foto_4__Jaro-Rudis__Vojt\u011bch_Ve\u0161krna.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-24",
-                    "date_to": "",
-                    "time_from": "19:00",
-                    "time_to": "21:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/wo-die-toten-sprechen"
-        },
-        {
-            "title": "Sprechstunde digitale Angebote und E-Books",
-            "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Sprechstunde_gif.gif",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-24",
-                    "date_to": "",
-                    "time_from": "14:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1-2"
-        },
-        {
-            "title": "GamingArena: Let's play \u2013 Zocken in der Bibo",
-            "description": "<p class=\"MsoNoSpacing\">Wir spielen gemeinsam neue Spiele an der PlayStation5, Nintendo Switch 2 und anderen Konsolen.</p> <p class=\"MsoNoSpacing\">Empfohlen ab 12 Jahren. Eine Anmeldung ist nicht erforderlich.</p> <p class=\"MsoNoSpacing\"><i>kostenfrei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Tietz, Zentralbibliothek, GamingArena/OpenSpace, 3. Etage",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/csm_Gaming_let_s_play_bba756537a.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-24",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/lets-play-zocken-in-der-bibo"
-        },
-        {
-            "title": "Einf\u00fchrung/ F\u00fchrerschein 3D-Drucker",
-            "description": "<p>Wie funktioniert ein 3D-Drucker? Wo finde ich nutzbare Modelle? Was muss ich einstellen?<br />Wir zeigen Ihnen, wie sie den 3D-Drucker und die Software PursaSlicer bedienen. Die Einf\u00fchrung dauert circa 1,5 Stunden und ist kostenfrei.</p> <p>Danach erhalten Sie einen F\u00fchrerschein und k\u00f6nnen die Technik selbstst\u00e4ndig nutzen.</p> <p>M\u00f6chten Sie sich schon vorab mit 3D-Drucken besch\u00e4ftigen? Dann st\u00f6bern Sie doch mal in unseren Medien zu 3D-Druck oder besuchen Sie den Kurs \u201e3D-Druck \u2013Grundlagen\u201c auf unserem E-Learning-Portal.</p> <p>Zielgruppe: <strong>Einf\u00fchrungsveranstaltung f\u00fcr Erwachsene und Kinder ab 12 Jahren in Begleitung eines Erwachsenen</strong></p> <p><i>kostenfrei, mit Anmeldung</i></p>  <p>Die Termine:<br />Donnerstag | 24.09. | 15 bis 17 Uhr<br /><br />Ort: TIETZ, Zentralbibliothek, BibLab-C, MakerBereich</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/1695049139058.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-09-24",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1-1-1"
-        },
-        {
             "title": "Abschied Literaturstipendiaten der Stadt Chemnitz 2026",
             "description": "<p><strong>Ort:</strong> TIETZ, Neue S\u00e4chsische Galerie</p> <p><i>Eintritt: frei</i></p> <p>Am Ende ihres Literaturstipendiums 2026 der Stadt Chemnitz werden die Schriftstellerin und Regisseurin Judith Kuckart und der Fotograf Burkhard Peter Ergebnisse ihres Aufenthalts in Text und Bild pr\u00e4sentieren. Dabei wird Chemnitz als \u00e4u\u00dfere Stadtlandschaft eine Rolle spielen. Doch wird das Tandem Kuckart/Peter zugleich versuchen, unsichtbare Alltagsgeschichten aufzusp\u00fcren.&nbsp;</p> <p>Den Abend begleiten musikalisch Salome Ahmend am Schlagwerk und Raissa Mehner an der Gitarre. Dem Duo wird ein \u201eHerzschlag der Freiheit\u201c nachgesagt.</p>",
             "organizer": "",
@@ -170,7 +74,7 @@
         },
         {
             "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG) - auch f\u00fcr Kinder",
-            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 7 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Dungeons &amp; Dragons (Deutsch, ab 14 Jahre)&nbsp;- ** RUNDE IST VOLL **<br />* Fiasco (ENGLISH, 16+ years)&nbsp;<br />* Honey Heist (ihr spielt B\u00e4ren, die einen Bank\u00fcberfall planen... Deutsch, ab 8 Jahre)&nbsp;<br />* <i>Yokai Hunters Society (ihr spielt Geisterj\u00e4ger in Japan vor 150 Jahren\u2026 Deutsch, ab 8 Jahre)</i> - ** RUNDE IST VOLL **</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
+            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 7 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Dungeons &amp; Dragons (Deutsch, ab 14 Jahre)&nbsp;- ** RUNDE IST VOLL **<br />* Fiasco (ENGLISH, 16+ years)&nbsp;- ** RUNDE IST VOLL **<br />* Honey Heist (ihr spielt B\u00e4ren, die einen Bank\u00fcberfall planen... Deutsch, ab 8 Jahre)&nbsp;<br />* <i>Yokai Hunters Society (ihr spielt Geisterj\u00e4ger in Japan vor 150 Jahren\u2026 Deutsch, ab 8 Jahre)</i> - ** RUNDE IST VOLL **</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, GamingArena/OpenSpace, 3. Etage",
             "room": "",
@@ -2218,6 +2122,30 @@
             "ticket_url": "",
             "ticket_phone": "",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/digitale-barrieren-und-wie-wir-sie-ueberwinden"
+        },
+        {
+            "title": "\"Hand in Hand f\u00fcr Fr\u00fchchen\"",
+            "description": "<p>Musik verbindet die Menschen und schenkt Hoffnung.</p>  <p>So soll auch dieses Jahr wieder Hoffnung geschenkt werden, denn am 14.11.2026 laden der Elternverein Chemnitzer Fr\u00fchstarter e.V. und die St\u00e4dtische Musikschule Chemnitz zum traditionellen Benefizkonzert \u201eHand in Hand f\u00fcr Fr\u00fchchen\u201c ein. Dabei werden Spenden f\u00fcr die Familien fr\u00fchgeborener Babys gesammelt.</p> <p>Damit wollen wir gemeinsam im Vorfeld des Weltfr\u00fchgeborenentages (15. November) ein Zeichen f\u00fcr die kleinsten K\u00e4mpferinnen und K\u00e4mpfer unserer Gesellschaft und ihre Familien setzen. Ein fr\u00fcher Start ins Leben ist f\u00fcr Babys und ihre Eltern eine emotionale Ausnahmesituation, die spezielle Hilfe erfordert und daher unterst\u00fctzt werden muss.</p> <p>Freuen Sie sich auf ein abwechslungsreiches Programm der Musikerinnen und Musiker, der St\u00e4dtischen Musikschule Chemnitz unter Leitung von Sophie B\u00f6hmchen-Ru\u00df und Tina Pulst.</p>  <p>Kommen Sie vorbei, genie\u00dfen Sie die Musik und reichen den Fr\u00fchchen Ihre Hand!</p>",
+            "organizer": "",
+            "location": "Konzertsaal / St\u00e4dtische Musikschule Chemnitz",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Fr\u00fcchenkonzert2026.png",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-14",
+                    "date_to": "",
+                    "time_from": "17:30",
+                    "time_to": "19:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/hand-in-hand-fuer-fruehchen"
         },
         {
             "title": "Buchverkauf",
