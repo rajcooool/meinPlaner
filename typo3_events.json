@@ -1,30 +1,6 @@
 {
     "events": [
         {
-            "title": "Sprechstunde digitale Angebote und E-Books",
-            "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Sprechstunde3.png",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-01",
-                    "date_to": "",
-                    "time_from": "14:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1"
-        },
-        {
             "title": "Was es bei einem Picknick mit Deutschen zu beachten gibt",
             "description": "<div class=\"cc_content\"><p>Termin: Freitag, 2. Oktober 2026, Beginn 17 Uhr</p> <p>Ort: TIETZ, Stefan-Heym-Forum (3. Etage)</p> <p><i>Eintritt: frei</i></p> <p>Gundula Brunner - eine Anw\u00e4ltin f\u00fcr Migrationsrecht - hat zahlreiche Menschen auf ihrem Weg zu einem rechtm\u00e4\u00dfigen Aufenthalt begleitet. Mit einigen ihrer ehemaligen Mandantinnen und Mandanten hat sie Gespr\u00e4che gef\u00fchrt, um zu erfahren, wie sie leben, was sie hoffen und wovon sie tr\u00e4umen. Die Autorin liest aus ihrem Buch \u00fcber das Ankommen von Gefl\u00fcchteten in Deutschland. Sie erz\u00e4hlt aber auch dar\u00fcber, wie die Hilfsbereitschaft Einzelner den entscheidenden Unterschied machen kann.</p> <p>Eine Veranstaltung des Migrationsbeirates der Stadt Chemnitz in Kooperation mit der Stadtbibliothek&nbsp;im Rahmen von den Interkulturellen Wochen in Chemnitz</p></div>",
             "organizer": "",
