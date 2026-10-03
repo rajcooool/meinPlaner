@@ -1,54 +1,6 @@
 {
     "events": [
         {
-            "title": "Was es bei einem Picknick mit Deutschen zu beachten gibt",
-            "description": "<div class=\"cc_content\"><p>Termin: Freitag, 2. Oktober 2026, Beginn 17 Uhr</p> <p>Ort: TIETZ, Stefan-Heym-Forum (3. Etage)</p> <p><i>Eintritt: frei</i></p> <p>Gundula Brunner - eine Anw\u00e4ltin f\u00fcr Migrationsrecht - hat zahlreiche Menschen auf ihrem Weg zu einem rechtm\u00e4\u00dfigen Aufenthalt begleitet. Mit einigen ihrer ehemaligen Mandantinnen und Mandanten hat sie Gespr\u00e4che gef\u00fchrt, um zu erfahren, wie sie leben, was sie hoffen und wovon sie tr\u00e4umen. Die Autorin liest aus ihrem Buch \u00fcber das Ankommen von Gefl\u00fcchteten in Deutschland. Sie erz\u00e4hlt aber auch dar\u00fcber, wie die Hilfsbereitschaft Einzelner den entscheidenden Unterschied machen kann.</p> <p>Eine Veranstaltung des Migrationsbeirates der Stadt Chemnitz in Kooperation mit der Stadtbibliothek&nbsp;im Rahmen von den Interkulturellen Wochen in Chemnitz</p></div>",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.1_Gundula_Brunner-quer.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-02",
-                    "date_to": "",
-                    "time_from": "17:00",
-                    "time_to": "20:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/was-es-bei-einem-picknick-mit-deutschen-zu-beachten-gibt-1"
-        },
-        {
-            "title": "Was es bei einem Picknick mit Deutschen zu beachten gibt",
-            "description": "<p>Ort: TIETZ, Stefan-Heym-Forum (3. Etage)</p> <p><i>Eintritt: frei</i></p> <p>Gundula Brunner - eine Anw\u00e4ltin f\u00fcr Migrationsrecht - hat zahlreiche Menschen auf ihrem Weg zu einem rechtm\u00e4\u00dfigen Aufenthalt begleitet. Mit einigen ihrer ehemaligen Mandantinnen und Mandanten hat sie Gespr\u00e4che gef\u00fchrt, um zu erfahren, wie sie leben, was sie hoffen und wovon sie tr\u00e4umen. Die Autorin liest aus ihrem Buch \u00fcber das Ankommen von Gefl\u00fcchteten in Deutschland. Sie erz\u00e4hlt aber auch dar\u00fcber, wie die Hilfsbereitschaft Einzelner den entscheidenden Unterschied machen kann.</p> <p>Eine Veranstaltung des Migrationsbeirates der Stadt Chemnitz in Kooperation mit der Stadtbibliothek&nbsp;im Rahmen von den Interkulturellen Wochen in Chemnitz</p>",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.1_Gundula_Brunner-quer.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-02",
-                    "date_to": "",
-                    "time_from": "17:00",
-                    "time_to": "20:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/was-es-bei-einem-picknick-mit-deutschen-zu-beachten-gibt"
-        },
-        {
             "title": "One Love for Jamaica",
             "description": "<p>Am 3. Oktober begr\u00fc\u00dft Steve Higgins zu einem besonderen musikalischen Nachmittag in unserer Musikschule. Eingeladen sind Kinder, Jugendliche, Erwachsene, Senioren, eben alle, die sich f\u00fcr Reggae, jamaikanische Musik, Rhythmus, Gesang und kulturellen Austausch interessieren!</p> <p>Von 14:00 bis 16:00 Uhr wird zun\u00e4chst in die Welt der jamaikanischen Musik eingetaucht. Im Mittelpunkt stehen jamaikanische Folk Songs, Reggae, Rhythmus und Gesang. Dabei geht es nicht nur ums gemeinsame Musizieren, sondern auch um das Kennenlernen jamaikanischer Kultur und musikalischer Traditionen.</p> <p>Nach einer kurzen Pause bildet den Abschluss um 17:00 Uhr eine gemeinsame Pr\u00e4sentation, bei der die Teilnehmenden zeigen k\u00f6nnen, was sie an diesem Nachmittag musikalisch entdeckt und erarbeitet haben.</p> <p>Mit dieser Veranstaltung wird jungen Menschen ein direkter Zugang zu jamaikanischer Musik und Kultur erm\u00f6glicht. Zeitgleich wird ein Zeichen der Solidarit\u00e4t f\u00fcr die Menschen in Not in Jamaika gesetzt. Die Teilnahmebeitr\u00e4ge und Spenden werden von dem Verein \u201cTANZ | MODERNE | TANZ e.V. F\u00f6rderverein f\u00fcr zeitgen\u00f6ssischen Tanz Chemnitz und Region\u201d f\u00fcr Gemeinden in Jamaika gesammelt, die vom Hurrikan \u201eMelissa\u201c betroffen sind.</p> <p>All are welcome!</p> <p>Veranstalter: TANZ | MODERNE | TANZ e.V.</p>  <p><strong>Teilnahmegeb\u00fchr:</strong> 5 \u20ac</p> <p>\u2192 Die Verwaltung nimmt gern Anmeldungen entgegen. Bitte senden Sie Ihren vollst\u00e4ndigen Namen und Ihre Mail-Adresse an Musikschule@Stadt-Chemnitz.de.<br />&nbsp;</p>",
             "organizer": "",
