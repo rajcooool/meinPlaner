@@ -1,54 +1,6 @@
 {
     "events": [
         {
-            "title": "One Love for Jamaica",
-            "description": "<p>Am 3. Oktober begr\u00fc\u00dft Steve Higgins zu einem besonderen musikalischen Nachmittag in unserer Musikschule. Eingeladen sind Kinder, Jugendliche, Erwachsene, Senioren, eben alle, die sich f\u00fcr Reggae, jamaikanische Musik, Rhythmus, Gesang und kulturellen Austausch interessieren!</p> <p>Von 14:00 bis 16:00 Uhr wird zun\u00e4chst in die Welt der jamaikanischen Musik eingetaucht. Im Mittelpunkt stehen jamaikanische Folk Songs, Reggae, Rhythmus und Gesang. Dabei geht es nicht nur ums gemeinsame Musizieren, sondern auch um das Kennenlernen jamaikanischer Kultur und musikalischer Traditionen.</p> <p>Nach einer kurzen Pause bildet den Abschluss um 17:00 Uhr eine gemeinsame Pr\u00e4sentation, bei der die Teilnehmenden zeigen k\u00f6nnen, was sie an diesem Nachmittag musikalisch entdeckt und erarbeitet haben.</p> <p>Mit dieser Veranstaltung wird jungen Menschen ein direkter Zugang zu jamaikanischer Musik und Kultur erm\u00f6glicht. Zeitgleich wird ein Zeichen der Solidarit\u00e4t f\u00fcr die Menschen in Not in Jamaika gesetzt. Die Teilnahmebeitr\u00e4ge und Spenden werden von dem Verein \u201cTANZ | MODERNE | TANZ e.V. F\u00f6rderverein f\u00fcr zeitgen\u00f6ssischen Tanz Chemnitz und Region\u201d f\u00fcr Gemeinden in Jamaika gesammelt, die vom Hurrikan \u201eMelissa\u201c betroffen sind.</p> <p>All are welcome!</p> <p>Veranstalter: TANZ | MODERNE | TANZ e.V.</p>  <p><strong>Teilnahmegeb\u00fchr:</strong> 5 \u20ac</p> <p>\u2192 Die Verwaltung nimmt gern Anmeldungen entgegen. Bitte senden Sie Ihren vollst\u00e4ndigen Namen und Ihre Mail-Adresse an Musikschule@Stadt-Chemnitz.de.<br />&nbsp;</p>",
-            "organizer": "",
-            "location": "Konzertsaal / St\u00e4dtische Musikschule Chemnitz",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/One_Love_Musik_Workshop.png",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-03",
-                    "date_to": "",
-                    "time_from": "14:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/one-love-for-jamaika"
-        },
-        {
-            "title": "T\u00fcren auf mit der Maus - Kleine Wunder in eurer Stadtbibliothek",
-            "description": "<p>Wunder gibt\u2019s nicht? Von wegen!</p> <p>Tauche mit uns ein in die wundervolle Welt der Geschichten: lausche magischen Abenteuern, begib dich auf Spurensuche in der Zaubererwelt, beame dich am Green Screen an einen Fantasieort und erforsche die Wunder des Elements Wasser in faszinierenden Experimenten.</p> <p>Empfohlen ab 4 Jahren</p> <p><i>Eintritt frei</i></p>",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/260227_RZ_Maus_TamdM-2026_Onlinebanner_580x326px.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-03",
-                    "date_to": "",
-                    "time_from": "10:00",
-                    "time_to": "13:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/tueren-auf-mit-der-maus-kleine-wunder-in-eurer-stadtbibliothek"
-        },
-        {
             "title": "BibLab: Freifunk Sprechstunde",
             "description": "<p>Der Freifunk Chemnitz e.V. trifft sich inmitten einer seiner gr\u00f6\u00dften Installationen und zeigt in gem\u00fctlichem Umfeld, was mit WLAN heute alles machbar ist.</p> <p>Vom einfachen Router, den man sich ans Fenster stellt bis zur komplexen Veranstaltungsplanung k\u00f6nnt ihr mit entsprechenden Fragen vorbeikommen oder gemeinsam mit uns euren ersten eigenen Freifunk-Router einrichten.<br /><br />Zielgruppe: Technikinteressierte und Veranstaltungsplaner:innen<br />Veranstalter: Freifunk Chemnitz e.V.<br /><br />kostenfrei, ohne Anmeldung</p>",
             "organizer": "BibLab-C Projektnetzwerk",
