@@ -1,58 +1,6 @@
 {
     "events": [
         {
-            "title": "BibLab: Freifunk Sprechstunde",
-            "description": "<p>Der Freifunk Chemnitz e.V. trifft sich inmitten einer seiner gr\u00f6\u00dften Installationen und zeigt in gem\u00fctlichem Umfeld, was mit WLAN heute alles machbar ist.</p> <p>Vom einfachen Router, den man sich ans Fenster stellt bis zur komplexen Veranstaltungsplanung k\u00f6nnt ihr mit entsprechenden Fragen vorbeikommen oder gemeinsam mit uns euren ersten eigenen Freifunk-Router einrichten.<br /><br />Zielgruppe: Technikinteressierte und Veranstaltungsplaner:innen<br />Veranstalter: Freifunk Chemnitz e.V.<br /><br />kostenfrei, ohne Anmeldung</p>",
-            "organizer": "BibLab-C Projektnetzwerk",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/1717488529154.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-05",
-                    "date_to": "",
-                    "time_from": "16:00",
-                    "time_to": "19:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-freifunk-sprechstunde-tietz-edition-1-3-1-6"
-        },
-        {
-            "title": "Sprachcaf\u00e9",
-            "description": "<p>Sprachcaf\u00e9 in der Stadtbibliothek \u2013 Sprachen lernen in entspannter Atmosph\u00e4re. Lockere Unterhaltung mit deutschen Muttersprachlern. Jede/r ist willkommen: Vorbeikommen, Kontakte kn\u00fcpfen, Erfahrungen austauschen, Sprechen \u00fcben oder einfach nur zuh\u00f6ren. Ohne Druck \u2013 daf\u00fcr Tee, Pl\u00e4tzchen und nette Leute. Egal welches Sprachniveau du hast, wir freuen uns, dich kennenzulernen.</p> <p><i>Eintritt: frei</i></p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe-playmobil-pixabay.jpg",
-                    "copyright": ""
-                },
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Sprachencafe_HP.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-05",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "16:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/sprachencafe-1"
-        },
-        {
             "title": "Drei Sommer lang Paris",
             "description": "<p>TIETZ, Veranstaltungssaal, Moritzstra\u00dfe 20, 09111 Chemnitz</p> <p><i>Eintritt: frei</i></p> <p>Ulrike h\u00e4lt nichts mehr im Land der vorgeschriebenen Lebenswege. Es ist der Jahrhundertsommer 1989, als die 21-J\u00e4hrige im Zug von Leipzig Richtung Paris sitzt. Ohne ein Wort Franz\u00f6sisch zu sprechen, aber von immenser Neugier getrieben, entdeckt sie die Stadt und damit eine neue Welt als Einwanderin unter Einwanderern. Patricia Holland Moritz erz\u00e4hlt vom Mut einer Generation in den letzten Monaten der DDR und wirft einen v\u00f6llig neuartigen Blick auf eine Stadt, die als zerschrieben gilt; einen Blick, gepr\u00e4gt von dem, was wir heute Geschichte nennen und was sich damals lediglich wie eine F\u00fcgung anf\u00fchlte.</p> <p>Patricia Holland Moritz wurde in Karl-Marx-Stadt \u2013 dem heutigen Chemnitz \u2013 geboren. Sie arbeitete in Leipzig als Buchh\u00e4ndlerin, verlie\u00df dann die DDR und heuerte in Paris als Speditionskauffrau an. Nach einigen Semestern Nordamerikanistik wurde sie Bookerin f\u00fcr verschiedene Bands und dann Schriftstellerin. Neben dem Schreiben arbeitet sie f\u00fcr die SPD in Berlin-Lichtenberg und ebenda in der Obdachlosenhilfe. Bei Aufbau ver\u00f6ffentlichte sie 2021 den Roman \u00bbKa\u00dfbergen\u00ab.</p> <p>Eine Veranstaltung zum Tag der \u00c4lteren des B\u00fcrgerhaus City e. V.</p>",
             "organizer": "",
