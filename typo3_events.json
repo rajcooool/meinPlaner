@@ -1,30 +1,6 @@
 {
     "events": [
         {
-            "title": "Smartphone Sprechstunde f\u00fcr Senioren",
-            "description": "<p><strong>Ort:</strong> Stadtteilbibliothek Yorck-Center</p> <p><strong>Eintritt:</strong> frei</p> <p>Sie haben Fragen zu Einstellungen, Apps und Diensten rund um das Smartphone? Dann melden Sie sich zum Workshop der&nbsp;Nachrichtenwerkstatt an.</p>",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/mobil__c_pixabay_Pexels.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-07",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "16:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/smartphone-sprechstunde-fuer-senioren-3"
-        },
-        {
             "title": "K\u00e4pt'n Blaub\u00e4r und Hildegunst von Mythenmetz laden ein!",
             "description": "<p>Auf dem Podium diskutieren Walter Moers\u2019 Lektor Wolfgang Ferchl und die Direktorin der Ludwigsgalerie Schloss Oberhausen Christine Vogt zusammen mit den Moderatoren Marten Henning und Tobias Frank (TU Chemnitz). Dabei sollen die vielf\u00e4ltigen Fragen der Identit\u00e4t sowohl im literarischen als auch im k\u00fcnstlerischen Werk von Walter Moers beleuchtet werden. Auch die facettenreiche Selbstinszenierung des Autors, dessen wahre Identit\u00e4t weitgehend unbekannt ist, soll dabei in den Fokus r\u00fccken. Zur Einstimmung wird Christoph Grube (TU Chemnitz) zu Beginn aus dem Moerschen Werk lesen.</p> <p>Eine Veranstaltung der TU Chemnitz in Kooperation mit der Stadtbibliothek</p> <p>Ort: TIETZ, Veranstaltungssaal&nbsp;</p> <p>Eintritt: frei</p>",
             "organizer": "",
@@ -218,13 +194,13 @@
         },
         {
             "title": "Ukrainian Sounds",
-            "description": "<p>Ukrainian Sounds: Verborgene Musik der Ukraine</p> <p><br />\u201eUkrainian Sounds\u201c pr\u00e4sentiert ukrainische Kammermusik verschiedener Epochen \u2013 von Wassyl Barwinskyj und Borys Ljatoschynskyj bis zu zeitgen\u00f6ssischen Komponist:innen.</p> <p><br />Einige dieser Werke waren \u00fcber Jahrzehnte kaum zug\u00e4nglich und sind bis heute auf europ\u00e4ischen Konzertb\u00fchnen nur selten zu h\u00f6ren. Das Konzert verbindet wiederentdecktes musikalisches Erbe mit der ukrainischen Musik der Gegenwart.</p> <p><br />Das Ensemble tritt in der Besetzung eines Klavierquintetts auf. Im Laufe des Konzerts wechseln die Musiker:innen zwischen verschiedenen kammermusikalischen Besetzungen \u2013 vom Solo und Duo bis zum vollst\u00e4ndigen Klavierquintett.</p> <p><br />Das Projekt wurde im Rahmen von Mikroprojekte Chemnitz 2025 realisiert.</p>   <p>Veranstalter: Sense UA Chamber music Collective</p> <p><strong>Tickets online:</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Normal:&nbsp;&nbsp;&nbsp;15,57\u20ac<br />&nbsp;&nbsp;&nbsp;&nbsp;Erm\u00e4\u00dfigt: &nbsp;12,50\u20ac</p>",
+            "description": "<p>Erleben Sie einen Abend mit ukrainischer Kammermusik, interpretiert von f\u00fcnf professionellen Musiker:innen des Ensembles SenseUA</p> <p><br />\u201eUkrainian Sounds\u201c pr\u00e4sentiert ukrainische Kammermusik verschiedener Epochen \u2013 von Wassyl Barwinskyj und Borys Ljatoschynskyj bis zu zeitgen\u00f6ssischen Komponist:innen.</p> <p><br />Einige dieser Werke waren \u00fcber Jahrzehnte kaum zug\u00e4nglich und sind bis heute auf europ\u00e4ischen Konzertb\u00fchnen nur selten zu h\u00f6ren. Das Konzert verbindet wiederentdecktes musikalisches Erbe mit der ukrainischen Musik der Gegenwart.</p> <p><br />Das Ensemble tritt in der Besetzung eines Klavierquintetts auf. Im Laufe des Konzerts wechseln die Musiker:innen zwischen verschiedenen kammermusikalischen Besetzungen \u2013 vom Solo und Duo bis zum vollst\u00e4ndigen Klavierquintett.</p> <p><br />Das Projekt wurde im Rahmen von Mikroprojekte Chemnitz 2025 realisiert.</p>  <p><strong><u>Besetzung:</u></strong></p> <p><strong>Daria Tarasova</strong> - Violine (k\u00fcnstlerische Leitung)</p> <p><strong>Taras Zdaniuk</strong> - Violine</p> <p><strong>Anastasiya Myakushko</strong> - Violoncello</p> <p><strong>Eduard Poharetski</strong> - Bratsche</p> <p><strong>Robert Umansky</strong> - Klavier</p>  <p>Veranstalter: Sense UA Chamber music Collective</p> <p><strong>Tickets online:</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;Normal:&nbsp;&nbsp;&nbsp;15,57\u20ac<br />&nbsp;&nbsp;&nbsp;&nbsp;Erm\u00e4\u00dfigt: &nbsp;12,50\u20ac</p>",
             "organizer": "",
             "location": "Konzertsaal / St\u00e4dtische Musikschule Chemnitz",
             "room": "",
             "images": [
                 {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Ukrainische_Sounds_Plakat_11.10.2026.jpg",
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Ukrainische_Sounds_cropped.png",
                     "copyright": "Foto:Tom\u00e1\u0161 Tracz"
                 }
             ],
