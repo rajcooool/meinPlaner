@@ -1,6 +1,166 @@
 {
     "events":  [
                    {
+                       "title":  "Gefühle verstehen, gelassener leben",
+                       "description":  "Ob Stress, Konflikte oder innere Unruhe: Viele Menschen unterschätzen, welchen Einfluss ihre Gefühle auf körperliche Gesundheit, Beziehungen und Selbstwert haben. Emotionen gelten oft als störend und werden deshalb unterdrückt. Doch sie verschwinden nicht. Sie wirken weiter, als innerer Stress, der Nerven- und Immunsystem beeinflussen kann. \r\nIn diesem Kurs wird aufgezeigt, warum unser Umgang mit Gefühlen entscheidend für Gesundheit und Lebensqualität ist und wie emotionales Bewusstsein zu mehr innerer Balance und Stabilität führen kann.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.21",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-06-07",
+                                         "date_to":  "2027-06-07",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2732203",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Burnout und depressive Phasen erkennen, verstehen und neue Kraft finden",
+                       "description":  "Wenn die Seele erschöpft ist, fühlen sich selbst kleine Aufgaben schwer an. Anhaltende Niedergeschlagenheit, Rückzug oder innere Leere werden oft als persönliches Versagen missverstanden. Doch Depression hat einen Sinn, denn sie weist auf innere Überlastung oder ungelöste Belastungen hin. Diese Signale gilt es rechtzeitig zu erkennen und zu verstehen. \r\nIn diesem Kurs erfahren Sie, woran eine depressive Episode erkennbar ist, welche Ursachen eine Rolle spielen können und welche unterstützenden Wege helfen, bevor sich daraus eine schwere Erkrankung entwickelt.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.21",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-05-03",
+                                         "date_to":  "2027-05-03",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2732204",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Die Kunst des Fermentierens - Grundlagen",
+                       "description":  "Rohes fermentiertes Gemüse ist lebendige Nahrung, die natürliche Enzyme und aktive Milchsäurebakterien enthält. Diese nützlichen Winzlinge schaffen ein gesundes und ausgewogenes Milieu in den Verdauungsorganen und können die Darmflora harmonisieren. \r\n\r\nIm Kurs entdecken Sie uralte und traditionsreiche Techniken des Fermentierens neu und versehen diese mit einer modernen Note. Sie können vielfältige Rezepte wie Kimchi oder veganen Käse kennenlernen. Der Kurs vermittelt zudem ausgewählte Techniken, um selbst in der Küche aktiv zu werden.",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-03-03",
+                                         "date_to":  "2027-03-03",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2732600",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Fermentieren (Aufbaukurs)– Geschmack, Vielfalt und Anwendung",
+                       "description":  "Aufbauend auf den Grundlagen widmet sich dieser Kurs der geschmacklichen Vielfalt fermentierter Lebensmittel und ihrer Verwendung im Alltag. \r\nSie lernen weitere Fermentvarianten kennen, z. B. Kimchi oder ein pflanzliches Nussferment, und erhalten Einblicke in unterschiedliche Herstellungsweisen. Im Mittelpunkt stehen dabei der Geschmack sowie die praktische Anwendung in der Küche. \r\nGemeinsam bereiten wir ausgewählte Fermente zu und verkosten verschiedene Reifegrade. Zudem erfahren Sie, wie fermentiertes Gemüse in Salaten, Bowls oder Aufstrichen eingesetzt werden kann. Ein selbst gebackenes, bekömmliches „Darmschmeichler“-Brot ergänzt die Verkostung und dient als geschmackliche Grundlage. \r\n\r\nDer Kurs bietet Raum für Austausch, praktische Tipps und Inspiration zur Integration fermentierter Lebensmittel in den Alltag.",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-04-06",
+                                         "date_to":  "2027-04-06",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2732601",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Frühlingsküche – Sprossen, Kräuter \u0026 junges Grün",
+                       "description":  "Wenn im Frühling die ersten Kräuter sprießen und frisches Grün wieder auf den Teller kommt, darf auch unsere Küche leichter, bunter und lebendiger werden. \r\nIn diesem Kochkurs entdecken Sie, wie vielseitig sich Sprossen, frische Kräuter und saisonales Frühlingsgemüse in der pflanzlichen Küche verwenden lassen. Gemeinsam bereiten wir unter anderem würzige Kräuter-Fladen mit grüner Erbsencreme, einen lauwarmen Quinoa-Spargel-Salat, Frühlingsgemüse mit knuspriger Mandel-Kräuter-Kruste und einen frischen Sprossen-Salat zu. Eine feine Zitronen-Mohn-Creme mit Erdbeeren rundet unser Frühlingsmenü ab. Nebenbei erfahren Sie, wie sich frisches Grün, Sprossen und Kräuter unkompliziert in den Alltag integrieren lassen. Im Mittelpunkt stehen jedoch das gemeinsame Zubereiten, Entdecken und Genießen. \r\n\r\nAlle Gerichte sind vegan und alltagstauglich.",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-05-03",
+                                         "date_to":  "2027-05-03",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2732602",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Ostern natürlich süß – Pralinen, Küchlein \u0026 feine Naschereien",
+                       "description":  "Ostern darf nach Schokolade, feinen Nüssen, fruchtiger Süße und kleinen besonderen Köstlichkeiten schmecken. In diesem Kurs entdecken Sie, wie sich pflanzliche Naschereien und Gebäck ohne raffinierten Zucker genussvoll und kreativ zubereiten lassen. \r\nGemeinsam entstehen unter anderem gefüllte Schoko-Ostereier mit Pistaziencreme, kleine Möhren-Mandel-Küchlein mit Zitronencreme und eine knusprige Birnen-Mandel-Galette. Auch feine Pralinen und Konfekt dürfen auf unserem österlichen Naschteller nicht fehlen. \r\nDabei lernen Sie verschiedene Möglichkeiten natürlicher Süße kennen und erfahren, wie sich Früchte, Nüsse, Kakao, Gewürze und andere vollwertige Zutaten so kombinieren lassen, dass Genuss und bewusste Ernährung ganz selbstverständlich zusammenfinden. \r\nAm Ende genießen wir unsere kleinen Osterköstlichkeiten gemeinsam – und vielleicht wandert die eine oder andere Inspiration mit auf die eigene Ostertafel. \r\nAlle Zubereitungen sind vegan.",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-03-18",
+                                         "date_to":  "2027-03-18",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2732604",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Klarer Kopf – Ernährung für Konzentration und stabile Energie",
+                       "description":  "Was wir essen und trinken, kann mitentscheiden, wie wach, konzentriert und leistungsfähig wir uns im Alltag fühlen. Doch welche Rolle spielen dabei Blutzucker, Flüssigkeit, Ballaststoffe, Eiweiß und gute Fettquellen – und braucht es wirklich spezielle „Brainfoods“? \r\nIn diesem Kurs verbinden wir verständliches Ernährungswissen mit Selbstbeobachtung und praktischer Erfahrung. Sie erfahren, welche Faktoren Konzentration und eine stabile Energieversorgung unterstützen können, und schauen zugleich auf Ihren eigenen Alltag: Wann fühlen Sie sich geistig klar und wach? Wann kommt das typische Nachmittagstief? Und was hat die Ernährung möglicherweise damit zu tun? \r\nAnhand konkreter Alltagssituationen entdecken wir, wie sich Mahlzeiten so zusammensetzen lassen, dass sie gut nähren und länger tragen. Eine gemeinsam zubereitete Mahlzeitenkomponente macht die theoretischen Zusammenhänge anschließend praktisch erfahrbar. \r\nDabei geht es nicht um einzelne vermeintliche Wundermittel oder starre Ernährungsregeln, sondern darum, Zusammenhänge besser zu verstehen und herauszufinden, was im eigenen Alltag hilfreich sein kann. \r\nDer Kurs verbindet Wissen, Austausch, Selbstwahrnehmung und Genuss und gibt alltagstaugliche Impulse für eine bewusste, pflanzenbetonte Ernährung. \r\nDie praktische Zubereitung ist vegan.",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-06-01",
+                                         "date_to":  "2027-06-01",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2732605",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Darmgesund genießen – Vielfalt auf dem Teller, Vielfalt im Bauch",
+                       "description":  "Was wir täglich essen, beeinflusst auch die Lebensbedingungen unserer Darmflora. Doch darmfreundliche Ernährung bedeutet weit mehr als einzelne „gesunde“ Lebensmittel oder den gelegentlichen Griff zu einem fermentierten Produkt. \r\nIn diesem Kurs entdecken Sie, welche Rolle pflanzliche Vielfalt, Ballaststoffe und fermentierte Lebensmittel für eine darmbewusste Ernährung spielen können. Verständliche Wissensimpulse wechseln sich mit kleinen Übungen zur Selbstbeobachtung und praktischer Küchenarbeit ab. Dabei schauen Sie auch auf Ihren eigenen Ernährungsalltag: Wie vielfältig esse ich eigentlich – und wo lassen sich ganz unkompliziert neue Lebensmittel integrieren? \r\nIm praktischen Teil bereiten wir gemeinsam eine bunte, pflanzenreiche Mahlzeit und kleine ergänzende Komponenten zu. Dabei wird unmittelbar erfahrbar, wie sich unterschiedliche Gemüse, Hülsenfrüchte, Vollkornprodukte, Kräuter, Saaten und Fermente genussvoll miteinander verbinden lassen. \r\nIm Mittelpunkt stehen nicht starre Ernährungsregeln, sondern Verstehen, Ausprobieren und Genießen. Sie nehmen alltagstaugliche Ideen und einen persönlichen Impuls mit, wie Sie Schritt für Schritt mehr Vielfalt auf Ihren Teller bringen können. \r\n\r\nAlle praktischen Zubereitungen sind vegan.",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-06-14",
+                                         "date_to":  "2027-06-14",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2732606",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Chemnitz und seine Vorgeschichte",
                        "description":  "Was steckt hinter „Aus wilder Wurzel …“, dem „Wolfsjäger“ und der gefälschten Urkunde von 1143? \r\nIn diesem Vortrag erfahren Sie, wie spannend und überraschend die Chemnitzer Vorzeit wirklich ist. Der Referent nimmt Sie mit auf eine Zeitreise bis zu 291 Millionen Jahre zurück und zeigt, wie Chemnitz auf erdgeschichtlich fruchtbarem Boden entstand. Ein Kurs für alle, die ihre Stadt und ihre Geschichte neu entdecken möchten.",
                        "location":  "TIETZ",
@@ -18,46 +178,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2622102",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Gefühle verstehen, gelassener leben",
-                       "description":  "Ob Stress, Konflikte oder innere Unruhe: Viele Menschen unterschätzen, welchen Einfluss ihre Gefühle auf körperliche Gesundheit, Beziehungen und Selbstwert haben. Emotionen gelten oft als störend und werden deshalb unterdrückt. Doch sie verschwinden nicht. Sie wirken weiter, als innerer Stress, der Nerven- und Immunsystem beeinflussen kann. \r\nIn diesem Kurs wird aufgezeigt, warum unser Umgang mit Gefühlen entscheidend für Gesundheit und Lebensqualität ist und wie emotionales Bewusstsein zu mehr innerer Balance und Stabilität führen kann.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.21",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-09-14",
-                                         "date_to":  "2026-09-14",
-                                         "time_to":  "20:00",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632200",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Ärger im Alltag: Gelassen bleiben, wenn es \"hochkocht\"",
-                       "description":  "Ärger und Wut sind kraftvolle Emotionen und oft schwer zu kontrollieren. Manche Menschen unterdrücken sie, andere reagieren impulsiv. Doch Ärger ist eine natürliche Schutzreaktion, die auf verletzte Grenzen und unerfüllte Bedürfnisse hinweist. Wird er nicht verstanden, kann er sich in Wutausbrüchen, Schuldgefühlen oder körperlichen Beschwerden zeigen. \r\nIn diesem Kurs werden die Funktionen von Ärger erklärt und praktische Wege aufgezeigt, wie Sie ihn bewusst wahrnehmen, anders damit umgehen und konstruktiv ausdrücken können.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.21",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-09-28",
-                                         "date_to":  "2026-09-28",
-                                         "time_to":  "20:00",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632201",
                        "ticket_phone":  ""
                    },
                    {
@@ -98,66 +218,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632203",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Die Kunst des Fermentierens - Grundlagen",
-                       "description":  "Rohes fermentiertes Gemüse ist lebendige Nahrung, die natürliche Enzyme und aktive Milchsäurebakterien enthält. Diese nützlichen Winzlinge schaffen ein gesundes und ausgewogenes Milieu in den Verdauungsorganen und können die Darmflora harmonisieren. \r\n\r\nIm Kurs entdecken Sie uralte und traditionsreiche Techniken des Fermentierens neu und versehen diese mit einer modernen Note. Sie können vielfältige Rezepte wie Kimchi oder veganen Käse kennenlernen. Der Kurs vermittelt zudem ausgewählte Techniken, um selbst in der Küche aktiv zu werden.",
-                       "location":  "TIETZ",
-                       "room":  "Kochstudio 5.23.0",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-09-14",
-                                         "date_to":  "2026-09-14",
-                                         "time_to":  "20:00",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632600",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Fermentieren (Aufbaukurs)– Geschmack, Vielfalt und Anwendung",
-                       "description":  "Aufbauend auf den Grundlagen widmet sich dieser Kurs der geschmacklichen Vielfalt fermentierter Lebensmittel und ihrer Verwendung im Alltag. \r\nSie lernen weitere Fermentvarianten kennen, z. B. Kimchi oder ein pflanzliches Nussferment, und erhalten Einblicke in unterschiedliche Herstellungsweisen. Im Mittelpunkt stehen dabei der Geschmack sowie die praktische Anwendung in der Küche. \r\nGemeinsam bereiten wir ausgewählte Fermente zu und verkosten verschiedene Reifegrade. Zudem erfahren Sie, wie fermentiertes Gemüse in Salaten, Bowls oder Aufstrichen eingesetzt werden kann. Ein selbst gebackenes, bekömmliches „Darmschmeichler“-Brot ergänzt die Verkostung und dient als geschmackliche Grundlage. \r\n\r\nDer Kurs bietet Raum für Austausch, praktische Tipps und Inspiration zur Integration fermentierter Lebensmittel in den Alltag.",
-                       "location":  "TIETZ",
-                       "room":  "Kochstudio 5.23.0",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-09-30",
-                                         "date_to":  "2026-09-30",
-                                         "time_to":  "20:00",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632601",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Goldener Herbst – warme, farbenfrohe Gerichte der Saison",
-                       "description":  "Wenn sich die Blätter färben und die Tage kühler werden, wächst die Lust auf aromatische, wärmende Gerichte aus der herbstlichen Ernte. In diesem Kurs entdecken Sie, wie sich saisonale Zutaten kreativ und ausgewogen zu nährenden Speisen kombinieren lassen.\r\nEs entstehen unter anderem ein herzhafter Buchweizen-Pilz-Auflauf mit frischen Kräutern sowie ein warmer Rosenkohl-Trauben-Salat mit gerösteten Haselnüssen – ausgewogen, saisonal und geschmacklich fein abgestimmt.\r\nEin vielseitiger Kurs für alle, die die Aromen des Herbstes bewusst und genussvoll auf den Teller bringen möchten.",
-                       "location":  "TIETZ",
-                       "room":  "Kochstudio 5.23.0",
-                       "organizer":  "",
-                       "images":  [
-
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-10-07",
-                                         "date_to":  "2026-10-07",
-                                         "time_to":  "20:00",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632604",
                        "ticket_phone":  ""
                    },
                    {
@@ -238,6 +298,46 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632611",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Afternoon Tea",
+                       "description":  "Die Voraussetzung für die Kursteilnahme sind Kenntnisse mindestens auf der Stufe A2.\r\n\r\nVery British, very tasty. Come for tea, snacks and fun!\r\nTauchen Sie ein in die charmante Welt britischer Teekultur! Kommen Sie bei einer Tasse feinen Tees und traditionellen Häppchen auf Englisch miteinander ins Gespräch. Hier stehen Begegnung und Freude an der englischen Sprache und Kultur im Mittelpunkt. Tee und Snacks sind inkludiert.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 5.22",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-10-29",
+                                         "date_to":  "2026-10-29",
+                                         "time_to":  "18:00",
+                                         "time_from":  "16:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W264ES70",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Die Hacker kommen! Live-Hacking",
+                       "description":  "Betrug beim Onlineshopping, gehackte Accounts oder Schadsoftware – laut Bitkom-Studie 2025 war mehr als jede zweite Person in Deutschland in den letzten zwölf Monaten von Onlinebetrug betroffen. In diesem Kurs erhalten Sie spannende Einblicke in die Welt der Cyberkriminalität: Erfahrene IT-Expertinnen und -Experten demonstrieren live, wie Angriffe ablaufen und wo typische Sicherheitslücken beim täglichen Surfen im Internet entstehen. Gleichzeitig lernen Sie praxisnahe Strategien kennen, mit denen Sie Ihre eigenen Daten effektiv schützen können. \r\n\r\nDiese Veranstaltung findet im Rahmen der Reihe \"Digital? Aber sicher!\" in Zusammenarbeit mit der Sächsischen Staatskanzlei, der Verbraucherzentrale Sachsen, dem Bundesamt für Sicherheit in der Informationstechnik, der Digitalagentur Sachsen und der Sächsischen Datenschutz- und Transparenzbeauftragten statt.",
+                       "location":  "TIETZ",
+                       "room":  "Veranstaltungssaal",
+                       "organizer":  "",
+                       "images":  [
+
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-10-28",
+                                         "date_to":  "2026-10-28",
+                                         "time_to":  "19:00",
+                                         "time_from":  "17:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265M402",
                        "ticket_phone":  ""
                    }
                ]
