@@ -7,7 +7,10 @@
                        "room":  "Kursraum 4.21",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -27,7 +30,10 @@
                        "room":  "Kursraum 4.21",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -47,7 +53,10 @@
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -67,7 +76,10 @@
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -82,12 +94,15 @@
                    },
                    {
                        "title":  "Frühlingsküche – Sprossen, Kräuter \u0026 junges Grün",
-                       "description":  "Wenn im Frühling die ersten Kräuter sprießen und frisches Grün wieder auf den Teller kommt, darf auch unsere Küche leichter, bunter und lebendiger werden. \r\nIn diesem Kochkurs entdecken Sie, wie vielseitig sich Sprossen, frische Kräuter und saisonales Frühlingsgemüse in der pflanzlichen Küche verwenden lassen. Gemeinsam bereiten wir unter anderem würzige Kräuter-Fladen mit grüner Erbsencreme, einen lauwarmen Quinoa-Spargel-Salat, Frühlingsgemüse mit knuspriger Mandel-Kräuter-Kruste und einen frischen Sprossen-Salat zu. Eine feine Zitronen-Mohn-Creme mit Erdbeeren rundet unser Frühlingsmenü ab. Nebenbei erfahren Sie, wie sich frisches Grün, Sprossen und Kräuter unkompliziert in den Alltag integrieren lassen. Im Mittelpunkt stehen jedoch das gemeinsame Zubereiten, Entdecken und Genießen. \r\n\r\nAlle Gerichte sind vegan und alltagstauglich.",
+                       "description":  "Wenn im Frühling die ersten Kräuter und frisches Grün auf den Teller kommen, wird auch die Küche leichter, bunter und lebendiger. \r\nIn diesem Kochkurs entdecken Sie, wie vielseitig sich Sprossen, frische Kräuter und saisonales Frühlingsgemüse verwenden lassen. Gemeinsam bereiten Sie würzige Kräuter-Fladen mit grüner Erbsencreme, einen lauwarmen Quinoa-Spargel-Salat, Frühlingsgemüse mit knuspriger Mandel-Kräuter-Kruste und einen frischen Sprossen-Salat zu. Eine feine Zitronen-Mohn-Creme mit Erdbeeren rundet das Frühlingsmenü ab. \r\n\r\nNebenbei erfahren Sie, wie sich frisches Grün, Sprossen und Kräuter unkompliziert in den Alltag integrieren lassen. Im Mittelpunkt stehen jedoch das gemeinsame Zubereiten, Entdecken und Genießen. Alle Gerichte sind vegan und alltagstauglich.",
                        "location":  "TIETZ",
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -102,12 +117,15 @@
                    },
                    {
                        "title":  "Ostern natürlich süß – Pralinen, Küchlein \u0026 feine Naschereien",
-                       "description":  "Ostern darf nach Schokolade, feinen Nüssen, fruchtiger Süße und kleinen besonderen Köstlichkeiten schmecken. In diesem Kurs entdecken Sie, wie sich pflanzliche Naschereien und Gebäck ohne raffinierten Zucker genussvoll und kreativ zubereiten lassen. \r\nGemeinsam entstehen unter anderem gefüllte Schoko-Ostereier mit Pistaziencreme, kleine Möhren-Mandel-Küchlein mit Zitronencreme und eine knusprige Birnen-Mandel-Galette. Auch feine Pralinen und Konfekt dürfen auf unserem österlichen Naschteller nicht fehlen. \r\nDabei lernen Sie verschiedene Möglichkeiten natürlicher Süße kennen und erfahren, wie sich Früchte, Nüsse, Kakao, Gewürze und andere vollwertige Zutaten so kombinieren lassen, dass Genuss und bewusste Ernährung ganz selbstverständlich zusammenfinden. \r\nAm Ende genießen wir unsere kleinen Osterköstlichkeiten gemeinsam – und vielleicht wandert die eine oder andere Inspiration mit auf die eigene Ostertafel. \r\nAlle Zubereitungen sind vegan.",
+                       "description":  "Ostern darf nach Schokolade, feinen Nüssen, fruchtiger Süße und kleinen Köstlichkeiten schmecken. In diesem Kurs entdecken Sie, wie sich pflanzliche Naschereien und Gebäck ohne raffinierten Zucker genussvoll und kreativ zubereiten lassen. \r\nGemeinsam entstehen gefüllte Schoko-Ostereier mit Pistaziencreme, Möhren-Mandel-Küchlein mit Zitronencreme und eine Birnen-Mandel-Galette. Auch Pralinen und Konfekt dürfen auf dem österlichen Naschteller nicht fehlen. \r\n\r\nDabei lernen Sie die Möglichkeiten natürlicher Süße kennen und erfahren, wie sich Früchte, Nüsse, Kakao sowie Gewürze so kombinieren lassen, dass Genuss und bewusste Ernährung zusammenfinden. \r\n\r\nAm Ende genießen Sie die Osterköstlichkeiten gemeinsam. Alle Zubereitungen sind vegan.",
                        "location":  "TIETZ",
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -122,12 +140,15 @@
                    },
                    {
                        "title":  "Klarer Kopf – Ernährung für Konzentration und stabile Energie",
-                       "description":  "Was wir essen und trinken, kann mitentscheiden, wie wach, konzentriert und leistungsfähig wir uns im Alltag fühlen. Doch welche Rolle spielen dabei Blutzucker, Flüssigkeit, Ballaststoffe, Eiweiß und gute Fettquellen – und braucht es wirklich spezielle „Brainfoods“? \r\nIn diesem Kurs verbinden wir verständliches Ernährungswissen mit Selbstbeobachtung und praktischer Erfahrung. Sie erfahren, welche Faktoren Konzentration und eine stabile Energieversorgung unterstützen können, und schauen zugleich auf Ihren eigenen Alltag: Wann fühlen Sie sich geistig klar und wach? Wann kommt das typische Nachmittagstief? Und was hat die Ernährung möglicherweise damit zu tun? \r\nAnhand konkreter Alltagssituationen entdecken wir, wie sich Mahlzeiten so zusammensetzen lassen, dass sie gut nähren und länger tragen. Eine gemeinsam zubereitete Mahlzeitenkomponente macht die theoretischen Zusammenhänge anschließend praktisch erfahrbar. \r\nDabei geht es nicht um einzelne vermeintliche Wundermittel oder starre Ernährungsregeln, sondern darum, Zusammenhänge besser zu verstehen und herauszufinden, was im eigenen Alltag hilfreich sein kann. \r\nDer Kurs verbindet Wissen, Austausch, Selbstwahrnehmung und Genuss und gibt alltagstaugliche Impulse für eine bewusste, pflanzenbetonte Ernährung. \r\nDie praktische Zubereitung ist vegan.",
+                       "description":  "Was wir essen und trinken, kann mitentscheiden, wie wach, konzentriert und leistungsfähig wir uns im Alltag fühlen. Welche Rolle spielen dabei Blutzucker, Flüssigkeit, Ballaststoffe, Eiweiß und gute Fettquellen? Und braucht es wirklich spezielle „Brainfoods“? \r\n\r\nIn diesem Kurs wird verständliches Ernährungswissen mit Selbstbeobachtung und praktischer Erfahrung verbunden. Sie lernen kennen, welche Faktoren Konzentration und eine stabile Energieversorgung unterstützen können. Zugleich schauen Sie auf Ihren Alltag: Wann fühlen Sie sich geistig klar und wach? Wann kommt das typische Nachmittagstief? Und was hat die Ernährung möglicherweise damit zu tun? \r\n\r\nAnhand konkreter Beispiele wird deutlich, wie sich Mahlzeiten so zusammensetzen lassen, dass sie gut nähren und länger tragen. Eine gemeinsam zubereitete Mahlzeitenkomponente (vegan) macht die theoretischen Zusammenhänge anschließend praktisch erfahrbar. \r\n\r\nDer Kurs verbindet Wissen, Austausch, Selbstwahrnehmung und Genuss und gibt alltagstaugliche Impulse für eine bewusste, pflanzenbetonte Ernährung.",
                        "location":  "TIETZ",
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -142,12 +163,15 @@
                    },
                    {
                        "title":  "Darmgesund genießen – Vielfalt auf dem Teller, Vielfalt im Bauch",
-                       "description":  "Was wir täglich essen, beeinflusst auch die Lebensbedingungen unserer Darmflora. Doch darmfreundliche Ernährung bedeutet weit mehr als einzelne „gesunde“ Lebensmittel oder den gelegentlichen Griff zu einem fermentierten Produkt. \r\nIn diesem Kurs entdecken Sie, welche Rolle pflanzliche Vielfalt, Ballaststoffe und fermentierte Lebensmittel für eine darmbewusste Ernährung spielen können. Verständliche Wissensimpulse wechseln sich mit kleinen Übungen zur Selbstbeobachtung und praktischer Küchenarbeit ab. Dabei schauen Sie auch auf Ihren eigenen Ernährungsalltag: Wie vielfältig esse ich eigentlich – und wo lassen sich ganz unkompliziert neue Lebensmittel integrieren? \r\nIm praktischen Teil bereiten wir gemeinsam eine bunte, pflanzenreiche Mahlzeit und kleine ergänzende Komponenten zu. Dabei wird unmittelbar erfahrbar, wie sich unterschiedliche Gemüse, Hülsenfrüchte, Vollkornprodukte, Kräuter, Saaten und Fermente genussvoll miteinander verbinden lassen. \r\nIm Mittelpunkt stehen nicht starre Ernährungsregeln, sondern Verstehen, Ausprobieren und Genießen. Sie nehmen alltagstaugliche Ideen und einen persönlichen Impuls mit, wie Sie Schritt für Schritt mehr Vielfalt auf Ihren Teller bringen können. \r\n\r\nAlle praktischen Zubereitungen sind vegan.",
+                       "description":  "Die Art der täglichen Ernährung beeinflusst die Lebensbedingungen unserer Darmflora. Doch darmfreundliche Ernährung bedeutet weit mehr als einzelne „gesunde“ Lebensmittel oder den gelegentlichen Griff zu einem fermentierten Produkt. \r\n\r\nIm Kurs entdecken Sie die Bedeutung von pflanzlicher Vielfalt, Ballaststoffen und fermentierten Lebensmitteln für eine darmbewusste Ernährung. Verständliche Wissensimpulse wechseln mit kleinen Übungen zur Selbstbeobachtung und praktischer Anwendung ab. Dabei geht es auch um Ihren eigenen Ernährungsalltag: Wie vielfältig esse ich eigentlich? Wo lassen sich unkompliziert neue Lebensmittel integrieren? \r\n\r\nIm praktischen Teil bereiten Sie gemeinsam eine pflanzenreiche Mahlzeit und ergänzende Komponenten zu. Dabei wird deutlich, wie sich Gemüse, Hülsenfrüchte, Vollkornprodukte, Kräuter, Saaten und Fermente genussvoll miteinander verbinden lassen. \r\n\r\nSie nehmen alltagstaugliche Ideen und Impulse für mehr Vielfalt auf Ihrem Teller nach Hause mit. \r\n\r\nAlle praktischen Zubereitungen sind vegan.",
                        "location":  "TIETZ",
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -167,7 +191,10 @@
                        "room":  "Kursraum 4.07",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -187,7 +214,10 @@
                        "room":  "Kursraum 4.20",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -207,7 +237,10 @@
                        "room":  "Kursraum 4.21",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -227,7 +260,10 @@
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -247,7 +283,10 @@
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -267,7 +306,10 @@
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -287,7 +329,10 @@
                        "room":  "Kochstudio 5.23.0",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -307,7 +352,10 @@
                        "room":  "Kursraum 5.22",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
@@ -327,7 +375,10 @@
                        "room":  "Veranstaltungssaal",
                        "organizer":  "",
                        "images":  [
-
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
                                   ],
                        "dates":  [
                                      {
