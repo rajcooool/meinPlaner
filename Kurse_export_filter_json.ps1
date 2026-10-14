@@ -103,7 +103,12 @@ foreach ($row in $table.Rows) {
         location     = $location
         room         = $room
         organizer    = ""
-        images       = @()
+        images       = @(
+            [ordered]@{
+                url       = "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png"
+                copyright = ""
+            }
+        )
         dates        = @(
             @{
                 date_from = $dateFrom
