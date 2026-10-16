@@ -185,6 +185,52 @@
                        "ticket_phone":  ""
                    },
                    {
+                       "title":  "„Herumtreiberinnen“ – Lesung und Gespräch mit Bettina Wilpert",
+                       "description":  "Der Roman „Herumtreiberinnen“ von Bettina Wilpert erzählt die Schicksale von drei jungen Frauen in Leipzig im 20. Jahrhundert. Er führt vor Augen, welchen Einfluss unterschiedliche politische Regime und Gewalt auf das Leben einzelner Frauen haben. Zu den Protagonistinnen gehört Manja: Sie ist 17 Jahre alt und lebt im Leipzig der 1980er- Jahre. Ihre beste Freundin Maxie und sie schwänzen die Schule, sie brechen in Schrebergärten ein und treffen sich im Freibad oder auf dem Rummel mit Jungs. Bis Manja im Zimmer des Vertragsarbeiters Manuel von der Volkspolizei erwischt und in eine Geschlossene Venerologische Station für Frauen zwangseingewiesen wird.\r\nDie Veranstaltung ist eine Kooperation des Lern- und Gedenkort Kaßberg-Gefängnis e. V., der Gedenkstätte Hoheneck, des Instituts für Politikwissenschaft der TU Chemnitz, der Landesbeauftragten zur Aufarbeitung der SED-Diktatur und der Volkshochschule Chemnitz. Mit freundlicher Unterstützung der Sächsischen Landesbeauftragten zur Aufarbeitung der SED-Diktatur und gefördert mit Mitteln der Bundesstiftung zur Aufarbeitung der SED-Diktatur.",
+                       "location":  "Lern- und Gedenkort Kaßberg-Gefängnis",
+                       "room":  "Kaßbergstraße 16c",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-10-29",
+                                         "date_to":  "2026-10-29",
+                                         "time_to":  "19:30",
+                                         "time_from":  "18:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612020",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Einführung in die Familienforschung",
+                       "description":  "Wer die eigene Familiengeschichte erforschen möchte, steht vor folgenden Fragen: Wo sind Informationen über die Vorfahren erhältlich? Wie lassen sich die Forschungsergebnisse sinnvoll ordnen? Welche Hilfsmittel stehen bei Recherche und Auswertung von Informationen zur Verfügung? \r\nDieser Kurs macht Sie mit den Grundlagen der Genealogie vertraut und bietet Hilfestellung für das Lesen alter Urkunden.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.20",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-02",
+                                         "date_to":  "2026-11-02",
+                                         "time_to":  "20:15",
+                                         "time_from":  "17:45"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612040",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Chemnitz und seine Vorgeschichte",
                        "description":  "Was steckt hinter „Aus wilder Wurzel …“, dem „Wolfsjäger“ und der gefälschten Urkunde von 1143? \r\nIn diesem Vortrag erfahren Sie, wie spannend und überraschend die Chemnitzer Vorzeit wirklich ist. Der Referent nimmt Sie mit auf eine Zeitreise bis zu 291 Millionen Jahre zurück und zeigt, wie Chemnitz auf erdgeschichtlich fruchtbarem Boden entstand. Ein Kurs für alle, die ihre Stadt und ihre Geschichte neu entdecken möchten.",
                        "location":  "TIETZ",
@@ -251,6 +297,52 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632203",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Hochsensibilität: Was ist das?",
+                       "description":  "Bis zu 30 Prozent der Bevölkerung gelten als hochsensibel. Sie nehmen Reize, Gefühle und Stimmungen oft besonders intensiv wahr und bringen damit viele besondere Fähigkeiten mit. Gleichzeitig können Hektik, Leistungsdruck und ein unruhiger Alltag schneller zur Belastung werden. Hochsensibilität wird noch immer unterschätzt oder falsch verstanden.\r\nIn diesem Kurs gehen wir dem Thema gemeinsam nach und kommen miteinander ins Gespräch. Was steckt hinter Hochsensibilität? Wie zeigt sie sich im Alltag? Und welche Chancen können darin liegen? Der Kurs lädt dazu ein, mehr Verständnis für hochsensible Menschen zu entwickeln und ihre Stärken bewusster wahrzunehmen.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.18",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-05",
+                                         "date_to":  "2026-11-05",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632211",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Organspende - ja oder nein? Was muss ich wissen für meine Entscheidung?",
+                       "description":  "Zum Thema Organspende gibt es viel Unwissenheit, Unsicherheit und Fehlinformationen. Aber alle sind dazu aufgerufen, eine ganz persönliche Entscheidung zu treffen: Organspende - ja oder nein?\r\nDiese Veranstaltung informiert über Voraussetzungen und Abläufe zum Thema Organspende. Unter anderem werden folgende Inhalte besprochen:\r\n- Gesetzliche Grundlagen der Organspende\r\n- Hirntod: Was bedeutet das genau und wie wird der Hirntod festgestellt?\r\n- Wer entscheidet über Zustimmung oder Ablehnung einer Organspende?\r\n- Wer macht was auf dem Weg zu einer Organspende?\r\n- Sind Alter und Vorerkrankungen bei der Organspende wichtig?\r\nIm Anschluss an den Vortrag wird für die Beantwortung Ihrer Fragen zur Organspende Zeit sein.\r\n\r\nDer Referent, Dr. med. Gunnar Richter, ist Leiter der Stabsstelle Transplantationsbeauftragte und arbeitet in der Klinik für Neurologie am Klinikum Chemnitz.\r\n\r\nDiese Veranstaltung ist eine Kooperation der Klinikum Chemnitz gGmbH und der Volkshochschule Chemnitz.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-02",
+                                         "date_to":  "2026-11-02",
+                                         "time_to":  "20:30",
+                                         "time_from":  "19:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632303",
                        "ticket_phone":  ""
                    },
                    {
@@ -346,6 +438,29 @@
                        "ticket_phone":  ""
                    },
                    {
+                       "title":  "Bevollmächtigt - was nun? Rechte und Pflichten von Bevollmächtigten",
+                       "description":  "Eine Vorsorgevollmacht ist ein großer Vertrauensbeweis. Denn sie gibt Bevollmächtigten das Recht, im Namen der ausstellenden Person zu entscheiden und zu handeln, wenn diese dazu selbst nicht mehr in der Lage ist. Doch welche Rechte und Pflichten haben Bevollmächtigte eigentlich? Welche Vorschriften aus dem Betreuungsrecht müssen sie beachten? Bevollmächtigte sind hier meist nur unzureichend informiert. Das kann zu Überforderung, Fehlern und im schlimmsten Fall zu Haftungsschäden führen.\r\nDieser Kurs wendet sich an Bevollmächtigte und möchte über Rechte und Pflichten informieren.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-10-21",
+                                         "date_to":  "2026-10-21",
+                                         "time_to":  "18:30",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2636117",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Afternoon Tea",
                        "description":  "Die Voraussetzung für die Kursteilnahme sind Kenntnisse mindestens auf der Stufe A2.\r\n\r\nVery British, very tasty. Come for tea, snacks and fun!\r\nTauchen Sie ein in die charmante Welt britischer Teekultur! Kommen Sie bei einer Tasse feinen Tees und traditionellen Häppchen auf Englisch miteinander ins Gespräch. Hier stehen Begegnung und Freude an der englischen Sprache und Kultur im Mittelpunkt. Tee und Snacks sind inkludiert.",
                        "location":  "TIETZ",
@@ -366,6 +481,213 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W264ES70",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Generationen führen – Zusammenarbeit im Wandel gestalten -NEU-",
+                       "description":  "In vielen Teams arbeiten bis zu vier Generationen zusammen und bringen unterschiedliche Erfahrungen, Kommunikationsstile sowie Vorstellungen von Arbeit mit. Diese Vielfalt kann herausfordernd sein, bietet aber zugleich großes Potenzial für erfolgreiche Zusammenarbeit, Innovation und gegenseitiges Lernen. \r\nIn diesem Kurs setzen Sie sich mit den Besonderheiten verschiedener Generationen in der Arbeitswelt und deren Auswirkungen auf die Zusammenarbeit auseinander. Sie erfahren, wie Führung verbindend wirken kann und wie es gelingt, ein respektvolles sowie produktives Miteinander zu fördern. Anhand praxisnaher Beispiele entwickeln Sie Strategien, um generationenübergreifende Teams erfolgreich zu führen, Missverständnisse frühzeitig zu erkennen und Perspektiven konstruktiv zu nutzen.",
+                       "location":  "online",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-12",
+                                         "date_to":  "2026-11-12",
+                                         "time_to":  "15:00",
+                                         "time_from":  "10:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B211",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Kommunikation in hybriden Teams – Führung auf Distanz wirksam gestalten -NEU-",
+                       "description":  "Hybride Arbeitsmodelle gehören zum Berufsalltag und verändern die Anforderungen an Führung grundlegend. Wenn Teams teilweise vor Ort und teilweise digital zusammenarbeiten, entstehen neue kommunikative Herausforderungen. Umso wichtiger ist eine klare und gleichzeitig verbindende Kommunikation.\r\nIn diesem Kurs reflektieren Sie typische Stolpersteine hybrider Zusammenarbeit und setzen sich mit den besonderen Anforderungen digitaler Kommunikation auseinander. Sie lernen, wie Sie Informationen transparent vermitteln, Erwartungen eindeutig formulieren und Kommunikationsprozesse bewusst gestalten. Anhand praxisnaher Beispiele entwickeln Sie Strategien, um hybride Teams wirksam zu führen.",
+                       "location":  "online",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-10-30",
+                                         "date_to":  "2026-10-30",
+                                         "time_to":  "13:15",
+                                         "time_from":  "10:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B212",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Was mich triggert und warum: Biografische Selbstreflexion für den pädagogischen Alltag -NEU-",
+                       "description":  "Kinder, die ständig Widerworte geben und einen innerlich aufwühlen: Manche Situationen im pädagogischen Alltag kosten unverhältnismäßig viel Kraft. Oft liegt das nicht an den Kindern, sondern daran, was diese Situationen in Ihnen auslösen - eigene, tief verankerte Erziehungserfahrungen, die Ihr Handeln steuern, ohne dass Sie es bemerken.\r\n\r\nIn diesem Seminar erkunden Sie, welche Prägungen aus der eigenen Geschichte Sie im Alltag begleiten und wie Sie aus diesem Wissen heraus neue Handlungsmöglichkeiten entwickeln. Sie reflektieren, was Sie dabei unterstützt, Situationen im pädagogischen Alltag gelassener zu begegnen und bewusster zu handeln.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-12",
+                                         "date_to":  "2026-11-12",
+                                         "time_to":  "15:30",
+                                         "time_from":  "09:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B400",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "\n\nBedürfnisorientiert begleiten – Entwicklungspsychologie für die Kita-Praxis -NEU-",
+                       "description":  "Verstehen Sie, wie sich Kinder bis sechs Jahre entwickeln: In diesem Ganztagsseminar erhalten Sie einen kompakten Überblick über entwicklungspsychologische Grundlagen sowie die Bedürfnisse von Kindern im Krippen- und Kita-Alter. Sie lernen, Verhalten wie Trotz, Rückzug oder Wut besser zu verstehen und gewinnen Einblicke in Bindung, Sprache, Spiel, Motorik sowie kognitive und emotionale Entwicklung. Praxisbeispiele und Reflexion unterstützen Sie dabei, Kinder empathisch zu begleiten – ganz im Sinne eines Perspektivwechsels vom Erziehen zum Begleiten.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-16",
+                                         "date_to":  "2026-11-16",
+                                         "time_to":  "15:30",
+                                         "time_from":  "09:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B402",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Richtig Feedback geben - klar und wertschätzend mit Eltern kommunizieren -NEU-",
+                       "description":  "Gespräche mit Eltern gehören zum Alltag von pädagogischem Personal in Kitas und Horten. Sie sind entscheidend für eine vertrauensvolle Zusammenarbeit und können gleichzeitig herausfordernd sein, insbesondere wenn sensible Themen angesprochen werden. \r\nIn diesem Kurs lernen Sie, Feedback professionell, empathisch und zugleich klar zu formulieren. Sie setzen sich mit der Wirkung von Sprache auseinander und reflektieren, wie Gespräche konstruktiv gestaltet werden können. Mithilfe von typischen Beispielen aus dem Kita-Alltag entwickeln die Sie konkrete Gesprächsstrategien für eine respektvolle und vertrauensvolle Kommunikation mit Eltern. Sie erlernen, wie Sie Beobachtungen verständlich ansprechen und Kritik sensibel formulieren. Der Kurs bietet Raum für Austausch, Reflexion und praktische Übungen, die direkt im pädagogischen Alltag angewendet werden können.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-12-08",
+                                         "date_to":  "2026-12-08",
+                                         "time_to":  "16:45",
+                                         "time_from":  "10:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B403",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Hochsensibilität bei Kindern und Jugendlichen erkennen und begleiten",
+                       "description":  "Hochsensible Kinder erleben die Welt intensiver. Sie reagieren feinsinniger auf Reize, Stimmungen und zwischenmenschliche Dynamiken. Gerade für Erzieherinnen und Erzieher ist es essentiell, diese Besonderheit zu erkennen, wertfrei einzuordnen und im pädagogischen Alltag kompetent darauf einzugehen.\r\nIn diesem praxisnahen Tagesseminar lernen Sie Merkmale von Hochsensibilität kennen, setzen sich mit wissenschaftlichen Hintergründen auseinander und reflektieren mögliche Potenziale hochsensibler Kinder.\r\nDer Fokus liegt dabei auf einem ressourcenorientierten Umgang sowie der Stärkung Ihrer Handlungssicherheit im Berufsalltag. Das Seminar bietet Platz für Austausch, Wissen und Impulse – für mehr Verständnis und Vielfalt in der zeitgemäßen pädagogischen Praxis.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.08",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-16",
+                                         "date_to":  "2027-01-16",
+                                         "time_to":  "14:30",
+                                         "time_from":  "09:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B405",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Wokeness bei Kindern und Jugendlichen verstehen -NEU-",
+                       "description":  "Um die Erlebniswelt von Kindern und Jugendlichen besser zu verstehen, kann es hilfreich sein, ihre kulturellen Prägungen und aktuellen gesellschaftlichen Deutungsmuster zu kennen. Dazu gehört ein Verständnis von Identität, Sprache und Zugehörigkeit, das oft unter dem Begriff „Wokeness“ diskutiert wird. \r\nDieser Kurs soll pädagogischem Personal und Interessierten einen verständlichen Einblick in zentrale Begriffe, aktuelle Haltungen und Zusammenhänge geben. Authentische Fallbeispiele aus der Praxis runden den Kurs ab.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-30",
+                                         "date_to":  "2027-01-30",
+                                         "time_to":  "13:30",
+                                         "time_from":  "09:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B407",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "KI in der Praxis: So entlastet sie den Arbeitsalltag",
+                       "description":  "Wie kann Künstliche Intelligenz (KI) Ihren Arbeitsalltag vereinfachen, ganz ohne komplizierte Technik? Dieser praxisorientierte Kurs zeigt, wie Sie die Möglichkeiten von KI nutzen können, um Ihre täglichen Aufgaben effizienter zu gestalten. \r\nSie lernen, wie Sie mithilfe intuitiver KI-Tools Ihre Kommunikation optimieren, die Organisation von Aufgaben und Projekten verbessern und die Informationsverarbeitung beschleunigen können. Der Fokus liegt dabei auf leicht zugänglichen, direkt nutzbaren Anwendungen. Nutzen Sie die Hilfe von KI für Routineaufgaben im Arbeitsalltag.",
+                       "location":  "online",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-12-02",
+                                         "date_to":  "2026-12-02",
+                                         "time_to":  "19:15",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B410",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "ELSTER - Steuererklärung online: Neues und Wissenswertes",
+                       "description":  "Voraussetzungen: Computergrundkenntnisse\r\n\r\nDas ELSTER-Verfahren bietet Ihnen die Möglichkeit, Ihre Steuererklärungen und Steuermeldungen elektronisch via Internet an das regional zuständige Finanzamt zu übermitteln. Im Rahmen dieses Kurses erfahren Sie Wissenswertes über den erforderlichen Registrierungsvorgang. Außerdem lernen Sie die Nutzung des ELSTER-Portals sowie dessen grundlegende Funktionen anhand von Beispielen kennen.",
+                       "location":  "online",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-11",
+                                         "date_to":  "2027-01-11",
+                                         "time_to":  "20:15",
+                                         "time_from":  "18:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265G200",
                        "ticket_phone":  ""
                    },
                    {
