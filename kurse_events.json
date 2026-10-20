@@ -254,6 +254,29 @@
                        "ticket_phone":  ""
                    },
                    {
+                       "title":  "Lesung und Gespräch: „Ich, Maria \u0026 die Solidarnosc“",
+                       "description":  "Im Rahmen der Veranstaltungsreihe zu Kunst, Überwachung und Erinnerungskultur in der Ausstellung „Stempel“ \u0026 „Kissen“ von Joerg Waehner lädt die Volkshochschule zu Lesung und Gespräch ein.\r\nIn diesem Abendformat sprechen Dr. Teresa Tammer, Außenstellenleiterin Bundesarchiv – Stasi-Unterlagen-Archiv Chemnitz, und der Künstler Joerg Waehner über seine Stasi-Akte und die Methoden und Auswirkungen der Überwachungssysteme der Staatssicherheit.\r\n\r\nJoerg Waehner liest aus seinem zeithistorischen Roman „Das schaffen wir“ und spricht über die Rolle der polnischen Solidarnosc-Bewegung, ihren Einfluss auf politische Veränderungen in Osteuropa sowie deren Wirkung auf einen jungen Druckerlehrling im Jahr 1980 in Karl-Marx-Stadt. Er stellt anschließend die thematisch eingebundene Ausstellung \"Stempel \u0026 Kissen\" vor.\r\n\r\nDie Veranstaltung verbindet persönliche Erinnerung mit historischer Einordnung und lädt zu einem offenen Austausch über das Überwachungssystem der Staatssicherheit und den konkreten Fall des Autors ein.\r\n\r\nDas Stasi-Unterlagen-Archiv Chemnitz begleitet die Veranstaltung mit einem Beratungsangebot. Es besteht die Möglichkeit, einen Antrag auf Einsicht in die Stasi-Akten zu stellen. Dafür wird ein gültiges Personaldokument benötigt.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.08",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-02",
+                                         "date_to":  "2026-11-02",
+                                         "time_to":  "19:30",
+                                         "time_from":  "18:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2623050",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Mit Angst umgehen und mehr Sicherheit gewinnen",
                        "description":  "Angst kann Gedanken, Entscheidungen und Beziehungen bestimmen und den eigenen Lebensraum einengen. Je mehr wir Angst vermeiden oder verdrängen, desto größer wird ihr Einfluss. Sie zeigt sich in unterschiedlichen Formen und kann bedrohlich wirken. Ihre Funktion und Bedeutung werden jedoch missverstanden, und sie wird oft als Störung oder als Blockade erlebt. \r\nIn diesem Kurs erfahren Sie, wie ein neuer Blick auf Angst und ein bewusster Umgang helfen können, Schritt für Schritt mehr Sicherheit, Selbstvertrauen und innere Freiheit zu entwickeln.",
                        "location":  "TIETZ",
