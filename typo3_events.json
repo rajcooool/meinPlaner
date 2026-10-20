@@ -368,7 +368,7 @@
             "title": "Ist im der l\u00eep erstorben, s\u00f4 lebet doch iemer s\u00een name",
             "description": "<p>Mythos und Erinnern im \u201aIwein\u2018 Hartmanns von Aue</p> <p>Ort: TIETZ, Veranstaltungssaal</p> <p><i>Eintritt: frei</i></p> <p>Wie l\u00e4sst sich ein mittelhochdeutscher Artusroman heute neu entdecken? Germanistikstudierende und Studierende des Grundschullehramts der TU Chemnitz haben gemeinsam \u00fcber das Konzept des Memorierens einen neuen Zugang zu Hartmanns von Aue <i>Iwein</i> erarbeitet und pr\u00e4sentieren die Ergebnisse ihrer Arbeit. Dar\u00fcber hinaus gibt Professor Dr. Christoph Fasbender (Technische Universit\u00e4t Chemnitz) Einblicke in die mittelalterliche Artusliteratur und er\u00f6ffnet neue Perspektiven auf den Roman.&nbsp;</p> <p>Wir laden Sie herzlich ein, mit uns in die Welt des Artusromans einzutauchen.</p>",
             "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Zentralbibliothek im TIETZ, Veranstaltungssaal",
+            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
             "room": "",
             "images": [
                 {
@@ -684,7 +684,7 @@
             "title": "Jevhen Poloshiy in Chemnitz: Begegnung mit dem Autor des Romans \u201eIlowajsk\u201c",
             "description": "<p>Lesung in ukrainischer Sprache. Konsekutive \u00dcbersetzung ins Deutsche Dr. Ilja Kogan</p> <p><strong>Termin:</strong> Freitag, 30.10., 18 Uhr</p> <p><strong>Ort:</strong> TIETZ, Veranstaltungssaal</p> <p>Der ukrainische Schriftsteller, Journalist und Drehbuchautor Jevhen Poloshiy stellt in Chemnitz die aktualisierte Ausgabe seines Romans \u201eIlowajsk\u201c vor. Das Buch thematisiert den sogenannten \u201eKessel von Ilowajsk\u201c im August 2014 im Donbas, der als eine der tragischsten und folgenschwersten Schlachten zu Beginn des russisch-ukrainischen Krieges gilt. Der Roman z\u00e4hlt zu den 30 bedeutenden Werken der modernen ukrainischen Literatur. Im Gespr\u00e4ch mit dem Autor geht es um Literatur, menschliche Schicksale und Geschichten, die nicht in Vergessenheit geraten d\u00fcrfen.</p> <p>Eine Veranstaltung des Kunstverein Beseder und der Initiative UA MRV \u2013 Paper Boat.</p> <p>Der Eintritt ist frei.</p>  ",
             "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Zentralbibliothek im TIETZ, Veranstaltungssaal",
+            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
             "room": "",
             "images": [
                 {
@@ -901,10 +901,34 @@
             "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/musi-collage-klavier"
         },
         {
+            "title": "Leseclub \u2013 zusammen liest man weniger allein",
+            "description": "<p>Wir sprechen gemeinsam \u00fcber B\u00fccher die uns aktuell beindruckt und inspiriert haben. Leserinnen und Leser, welche ihre Lekt\u00fcreerlebnisse gern mit anderen teilen und diskutieren m\u00f6chten, sind herzlich willkommen. Eintritt: frei</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Stadtteilbibliothek Vita-Center",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Leseclub-Vita-_c_pixabay.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-04",
+                    "date_to": "",
+                    "time_from": "15:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/leseclub-zusammen-liest-man-weniger-allein-1"
+        },
+        {
             "title": "Zur Fr\u00fchgeschichte von Chemnitz",
             "description": "<p>Vortrag und Vorstellung des Buches \u201eZur Fr\u00fchgeschichte von Chemnitz und zum Westerzgebirge von 800 bis 1200 n. Chr. \u2013 Teil 2\u201c von Prof. Karlheinz Hengst.</p> <p>Das Erzgebirge und sein Vorland als das zuletzt besiedelte gro\u00dfe Territorium zwischen den beiden Mulde-Fl\u00fcssen stehen im Blickfeld.</p> <p>Arch\u00e4ologischer Befund und sprachgeschichtliche Zeugen werden genutzt, um das bisher als v\u00f6llig menschenfeindlich und unbewohnt geltende Gebiet im Norden und S\u00fcden von Chemnitz bis zum Gebirgskamm im Fr\u00fchmittelalter als bereits \u201efrequentiertes Reiseland\u201c zu erkennen. Thema sind die Resilienz der ersten Bewohner gegen\u00fcber den Erschwernissen in den Wald- und Gebirgsregionen der damaligen Zeit sowie Nachhaltigkeit, Strukturwandel und Transformation im 12. Jahrhundert.&nbsp; &nbsp;</p> <p>Eine Veranstaltung in Kooperation mit dem Chemnitzer Geschichtsverein und dem Verlag Heimatland Sachsen.</p> <p>Der Eintritt ist frei.</p>  ",
             "organizer": "Chemnitzer Geschichtsverein",
-            "location": "Zentralbibliothek im TIETZ, Veranstaltungssaal",
+            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
             "room": "",
             "images": [
                 {
@@ -1093,6 +1117,30 @@
             "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/walfisch-und-briefwaage-neue-musik-von-kindern-und-jugendlichen"
         },
         {
+            "title": "\u201eDamit das Ausb\u00fcrgern sich bei uns nicht einb\u00fcrgert \u2026\u201c",
+            "description": "<p>Am 16. November j\u00e4hrt sich zum 50. Mal die Ausb\u00fcrgerung des Liedermachers Wolf Biermann aus der DDR. Sie wurde zum Beginn eines Aderlasses von DDR-K\u00fcnstlerinnen und -K\u00fcnstlern. Anlass, diesem und den folgenden Tagen nachzusp\u00fcren und vor allem den Protest von Schriftstellern wie Stephan Hermlin und Stefan Heym, Christa Wolf und Franz F\u00fchmann, Heiner M\u00fcller und Jurek Becker in Erinnerung zu bringen. Die Liste der Unterzeichner der Protestnote liest sich wie ein Who is who der DDR-Kunst. Viele bezahlten ihre Zivilcourage mit Kaltstellung, nicht jeder hielt durch, andere gingen \u2026&nbsp;</p> <p>Eine Veranstaltung der Internationalen Stefan-Heym-Gesellschaft e. V.&nbsp;</p> <p><i>Eintritt: 3 \u20ac, erm\u00e4\u00dfigt: 1,50 \u20ac</i></p>",
+            "organizer": "Internationale Stefan-Heym-Gesellschaft e. V.",
+            "location": "Stefan-Heym-Forum",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.16_November_-_Wolf_Biermann__Foto_Comet_Photo_AG_Z\u00fcrich_CC_BY-SA_4.0_.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-10",
+                    "date_to": "",
+                    "time_from": "19:00",
+                    "time_to": "21:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/damit-das-ausbuergern-sich-bei-uns-nicht-einbuergert"
+        },
+        {
             "title": "Smartphone Sprechstunde f\u00fcr Senioren",
             "description": "<p>Sie haben Fragen zu Einstellungen, Apps und Diensten rund um das Smartphone? Dann melden Sie sich zu unserer Sprechstunde an.</p> <p><strong>Wo?</strong></p> <p>Stadtbibliothek im TIETZ/ Lernraum</p> <p><strong>Wann?</strong></p> <p>Di, 10.11. (10-13 Uhr)</p> <p><strong>Wie?</strong></p> <p>Anmeldung erbeten, es gibt zwei Zeitfenster - ab 10 Uhr oder ab 11.30 Uhr, um auf alle Fragen und Probleme einzugehen ist die Teilnehmerzahl begrenzt</p>",
             "organizer": "BibLab-C Projektnetzwerk",
@@ -1237,6 +1285,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/die-wahre-geschichte-eines-mutigen-kapitaens-und-seiner-juedischen-passagiere"
         },
         {
+            "title": "Die Feuerprobe \u2013 Novemberpogrom 1938",
+            "description": "<p>Erwin Leiser, der als 15j\u00e4hriger die Novemberpogrome in Berlin erlebte und Anfang 1939 nach Schweden fl\u00fcchten konnte, beschr\u00e4nkt sich in seinem Film nicht auf die wenigen sp\u00e4rlichen Dokumentaraufnahmen aus der damaligen Zeit. In einer \u00e4u\u00dferst gr\u00fcndlichen Recherche ist es ihm gelungen, eine Reihe interessanter Zeitzeugen zu finden und zu interviewen. Durch die Verbindung von historischen Aufnahmen und Texten mit der Schilderung pers\u00f6nlicher Erlebnisse durch die Zeitzeugen verliert die Trag\u00f6die ihre Anonymit\u00e4t und wird dadurch f\u00fcr den Zuschauer besonders eindringlich.&nbsp;</p> <p>Eine Kooperationsveranstaltung des Buntmacher*innen e.V. und der Stadtbibliothek Chemnitz als Teil des Themenjahres \u201eTacheles \u2013 Jahr der j\u00fcdischen Kultur in Sachsen\u201c. Gef\u00f6rdert durch den Lokalen Aktionsplan f\u00fcr Demokratie, Toleranz und ein weltoffenes Chemnitz, im Rahmen des Bundesprogramms \u201eDemokratie leben!\u201c, durch den Landespr\u00e4ventionsrat des Freistaates Sachsen.</p> <p><i>Eintritt: frei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/die-feuerprobe7.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-12",
+                    "date_to": "",
+                    "time_from": "18:00",
+                    "time_to": "20:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/die-feuerprobe-novemberpogrom-1938"
+        },
+        {
             "title": "Digitale Barrieren und wie wir sie \u00fcberwinden",
             "description": "<p>\"Wir leben in einer digitalen Welt. Dabei kommen wir kaum noch darum herum<br />unsere Daten und viele pers\u00f6nliche Informationen von uns preiszugeben.<br />Doch was passiert damit, wenn wir irgendwann nicht mehr da sind? Wie auch<br />in der echten Welt, m\u00fcssen wir uns auch in der digitalen Welt mit unserem<br />Erbe besch\u00e4ftigen. Wir wollen Ihnen dabei unsere Unterst\u00fctzung anbieten.</p> <p>In dieser Veranstaltung wollen wir uns daher zum einen mit dem \"Digitalen<br />Nachlass\" und unserem digitalen Erbe auseinandersetzen. Wir wollen<br />Strategien entwickeln richtig damit umzugehen, technische M\u00f6glichkeiten<br />aufzeigen und auf rechtliche Aspekte hinweisen. Vor allem sollen dabei<br />aber auch pers\u00f6nliche W\u00fcnsche nicht zu kurz kommen.</p> <p>Au\u00dferdem wollen wir im Rahmen dieser Veranstaltung einen Blick in die<br />elektronische Patientenakte werfen - was ist die ePA, wie funktioniert sie<br />und weshalb ist sie sinnvoll?</p> <p>Wie k\u00f6nnen wir mit all diesen digitalen Barrieren umgehen? In dieser<br />Veranstaltung wollen wir ihnen wertvolle Einblicke und praktische Tipps<br />mitgeben.\"</p>",
             "organizer": "",
@@ -1309,6 +1381,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/buchverkauf-1"
         },
         {
+            "title": "Offene Textwerkstatt des Freien Deutschen Autorenverbandes",
+            "description": "<p>Lektorieren der eigenen Texte. Wer das erste Mal kommt, kann auch einfach nur zuh\u00f6ren.</p> <p><i>Veranstaltung kostenfrei</i></p>",
+            "organizer": "Freier Deutscher Autorenverband, Landesverband Sachsen e. V.",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Schreiben-pixabay-typewriter-801921_1280.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-14",
+                    "date_to": "",
+                    "time_from": "11:00",
+                    "time_to": "14:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/offene-textwerkstatt-des-freien-deutschen-autorenverbandes-1-1"
+        },
+        {
             "title": "Auf leisen Sohlen\u2026  im TIETZ",
             "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -1360,7 +1456,7 @@
             "title": "Chemnitzer Buchsalon zu Gast im Literaturforum Bibliothek",
             "description": "<h4>Chemnitzer Buchsalon und Heike Gei\u00dfler zu Gast im Literaturforum Bibliothek</h4> <p>Termin: Sonntag, 15. November 2026</p> <p>Beginn: 11 Uhr</p> <p>Ort: TIETZ, Stadtbibliothek, Veranstaltungssaal, Moritzstra\u00dfe 20, 09111 Chemnitz</p> <p>Eintritt: frei</p> <p><strong>Drei Kritiker:innen besprechen drei aktuelle B\u00fccher aus Sachsen.</strong></p> <ul><li data-list-item-id=\"e145558d58e17e5b509979e964c0400f5\">Eileen M\u00e4gel, Dresdner Autorin und Lyrikerin, spricht \u00fcber \u201eDie zweitgr\u00f6\u00dfte Liebe\u201c von Ruth Maria Thomas&nbsp;</li><li data-list-item-id=\"e9ef6fdb45612ace05232e59746921fd8\">Angela Malz, langj\u00e4hriges Mitglied des Chemnitzer Literarischen Quintetts, bespricht \u201eStolz und Zweifel\u201c von Marlen Hobrack.</li><li data-list-item-id=\"e17f4e2ef929c07adcb3e839037ff0768\">Burkhard M\u00fcller, langj\u00e4hriger Rezensent des Buchsalons und Literaturkritiker, spricht \u00fcber \"Nach der Sonne schauen\" von Martina Hefter.</li></ul> <p><strong>Im Anschluss liest Heike Gei\u00dfler&nbsp;aus ihrem neuen Roman \u201eMichaela Kohlhaas\u201c, moderiert von Eileen M\u00e4gel.</strong></p> <p>Die Veranstaltungsreihe <a class=\"cc_extern\" href=\"https://bibliotheksverband-sachsen.de/literaturforum-bibliothek/lesungstermine\" target=\"_blank\">Literaturforum Bibliothek</a> wird vom S\u00e4chsischen Staatsministerium f\u00fcr Wissenschaft, Kultur und Tourismus gef\u00f6rdert und vom Bibliotheksverband Sachsen organisiert. Das Projekt wird mitfinanziert durch Steuermittel auf der Grundlage des vom S\u00e4chsischen Landtag beschlossenen Haushaltes.&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Zentralbibliothek im TIETZ, Veranstaltungssaal",
+            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
             "room": "",
             "images": [
                 {
@@ -1411,6 +1507,54 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-lets-play-zocken-in-der-bibo-1-1"
+        },
+        {
+            "title": "Kuscheltier-\u00dcbernachtung zum Bundesweiten Vorlesetag",
+            "description": "<p>Lasst eure Kuscheltiere eine aufregende Nacht voller Geschichten und neuer Freunde in der Stadtbibliothek verbringen!</p> <p>Nach einer gemeinsamen Gute-Nacht-Geschichte mit den Kuscheltier-Mamas und Kuscheltier-Papas hei\u00dft es \u201eTsch\u00fcss, bis morgen!\u201c und das Abenteuer beginnt. Was eure Kuscheltiere bei ihrer \u00dcbernachtung erlebt haben, erfahrt ihr am n\u00e4chsten Tag, wenn ihr eure kuscheligen Freunde an der Zentralen Theke wieder abholt (10 \u2013 18 Uhr).<br />F\u00fcr Kinder von 5 bis 8 Jahren, ein Kuscheltier je Kind</p> <p>Der Eintritt ist frei<br /><br />&nbsp;</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Kuscheltier-\u00dcbernachtung_in_der_Bibliothek.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-20",
+                    "date_to": "",
+                    "time_from": "17:00",
+                    "time_to": "18:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/kuscheltier-uebernachtung-zum-bundesweiten-vorlesetag"
+        },
+        {
+            "title": "Ganz in Familie: Die Mumins \u2013 eine sch\u00f6ne Bescherung",
+            "description": "<p>Ein frech-poetisches Figurentheater mit Marie Bretschneider f\u00fcr Kinder und Erwachsene nach einer Winterweihnachtsgeschichte von Tove Jansson.</p> <p>Weihnachten steht vor der T\u00fcr und nat\u00fcrlich ist das ganze Mumintal in Aufruhr. Nur die Familie Mumin liegt wie jedes Jahr im Winterschlaf und h\u00e4tte das Fest auch fast verschlafen, wenn nicht der Hemul die kleinen Trolle mit seinem lauten Geschimpfe geweckt h\u00e4tte: \u201eWeihnachten ist das Schlimmste was es gibt!\u201c flucht er beim Schneesaugen. \u201eAlarm! Das Schlimmste was es gibt, steht vor der T\u00fcr!\u201c ruft Muminpapa.</p> <p><i>Eintritt: 5 \u20ac, erm\u00e4\u00dfigt: 3 \u20ac</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.27_Mumins-3.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-21",
+                    "date_to": "",
+                    "time_from": "15:30",
+                    "time_to": "17:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/ganz-in-familie-die-mumins-eine-schoene-bescherung"
         },
         {
             "title": "Faszination Akkordeon \u2013 von Vivaldi bis Piazzolla",
@@ -1483,6 +1627,30 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-1-8-7-3-1-1"
+        },
+        {
+            "title": "Kiew. Eine Festung \u00fcber dem Abgrund",
+            "description": "<p><strong>Autorenlesung aus dem Buch \u201cKiew. Eine Festung \u00fcber dem Abgrund\u201d von Elena Kostioukovitch in ukrainischer und deutsche Sprache.</strong></p> <p>Das neuste Buch der in Mailand lebenden Schriftstellerin, \u00dcbersetzerin und Kulturhistorikerin Elena Kostioukovitch ist eine Verflechtung von Geschichte und Geschichten einer der \u00e4ltesten St\u00e4dte Osteuropas, eine Erz\u00e4hlung \u00fcber Tief- und H\u00f6hepunkte, Trag\u00f6dien und Hoffnungen.&nbsp;</p> <p>Auch die Familiengeschichte der Autorin und ihre Kindheitserinnerungen sind eng mit der Stadt verbunden. Im Herbst 2026, nachedem das urspr\u00fcnglich auf Italienisch geschriebene Buch in ukrainischer Sprache erschienen war, unternahm sie eine nicht ungef\u00e4hrliche Lesereise durch die Ukraine, von der sie ebenfalls berichten kann.</p> <p>Ausz\u00fcge aus dem Text wurden bereits ins Deutsche \u00fcbersetzt und in der Zeitschrift \"Lettre international\" ver\u00f6ffentlicht.</p> <p>Veranstalter: Ukraine-Haus Chemnitz e.V.</p> <p>Eintritt frei</p> <p>Kontakt:&nbsp;</p> <div><div><div><h4>Tel.: 01573 0214523</h4></div> <div><p><a href=\"mailto:ukraine.chemnitz@gmail.com\" target=\"_blank\" rel=\"nofollow noreferrer\">E-Mail: ukraine.chemnitz@gmail.com</a></p></div></div></div>",
+            "organizer": "Ukraine-Haus Chemnitz e.V.",
+            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/002_news/2026/Kostioukovitch-quer.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-23",
+                    "date_to": "",
+                    "time_from": "19:00",
+                    "time_to": "21:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/kiew-eine-festung-ueber-dem-abgrund"
         },
         {
             "title": "Fantastische Gespr\u00e4che mit Agricola",
