@@ -1,6 +1,29 @@
 {
     "events":  [
                    {
+                       "title":  "Bildungsexkursion Rubens. Ein Weltstar in Dresden!",
+                       "description":  "Anlässlich des 450sten Geburtstages von Peter Paul Rubens findet in der Gemäldegalerie Alte Meister in Dresden eine große Sonderausstellung statt.\r\nHauptwerke des Meisters werden in neuem Glanz erstrahlen, denn seit langem wird aufwendig restauriert.\r\nLernen Sie den Künstler, Diplomaten, Weltbürger und Verehrer der Frauen näher kennen und freuen Sie sich auf eine spannende Begegnung mit seinen Werken.\r\n\r\nLetzter kostenfreier Stornotermin: 8. Juni 2027",
+                       "location":  "Treffpunkt: Hauptbahnhof Chemnitz Buchhandlung",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-07-07",
+                                         "date_to":  "2027-07-07",
+                                         "time_to":  "20:00",
+                                         "time_from":  "08:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2722500",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Halbzeit: Die Bilanz der Lebensmitte miteinander teilen",
                        "description":  "Die Lebensmitte bietet eine wunderbare Gelegenheit, innezuhalten und das eigene Leben bewusst zu betrachten: Wo komme ich her und was hat mich geprägt? Welche Erfahrungen tragen mich? Was möchte ich bewahren, verändern oder ganz neu entdecken? Es geht um eine persönliche Bilanz angesichts der schon gelebten und der noch vor Ihnen liegenden Lebenszeit.\r\n\r\nIn diesem Kurs kommen Sie miteinander ins Gespräch. Sie beschäftigen sich mit den Themen Zeit, Wissen, Werte, der inneren Haltung und mit persönlichen Zukunftsperspektiven im Spannungsfeld zwischen Planung und Zufall.\r\n\r\nDas Besondere: Die Schwerpunkte entstehen vor allem aus Ihren eigenen Fragen. Sie gestalten den Kurs aktiv mit und gehen gemeinsam auch nach draußen, um in Stadt und Kultur nach Antworten zu suchen. Im Mittelpunkt steht das Teilen Ihrer Erfahrungen, um Gemeinsamkeiten zu entdecken und kreative Inspirationen für die zweite Lebenshälfte zu gewinnen.\r\n\r\nWenn Sie sich in der Lebensmitte fühlen – herzlich willkommen! Außer Interesse am Thema, Freude am tieferen Nachdenken und Offenheit für den Austausch gibt es keine Voraussetzungen. \r\n\r\nHinweis: Der Kurs dient der Selbsterfahrung und persönlichen Weiterentwicklung, er ist kein therapeutisches Angebot.\r\nDie Themenschwerpunkte:\r\n• Termin 1: Auftakt, Kennenlernen \u0026 Themen eingrenzen\r\n• Termin 2: Zeit \u0026 Wissen – Die Lebensphasen nach Erikson im Zentrum der Selbstreflexion\r\n• Termin 3: Werte – Woanders entdecken, benennen und miteinander teilen\r\n• Termin 4: Zukunft – Offen, entspannt, mutig und verantwortungsvoll",
                        "location":  "TIETZ",
@@ -234,7 +257,7 @@
                        "title":  "Einführung in die Familienforschung",
                        "description":  "Wer die eigene Familiengeschichte erforschen möchte, steht vor folgenden Fragen: Wo sind Informationen über die Vorfahren erhältlich? Wie lassen sich die Forschungsergebnisse sinnvoll ordnen? Welche Hilfsmittel stehen bei Recherche und Auswertung von Informationen zur Verfügung? \r\nDieser Kurs macht Sie mit den Grundlagen der Genealogie vertraut und bietet Hilfestellung für das Lesen alter Urkunden.",
                        "location":  "TIETZ",
-                       "room":  "Kursraum 4.20",
+                       "room":  "Kursraum 4.59",
                        "organizer":  "",
                        "images":  [
                                       {
@@ -297,6 +320,29 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2622122",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Down Under: Von Tasmanien zum Great Barrier Reef",
+                       "description":  "Der Ayers Rock und das Opernhaus in Sydney fehlen in keinem Australienvortrag. Der rote Sand im Outback, Kängurus im Hotelgarten und Koalas auf Eukalyptusbäumen sind Motive, die jeder Australienreisende auf der SD-Karte seiner Kamera gern mit Nachhause bringt. Aber, nur wenige Australienreisende waren auf der Insel Tasmanien mit ihren ganz besonderen Nationalparks und manchmal schneebedeckten Bergen. Bei klarer Nacht kann man hier das Südpolarlicht sehen. Natürlich wandern Sie mit dem Dozenten auch durch das Outback und umrunden den zweitgrößten Monolithen der Welt, den Ayers Rock. Mit einem Segelboot fahren sie durch das Great Barrier Reef und schnorcheln durch die farbenprächtigen Korallenbänke. Und natürlich sehen Sie die vielleicht schönsten Stadt der Welt - Sydney. Aber, was wäre eine Reise durch Australien, ohne die passende „Verpflegung“? Testen sie passend zum Vortrag einige der besten australischen Weine. Ein kleiner Imbiss ist eingeschlossen.",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-04-09",
+                                         "date_to":  "2027-04-09",
+                                         "time_to":  "20:15",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2622150",
                        "ticket_phone":  ""
                    },
                    {
@@ -389,6 +435,52 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2625300",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Die Kunst des Faltens – Origami entdecken",
+                       "description":  "Origami verbindet Kreativität, Ruhe und Konzentration. In diesem Kurs werden die Geschichte und die Grundlagen des Origami vermittelt. Durch die meditative Tätigkeit werden Aufmerksamkeit, Feinmotorik und Geduld gefördert. Das Falten wirkt entspannend, stärkt die Konzentration und hilft dabei, Stress abzubauen. Am Ende können die Teilnehmenden einfache Modelle wie Tiere oder modulare Formen eigenständig gestalten.",
+                       "location":  "TIETZ",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-24",
+                                         "date_to":  "2026-12-08",
+                                         "time_to":  "18:30",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2626106",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Origami-Weihnachtsdekoration und Neujahrssymbole",
+                       "description":  "Mit Papier, Falttechnik und etwas Fantasie entstehen in diesem kreativen Workshop besondere Dekorationen und kleine Glücksbringer. Gefaltet werden klassischer Origami-Baumschmuck und kreative Dekorationen, ergänzt durch traditionelle Neujahrssymbole. Passend zum chinesischen Kalender, in dem 2027 im Zeichen der Ziege bzw. des Schafes steht, entstehen Origami-Schafe oder -Ziegen als Glücksbringer. Ob für den eigenen Weihnachtsbaum, als Tischdekoration oder zum Verschenken, die selbst gefalteten Papierobjekte verleihen der festlichen Zeit eine persönliche Note.",
+                       "location":  "TIETZ",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-12-03",
+                                         "date_to":  "2026-12-03",
+                                         "time_to":  "20:00",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2626107",
                        "ticket_phone":  ""
                    },
                    {
@@ -596,29 +688,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632611",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Bevollmächtigt - was nun? Rechte und Pflichten von Bevollmächtigten",
-                       "description":  "Eine Vorsorgevollmacht ist ein großer Vertrauensbeweis. Denn sie gibt Bevollmächtigten das Recht, im Namen der ausstellenden Person zu entscheiden und zu handeln, wenn diese dazu selbst nicht mehr in der Lage ist. Doch welche Rechte und Pflichten haben Bevollmächtigte eigentlich? Welche Vorschriften aus dem Betreuungsrecht müssen sie beachten? Bevollmächtigte sind hier meist nur unzureichend informiert. Das kann zu Überforderung, Fehlern und im schlimmsten Fall zu Haftungsschäden führen.\r\nDieser Kurs wendet sich an Bevollmächtigte und möchte über Rechte und Pflichten informieren.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.62",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-10-21",
-                                         "date_to":  "2026-10-21",
-                                         "time_to":  "18:30",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2636117",
                        "ticket_phone":  ""
                    },
                    {
