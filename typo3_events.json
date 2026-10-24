@@ -1,30 +1,6 @@
 {
     "events": [
         {
-            "title": "AUSGEBUCHT! Ferienangebot: Auf der Spur der Diamanten-Diebin",
-            "description": "<p>Diese Veranstaltung ist bereits ausgebucht.</p> <p><strong>Was?</strong></p> <p>WUFF! Hier bellt Kommissar Pfote - und ihr k\u00f6nnt mit ihm gemeinsam ermitteln! Freut euch auf ein interaktives Krimi-Abenteuer, bei dem ihr gemeinsam mit einem Lesehund-Team der Diamanten-Diebin auf die Schliche kommt.</p> <p><strong>Wo?</strong></p> <p>Zentralbibliothek im Tietz, Lernraum&nbsp;</p> <p><strong>Wer?</strong></p> <p>f\u00fcr Kinder ab 7 Jahren, Begleitperson willkommen</p> <p><strong>Wann?</strong></p> <p>23.10.2026, 16 bis 17 Uhr</p> <p>kostenfrei, Anmeldung erforderlich</p>  ",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Foto_20_Kommissar_Pfote1-_c__Dana_Leopold__2_.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-10-23",
-                    "date_to": "",
-                    "time_from": "16:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-der-spur-der-diamanten-diebin-2"
-        },
-        {
             "title": "2. Silent Book Night",
             "description": "<p>Ort: Zentralbibliothek, BibliotheksLabor&nbsp;</p> <p><i>Eintritt: frei | Anmeldung unter www.rausgegangen.de</i></p> <p>Stadtbibliothek und der Silent Book Club laden ein zur 2. Silent Book Night. Wie bei der ersten \u201eNight\u201c wird es wieder leckere Kaffeegetr\u00e4nke geben, einen Book Swap Tisch und Zeit zum stillen Lesen und zum Austausch danach.&nbsp;</p> <p>Was ist der Silent Book Club? Die Idee ist schnell erkl\u00e4rt: Jeder bringt ein Buch mit, das sie oder er gerade lesen will. Dann setzt man sich f\u00fcr eine Stunde zusammen und liest f\u00fcr sich allein. Danach ist Zeit zum Austausch - aber auch nur, wenn man will.</p>",
             "organizer": "",
