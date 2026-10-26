@@ -40,7 +40,7 @@ Die Listennamen sind die `ListName`-Werte aus dem OPAC, zum Beispiel `Romane`, `
 ## Links und Cover
 
 - **Links:** `start.do?Query=-1="ISBN"` öffnet die Vollanzeige des Titels direkt. Ohne ISBN wird nach dem Titel gesucht. Links der Form `singleHit.do?…&identifier=-1_Romane` funktionieren nur in einer Sitzung, in der die Liste vorher geöffnet wurde. Von einer anderen Seite aus führen sie auf „Diese Sitzung ist nicht mehr gültig“.
-- **Cover:** kommen aus dem MVB-Coverdienst der DNB (`portal.dnb.de/opac/mvb/cover?isbn=…`). Gibt es kein Cover, zeigt das Karussell eine farbige Karte mit Titel und Autor.
+- **Cover:** kommen aus dem MVB-Coverdienst der DNB (`portal.dnb.de/opac/mvb/cover.htm?isbn=…`). Gibt es kein Cover, zeigt das Karussell eine farbige Karte mit Titel und Autor.
 
 ## Daten aktualisieren
 

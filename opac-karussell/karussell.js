@@ -19,7 +19,7 @@
   "use strict";
 
   var OPAC = "https://opac2.stadtbibliothek-chemnitz.de/webOPACClient/start.do?Query=-1=";
-  var COVER = "https://portal.dnb.de/opac/mvb/cover?isbn=";
+  var COVER = "https://portal.dnb.de/opac/mvb/cover.htm?isbn=";
   var STATUS = {
     verfuegbar: "ausleihbar",
     morgen: "ab morgen da",
