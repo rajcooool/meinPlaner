@@ -19,6 +19,7 @@
   "use strict";
 
   var OPAC = "https://opac2.stadtbibliothek-chemnitz.de/webOPACClient/start.do?Query=-1=";
+  var OPAC_PFAD = "/webOPACClient/";
   var COVER = "https://portal.dnb.de/opac/mvb/cover.htm?isbn=";
   var STATUS = {
     verfuegbar: "ausleihbar",
@@ -87,6 +88,83 @@
     cover.appendChild(e);
   }
 
+  // Cover kommen bevorzugt ueber den OPAC selbst (cover.jsp -> showMVBCover.do).
+  // Das geht nur, wenn die Seite auf demselben Server wie der OPAC liegt und eine
+  // gueltige OPAC-Sitzung besteht. Sonst wird der DNB-Coverdienst versucht.
+  // Jeder Bildabruf ohne gueltige Sitzung setzt ein neues Sitzungs-Cookie. Deshalb
+  // prueft das erste Cover die Sitzung allein, alle weiteren starten erst danach.
+  var bereit = null;
+
+  function opacCoverUrl(isbn) {
+    var url = OPAC_PFAD + "jsp/result/cover.jsp?title=x&localImg=&isbns=" +
+      encodeURIComponent("[" + isbn + "]") + "&asins=%5B%5D&size=medium&pos=sbck";
+    return fetch(url, { credentials: "same-origin" }).then(function (r) {
+      if (!r.ok) throw new Error("kein OPAC");
+      return r.text();
+    }).then(function (text) {
+      var m = text.match(/showMVBCover\.do\?token=[\w-]+/);
+      return m ? OPAC_PFAD + m[0] : null;
+    });
+  }
+
+  function sitzungAnlegen() {
+    return fetch(OPAC_PFAD + "start.do", { credentials: "same-origin" })
+      .then(function () {}, function () {});
+  }
+
+  function coverLaden(cover) {
+    if (!bereit) {
+      var fertig;
+      bereit = new Promise(function (r) { fertig = r; });
+      laden(cover, fertig, "opac");
+    } else {
+      bereit.then(function (modus) { laden(cover, null, modus); });
+    }
+  }
+
+  // fertig: nur beim ersten Cover gesetzt, meldet "opac" oder "dnb" an alle weiteren
+  function laden(cover, fertig, modus) {
+    var t = cover.sbckTitel;
+    var img = el("img");
+    var versuche = 0;
+    img.alt = "";
+    cover.appendChild(img);
+
+    function melden(m) { if (fertig) { fertig(m); fertig = null; } }
+
+    function dnb() {
+      melden("dnb");
+      img.onerror = function () { ersatz(cover, t); };
+      // Der Coverdienst liefert fuer fehlende Cover teils ein 1x1-Bild
+      img.onload = function () { if (img.naturalWidth < 10) ersatz(cover, t); };
+      img.src = COVER + t.isbn;
+    }
+
+    function opac() {
+      opacCoverUrl(t.isbn).then(function (src) {
+        if (!src) {
+          // Kein Cover beim OPAC; die Sitzung ist damit noch ungeprueft
+          ersatz(cover, t);
+          if (fertig) sitzungAnlegen().then(function () { melden("opac"); });
+          return;
+        }
+        img.onload = function () {
+          if (img.naturalWidth < 10) ersatz(cover, t);
+          melden("opac");
+        };
+        img.onerror = function () {
+          // Ohne gueltige Sitzung liefert showMVBCover.do eine HTML-Seite statt des Bildes
+          if (fertig && versuche++ === 0) sitzungAnlegen().then(opac);
+          else { ersatz(cover, t); melden("opac"); }
+        };
+        img.src = src;
+      }, dnb);
+    }
+
+    if (modus === "dnb") dnb();
+    else opac();
+  }
+
   function karte(t, ziel) {
     var li = el("li", "sbck-karte");
     var a = el("a");
@@ -94,14 +172,7 @@
     if (ziel) { a.target = ziel; if (ziel === "_blank") a.rel = "noopener"; }
     var cover = el("div", "sbck-cover");
     if (t.isbn) {
-      var img = el("img");
-      img.alt = "";
-      img.loading = "lazy";
-      img.onerror = function () { ersatz(cover, t); };
-      // Der Coverdienst liefert fuer fehlende Cover teils ein 1x1-Bild
-      img.onload = function () { if (img.naturalWidth < 10) ersatz(cover, t); };
-      img.src = COVER + t.isbn;
-      cover.appendChild(img);
+      cover.sbckTitel = t;
     } else {
       ersatz(cover, t);
     }
@@ -176,6 +247,21 @@
     rahmen.appendChild(vor);
     box.appendChild(rahmen);
     pfeile();
+
+    // Cover erst laden, wenn die Karte in die Naehe des sichtbaren Bereichs kommt
+    var offen = band.querySelectorAll(".sbck-cover");
+    if ("IntersectionObserver" in window) {
+      var beobachter = new IntersectionObserver(function (eintraege) {
+        eintraege.forEach(function (e) {
+          if (!e.isIntersecting) return;
+          beobachter.unobserve(e.target);
+          coverLaden(e.target);
+        });
+      }, { rootMargin: "300px 600px" });
+      for (var i = 0; i < offen.length; i++) if (offen[i].sbckTitel) beobachter.observe(offen[i]);
+    } else {
+      for (var j = 0; j < offen.length; j++) if (offen[j].sbckTitel) coverLaden(offen[j]);
+    }
   }
 
   function start() {

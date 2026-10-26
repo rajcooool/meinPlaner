@@ -40,7 +40,7 @@ Die Listennamen sind die `ListName`-Werte aus dem OPAC, zum Beispiel `Romane`, `
 ## Links und Cover
 
 - **Links:** `start.do?Query=-1="ISBN"` öffnet die Vollanzeige des Titels direkt. Ohne ISBN wird nach dem Titel gesucht. Links der Form `singleHit.do?…&identifier=-1_Romane` funktionieren nur in einer Sitzung, in der die Liste vorher geöffnet wurde. Von einer anderen Seite aus führen sie auf „Diese Sitzung ist nicht mehr gültig“.
-- **Cover:** kommen aus dem MVB-Coverdienst der DNB (`portal.dnb.de/opac/mvb/cover.htm?isbn=…`). Gibt es kein Cover, zeigt das Karussell eine farbige Karte mit Titel und Autor.
+- **Cover:** kommen über den OPAC selbst (`cover.jsp` → `showMVBCover.do`), so wie in der OPAC-Trefferliste. Das funktioniert nur, wenn die Seite auf demselben Server wie der OPAC liegt (z. B. unter `htdocs/KARUSSELL`). Fehlt eine gültige OPAC-Sitzung, legt das Karussell sie mit `start.do` an. Liegt die Seite auf einem anderen Server, wird ersatzweise der DNB-Coverdienst (`portal.dnb.de/opac/mvb/cover.htm?isbn=…`) versucht. Gibt es kein Cover, zeigt das Karussell eine farbige Karte mit Titel und Autor.
 
 ## Daten aktualisieren
 
