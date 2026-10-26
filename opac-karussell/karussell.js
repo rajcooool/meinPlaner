@@ -31,38 +31,49 @@
     entliehen: "entliehen"
   };
 
+  // Mosaik-Layout: abwechselnd ein 2x2-Block kleiner Cover und ein grosses Cover.
+  // Die Hoehe steuert --sbck-hoehe, die Breite folgt dem Seitenverhaeltnis des Covers.
   var CSS = [
-    ".sbck{--sbck-akzent:#c32e04;--sbck-gruen:#4f7a1c;--sbck-text:#222;--sbck-grau:#666;--sbck-linie:#ddd;--sbck-flaeche:#fff;",
-    "font-family:inherit;color:var(--sbck-text);margin:1.5em 0;position:relative}",
+    ".sbck{--sbck-akzent:#1f6fb2;--sbck-gruen:#3f7a1c;--sbck-text:#1d1d1d;--sbck-hoehe:360px;--sbck-abstand:20px;--sbck-klein:calc((var(--sbck-hoehe) - var(--sbck-abstand)) / 2);",
+    "font-family:inherit;color:var(--sbck-text);margin:1.2em 0 2.2em;position:relative}",
     ".sbck *{box-sizing:border-box}",
-    ".sbck-kopf{display:flex;align-items:baseline;justify-content:space-between;gap:1em;margin:0 0 .6em;border-bottom:2px solid var(--sbck-akzent);padding-bottom:.3em}",
-    ".sbck-kopf h2{font-size:1.25em;margin:0;font-weight:700}",
-    ".sbck-kopf a{color:var(--sbck-akzent);font-size:.9em;white-space:nowrap}",
-    ".sbck-rahmen{position:relative}",
-    ".sbck-band{list-style:none;margin:0;padding:.25em .1em .6em;display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:thin}",
+    ".sbck-kopf{display:flex;align-items:baseline;justify-content:space-between;gap:1em;margin:0 0 .9em}",
+    ".sbck-kopf h2{font-size:1.15em;margin:0;font-weight:700}",
+    ".sbck-kopf a{color:var(--sbck-akzent);text-decoration:none;white-space:nowrap}",
+    ".sbck-kopf a:hover{text-decoration:underline}",
+    ".sbck-rahmen{position:relative;padding:0 64px}",
+    ".sbck-band{list-style:none;margin:0;padding:6px 2px 10px;display:flex;gap:var(--sbck-abstand);overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none}",
+    ".sbck-band::-webkit-scrollbar{display:none}",
     "@media (prefers-reduced-motion:reduce){.sbck-band{scroll-behavior:auto}}",
-    ".sbck-karte{flex:0 0 150px;scroll-snap-align:start;margin:0}",
-    ".sbck-karte a{display:block;color:inherit;text-decoration:none;border-radius:4px}",
-    ".sbck-karte a:focus-visible{outline:3px solid var(--sbck-akzent);outline-offset:3px}",
-    ".sbck-cover{position:relative;width:150px;height:220px;background:#eee;border-radius:3px;overflow:hidden;box-shadow:0 2px 6px rgba(0,0,0,.18);transition:transform .15s}",
-    ".sbck-karte a:hover .sbck-cover{transform:translateY(-3px)}",
-    ".sbck-cover img{width:100%;height:100%;object-fit:cover;display:block}",
-    ".sbck-ersatz{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:space-between;padding:14px 12px;color:#fff;font-size:.95em;line-height:1.25;font-weight:700;overflow-wrap:break-word;hyphens:auto}",
+    ".sbck-gruppe{flex:0 0 auto;scroll-snap-align:start;display:flex;flex-direction:column;gap:var(--sbck-abstand)}",
+    ".sbck-zeile{display:flex;gap:var(--sbck-abstand)}",
+    
+    ".sbck-karte{display:block;color:inherit;text-decoration:none;border-radius:6px;flex:0 0 auto}",
+    ".sbck-karte:focus-visible{outline:3px solid var(--sbck-akzent);outline-offset:3px}",
+    ".sbck-cover{position:relative;height:var(--sbck-klein);aspect-ratio:2/3;background:#e9e9e9;border-radius:6px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.25)}",
+    ".sbck-cover img{height:100%;width:100%;object-fit:cover;display:block}",
+    ".sbck-ersatz{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:space-between;padding:12px;color:#fff;font-size:.9em;line-height:1.25;font-weight:700;overflow-wrap:break-word;hyphens:auto}",
+    ".sbck-gross .sbck-cover{height:var(--sbck-hoehe)}",
+    ".sbck-gross .sbck-ersatz{font-size:1.2em;padding:18px}",
+    ".sbck-ist-ersatz .sbck-info b,.sbck-ist-ersatz .sbck-info span{display:none}",
+    ".sbck-ist-ersatz .sbck-info{background:rgba(0,0,0,.9);padding-top:9px}",
     ".sbck-ersatz small{font-weight:400;opacity:.85;font-size:.8em}",
-    ".sbck-titel{font-weight:700;font-size:.9em;line-height:1.3;margin:.55em 0 .15em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}",
-    ".sbck-karte a:hover .sbck-titel{color:var(--sbck-akzent);text-decoration:underline}",
-    ".sbck-autor{font-size:.8em;color:var(--sbck-grau);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}",
-    ".sbck-status{display:inline-flex;align-items:center;gap:.35em;font-size:.75em;color:var(--sbck-grau);margin-top:.25em}",
-    ".sbck-status:before{content:'';width:.6em;height:.6em;border-radius:50%;background:#aaa}",
-    ".sbck-status.verfuegbar{color:var(--sbck-gruen)}.sbck-status.verfuegbar:before{background:var(--sbck-gruen)}",
-    ".sbck-status.morgen:before{background:#d99a00}",
-    ".sbck-pfeil{position:absolute;top:95px;width:40px;height:40px;border-radius:50%;border:1px solid var(--sbck-linie);background:var(--sbck-flaeche);color:var(--sbck-text);font-size:22px;line-height:1;cursor:pointer;box-shadow:0 2px 6px rgba(0,0,0,.2);display:flex;align-items:center;justify-content:center;z-index:2}",
-    ".sbck-pfeil:hover{background:var(--sbck-akzent);color:#fff;border-color:var(--sbck-akzent)}",
+    ".sbck-info{position:absolute;left:0;right:0;bottom:0;padding:28px 10px 9px;background:linear-gradient(transparent,rgba(0,0,0,.85) 45%);color:#fff;font-size:.8em;line-height:1.3;opacity:0;transform:translateY(6px);transition:opacity .15s,transform .15s;pointer-events:none}",
+    ".sbck-karte:hover .sbck-info,.sbck-karte:focus-visible .sbck-info{opacity:1;transform:none}",
+    ".sbck-info b{display:block;font-size:1.05em}",
+    ".sbck-info span{display:block;opacity:.85}",
+    ".sbck-info i{font-style:normal;display:inline-flex;align-items:center;gap:.35em;margin-top:.2em}",
+    ".sbck-info i:before{content:'';width:.6em;height:.6em;border-radius:50%;background:#bbb}",
+    ".sbck-info i.verfuegbar:before{background:#8fd16a}.sbck-info i.morgen:before{background:#f0b400}",
+    "@media (prefers-reduced-motion:reduce){.sbck-info{transition:none}}",
+    ".sbck-pfeil{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:96px;padding:0;border:0;background:none;color:var(--sbck-akzent);cursor:pointer;display:flex;align-items:center;justify-content:center;border-radius:6px}",
+    ".sbck-pfeil svg{width:30px;height:60px;fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}",
+    ".sbck-pfeil:hover{opacity:.7}",
     ".sbck-pfeil:focus-visible{outline:3px solid var(--sbck-akzent);outline-offset:2px}",
-    ".sbck-pfeil[hidden]{display:none}",
-    ".sbck-zurueck{left:-14px}.sbck-vor{right:-14px}",
-    "@media (max-width:600px){.sbck-pfeil{display:none}.sbck-karte{flex-basis:120px}.sbck-cover{width:120px;height:176px}}",
-    ".sbck-leer{color:var(--sbck-grau);font-style:italic}"
+    ".sbck-pfeil:disabled{opacity:.25;cursor:default}",
+    ".sbck-zurueck{left:4px}.sbck-vor{right:4px}",
+    "@media (max-width:700px){.sbck{--sbck-hoehe:240px;--sbck-abstand:12px}.sbck-rahmen{padding:0 34px}.sbck-pfeil{width:30px;height:64px}.sbck-pfeil svg{width:18px;height:40px}.sbck-zurueck{left:0}.sbck-vor{right:0}.sbck-ersatz{font-size:.75em;padding:8px}}",
+    ".sbck-leer{color:#666;font-style:italic}"
   ].join("");
 
   var FARBEN = ["#7a2a12", "#2f4f6b", "#4f6b2f", "#6b2f5c", "#8a5a12", "#2f6b66", "#5c3a2e", "#3e3f72"];
@@ -85,11 +96,25 @@
   }
 
   function ersatz(cover, t) {
+    var info = cover.querySelector(".sbck-info");
     cover.innerHTML = "";
+    cover.style.aspectRatio = "";
+    cover.classList.add("sbck-ist-ersatz");
+    if (info) cover.appendChild(info);
     var e = el("div", "sbck-ersatz", t.t);
     e.style.background = farbe(t.t);
     if (t.a) e.appendChild(el("small", "", t.a));
-    cover.appendChild(e);
+    cover.insertBefore(e, cover.firstChild);
+  }
+
+  // Das Cover bekommt das Seitenverhaeltnis des Bildes, damit nichts beschnitten wird
+  function bildEinsetzen(cover, img) {
+    img.addEventListener("load", function () {
+      if (img.naturalWidth >= 10 && img.naturalHeight >= 10) {
+        cover.style.aspectRatio = img.naturalWidth + " / " + img.naturalHeight;
+      }
+    });
+    cover.insertBefore(img, cover.firstChild);
   }
 
   // Cover kommen bevorzugt ueber den OPAC selbst (cover.jsp -> showMVBCover.do).
@@ -124,7 +149,7 @@
       img.alt = "";
       img.onerror = function () { cover.removeChild(img); opacCoverLaden(cover); };
       img.src = COVER_ORDNER + t.isbn + ".jpg";
-      cover.appendChild(img);
+      bildEinsetzen(cover, img);
       return;
     }
     opacCoverLaden(cover);
@@ -146,7 +171,7 @@
     var img = el("img");
     var versuche = 0;
     img.alt = "";
-    cover.appendChild(img);
+    bildEinsetzen(cover, img);
 
     function melden(m) { if (fertig) { fertig(m); fertig = null; } }
 
@@ -184,24 +209,46 @@
   }
 
   function karte(t, ziel) {
-    var li = el("li", "sbck-karte");
-    var a = el("a");
+    var a = el("a", "sbck-karte");
     a.href = link(t);
     if (ziel) { a.target = ziel; if (ziel === "_blank") a.rel = "noopener"; }
+    a.title = t.t + (t.a ? " – " + t.a : "");
+    a.setAttribute("aria-label", t.t + (t.a ? ", " + t.a : "") + (STATUS[t.st] ? ", " + STATUS[t.st] : ""));
     var cover = el("div", "sbck-cover");
+    var info = el("div", "sbck-info");
+    info.setAttribute("aria-hidden", "true");
+    info.appendChild(el("b", "", t.t));
+    if (t.a) info.appendChild(el("span", "", t.a));
+    if (STATUS[t.st]) info.appendChild(el("i", t.st, [t.j, STATUS[t.st]].filter(Boolean).join(" · ")));
+    cover.appendChild(info);
     if (t.isbn) {
       cover.sbckTitel = t;
     } else {
       ersatz(cover, t);
     }
     a.appendChild(cover);
-    a.appendChild(el("div", "sbck-titel", t.t));
-    if (t.a) a.appendChild(el("div", "sbck-autor", t.a));
-    var info = [t.j, STATUS[t.st]].filter(Boolean).join(" · ");
-    if (STATUS[t.st]) a.appendChild(el("div", "sbck-status " + t.st, info));
-    a.setAttribute("aria-label", t.t + (t.a ? ", " + t.a : "") + (STATUS[t.st] ? ", " + STATUS[t.st] : ""));
-    li.appendChild(a);
-    return li;
+    return a;
+  }
+
+  // Gruppen im Wechsel: 2x2 kleine Cover, dann ein grosses Cover
+  function gruppen(titel, ziel) {
+    var liste = [], i = 0, klein = true;
+    while (i < titel.length) {
+      var li = el("li", "sbck-gruppe");
+      if (klein && titel.length - i >= 2) {
+        for (var z = 0; z < 2 && i < titel.length; z++) {
+          var zeile = el("div", "sbck-zeile");
+          for (var s = 0; s < 2 && i < titel.length; s++) zeile.appendChild(karte(titel[i++], ziel));
+          li.appendChild(zeile);
+        }
+      } else {
+        li.classList.add("sbck-gross");
+        li.appendChild(karte(titel[i++], ziel));
+      }
+      liste.push(li);
+      klein = !klein;
+    }
+    return liste;
   }
 
   function mischen(arr) {
@@ -234,7 +281,7 @@
 
     var kopf = el("div", "sbck-kopf");
     kopf.appendChild(el("h2", "", ueberschrift));
-    var alle = el("a", "", "Alle Neuerwerbungen");
+    var alle = el("a", "", "Alle Neuerwerbungen ›");
     alle.href = "https://opac2.stadtbibliothek-chemnitz.de/webOPACClient/actual.do?methodToCall=show";
     kopf.appendChild(alle);
     box.appendChild(kopf);
@@ -247,19 +294,23 @@
 
     var rahmen = el("div", "sbck-rahmen");
     var band = el("ul", "sbck-band");
-    titel.forEach(function (t) { band.appendChild(karte(t, opt.ziel)); });
-    var zurueck = el("button", "sbck-pfeil sbck-zurueck", "‹");
-    var vor = el("button", "sbck-pfeil sbck-vor", "›");
+    gruppen(titel, opt.ziel).forEach(function (g) { band.appendChild(g); });
+    var zurueck = el("button", "sbck-pfeil sbck-zurueck");
+    var vor = el("button", "sbck-pfeil sbck-vor");
+    zurueck.innerHTML = '<svg viewBox="0 0 30 60" aria-hidden="true"><polyline points="26,4 4,30 26,56"/></svg>';
+    vor.innerHTML = '<svg viewBox="0 0 30 60" aria-hidden="true"><polyline points="4,4 26,30 4,56"/></svg>';
     zurueck.type = vor.type = "button";
     zurueck.setAttribute("aria-label", "Vorherige Titel");
     vor.setAttribute("aria-label", "Weitere Titel");
     zurueck.onclick = function () { band.scrollBy({ left: -band.clientWidth * 0.9 }); };
     vor.onclick = function () { band.scrollBy({ left: band.clientWidth * 0.9 }); };
     function pfeile() {
-      zurueck.hidden = band.scrollLeft < 5;
-      vor.hidden = band.scrollLeft + band.clientWidth >= band.scrollWidth - 5;
+      zurueck.disabled = band.scrollLeft < 5;
+      vor.disabled = band.scrollLeft + band.clientWidth >= band.scrollWidth - 5;
     }
     band.addEventListener("scroll", pfeile, { passive: true });
+    // Breiten aendern sich, sobald Cover geladen sind
+    band.addEventListener("load", pfeile, true);
     window.addEventListener("resize", pfeile);
     rahmen.appendChild(zurueck);
     rahmen.appendChild(band);

@@ -6,7 +6,7 @@ Zeigt die Neuerwerbungen der Stadtbibliothek Chemnitz als Cover-Karussell. Jeder
 
 | Datei | Zweck |
 |---|---|
-| `karussell.js` | Das Karussell: Darstellung, Styles, Pfeil-Navigation. |
+| `karussell.js` | Das Karussell: Mosaik aus abwechselnd vier kleinen und einem großen Cover, Pfeil-Navigation, Titel beim Darüberfahren. Farben und Höhe lassen sich per CSS-Variablen (`--sbck-akzent`, `--sbck-hoehe`) anpassen. |
 | `neuerwerbungen.js` | Die Titeldaten aller Neuerwerbungslisten. Wird von `aktualisieren.py` erzeugt. |
 | `aktualisieren.py` | Liest die Listen aus dem OPAC neu ein und speichert die Cover (nur Python-Standardbibliothek). |
 | `covers/` | Von `aktualisieren.py` gespeicherte Cover (`<ISBN>.jpg`). Nicht im Repository, entsteht beim ersten Lauf. |
