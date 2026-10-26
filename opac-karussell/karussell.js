@@ -14,6 +14,7 @@
  *   data-nur-verfuegbar  "ja" zeigt nur aktuell ausleihbare Titel
  *   data-reihenfolge     "liste" (Standard) oder "zufall"
  *   data-ziel            Linkziel, z. B. "_blank" (Standard: gleiches Fenster)
+ *   data-leer            "ausblenden" blendet das Karussell aus, wenn die Auswahl leer ist
  */
 (function () {
   "use strict";
@@ -239,6 +240,7 @@
     box.appendChild(kopf);
 
     if (!titel.length) {
+      if (opt.leer === "ausblenden") { box.hidden = true; return; }
       box.appendChild(el("p", "sbck-leer", "Zurzeit keine Neuerwerbungen in dieser Auswahl."));
       return;
     }

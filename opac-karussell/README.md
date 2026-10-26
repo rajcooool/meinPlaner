@@ -10,7 +10,7 @@ Zeigt die Neuerwerbungen der Stadtbibliothek Chemnitz als Cover-Karussell. Jeder
 | `neuerwerbungen.js` | Die Titeldaten aller Neuerwerbungslisten. Wird von `aktualisieren.py` erzeugt. |
 | `aktualisieren.py` | Liest die Listen aus dem OPAC neu ein und speichert die Cover (nur Python-Standardbibliothek). |
 | `covers/` | Von `aktualisieren.py` gespeicherte Cover (`<ISBN>.jpg`). Nicht im Repository, entsteht beim ersten Lauf. |
-| `beispiel.html` | Beispielseite mit vier Karussells. |
+| `beispiel.html` | Beispielseite mit je einem Karussell für alle 63 Neuerwerbungslisten des OPAC. |
 
 ## Einbinden
 
@@ -35,6 +35,7 @@ Die beiden `<script>`-Zeilen braucht es nur einmal pro Seite, auch bei mehreren 
 | `data-nur-verfuegbar` | `ja` zeigt nur ausleihbare Titel | aus |
 | `data-reihenfolge` | `liste` oder `zufall` | `liste` |
 | `data-ziel` | Linkziel, z. B. `_blank` | gleiches Fenster |
+| `data-leer` | `ausblenden` blendet das Karussell aus, wenn die Auswahl gerade leer ist | Hinweistext |
 
 Die Listennamen sind die `ListName`-Werte aus dem OPAC, zum Beispiel `Romane`, `Krimis`, `Utop`, `Jugend`, `Hoerbuecher`, `Romane Schulkinder`, `Sach Schulkinder`, `Vorschulkinder`, `Allerkleinsten`, `Regionales`.
 
