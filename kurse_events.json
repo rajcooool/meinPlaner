@@ -507,6 +507,29 @@
                        "ticket_phone":  ""
                    },
                    {
+                       "title":  "Peruanische Küche",
+                       "description":  "Tauchen Sie in die faszinierende Welt der peruanischen Gastronomie mit dem Kursleiter Pedro Montero aus Lima, Peru ein. An diesem Kochabend lernen Sie authentische peruanische Gerichte zuzubereiten, die mit frischen Zutaten und einzigartigen Aromen begeistern. Lassen Sie sich von der Vielfalt der peruanischen Küche inspirieren und entdecken Sie neue Geschmackserlebnisse. Genießen Sie ein geselliges Miteinander und bringen Sie ein Stück Peru in Ihre Küche.\r\n\r\nLetzter kostenfreier Stornotermin: 03.12.2026",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-12-17",
+                                         "date_to":  "2026-12-17",
+                                         "time_to":  "20:15",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2627600",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Mit Angst umgehen und mehr Sicherheit gewinnen",
                        "description":  "Angst kann Gedanken, Entscheidungen und Beziehungen bestimmen und den eigenen Lebensraum einengen. Je mehr wir Angst vermeiden oder verdrängen, desto größer wird ihr Einfluss. Sie zeigt sich in unterschiedlichen Formen und kann bedrohlich wirken. Ihre Funktion und Bedeutung werden jedoch missverstanden, und sie wird oft als Störung oder als Blockade erlebt. \r\nIn diesem Kurs erfahren Sie, wie ein neuer Blick auf Angst und ein bewusster Umgang helfen können, Schritt für Schritt mehr Sicherheit, Selbstvertrauen und innere Freiheit zu entwickeln.",
                        "location":  "TIETZ",
