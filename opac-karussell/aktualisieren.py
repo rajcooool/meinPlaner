@@ -3,7 +3,10 @@
 und schreibt sie als neuerwerbungen.js fuer das Medienkarussell.
 
 Aufruf:  python3 aktualisieren.py [Zieldatei]
-Standard-Ziel ist neuerwerbungen.js neben diesem Skript. Nur Standardbibliothek.
+Standard-Ziel ist neuerwerbungen.js neben diesem Skript. Die Cover werden in den
+Ordner covers/ neben der Zieldatei gespeichert (covers/<ISBN>.jpg). Bereits
+vorhandene Cover werden nicht erneut geladen, Cover nicht mehr gelisteter Titel
+werden geloescht. Nur Standardbibliothek.
 """
 import datetime
 import html
@@ -22,14 +25,39 @@ jar = http.cookiejar.CookieJar()
 opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
 
 
-def get(path):
+def get_bytes(path):
     for attempt in range(4):
         try:
-            return opener.open(BASE + path, timeout=60).read().decode("utf-8", "replace")
+            return opener.open(BASE + path, timeout=60).read()
         except Exception as e:
             print("Wiederhole", path, e, file=sys.stderr)
             time.sleep(2 ** attempt)
     raise SystemExit("Abruf fehlgeschlagen: " + path)
+
+
+def get(path):
+    return get_bytes(path).decode("utf-8", "replace")
+
+
+def cover_laden(isbn, ziel):
+    """Holt das Cover wie die OPAC-Trefferliste: cover.jsp liefert einen
+    Einmal-Token, showMVBCover.do mit diesem Token das Bild. Benoetigt eine
+    gueltige Sitzung (start.do). Gibt True zurueck, wenn ein Bild gespeichert wurde."""
+    try:
+        page = get("/webOPACClient/jsp/result/cover.jsp?title=x&localImg=&isbns=%s&asins=%%5B%%5D&size=medium&pos=c"
+                   % urllib.parse.quote("[" + isbn + "]"))
+        m = re.search(r"showMVBCover\.do\?token=[\w-]+", page)
+        if not m:
+            return False
+        bild = get_bytes("/webOPACClient/" + m.group(0))
+    except SystemExit:
+        return False
+    # JPEG oder PNG; ohne gueltige Sitzung kommt eine HTML-Seite, fehlende Cover sind winzig
+    if not (bild[:3] == b"\xff\xd8\xff" or bild[:4] == b"\x89PNG") or len(bild) < 500:
+        return False
+    with open(ziel, "wb") as f:
+        f.write(bild)
+    return True
 
 
 def clean(s):
@@ -100,6 +128,27 @@ def main():
         print("%s: %d" % (label, len(items)), file=sys.stderr)
         if items:
             data["listen"][key] = {"label": label, "titel": items}
+
+    cover_dir = os.path.join(os.path.dirname(os.path.abspath(target)), "covers")
+    os.makedirs(cover_dir, exist_ok=True)
+    isbns = {t["isbn"] for l in data["listen"].values() for t in l["titel"] if t["isbn"]}
+    neu = vorhanden = fehlt = 0
+    for isbn in sorted(isbns):
+        datei = os.path.join(cover_dir, isbn + ".jpg")
+        if os.path.exists(datei):
+            vorhanden += 1
+        elif cover_laden(isbn, datei):
+            neu += 1
+        else:
+            fehlt += 1
+    for name in os.listdir(cover_dir):
+        if name.endswith(".jpg") and name[:-4] not in isbns:
+            os.remove(os.path.join(cover_dir, name))
+    for l in data["listen"].values():
+        for t in l["titel"]:
+            if t["isbn"] and os.path.exists(os.path.join(cover_dir, t["isbn"] + ".jpg")):
+                t["c"] = 1
+    print("Cover: %d neu, %d vorhanden, %d ohne Cover" % (neu, vorhanden, fehlt), file=sys.stderr)
 
     with open(target, "w", encoding="utf-8") as f:
         f.write("/* Neuerwerbungen Stadtbibliothek Chemnitz, erzeugt von aktualisieren.py */\n")

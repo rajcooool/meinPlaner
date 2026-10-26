@@ -20,6 +20,9 @@
 
   var OPAC = "https://opac2.stadtbibliothek-chemnitz.de/webOPACClient/start.do?Query=-1=";
   var OPAC_PFAD = "/webOPACClient/";
+  // Von aktualisieren.py gespeicherte Cover liegen in covers/ neben diesem Skript
+  var skript = document.currentScript && document.currentScript.src;
+  var COVER_ORDNER = (skript ? skript.replace(/[^\/]*$/, "") : "") + "covers/";
   var COVER = "https://portal.dnb.de/opac/mvb/cover.htm?isbn=";
   var STATUS = {
     verfuegbar: "ausleihbar",
@@ -113,6 +116,20 @@
   }
 
   function coverLaden(cover) {
+    var t = cover.sbckTitel;
+    if (t.c) {
+      // Gespeichertes Cover; nur wenn es fehlt, ueber den OPAC nachladen
+      var img = el("img");
+      img.alt = "";
+      img.onerror = function () { cover.removeChild(img); opacCoverLaden(cover); };
+      img.src = COVER_ORDNER + t.isbn + ".jpg";
+      cover.appendChild(img);
+      return;
+    }
+    opacCoverLaden(cover);
+  }
+
+  function opacCoverLaden(cover) {
     if (!bereit) {
       var fertig;
       bereit = new Promise(function (r) { fertig = r; });
