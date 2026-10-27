@@ -31,10 +31,10 @@
     entliehen: "entliehen"
   };
 
-  // Mosaik-Layout: abwechselnd ein 2x2-Block kleiner Cover und ein grosses Cover.
-  // Die Hoehe steuert --sbck-hoehe, die Breite folgt dem Seitenverhaeltnis des Covers.
+  // Zwei Reihen aus 2x2-Bloecken. Cover erscheinen hoechstens in Originalgroesse
+  // (die OPAC-Cover sind 90 px breit); --sbck-breite begrenzt die Breite zusaetzlich.
   var CSS = [
-    ".sbck{--sbck-akzent:#1f6fb2;--sbck-gruen:#3f7a1c;--sbck-text:#1d1d1d;--sbck-hoehe:360px;--sbck-abstand:20px;--sbck-klein:calc((var(--sbck-hoehe) - var(--sbck-abstand)) / 2);",
+    ".sbck{--sbck-akzent:#c32e04;--sbck-gruen:#3f7a1c;--sbck-text:#1d1d1d;--sbck-breite:90px;--sbck-abstand:20px;",
     "font-family:inherit;color:var(--sbck-text);margin:1.2em 0 2.2em;position:relative}",
     ".sbck *{box-sizing:border-box}",
     ".sbck-kopf{display:flex;align-items:baseline;justify-content:space-between;gap:1em;margin:0 0 .9em}",
@@ -42,23 +42,20 @@
     ".sbck-kopf a{color:var(--sbck-akzent);text-decoration:none;white-space:nowrap}",
     ".sbck-kopf a:hover{text-decoration:underline}",
     ".sbck-rahmen{position:relative;padding:0 64px}",
-    ".sbck-band{list-style:none;margin:0;padding:6px 2px 10px;display:flex;gap:var(--sbck-abstand);overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none}",
+    ".sbck-band{list-style:none;margin:0;padding:6px 2px 10px;display:grid;grid-template-rows:auto auto;grid-auto-flow:column;grid-auto-columns:max-content;gap:var(--sbck-abstand);align-items:end;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none}",
     ".sbck-band::-webkit-scrollbar{display:none}",
     "@media (prefers-reduced-motion:reduce){.sbck-band{scroll-behavior:auto}}",
-    ".sbck-gruppe{flex:0 0 auto;scroll-snap-align:start;display:flex;flex-direction:column;gap:var(--sbck-abstand)}",
-    ".sbck-zeile{display:flex;gap:var(--sbck-abstand)}",
+    ".sbck-platz{scroll-snap-align:start;display:flex;justify-content:center}",
     
     ".sbck-karte{display:block;color:inherit;text-decoration:none;border-radius:6px;flex:0 0 auto}",
     ".sbck-karte:focus-visible{outline:3px solid var(--sbck-akzent);outline-offset:3px}",
-    ".sbck-cover{position:relative;height:var(--sbck-klein);aspect-ratio:2/3;background:#e9e9e9;border-radius:6px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.25)}",
-    ".sbck-cover img{height:100%;width:100%;object-fit:cover;display:block}",
-    ".sbck-ersatz{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:space-between;padding:12px;color:#fff;font-size:.9em;line-height:1.25;font-weight:700;overflow-wrap:break-word;hyphens:auto}",
-    ".sbck-gross .sbck-cover{height:var(--sbck-hoehe)}",
-    ".sbck-gross .sbck-ersatz{font-size:1.2em;padding:18px}",
-    ".sbck-ist-ersatz .sbck-info b,.sbck-ist-ersatz .sbck-info span{display:none}",
-    ".sbck-ist-ersatz .sbck-info{background:rgba(0,0,0,.9);padding-top:9px}",
+    ".sbck-cover{position:relative;width:var(--sbck-breite);aspect-ratio:2/3;background:#e9e9e9;border-radius:6px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.25)}",
+    ".sbck-cover img{width:100%;height:100%;display:block}",
+    ".sbck-ersatz{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:space-between;padding:7px;color:#fff;font-size:.7em;line-height:1.25;font-weight:700;overflow-wrap:break-word;hyphens:auto}",
+            ".sbck-ist-ersatz .sbck-info b,.sbck-ist-ersatz .sbck-info span{display:none}",
+    ".sbck-ist-ersatz .sbck-info{background:rgba(0,0,0,.9);padding-top:6px}",
     ".sbck-ersatz small{font-weight:400;opacity:.85;font-size:.8em}",
-    ".sbck-info{position:absolute;left:0;right:0;bottom:0;padding:28px 10px 9px;background:linear-gradient(transparent,rgba(0,0,0,.85) 45%);color:#fff;font-size:.8em;line-height:1.3;opacity:0;transform:translateY(6px);transition:opacity .15s,transform .15s;pointer-events:none}",
+    ".sbck-info{position:absolute;left:0;right:0;bottom:0;padding:18px 6px 6px;background:linear-gradient(transparent,rgba(0,0,0,.88) 35%);color:#fff;font-size:.68em;line-height:1.3;opacity:0;transform:translateY(6px);transition:opacity .15s,transform .15s;pointer-events:none}",
     ".sbck-karte:hover .sbck-info,.sbck-karte:focus-visible .sbck-info{opacity:1;transform:none}",
     ".sbck-info b{display:block;font-size:1.05em}",
     ".sbck-info span{display:block;opacity:.85}",
@@ -72,7 +69,7 @@
     ".sbck-pfeil:focus-visible{outline:3px solid var(--sbck-akzent);outline-offset:2px}",
     ".sbck-pfeil:disabled{opacity:.25;cursor:default}",
     ".sbck-zurueck{left:4px}.sbck-vor{right:4px}",
-    "@media (max-width:700px){.sbck{--sbck-hoehe:240px;--sbck-abstand:12px}.sbck-rahmen{padding:0 34px}.sbck-pfeil{width:30px;height:64px}.sbck-pfeil svg{width:18px;height:40px}.sbck-zurueck{left:0}.sbck-vor{right:0}.sbck-ersatz{font-size:.75em;padding:8px}}",
+    "@media (max-width:700px){.sbck{--sbck-abstand:12px}.sbck-rahmen{padding:0 34px}.sbck-pfeil{width:30px;height:64px}.sbck-pfeil svg{width:18px;height:40px}.sbck-zurueck{left:0}.sbck-vor{right:0}}",
     ".sbck-leer{color:#666;font-style:italic}"
   ].join("");
 
@@ -99,6 +96,7 @@
     var info = cover.querySelector(".sbck-info");
     cover.innerHTML = "";
     cover.style.aspectRatio = "";
+    cover.style.maxWidth = "";
     cover.classList.add("sbck-ist-ersatz");
     if (info) cover.appendChild(info);
     var e = el("div", "sbck-ersatz", t.t);
@@ -107,11 +105,12 @@
     cover.insertBefore(e, cover.firstChild);
   }
 
-  // Das Cover bekommt das Seitenverhaeltnis des Bildes, damit nichts beschnitten wird
+  // Das Cover bekommt das Seitenverhaeltnis des Bildes und wird nie groesser als das Original
   function bildEinsetzen(cover, img) {
     img.addEventListener("load", function () {
       if (img.naturalWidth >= 10 && img.naturalHeight >= 10) {
         cover.style.aspectRatio = img.naturalWidth + " / " + img.naturalHeight;
+        cover.style.maxWidth = img.naturalWidth + "px";
       }
     });
     cover.insertBefore(img, cover.firstChild);
@@ -230,25 +229,13 @@
     return a;
   }
 
-  // Gruppen im Wechsel: 2x2 kleine Cover, dann ein grosses Cover
+  // Jeder Titel ein Listeneintrag; das Band ordnet sie spaltenweise in zwei Reihen an
   function gruppen(titel, ziel) {
-    var liste = [], i = 0, klein = true;
-    while (i < titel.length) {
-      var li = el("li", "sbck-gruppe");
-      if (klein && titel.length - i >= 2) {
-        for (var z = 0; z < 2 && i < titel.length; z++) {
-          var zeile = el("div", "sbck-zeile");
-          for (var s = 0; s < 2 && i < titel.length; s++) zeile.appendChild(karte(titel[i++], ziel));
-          li.appendChild(zeile);
-        }
-      } else {
-        li.classList.add("sbck-gross");
-        li.appendChild(karte(titel[i++], ziel));
-      }
-      liste.push(li);
-      klein = !klein;
-    }
-    return liste;
+    return titel.map(function (t) {
+      var li = el("li", "sbck-platz");
+      li.appendChild(karte(t, ziel));
+      return li;
+    });
   }
 
   function mischen(arr) {
