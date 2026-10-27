@@ -25,7 +25,7 @@
                    },
                    {
                        "title":  "Halbzeit: Die Bilanz der Lebensmitte miteinander teilen",
-                       "description":  "Die Lebensmitte bietet eine wunderbare Gelegenheit, innezuhalten und das eigene Leben bewusst zu betrachten: Wo komme ich her und was hat mich geprägt? Welche Erfahrungen tragen mich? Was möchte ich bewahren, verändern oder ganz neu entdecken? Es geht um eine persönliche Bilanz angesichts der schon gelebten und der noch vor Ihnen liegenden Lebenszeit.\r\n\r\nIn diesem Kurs kommen Sie miteinander ins Gespräch. Sie beschäftigen sich mit den Themen Zeit, Wissen, Werte, der inneren Haltung und mit persönlichen Zukunftsperspektiven im Spannungsfeld zwischen Planung und Zufall.\r\n\r\nDas Besondere: Die Schwerpunkte entstehen vor allem aus Ihren eigenen Fragen. Sie gestalten den Kurs aktiv mit und gehen gemeinsam auch nach draußen, um in Stadt und Kultur nach Antworten zu suchen. Im Mittelpunkt steht das Teilen Ihrer Erfahrungen, um Gemeinsamkeiten zu entdecken und kreative Inspirationen für die zweite Lebenshälfte zu gewinnen.\r\n\r\nWenn Sie sich in der Lebensmitte fühlen – herzlich willkommen! Außer Interesse am Thema, Freude am tieferen Nachdenken und Offenheit für den Austausch gibt es keine Voraussetzungen. \r\n\r\nHinweis: Der Kurs dient der Selbsterfahrung und persönlichen Weiterentwicklung, er ist kein therapeutisches Angebot.\r\nDie Themenschwerpunkte:\r\n• Termin 1: Auftakt, Kennenlernen \u0026 Themen eingrenzen\r\n• Termin 2: Zeit \u0026 Wissen – Die Lebensphasen nach Erikson im Zentrum der Selbstreflexion\r\n• Termin 3: Werte – Woanders entdecken, benennen und miteinander teilen\r\n• Termin 4: Zukunft – Offen, entspannt, mutig und verantwortungsvoll",
+                       "description":  "Die Lebensmitte bietet eine wunderbare Gelegenheit, innezuhalten und das eigene Leben bewusst zu betrachten: Wo komme ich her und was hat mich geprägt? Welche Erfahrungen tragen mich? Was möchte ich bewahren, verändern oder ganz neu entdecken? Es geht um eine persönliche Bilanz angesichts der schon gelebten und der noch vor Ihnen liegenden Lebenszeit.\r\n\r\nIn diesem Kurs kommen Sie miteinander ins Gespräch. Sie beschäftigen sich mit den Themen Zeit, Wissen, Werte, der inneren Haltung und mit persönlichen Zukunftsperspektiven im Spannungsfeld zwischen Planung und Zufall.\r\n\r\nDas Besondere: Die Schwerpunkte des Kurses entstehen vor allem aus Ihren eigenen Fragen. Sie gestalten den Kurs aktiv mit und gehen gemeinsam auch nach draußen, um in Stadt und Kultur nach Antworten zu suchen. Im Mittelpunkt steht das Teilen Ihrer Erfahrungen, um Gemeinsamkeiten zu entdecken und kreative Inspirationen für die zweite Lebenshälfte zu gewinnen.\r\n\r\nWenn Sie sich in der Lebensmitte fühlen – herzlich willkommen! Außer Interesse am Thema, Freude am tieferen Nachdenken und Offenheit für den Austausch gibt es keine Voraussetzungen. \r\n\r\nHinweis: Der Kurs dient der Selbsterfahrung und persönlichen Weiterentwicklung, er ist kein therapeutisches Angebot.\r\nDie Themenschwerpunkte:\r\n• Termin 1: Auftakt, Kennenlernen \u0026 Themen eingrenzen\r\n• Termin 2: Zeit \u0026 Wissen – Die Lebensphasen nach Erikson im Zentrum der Selbstreflexion\r\n• Termin 3: Werte – Woanders entdecken, benennen und miteinander teilen\r\n• Termin 4: Zukunft – Offen, entspannt, mutig und verantwortungsvoll",
                        "location":  "TIETZ",
                        "room":  "Kursraum 4.21",
                        "organizer":  "",
@@ -228,6 +228,121 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2732606",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Effiziente Meetings - klar, fokussiert, ergebnisorientiert -NEU-",
+                       "description":  "Meetings sollen Zusammenarbeit erleichtern, werden aber schnell zu Zeitfressern. In diesem praxisorientierten Kurs lernen Sie, Besprechungen klar zu strukturieren, zielgerichtet zu moderieren und zu verbindlichen Ergebnissen zu führen.\r\nSie erfahren, wie Sie Ziele und Agenda sinnvoll gestalten, Diskussionen auf Kurs halten, mit Vielredner und Abschweifungen umgehen und Entscheidungen sowie nächste Schritte sichern. Praktische Übungen und konkrete Methoden sorgen dafür, dass Sie das Gelernte direkt in Ihrem Arbeitsalltag einsetzen können.",
+                       "location":  "online",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-06-15",
+                                         "date_to":  "2027-06-15",
+                                         "time_to":  "19:45",
+                                         "time_from":  "16:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S275B204",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Change Management: Veränderungen erfolgreich gestalten",
+                       "description":  "Veränderungen gehören zum Alltag von Organisationen, sei es durch neue Technologien, Marktbedingungen oder interne Umstrukturierungen. Damit Veränderungen gelingen, braucht es neben einer klaren Strategie vor allem ein bewusstes Change Management, das Menschen mitnimmt und Orientierung gibt. In diesem Seminar lernen Sie die zentralen Grundlagen und Erfolgsfaktoren des Change Managements kennen. Anhand von Praxisbeispielen und Übungen wird vermittelt, wie Veränderungsprozesse geplant, kommuniziert und umgesetzt werden können.",
+                       "location":  "online",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-05-04",
+                                         "date_to":  "2027-05-04",
+                                         "time_to":  "12:45",
+                                         "time_from":  "09:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S275B300",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Wokeness bei Kindern und Jugendlichen verstehen",
+                       "description":  "Um die Erlebniswelt von Kindern und Jugendlichen besser zu verstehen, kann es hilfreich sein, ihre kulturellen Prägungen und aktuellen gesellschaftlichen Deutungsmuster zu kennen. Dazu gehört ein Verständnis von Identität, Sprache und Zugehörigkeit, das oft unter dem Begriff „Wokeness“ diskutiert wird. \r\nDieser Kurs soll pädagogischem Personal und Interessierten einen verständlichen Einblick in zentrale Begriffe, aktuelle Haltungen und Zusammenhänge geben. Authentische Fallbeispiele aus der Praxis runden den Kurs ab.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-06-19",
+                                         "date_to":  "2027-06-19",
+                                         "time_to":  "13:30",
+                                         "time_from":  "09:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S275B402",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Richtig Feedback geben - klar und wertschätzend mit Eltern kommunizieren",
+                       "description":  "Gespräche mit Eltern gehören zum Alltag von pädagogischem Personal in Kitas und Horten. Sie sind entscheidend für eine vertrauensvolle Zusammenarbeit und können gleichzeitig herausfordernd sein, insbesondere wenn sensible Themen angesprochen werden. \r\nIn diesem Kurs lernen Sie, Feedback professionell, empathisch und zugleich klar zu formulieren. Sie setzen sich mit der Wirkung von Sprache auseinander und reflektieren, wie Gespräche konstruktiv gestaltet werden können. Mithilfe von typischen Beispielen aus dem Kita-Alltag entwickeln die Sie konkrete Gesprächsstrategien für eine respektvolle und vertrauensvolle Kommunikation mit Eltern. Sie erlernen, wie Sie Beobachtungen verständlich ansprechen und Kritik sensibel formulieren. Der Kurs bietet Raum für Austausch, Reflexion und praktische Übungen, die direkt im pädagogischen Alltag angewendet werden können.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.51",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-06-02",
+                                         "date_to":  "2027-06-02",
+                                         "time_to":  "16:45",
+                                         "time_from":  "10:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S275B407",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "KI in der Praxis: So entlastet sie den Arbeitsalltag",
+                       "description":  "Wie kann Künstliche Intelligenz (KI) Ihren Arbeitsalltag vereinfachen, ganz ohne komplizierte Technik? Dieser praxisorientierte Kurs zeigt, wie Sie die Möglichkeiten von KI nutzen können, um Ihre täglichen Aufgaben effizienter zu gestalten. \r\nSie lernen, wie Sie mithilfe intuitiver KI-Tools Ihre Kommunikation optimieren, die Organisation von Aufgaben und Projekten verbessern und die Informationsverarbeitung beschleunigen können. Der Fokus liegt dabei auf leicht zugänglichen, direkt nutzbaren Anwendungen. Nutzen Sie die Hilfe von KI für Routineaufgaben im Arbeitsalltag.",
+                       "location":  "online",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-04-29",
+                                         "date_to":  "2027-04-29",
+                                         "time_to":  "19:15",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S275B408",
                        "ticket_phone":  ""
                    },
                    {
@@ -527,29 +642,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2627600",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Mit Angst umgehen und mehr Sicherheit gewinnen",
-                       "description":  "Angst kann Gedanken, Entscheidungen und Beziehungen bestimmen und den eigenen Lebensraum einengen. Je mehr wir Angst vermeiden oder verdrängen, desto größer wird ihr Einfluss. Sie zeigt sich in unterschiedlichen Formen und kann bedrohlich wirken. Ihre Funktion und Bedeutung werden jedoch missverstanden, und sie wird oft als Störung oder als Blockade erlebt. \r\nIn diesem Kurs erfahren Sie, wie ein neuer Blick auf Angst und ein bewusster Umgang helfen können, Schritt für Schritt mehr Sicherheit, Selbstvertrauen und innere Freiheit zu entwickeln.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.20",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-10-26",
-                                         "date_to":  "2026-10-26",
-                                         "time_to":  "20:00",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632202",
                        "ticket_phone":  ""
                    },
                    {
