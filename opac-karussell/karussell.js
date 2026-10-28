@@ -70,7 +70,9 @@
     ".sbck-pfeil:disabled{opacity:.25;cursor:default}",
     ".sbck-zurueck{left:4px}.sbck-vor{right:4px}",
     "@media (max-width:700px){.sbck{--sbck-abstand:12px}.sbck-rahmen{padding:0 34px}.sbck-pfeil{width:30px;height:64px}.sbck-pfeil svg{width:18px;height:40px}.sbck-zurueck{left:0}.sbck-vor{right:0}}",
-    ".sbck-leer{color:#666;font-style:italic}"
+    ".sbck-leer{color:#666;font-style:italic}",
+    ".sbck-quelle{margin:.3em 64px 0;font-size:.75em;color:#666}.sbck-quelle a{color:inherit}",
+    "@media (max-width:700px){.sbck-quelle{margin:.3em 34px 0}}"
   ].join("");
 
   var FARBEN = ["#7a2a12", "#2f4f6b", "#4f6b2f", "#6b2f5c", "#8a5a12", "#2f6b66", "#5c3a2e", "#3e3f72"];
@@ -143,11 +145,15 @@
   function coverLaden(cover) {
     var t = cover.sbckTitel;
     if (t.c) {
-      // Gespeichertes Cover; nur wenn es fehlt, ueber den OPAC nachladen
+      // Gespeichertes Cover (c=1: <ISBN>.jpg, sonst Dateiname, z. B. TMDB-Filmcover);
+      // fehlt die Datei, bei Buechern ueber den OPAC nachladen
       var img = el("img");
       img.alt = "";
-      img.onerror = function () { cover.removeChild(img); opacCoverLaden(cover); };
-      img.src = COVER_ORDNER + t.isbn + ".jpg";
+      img.onerror = function () {
+        cover.removeChild(img);
+        if (t.isbn) opacCoverLaden(cover); else ersatz(cover, t);
+      };
+      img.src = COVER_ORDNER + (t.c === 1 ? t.isbn + ".jpg" : t.c);
       bildEinsetzen(cover, img);
       return;
     }
@@ -220,7 +226,7 @@
     if (t.a) info.appendChild(el("span", "", t.a));
     if (STATUS[t.st]) info.appendChild(el("i", t.st, [t.j, STATUS[t.st]].filter(Boolean).join(" · ")));
     cover.appendChild(info);
-    if (t.isbn) {
+    if (t.isbn || t.c) {
       cover.sbckTitel = t;
     } else {
       ersatz(cover, t);
@@ -303,6 +309,16 @@
     rahmen.appendChild(band);
     rahmen.appendChild(vor);
     box.appendChild(rahmen);
+    if (titel.some(function (t) { return t.q === "tmdb"; })) {
+      // Von TMDB verlangter Quellenhinweis
+      var quelle = el("p", "sbck-quelle", "Filmcover: ");
+      var tmdb = el("a", "", "TMDB");
+      tmdb.href = "https://www.themoviedb.org/";
+      tmdb.rel = "noopener";
+      quelle.appendChild(tmdb);
+      quelle.appendChild(document.createTextNode(". Dieses Angebot nutzt die TMDB-API, ist aber nicht von TMDB unterstützt oder zertifiziert."));
+      box.appendChild(quelle);
+    }
     pfeile();
 
     // Cover erst laden, wenn die Karte in die Naehe des sichtbaren Bereichs kommt

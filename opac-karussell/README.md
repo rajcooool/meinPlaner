@@ -9,7 +9,9 @@ Zeigt die Neuerwerbungen der Stadtbibliothek Chemnitz als Cover-Karussell. Jeder
 | `karussell.js` | Das Karussell: Cover in zwei Reihen, höchstens in Originalgröße (die OPAC-Cover sind 90 px breit), Pfeil-Navigation, Titel beim Darüberfahren. Akzentfarbe ist das Rot des OPAC; anpassbar per CSS-Variablen `--sbck-akzent` und `--sbck-breite` (Höchstbreite der Cover). |
 | `neuerwerbungen.js` | Die Titeldaten aller Neuerwerbungslisten. Wird von `aktualisieren.py` erzeugt. |
 | `aktualisieren.py` | Liest die Listen aus dem OPAC neu ein und speichert die Cover (nur Python-Standardbibliothek). |
-| `covers/` | Von `aktualisieren.py` gespeicherte Cover (`<ISBN>.jpg`). Nicht im Repository, entsteht beim ersten Lauf. |
+| `covers/` | Von `aktualisieren.py` gespeicherte Cover (`<ISBN>.jpg`, Filmcover `tmdb-<typ>-<id>.jpg`). Nicht im Repository, entsteht beim ersten Lauf. |
+| `tmdb-korrekturen.json` | Optionale Korrekturen für Filmcover (siehe unten). |
+| `tmdb.key` | Euer TMDB-Schlüssel. Nicht im Repository, legt ihr selbst auf dem Server an. |
 | `beispiel.html` | Beispielseite mit je einem Karussell für alle 63 Neuerwerbungslisten des OPAC. |
 
 ## Einbinden
@@ -43,6 +45,28 @@ Die Listennamen sind die `ListName`-Werte aus dem OPAC, zum Beispiel `Romane`, `
 
 - **Links:** `start.do?Query=-1="ISBN"` öffnet die Vollanzeige des Titels direkt. Ohne ISBN wird nach dem Titel gesucht. Links der Form `singleHit.do?…&identifier=-1_Romane` funktionieren nur in einer Sitzung, in der die Liste vorher geöffnet wurde. Von einer anderen Seite aus führen sie auf „Diese Sitzung ist nicht mehr gültig“.
 - **Cover:** `aktualisieren.py` lädt die Cover über den OPAC (`cover.jsp` → `showMVBCover.do`) und speichert sie in `covers/`. Das Karussell nimmt diese Dateien aus dem Ordner `covers/` neben `karussell.js`. Fehlt eine Datei, holt es das Cover live über den OPAC; das geht nur, wenn die Seite auf demselben Server wie der OPAC liegt. Sonst wird der DNB-Coverdienst versucht. Gibt es gar kein Cover, zeigt das Karussell eine farbige Karte mit Titel und Autor. Die Cover sind urheberrechtlich geschützt und nur für die Anzeige im Katalog lizenziert; deshalb liegen sie nicht im Repository.
+
+## Filmcover (TMDB)
+
+Für Filme hat der OPAC keine Cover. `aktualisieren.py` sucht sie für die Listen `Spielfilme` und `Kinderfilm` bei [The Movie Database](https://www.themoviedb.org/) nach Titel und Jahr, zuerst unter Filmen, dann unter Serien. Bei mehreren Treffern wird der mit gleichem Titel genommen.
+
+1. Schlüssel hinterlegen, entweder als Datei neben `aktualisieren.py`:
+   ```sh
+   echo 'EUER_TMDB_SCHLUESSEL' > tmdb.key
+   chmod 600 tmdb.key
+   ```
+   oder als Umgebungsvariable `TMDB_API_KEY`. Es gehen der API-Key (v3) und das Lese-Token (v4).
+2. Der Server muss `api.themoviedb.org` und `image.tmdb.org` erreichen, ggf. über `https_proxy`.
+3. Falsche oder fehlende Treffer in `tmdb-korrekturen.json` festlegen. Schlüssel ist der Titel wie im OPAC, Wert die TMDB-Nummer aus der Adresse der Filmseite (`themoviedb.org/movie/12345`), bei Serien mit `tv:` davor, oder `null` für „kein Cover“:
+   ```json
+   {
+     "Paris murder mystery": 12345,
+     "Meine Serie": "tv:6789",
+     "Ein Titel ohne Cover": null
+   }
+   ```
+
+Gefundene Treffer merkt sich das Skript in `covers/tmdb-cache.json` und fragt TMDB dafür nicht erneut. Titel ohne Treffer sucht es nach 7 Tagen noch einmal. Unter Karussells mit Filmcovern steht automatisch der von TMDB verlangte Quellenhinweis. Ohne Schlüssel überspringt das Skript die Filmcover, alles andere läuft normal.
 
 ## Daten aktualisieren
 
