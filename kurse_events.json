@@ -1,6 +1,98 @@
 {
     "events":  [
                    {
+                       "title":  "Einführung in die Familienforschung",
+                       "description":  "Wer die eigene Familiengeschichte erforschen möchte, steht vor folgenden Fragen: Wo sind Informationen über die Vorfahren erhältlich? Wie lassen sich die Forschungsergebnisse sinnvoll ordnen? Welche Hilfsmittel stehen bei Recherche und Auswertung von Informationen zur Verfügung? \r\nDieser Kurs macht Sie mit den Grundlagen der Genealogie vertraut und bietet Hilfestellung für das Lesen alter Urkunden.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-04-26",
+                                         "date_to":  "2027-04-26",
+                                         "time_to":  "20:15",
+                                         "time_from":  "17:45"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2712040",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Down Under: Von Tasmanien zum Great Barrier Reef",
+                       "description":  "Der Ayers Rock und das Opernhaus in Sydney fehlen in kaum einem Australienvortrag. Der rote Sand im Outback, Kängurus und Koalas gehören zu den typischen Bildern, die viele Australienreisende begeistern. Doch nur wenige waren auf der Insel Tasmanien mit ihren besonderen Nationalparks und schneebedeckten Bergen. Bei klarer Nacht lässt sich hier sogar das Südpolarlicht beobachten.\r\nNatürlich führt die Reise auch durch das Outback und zum Ayers Rock. Mit einem Segelboot geht es durch das Great Barrier Reef, bevor Sydney den Abschluss bildet. Und was wäre eine Reise durch Australien ohne die passende Verpflegung? Testen sie passend zum Vortrag einige der besten australischen Weine. Ein kleiner Imbiss ist eingeschlossen.",
+                       "location":  "TIETZ",
+                       "room":  "Kochstudio 5.23.0",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-04-09",
+                                         "date_to":  "2027-04-09",
+                                         "time_to":  "20:15",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2722150",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Faszination Natur: Eine fotografische Reise durch faszinierende Landschaften und bedrohte Lebensräume",
+                       "description":  "Wie vielfältig, faszinierend und zugleich verletzlich ist unsere Natur? Mit eindrucksvollen Fotografien und persönlichen Geschichten nimmt der Referent das Publikum mit auf eine Reise durch einzigartige Landschaften und die Lebensräume heimischer Tiere und Pflanzen. Der Vortrag zeigt, was wir verlieren können, wenn natürliche Lebensräume verschwinden, aber auch, welche Möglichkeiten es gibt, die biologische Vielfalt zu bewahren.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 5.38",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-04-15",
+                                         "date_to":  "2027-04-15",
+                                         "time_to":  "19:30",
+                                         "time_from":  "18:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2722160",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Bildungsexkursion Gianni Versace und die Kunst",
+                       "description":  "Das Kunstmuseum Moritzburg widmet sich 2027, nach der vielbeachteten Ausstellung zu Karl Lagerfeld vor einigen Jahren, nun erneut einem Modeschöpfer.\r\nDer geschätzte Museumschef Thomas Bauer-Friedrich verspricht eine außergewöhnlich konzipierte Inszenierung.\r\nVersace war nicht nur ein begnadeter Modemacher, sondern ein Mensch, der Kunst liebte, sich mit ihr umgab und sich von ihr inspirieren ließ.\r\nErstmals werden Bilder seiner Sammlung sowie Skulpturen, Möbel und Objekte aus seinem Besitz, bisher in alle Welt verstreut, in einem Kunstmuseum gezeigt.\r\n\r\nLetzter kostenfreier Stornotermin: 30. April 2027",
+                       "location":  "Treffpunkt: Hauptbahnhof Chemnitz Buchhandlung",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-05-31",
+                                         "date_to":  "2027-05-31",
+                                         "time_to":  "19:30",
+                                         "time_from":  "09:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2722500",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Bildungsexkursion Rubens. Ein Weltstar in Dresden!",
                        "description":  "Anlässlich des 450sten Geburtstages von Peter Paul Rubens findet in der Gemäldegalerie Alte Meister in Dresden eine große Sonderausstellung statt.\r\nHauptwerke des Meisters werden in neuem Glanz erstrahlen, denn seit langem wird aufwendig restauriert.\r\nLernen Sie den Künstler, Diplomaten, Weltbürger und Verehrer der Frauen näher kennen und freuen Sie sich auf eine spannende Begegnung mit seinen Werken.\r\n\r\nLetzter kostenfreier Stornotermin: 8. Juni 2027",
                        "location":  "Treffpunkt: Hauptbahnhof Chemnitz Buchhandlung",
@@ -16,11 +108,11 @@
                                      {
                                          "date_from":  "2027-07-07",
                                          "date_to":  "2027-07-07",
-                                         "time_to":  "20:00",
+                                         "time_to":  "19:30",
                                          "time_from":  "08:30"
                                      }
                                  ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2722500",
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2722501",
                        "ticket_phone":  ""
                    },
                    {
@@ -254,6 +346,29 @@
                        "ticket_phone":  ""
                    },
                    {
+                       "title":  "Selbstorganisation und Resilienz im Arbeitsalltag -NEU-",
+                       "description":  "Der berufliche Alltag wird immer komplexer: Neue Aufgaben, hohe Anforderungen und ständige Erreichbarkeit gehören für viele Menschen ganz selbstverständlich dazu. Umso wichtiger ist es, den eigenen Arbeitsalltag bewusst zu gestalten und dadurch in belastenden Situationen handlungsfähig zu bleiben.\r\nIn diesem praxisorientierten Kurs lernen Sie, wie Sie Ihre Zeit und Energie sinnvoll einsetzen, Prioritäten setzen und den Überblick behalten. Gleichzeitig erfahren Sie, wie Sie Ihre persönliche Resilienz stärken, mit Stress konstruktiv umgehen und auch in herausfordernden Situationen gelassen bleiben.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.21",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-04-21",
+                                         "date_to":  "2027-04-21",
+                                         "time_to":  "15:00",
+                                         "time_from":  "10:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S275B206",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Change Management: Veränderungen erfolgreich gestalten",
                        "description":  "Veränderungen gehören zum Alltag von Organisationen, sei es durch neue Technologien, Marktbedingungen oder interne Umstrukturierungen. Damit Veränderungen gelingen, braucht es neben einer klaren Strategie vor allem ein bewusstes Change Management, das Menschen mitnimmt und Orientierung gibt. In diesem Seminar lernen Sie die zentralen Grundlagen und Erfolgsfaktoren des Change Managements kennen. Anhand von Praxisbeispielen und Übungen wird vermittelt, wie Veränderungsprozesse geplant, kommuniziert und umgesetzt werden können.",
                        "location":  "online",
@@ -274,6 +389,52 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S275B300",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "KI-Kompetenzen für Führungskräfte -NEU-",
+                       "description":  "Führung verändert sich, insbesondere durch die Möglichkeiten von Künstlicher Intelligenz (KI). Dieser praxisnahe Kurs bereitet Sie als Führungskraft darauf vor, KI nicht nur zu verstehen, sondern gezielt und verantwortungsbewusst in Ihrem Führungsalltag einzusetzen. Sie erwerben die Kompetenzen, um KI-Tools strategisch zu nutzen. Sie erfahren, wie Sie Kommunikation, Entscheidungsfindung und Wissensmanagement mithilfe von KI nachhaltig verbessern. Gestalten Sie den digitalen Wandel aktiv mit und führen Sie Ihr Team erfolgreich in die Zukunft.",
+                       "location":  "online",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-06-17",
+                                         "date_to":  "2027-06-17",
+                                         "time_to":  "19:15",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S275B301",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Selbstführung und Zeitmanagement für Führungskräfte -NEU-",
+                       "description":  "Führung beginnt bei der eigenen Person: Wer andere sicher und souverän führen möchte, braucht Klarheit über die eigenen Werte und Handlungsmuster. Gerade in einem anspruchsvollen Arbeitsalltag mit hohem Tempo und wachsender Verantwortung wird Selbstführung zu einer zentralen Kompetenz für wirksame und gesunde Führung.\r\nIn diesem Kurs setzen Sie sich mit Ihrer persönlichen Haltung und Ihrem Umgang mit Belastungen auseinander. Anhand praxisnaher Impulse entwickeln Sie Strategien für einen souveränen Umgang mit Druck, Unsicherheit und komplexen Entscheidungen. Sie lernen, die eigenen Ressourcen gezielt einzusetzen, Grenzen wahrzunehmen sowie Prioritäten klar zu setzen.",
+                       "location":  "online",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-06-22",
+                                         "date_to":  "2027-06-22",
+                                         "time_to":  "12:45",
+                                         "time_from":  "09:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S275B302",
                        "ticket_phone":  ""
                    },
                    {
@@ -303,7 +464,7 @@
                        "title":  "Richtig Feedback geben - klar und wertschätzend mit Eltern kommunizieren",
                        "description":  "Gespräche mit Eltern gehören zum Alltag von pädagogischem Personal in Kitas und Horten. Sie sind entscheidend für eine vertrauensvolle Zusammenarbeit und können gleichzeitig herausfordernd sein, insbesondere wenn sensible Themen angesprochen werden. \r\nIn diesem Kurs lernen Sie, Feedback professionell, empathisch und zugleich klar zu formulieren. Sie setzen sich mit der Wirkung von Sprache auseinander und reflektieren, wie Gespräche konstruktiv gestaltet werden können. Mithilfe von typischen Beispielen aus dem Kita-Alltag entwickeln die Sie konkrete Gesprächsstrategien für eine respektvolle und vertrauensvolle Kommunikation mit Eltern. Sie erlernen, wie Sie Beobachtungen verständlich ansprechen und Kritik sensibel formulieren. Der Kurs bietet Raum für Austausch, Reflexion und praktische Übungen, die direkt im pädagogischen Alltag angewendet werden können.",
                        "location":  "TIETZ",
-                       "room":  "Kursraum 4.51",
+                       "room":  "Kursraum 4.21",
                        "organizer":  "",
                        "images":  [
                                       {
@@ -313,8 +474,8 @@
                                   ],
                        "dates":  [
                                      {
-                                         "date_from":  "2027-06-02",
-                                         "date_to":  "2027-06-02",
+                                         "date_from":  "2027-06-08",
+                                         "date_to":  "2027-06-08",
                                          "time_to":  "16:45",
                                          "time_from":  "10:00"
                                      }
@@ -435,29 +596,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2622122",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Down Under: Von Tasmanien zum Great Barrier Reef",
-                       "description":  "Der Ayers Rock und das Opernhaus in Sydney fehlen in keinem Australienvortrag. Der rote Sand im Outback, Kängurus im Hotelgarten und Koalas auf Eukalyptusbäumen sind Motive, die jeder Australienreisende auf der SD-Karte seiner Kamera gern mit Nachhause bringt. Aber, nur wenige Australienreisende waren auf der Insel Tasmanien mit ihren ganz besonderen Nationalparks und manchmal schneebedeckten Bergen. Bei klarer Nacht kann man hier das Südpolarlicht sehen. Natürlich wandern Sie mit dem Dozenten auch durch das Outback und umrunden den zweitgrößten Monolithen der Welt, den Ayers Rock. Mit einem Segelboot fahren sie durch das Great Barrier Reef und schnorcheln durch die farbenprächtigen Korallenbänke. Und natürlich sehen Sie die vielleicht schönsten Stadt der Welt - Sydney. Aber, was wäre eine Reise durch Australien, ohne die passende „Verpflegung“? Testen sie passend zum Vortrag einige der besten australischen Weine. Ein kleiner Imbiss ist eingeschlossen.",
-                       "location":  "TIETZ",
-                       "room":  "Kochstudio 5.23.0",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2027-04-09",
-                                         "date_to":  "2027-04-09",
-                                         "time_to":  "20:15",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2622150",
                        "ticket_phone":  ""
                    },
                    {
@@ -596,29 +734,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2626107",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Etageren aus Sammeltassen bauen -NEU-",
-                       "description":  "Gestalten Sie in gemütlicher Runde Ihre eigene Etagere aus Sammeltassen. Aus Tassen und Tellern entsteht ein individuelles Kunstwerk, das sich ideal für besondere Anlässe oder als persönliche Geschenkidee eignet. Im Kurs wird eine Etagere gefertigt, die anschließend mit nach Hause genommen werden kann. Vorkenntnisse sind nicht erforderlich.\r\n\r\nUnter Umständen können zusätzliche Materialkosten anfallen.",
-                       "location":  "Donna Quijote",
-                       "room":  "Lohrstraße 15, 09113 Chemnitz",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-10-27",
-                                         "date_to":  "2026-10-27",
-                                         "time_to":  "18:30",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2626121",
                        "ticket_phone":  ""
                    },
                    {
