@@ -1149,29 +1149,6 @@
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265G200",
                        "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Die Hacker kommen! Live-Hacking",
-                       "description":  "Betrug beim Onlineshopping, gehackte Accounts oder Schadsoftware – laut Bitkom-Studie 2025 war mehr als jede zweite Person in Deutschland in den letzten zwölf Monaten von Onlinebetrug betroffen. In diesem Kurs erhalten Sie spannende Einblicke in die Welt der Cyberkriminalität: Erfahrene IT-Expertinnen und -Experten demonstrieren live, wie Angriffe ablaufen und wo typische Sicherheitslücken beim täglichen Surfen im Internet entstehen. Gleichzeitig lernen Sie praxisnahe Strategien kennen, mit denen Sie Ihre eigenen Daten effektiv schützen können. \r\n\r\nDiese Veranstaltung findet im Rahmen der Reihe \"Digital? Aber sicher!\" in Zusammenarbeit mit der Sächsischen Staatskanzlei, der Verbraucherzentrale Sachsen, dem Bundesamt für Sicherheit in der Informationstechnik, der Digitalagentur Sachsen und der Sächsischen Datenschutz- und Transparenzbeauftragten statt.",
-                       "location":  "TIETZ",
-                       "room":  "Veranstaltungssaal",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-10-28",
-                                         "date_to":  "2026-10-28",
-                                         "time_to":  "19:00",
-                                         "time_from":  "17:30"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265M402",
-                       "ticket_phone":  ""
                    }
                ]
 }
