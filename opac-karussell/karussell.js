@@ -39,6 +39,7 @@
     ".sbck *{box-sizing:border-box}",
     ".sbck-kopf{display:flex;align-items:baseline;justify-content:space-between;gap:1em;margin:0 0 .9em}",
     ".sbck-kopf h2{font-size:1.15em;margin:0;font-weight:700}",
+    ".sbck-marke{display:inline-block;vertical-align:.15em;margin-left:.3em;padding:.15em .55em;border-radius:999px;background:#2b2b2b;color:#fff;font-size:.62em;font-weight:700;letter-spacing:.04em;text-transform:uppercase}",
     ".sbck-kopf a{color:var(--sbck-akzent);text-decoration:none;white-space:nowrap}",
     ".sbck-kopf a:hover{text-decoration:underline}",
     ".sbck-rahmen{position:relative;padding:0 64px}",
@@ -91,6 +92,7 @@
   }
 
   function link(t) {
+    if (t.u) return t.u; // z. B. Titelseite bei BorrowBox
     return OPAC + encodeURIComponent('"' + (t.isbn || t.t) + '"');
   }
 
@@ -272,10 +274,21 @@
     box.setAttribute("role", "region");
     box.setAttribute("aria-label", ueberschrift);
 
+    // Listen aus einer anderen Quelle (BorrowBox) werden gekennzeichnet und verlinken dorthin
+    var listen = keys.map(function (k) { return daten.listen[k]; }).filter(Boolean);
+    var bb = listen.length > 0 && listen.every(function (l) { return l.quelle === "borrowbox"; });
     var kopf = el("div", "sbck-kopf");
-    kopf.appendChild(el("h2", "", ueberschrift));
-    var alle = el("a", "", "Alle Neuerwerbungen ›");
-    alle.href = "https://opac2.stadtbibliothek-chemnitz.de/webOPACClient/actual.do?methodToCall=show";
+    var h2 = el("h2", "", ueberschrift);
+    if (bb) {
+      h2.appendChild(document.createTextNode(" "));
+      h2.appendChild(el("span", "sbck-marke", "BorrowBox"));
+      box.classList.add("sbck-borrowbox");
+      box.setAttribute("aria-label", ueberschrift + " – BorrowBox");
+    }
+    kopf.appendChild(h2);
+    var alle = el("a", "", bb ? "Alle bei BorrowBox ›" : "Alle Neuerwerbungen ›");
+    alle.href = bb ? (listen.length === 1 && listen[0].alle) || "https://chemnitz.borrowbox.com/"
+                   : "https://opac2.stadtbibliothek-chemnitz.de/webOPACClient/actual.do?methodToCall=show";
     kopf.appendChild(alle);
     box.appendChild(kopf);
 

@@ -15,6 +15,10 @@ covers/tmdb-<typ>-<id>.jpg. Der Schluessel (API-Key v3 oder Lese-Token v4) kommt
 der Umgebungsvariablen TMDB_API_KEY oder aus der Datei tmdb.key neben diesem Skript.
 Falsche oder fehlende Treffer lassen sich in tmdb-korrekturen.json festlegen:
   {"Titel wie im OPAC": 12345, "Serientitel": "tv:6789", "Kein Cover": null}
+
+BorrowBox: Die Bereiche in BORROWBOX_LISTEN werden von chemnitz.borrowbox.com
+gelesen (die ersten 40 Titel je Bereich, wie sie die Seite selbst ausliefert).
+Cover landen als covers/bb-<id>.jpg, Links fuehren auf die Titelseite bei BorrowBox.
 """
 import datetime
 import html
@@ -35,6 +39,16 @@ FILM_LISTEN = ("Spielfilme", "Kinderfilm")
 TMDB_API = "https://api.themoviedb.org/3/"
 TMDB_BILD = "https://image.tmdb.org/t/p/w154"
 TMDB_ERNEUT_NACH_TAGEN = 7  # erfolglose Suchen werden nach dieser Zeit wiederholt
+
+BORROWBOX = "https://chemnitz.borrowbox.com"
+# (Schluessel, Ueberschrift, Seite, Bereichsname auf der Seite oder None = erster Bereich)
+BORROWBOX_LISTEN = [
+    ("bb-romane", "Romane & Erzählungen", "/", "Romane & Erzählungen"),
+    ("bb-sachbuecher", "Sachbücher", "/", "Sachbücher"),
+    ("bb-neu", "Neu in der Bibliothek", "/", "Neu in der Bibliothek"),
+    ("bb-epapers", "Alle ePapers", "/epress/all", None),
+]
+BB_FORMATE = {"eBooks": "eBook", "eAudiobooks": "eHörbuch", "eMagazines": "ePaper"}
 
 jar = http.cookiejar.CookieJar()
 opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
@@ -214,6 +228,106 @@ def filmcover(data, cover_dir):
     return benutzt
 
 
+# ---------------------------------------------------------------- BorrowBox
+
+class _KeineWeiterleitung(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, *args, **kwargs):
+        return None
+
+
+def bb_seite(pfad):
+    req = urllib.request.Request(BORROWBOX + pfad, headers={
+        "Accept-Language": "de-DE,de;q=0.9", "User-Agent": "Mozilla/5.0 (Medienkarussell)"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        text = r.read().decode("utf-8", "replace")
+    m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', text, re.S)
+    if not m:
+        raise ValueError("keine Seitendaten in " + pfad)
+    return json.loads(m.group(1))["props"]["pageProps"]
+
+
+def bb_bereiche(pp):
+    """Liefert die Bereiche einer Seite als Liste von (Name, Bereichs-ID, Titel)."""
+    out = []
+    for q in pp.get("dehydratedState", {}).get("queries", []):
+        d = q.get("state", {}).get("data")
+        if isinstance(d, dict) and isinstance(d.get("items"), list):
+            try:
+                sid = q["queryKey"][2]["params"]["path"]["slotId"]
+            except (KeyError, IndexError, TypeError):
+                sid = d.get("key", "")
+            out.append(((d.get("title") or "").strip(), sid, d["items"]))
+    return out
+
+
+def bb_cover(cover_url, ziel):
+    """Laedt das Cover in Groesse S (240 px breit) statt der Druckgroesse."""
+    try:
+        urllib.request.build_opener(_KeineWeiterleitung).open(cover_url, timeout=30)
+        return False
+    except urllib.error.HTTPError as e:
+        ort = e.headers.get("Location") if e.code in (301, 302, 303, 307, 308) else None
+    except OSError:
+        return False
+    if not ort:
+        return False
+    klein = re.sub(r"_[A-Z]+\.jpg$", "_S.jpg", ort)
+    for url in (klein, ort):
+        try:
+            with urllib.request.urlopen(url, timeout=60) as r:
+                bild = r.read()
+            if bild[:3] == b"\xff\xd8\xff" or bild[:4] == b"\x89PNG":
+                with open(ziel, "wb") as f:
+                    f.write(bild)
+                return True
+        except OSError:
+            continue
+    return False
+
+
+def borrowbox(data, cover_dir):
+    """Ergaenzt data um die BorrowBox-Bereiche. Gibt die Namen der Coverdateien zurueck."""
+    seiten, benutzt = {}, set()
+    for key, label, pfad, bereich in BORROWBOX_LISTEN:
+        try:
+            if pfad not in seiten:
+                seiten[pfad] = bb_bereiche(bb_seite(pfad))
+        except (OSError, ValueError) as e:
+            print("BorrowBox: %s nicht lesbar: %s" % (pfad, e), file=sys.stderr)
+            seiten[pfad] = []
+        treffer = [b for b in seiten[pfad] if bereich is None or b[0] == bereich]
+        if not treffer:
+            print("BorrowBox: Bereich '%s' nicht gefunden" % label, file=sys.stderr)
+            continue
+        name, sid, items = treffer[0]
+        titel = []
+        for it in items:
+            pr, av = it.get("product", {}), it.get("availability", {})
+            if not pr.get("productId") or not pr.get("title"):
+                continue
+            fmt = BB_FORMATE.get(pr.get("loanFormat"), pr.get("loanFormat") or "")
+            autor = ", ".join(a["name"] for a in pr.get("authors", [])[:2] if a.get("name"))
+            if len(pr.get("authors", [])) > 2:
+                autor += " u. a."
+            if fmt == "ePaper":
+                autor = av.get("latestAvailableIssueTitle") or autor
+            t = {"t": pr["title"], "a": autor, "j": fmt, "s": "", "isbn": "",
+                 "st": "verfuegbar" if av.get("availabilityStatus") == "AVAILABLE" else "entliehen",
+                 "u": BORROWBOX + "/product/" + pr["productId"], "q": "borrowbox"}
+            cover_url = pr.get("coverUrl") or ""
+            if cover_url:
+                datei = "bb-" + re.sub(r"[^A-Za-z0-9_-]", "", cover_url.rstrip("/").rsplit("/", 1)[-1]) + ".jpg"
+                pfad_datei = os.path.join(cover_dir, datei)
+                if os.path.exists(pfad_datei) or bb_cover(cover_url, pfad_datei):
+                    t["c"] = datei
+                    benutzt.add(datei)
+            titel.append(t)
+        alle = BORROWBOX + (pfad if bereich is None else "/product-group/" + sid)
+        data["listen"][key] = {"label": label, "quelle": "borrowbox", "alle": alle, "titel": titel}
+        print("BorrowBox %s: %d (%d mit Cover)" % (label, len(titel), sum(1 for t in titel if "c" in t)), file=sys.stderr)
+    return benutzt
+
+
 def clean(s):
     return html.unescape(re.sub(r"<[^>]+>", "", s)).replace("¬", "").strip()
 
@@ -301,7 +415,7 @@ def main():
                 t["c"] = 1
     print("Cover: %d neu, %d vorhanden, %d ohne Cover" % (neu, vorhanden, fehlt), file=sys.stderr)
 
-    behalten = {i + ".jpg" for i in isbns} | filmcover(data, cover_dir)
+    behalten = {i + ".jpg" for i in isbns} | filmcover(data, cover_dir) | borrowbox(data, cover_dir)
     for name in os.listdir(cover_dir):
         if name.endswith(".jpg") and name not in behalten:
             os.remove(os.path.join(cover_dir, name))
