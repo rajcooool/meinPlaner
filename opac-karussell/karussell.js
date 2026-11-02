@@ -31,7 +31,7 @@
     entliehen: "entliehen"
   };
 
-  // Zwei Reihen aus 2x2-Bloecken. Cover erscheinen hoechstens in Originalgroesse
+  // Eine Reihe, Cover unten buendig. Cover erscheinen hoechstens in Originalgroesse
   // (die OPAC-Cover sind 90 px breit); --sbck-breite begrenzt die Breite zusaetzlich.
   var CSS = [
     ".sbck{--sbck-akzent:#c32e04;--sbck-gruen:#3f7a1c;--sbck-text:#1d1d1d;--sbck-breite:90px;--sbck-abstand:20px;",
@@ -42,10 +42,10 @@
     ".sbck-kopf a{color:var(--sbck-akzent);text-decoration:none;white-space:nowrap}",
     ".sbck-kopf a:hover{text-decoration:underline}",
     ".sbck-rahmen{position:relative;padding:0 64px}",
-    ".sbck-band{list-style:none;margin:0;padding:6px 2px 10px;display:grid;grid-template-rows:auto auto;grid-auto-flow:column;grid-auto-columns:max-content;gap:var(--sbck-abstand);align-items:end;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none}",
+    ".sbck-band{list-style:none;margin:0;padding:6px 2px 10px;display:flex;gap:var(--sbck-abstand);align-items:flex-end;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none}",
     ".sbck-band::-webkit-scrollbar{display:none}",
     "@media (prefers-reduced-motion:reduce){.sbck-band{scroll-behavior:auto}}",
-    ".sbck-platz{scroll-snap-align:start;display:flex;justify-content:center}",
+    ".sbck-platz{flex:0 0 auto;scroll-snap-align:start;display:flex;justify-content:center}",
     
     ".sbck-karte{display:block;color:inherit;text-decoration:none;border-radius:6px;flex:0 0 auto}",
     ".sbck-karte:focus-visible{outline:3px solid var(--sbck-akzent);outline-offset:3px}",
@@ -235,7 +235,7 @@
     return a;
   }
 
-  // Jeder Titel ein Listeneintrag; das Band ordnet sie spaltenweise in zwei Reihen an
+  // Jeder Titel ein Listeneintrag in einer Reihe
   function gruppen(titel, ziel) {
     return titel.map(function (t) {
       var li = el("li", "sbck-platz");

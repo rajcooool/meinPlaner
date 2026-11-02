@@ -6,13 +6,13 @@ Zeigt die Neuerwerbungen der Stadtbibliothek Chemnitz als Cover-Karussell. Jeder
 
 | Datei | Zweck |
 |---|---|
-| `karussell.js` | Das Karussell: Cover in zwei Reihen, höchstens in Originalgröße (die OPAC-Cover sind 90 px breit), Pfeil-Navigation, Titel beim Darüberfahren. Akzentfarbe ist das Rot des OPAC; anpassbar per CSS-Variablen `--sbck-akzent` und `--sbck-breite` (Höchstbreite der Cover). |
+| `karussell.js` | Das Karussell: Cover in einer Reihe, höchstens in Originalgröße (die OPAC-Cover sind 90 px breit), Pfeil-Navigation, Titel beim Darüberfahren. Akzentfarbe ist das Rot des OPAC; anpassbar per CSS-Variablen `--sbck-akzent` und `--sbck-breite` (Höchstbreite der Cover). |
 | `neuerwerbungen.js` | Die Titeldaten aller Neuerwerbungslisten. Wird von `aktualisieren.py` erzeugt. |
 | `aktualisieren.py` | Liest die Listen aus dem OPAC neu ein und speichert die Cover (nur Python-Standardbibliothek). |
 | `covers/` | Von `aktualisieren.py` gespeicherte Cover (`<ISBN>.jpg`, Filmcover `tmdb-<typ>-<id>.jpg`). Nicht im Repository, entsteht beim ersten Lauf. |
 | `tmdb-korrekturen.json` | Optionale Korrekturen für Filmcover (siehe unten). |
 | `tmdb.key` | Euer TMDB-Schlüssel. Nicht im Repository, legt ihr selbst auf dem Server an. |
-| `beispiel.html` | Beispielseite mit je einem Karussell für alle 63 Neuerwerbungslisten des OPAC. |
+| `neuerwerbungen.html` | Seite mit je einem Karussell für alle 63 Neuerwerbungslisten des OPAC. |
 
 ## Einbinden
 
