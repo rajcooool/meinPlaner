@@ -162,7 +162,7 @@
                        "ticket_phone":  ""
                    },
                    {
-                       "title":  "Stand-up-Comedy -NEU-",
+                       "title":  "Stand-up-Comedy",
                        "description":  "Sie wollten schon immer mal Stand-up ausprobieren? In diesem Ganztagsworkshop bekommen Sie das Handwerkszeug und finden heraus, was wirklich in Ihnen steckt. Sie lernen, wie Set-up und Punchline funktionieren, schreiben erste eigene Gags und merken schnell: Lustig sein ist kein Zufall. (Aber manchmal schon.)\r\nIn mehreren Schreibrunden entwickeln Sie Ihren eigenen Blick auf die Welt, und das Material, das wirklich zu Ihnen passt. Außerdem bekommen Sie ehrliche Einblicke in die Open-Mic-Szene: Wie man anfängt, wo man spielt und was Sie auf der Bühne erwartet.\r\nAm Ende bringen Sie Ihr Material in Form und präsentieren ein kurzes Bit – freiwillig, aber mit Applaus und konstruktivem Feedback.\r\nGeleitet wird der Kurs vom Stand-up-Comedian Tim Whelan aus Leipzig.",
                        "location":  "TIETZ",
                        "room":  "Kursraum 4.07",
@@ -622,10 +622,10 @@
                        "ticket_phone":  ""
                    },
                    {
-                       "title":  "Einführung in die Familienforschung",
-                       "description":  "Wer die eigene Familiengeschichte erforschen möchte, steht vor folgenden Fragen: Wo sind Informationen über die Vorfahren erhältlich? Wie lassen sich die Forschungsergebnisse sinnvoll ordnen? Welche Hilfsmittel stehen bei Recherche und Auswertung von Informationen zur Verfügung? \r\nDieser Kurs macht Sie mit den Grundlagen der Genealogie vertraut und bietet Hilfestellung für das Lesen alter Urkunden.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.59",
+                       "title":  "Geschlossene Venerologische Stationen im ehemaligen Bezirk Karl-Marx-Stadt",
+                       "description":  "Geschlossene Venerologische Stationen – dahinter verbirgt sich ein Kapitel von DDR-Unrecht, das bislang nur wenig bekannt ist. Unter dem Vorwurf, an einer sexuell übertragbaren Krankheit zu leiden, wurden zehntausende Frauen ab einem Alter von zwölf Jahren für mehrere Wochen in abgeschlossene Klinikbereiche zwangseingewiesen. Dort waren sie täglich sexualisierter Gewalt und einem rigorosen Disziplinierungs- und Strafregime ausgesetzt. \r\nDer Vortrag gibt einen Überblick zu diesem Thema und präsentiert aktuelle Forschungsergebnisse für den ehemaligen Bezirk Karl-Marx-Stadt. \r\nDie Veranstaltung ist eine Kooperation des Lern- und Gedenkort Kaßberg-Gefängnis e. V., der Gedenkstätte Hoheneck, des Instituts für Politikwissenschaft der TU Chemnitz, der Landesbeauftragten zur Aufarbeitung der SED-Diktatur und der Volkshochschule Chemnitz. Mit freundlicher Unterstützung der Sächsischen Landesbeauftragten zur Aufarbeitung der SED-Diktatur und gefördert mit Mitteln der Bundesstiftung zur Aufarbeitung der SED-Diktatur.",
+                       "location":  "Universitätsbibliothek der TU Chemnitz",
+                       "room":  "Vortragssaal „Ideenreich“",
                        "organizer":  "",
                        "images":  [
                                       {
@@ -635,13 +635,13 @@
                                   ],
                        "dates":  [
                                      {
-                                         "date_from":  "2026-11-02",
-                                         "date_to":  "2026-11-02",
-                                         "time_to":  "20:15",
-                                         "time_from":  "17:45"
+                                         "date_from":  "2026-11-05",
+                                         "date_to":  "2026-11-05",
+                                         "time_to":  "19:30",
+                                         "time_from":  "18:00"
                                      }
                                  ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612040",
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612021",
                        "ticket_phone":  ""
                    },
                    {
@@ -711,29 +711,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2622500",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Lesung und Gespräch: „Ich, Maria \u0026 die Solidarnosc“",
-                       "description":  "Im Rahmen der Veranstaltungsreihe zu Kunst, Überwachung und Erinnerungskultur in der Ausstellung „Stempel“ \u0026 „Kissen“ von Joerg Waehner lädt die Volkshochschule zu Lesung und Gespräch ein.\r\nIn diesem Abendformat sprechen Dr. Teresa Tammer, Außenstellenleiterin Bundesarchiv – Stasi-Unterlagen-Archiv Chemnitz, und der Künstler Joerg Waehner über seine Stasi-Akte und die Methoden und Auswirkungen der Überwachungssysteme der Staatssicherheit.\r\n\r\nJoerg Waehner liest aus seinem zeithistorischen Roman „Das schaffen wir“ und spricht über die Rolle der polnischen Solidarnosc-Bewegung, ihren Einfluss auf politische Veränderungen in Osteuropa sowie deren Wirkung auf einen jungen Druckerlehrling im Jahr 1980 in Karl-Marx-Stadt. Er stellt anschließend die thematisch eingebundene Ausstellung \"Stempel \u0026 Kissen\" vor.\r\n\r\nDie Veranstaltung verbindet persönliche Erinnerung mit historischer Einordnung und lädt zu einem offenen Austausch über das Überwachungssystem der Staatssicherheit und den konkreten Fall des Autors ein.\r\n\r\nDas Stasi-Unterlagen-Archiv Chemnitz begleitet die Veranstaltung mit einem Beratungsangebot. Es besteht die Möglichkeit, einen Antrag auf Einsicht in die Stasi-Akten zu stellen. Dafür wird ein gültiges Personaldokument benötigt.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.08",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-11-02",
-                                         "date_to":  "2026-11-02",
-                                         "time_to":  "19:30",
-                                         "time_from":  "18:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2623050",
                        "ticket_phone":  ""
                    },
                    {
@@ -872,29 +849,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632211",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Organspende - ja oder nein? Was muss ich wissen für meine Entscheidung?",
-                       "description":  "Zum Thema Organspende gibt es viel Unwissenheit, Unsicherheit und Fehlinformationen. Aber alle sind dazu aufgerufen, eine ganz persönliche Entscheidung zu treffen: Organspende - ja oder nein?\r\nDiese Veranstaltung informiert über Voraussetzungen und Abläufe zum Thema Organspende. Unter anderem werden folgende Inhalte besprochen:\r\n- Gesetzliche Grundlagen der Organspende\r\n- Hirntod: Was bedeutet das genau und wie wird der Hirntod festgestellt?\r\n- Wer entscheidet über Zustimmung oder Ablehnung einer Organspende?\r\n- Wer macht was auf dem Weg zu einer Organspende?\r\n- Sind Alter und Vorerkrankungen bei der Organspende wichtig?\r\nIm Anschluss an den Vortrag wird für die Beantwortung Ihrer Fragen zur Organspende Zeit sein.\r\n\r\nDer Referent, Dr. med. Gunnar Richter, ist Leiter der Stabsstelle Transplantationsbeauftragte und arbeitet in der Klinik für Neurologie am Klinikum Chemnitz.\r\n\r\nDiese Veranstaltung ist eine Kooperation der Klinikum Chemnitz gGmbH und der Volkshochschule Chemnitz.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.07",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-11-02",
-                                         "date_to":  "2026-11-02",
-                                         "time_to":  "20:30",
-                                         "time_from":  "19:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632303",
                        "ticket_phone":  ""
                    },
                    {
