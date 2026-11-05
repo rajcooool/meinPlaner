@@ -1,58 +1,10 @@
 {
     "events": [
         {
-            "title": "MusiCollage Klavier",
-            "description": "<p>Die \u201eMusicollage\u201c ist eine Serie mit Sch\u00fclerkonzerten. Jedes Konzert ist anders interessant.&nbsp;</p> <p>In diesem Vorspiel pr\u00e4sentiert sich der Fachbereich Tasteninstrumente und l\u00e4sst in einem bunten musikalischen Mix die unterschiedlichsten Komponisten und St\u00fccke erklingen.</p>",
-            "organizer": "",
-            "location": "Konzertsaal / St\u00e4dtische Musikschule Chemnitz",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/yinet_87_Piano_Collage_Bild.jpg",
-                    "copyright": "Foto: Pixabay"
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-04",
-                    "date_to": "",
-                    "time_from": "18:30",
-                    "time_to": "19:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/musi-collage-klavier"
-        },
-        {
-            "title": "Leseclub \u2013 zusammen liest man weniger allein",
-            "description": "<p>Wir sprechen gemeinsam \u00fcber B\u00fccher die uns aktuell beindruckt und inspiriert haben. Leserinnen und Leser, welche ihre Lekt\u00fcreerlebnisse gern mit anderen teilen und diskutieren m\u00f6chten, sind herzlich willkommen. Eintritt: frei</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Stadtteilbibliothek Vita-Center",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2024/Leseclub-Vita-_c_pixabay.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-04",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "16:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/leseclub-zusammen-liest-man-weniger-allein-1"
-        },
-        {
             "title": "Zur Fr\u00fchgeschichte von Chemnitz",
             "description": "<p>Vortrag und Vorstellung des Buches \u201eZur Fr\u00fchgeschichte von Chemnitz und zum Westerzgebirge von 800 bis 1200 n. Chr. \u2013 Teil 2\u201c von Prof. Karlheinz Hengst.</p> <p>Das Erzgebirge und sein Vorland als das zuletzt besiedelte gro\u00dfe Territorium zwischen den beiden Mulde-Fl\u00fcssen stehen im Blickfeld.</p> <p>Arch\u00e4ologischer Befund und sprachgeschichtliche Zeugen werden genutzt, um das bisher als v\u00f6llig menschenfeindlich und unbewohnt geltende Gebiet im Norden und S\u00fcden von Chemnitz bis zum Gebirgskamm im Fr\u00fchmittelalter als bereits \u201efrequentiertes Reiseland\u201c zu erkennen. Thema sind die Resilienz der ersten Bewohner gegen\u00fcber den Erschwernissen in den Wald- und Gebirgsregionen der damaligen Zeit sowie Nachhaltigkeit, Strukturwandel und Transformation im 12. Jahrhundert.&nbsp; &nbsp;</p> <p>Eine Veranstaltung in Kooperation mit dem Chemnitzer Geschichtsverein und dem Verlag Heimatland Sachsen.</p> <p>Der Eintritt ist frei.</p>  ",
             "organizer": "Chemnitzer Geschichtsverein",
-            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
+            "location": "Tietz, Veranstaltungssaal",
             "room": "",
             "images": [
                 {
@@ -681,7 +633,7 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-lets-play-zocken-in-der-bibo-1-1"
         },
         {
-            "title": "Wir suchen ihre Geschichten zur Amiga-Schallplatte",
+            "title": "Wir suchen Ihre Geschichten zur Amiga-Schallplatte",
             "description": "<p>Die Stadtbibliothek Chemnitz plant zum 80. Geburtstag des Plattenlabels Amiga im kommenden Jahr eine kleine Ausstellung. Daf\u00fcr suchen wir pers\u00f6nliche Erlebnisse und kleine Geschichten, die Chemnitzer B\u00fcrger und B\u00fcrgerinnen mit Amiga Schallplatten verbinden. M\u00f6chten Sie Ihre Erinnerung mit uns teilen? Dann kommen Sie gern am 20. November (14 bis 17 Uhr) in der Zentralbibliothek im Tietz vorbei, dort k\u00f6nnen Sie sich Amiga Schallplatten anschauen und uns ihre Geschichte erz\u00e4hlen. Wir freuen uns auf Sie!</p> <p><strong>Wann?</strong></p> <p>20.11.2026 (14 bis 17 Uhr)</p> <p><strong>Wo?</strong></p> <p>Zentralbibliothek im TIETZ/ BibliotheksLabor</p> <p><strong>Was?</strong></p> <p>Schallplatten anschauen, Geschichten/ Erlebnisse teilen</p>  ",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, BibLab-C",
@@ -898,7 +850,7 @@
         },
         {
             "title": "Pen & Paper - Rollenspieletreff & Einf\u00fchrung (TTRPG)",
-            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 12 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Dragonbane (Deutsch OR English)<br />* Dungeons &amp; Dragons (ENGLISH)<br />* Savage Worlds (Deutsch, ab 16 Jahre)<br />* Vaesen (Deutsch OR English, ab 18 Jahre)</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
+            "description": "<p>Wir spielen auf Deutsch und wahlweise auf Englisch einstiegsfreundliche Pen &amp; Paper Rollenspiele ohne dicke Regelwerke (One-Shots und kleinere Erz\u00e4hlspiele), aber daf\u00fcr mit ordentlich Spannung.</p> <p>Triggerwarnung: In den jeweiligen Spielrunden kann es zu verbalen Beschreibungen von emotional sowie moralisch herausfordernden Themen kommen. Die Spielleitungen sind dazu angehalten, vorm Spiel auf diese Themen hinzuweisen und Sicherheitsmechaniken ins Spiel einzubauen. Um das gemeinsame Spielerlebnis nicht zu stark zu limitieren, empfehlen wir ein Mindestalter von 12 Jahren f\u00fcr die Spielenden (falls nicht anders angegeben).</p> <p>Aktuell bieten wir folgende Spielrunden an:&nbsp;<br /><br />* Dragonbane (Deutsch)<br />* Dungeons &amp; Dragons (ENGLISH)&nbsp;<br />* Icarus: \u201cIm Schatten der zweiten Sonne\u201d (Deutsch, ab 16 Jahre)&nbsp;<br />* Savage Worlds (mit Mystery Setting, Deutsch, ab 16 Jahre)&nbsp;<br />* Shadowrun (Deutsch OR English, ab 16 Jahre)<br />* Vaesen (Deutsch OR English, ab 18 Jahre)</p> <p>Bitte gern bei Anmeldung schon Spielwunsch angeben (zum Beispiel ins Feld f\u00fcr \u201cAlter\u2026\u201d)</p> <p><br />Wir suchen auch immer nach engagierten Spielleitungen. Meldet euch gern vorab per Mail, wenn ihr eine Spielrunde leiten m\u00f6chtet: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Bitte unbedingt anmelden</strong>, damit wir die Spielleitungen und Spielrunden vorab besser planen k\u00f6nnen: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a> (Falls die Veranstaltung dort nicht auftaucht, ist sie derzeit ausgebucht)<br />&nbsp;</p> <p>** EN **</p> <p><br />We offer beginner-friendly TTRPG (tabletop role-playing game) one-shot adventures.</p> <p>Trigger warning: The individual roleplaying groups may experience verbal descriptions of emotionally as well as morally challenging topics. Our game hosts are asked to mention such topics before the game and include ttrpg safety techniques into the game. In order to keep a nice game experience for all participants, we recommend a minimum age of 12 years for the players. &nbsp;</p> <p>Please specify which session you want to participate in.&nbsp;</p> <p>We are also looking for English speaking players and game hosts. In both cases please write us an e-mail beforehand: biblab-c@stadtbibliothek-chemnitz.de<br />&nbsp;</p> <p><strong>Please sign up. </strong>This helps us having enough game hosts available: <a href=\"https://www.stadtbibliothek-chemnitz.de/buchen\">https://www.stadtbibliothek-chemnitz.de/buchen</a>&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Tietz, Zentralbibliothek, GamingArena/OpenSpace, 3. Etage",
             "room": "",
