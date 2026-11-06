@@ -1,6 +1,52 @@
 {
     "events":  [
                    {
+                       "title":  "Zur Diskussion: Was bedeutet Freiheit?",
+                       "description":  "In vielen zeitgenössischen politischen Debatten spielt der Begriff der Freiheit eine große Rolle. Gerade bei der Frage, wo die Grenzen der Meinungsfreiheit liegen, wird die Freiheit von Individuen in Gesellschaft und Politik diskutiert. Erscheint Freiheit für die einen nur mehr als Floskel oder Schlachtruf, suchen andere nach der Substanz des Begriffs.\r\nDer Vortrag geht diesen Fragen nach und greift dabei auf philosophische Traditionen von Freiheit zurück. Wir laden Sie ein, dazu mit Dr. Philipp Schink ins Gespräch zu kommen. Er forscht seit vielen Jahren zu den Themen des Abends und hat 2017 u. a. die Textsammlung „Freiheit. Zeitgenössische Texte zu einer philosophischen Kontroverse“ veröffentlicht.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-21",
+                                         "date_to":  "2027-01-21",
+                                         "time_to":  "20:30",
+                                         "time_from":  "19:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2610020",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "„Freiheitsaufgaben“. Lesung und Gespräch mit Marko Martin",
+                       "description":  "Steht die deutsche Demokratie 35 Jahre nach der Einheit am Scheideweg? Stellen wir uns den Freiheitsaufgaben oder geben wir unsere Freiheit auf? Marko Martin blickt in seinem Buch „Freiheitsaufgaben“ über den Tellerrand der innerdeutschen Debatten zu den großen intellektuellen Stimmen wie Manès Sperber und André Glucksmann. Er formuliert einen Appell gegen die Lockrufe nach autokratischer Entmündigung und für eine kategorische Ablehnung der Mutlosigkeit. \r\nAls gebürtiger Sachse, als Kriegsdienstverweigerer noch vor dem Mauerfall ausgereist, ist Marko Martin in Ost und West sozialisiert. In seinem Buch ermutigt er dazu, das Verständnis von Freiheit zu überprüfen. Zu stark sei das Missverständnis vieler, diese bedeute automatisch Glück. Doch Freiheit heißt Verantwortung. Wir laden Sie ein, an diesem Abend mit ihm ins Gespräch zu kommen. \r\nDie Veranstaltung ist eine Kooperation des Lern- und Gedenkort Kaßberg-Gefängnis e. V. und der Volkshochschule Chemnitz.",
+                       "location":  "Lern- und Gedenkort Kaßberg-Gefängnis",
+                       "room":  "Kaßbergstraße 16c",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-28",
+                                         "date_to":  "2027-01-28",
+                                         "time_to":  "20:30",
+                                         "time_from":  "19:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2610050",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Einführung in die Familienforschung",
                        "description":  "Wer die eigene Familiengeschichte erforschen möchte, steht vor folgenden Fragen: Wo sind Informationen über die Vorfahren erhältlich? Wie lassen sich die Forschungsergebnisse sinnvoll ordnen? Welche Hilfsmittel stehen bei Recherche und Auswertung von Informationen zur Verfügung? \r\nDieser Kurs macht Sie mit den Grundlagen der Genealogie vertraut und bietet Hilfestellung für das Lesen alter Urkunden.",
                        "location":  "TIETZ",
@@ -67,6 +113,29 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2722160",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Mit Hut um die Welt – Zu Fuß durch die Sahara -NEU-",
+                       "description":  "2.250 Kilometer in 60 Tagen – zu Fuß durch die Sahara. Sascha Stöckl, der „Mann mit Hut“, nimmt Sie mit auf diese außergewöhnliche Reise durch eine der faszinierendsten Landschaften der Welt. Mit eindrucksvollen Bildern und persönlichen Geschichten erzählt er von der Weite der Wüste, besonderen Begegnungen und den Herausforderungen des Unterwegsseins. Dabei stehen nicht nur die Landschaft, sondern vor allem die Menschen und Geschichten am Weg im Mittelpunkt. Ein authentischer Reisebericht über Abenteuer, Begegnungen und die Freiheit, seinen eigenen Weg zu gehen.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-05-27",
+                                         "date_to":  "2027-05-27",
+                                         "time_to":  "19:30",
+                                         "time_from":  "18:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-S2722170",
                        "ticket_phone":  ""
                    },
                    {
@@ -622,10 +691,10 @@
                        "ticket_phone":  ""
                    },
                    {
-                       "title":  "Geschlossene Venerologische Stationen im ehemaligen Bezirk Karl-Marx-Stadt",
-                       "description":  "Geschlossene Venerologische Stationen – dahinter verbirgt sich ein Kapitel von DDR-Unrecht, das bislang nur wenig bekannt ist. Unter dem Vorwurf, an einer sexuell übertragbaren Krankheit zu leiden, wurden zehntausende Frauen ab einem Alter von zwölf Jahren für mehrere Wochen in abgeschlossene Klinikbereiche zwangseingewiesen. Dort waren sie täglich sexualisierter Gewalt und einem rigorosen Disziplinierungs- und Strafregime ausgesetzt. \r\nDer Vortrag gibt einen Überblick zu diesem Thema und präsentiert aktuelle Forschungsergebnisse für den ehemaligen Bezirk Karl-Marx-Stadt. \r\nDie Veranstaltung ist eine Kooperation des Lern- und Gedenkort Kaßberg-Gefängnis e. V., der Gedenkstätte Hoheneck, des Instituts für Politikwissenschaft der TU Chemnitz, der Landesbeauftragten zur Aufarbeitung der SED-Diktatur und der Volkshochschule Chemnitz. Mit freundlicher Unterstützung der Sächsischen Landesbeauftragten zur Aufarbeitung der SED-Diktatur und gefördert mit Mitteln der Bundesstiftung zur Aufarbeitung der SED-Diktatur.",
-                       "location":  "Universitätsbibliothek der TU Chemnitz",
-                       "room":  "Vortragssaal „Ideenreich“",
+                       "title":  "Geld als Waffe: Über die Ökonomie von Kriegen. Lesung und Gespräch mit Ulrike Herrmann",
+                       "description":  "Wie entstehen Kriege? Und wie Frieden? Ulrike Herrmann, Wirtschaftsredakteurin bei der \"tageszeitung\" und u.a. bekannt als Autorin populärer Sachbücher wie \"Das Ende des Kapitalismus - Warum Wachstum und Klimaschutz nicht vereinbar sind\" (2022), untersucht in ihrem neuen Buch \"Geld als Waffe - Wie die Wirtschaft über Krieg und Frieden entscheidet\" (2026) große internationale Konflikte. Sie analysiert, dass die Gründe nicht nur historisch, psychologisch oder politisch sind, sondern dass oft ökonomische Faktoren ausschlaggebend sind. Sie zeigt am Beispiel Russlands, wie die wirtschaftliche Entwicklung des Landes permanente Kriege auch in Zukunft wahrscheinlich macht. Und sie beschreibt Chinas Aufstieg zur Supermacht und erklärt, wie Präsident Xi sein Land in eine ökonomische Sackgasse manövriert hat, die er mit seinen Aggressionen gegen Taiwan zu kaschieren versucht.\r\n\r\nZusammen mit Jakob Landwehr-Matlé, Politikwissenschaftler von der TU Chemnitz, wollen wir mit ihr über ihr Buch diskutieren.",
+                       "location":  "TIETZ",
+                       "room":  "",
                        "organizer":  "",
                        "images":  [
                                       {
@@ -635,13 +704,266 @@
                                   ],
                        "dates":  [
                                      {
-                                         "date_from":  "2026-11-05",
-                                         "date_to":  "2026-11-05",
+                                         "date_from":  "2026-11-12",
+                                         "date_to":  "2026-11-12",
                                          "time_to":  "19:30",
                                          "time_from":  "18:00"
                                      }
                                  ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612021",
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2610022",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Die Shoah und die DDR: Jüdische Stimmen im staatlichen Antifaschismus",
+                       "description":  "Das jüdische Leben in der DDR ist eher unbekannt. Die Veranstaltung geht der Frage nach, welchen Raum jüdische Erfahrungen im staatlich verordneten Antifaschismus in der DDR erhielten. Wurde im staatlichen Gedenken allgemein von „Kämpfern gegen den Faschismus“ gesprochen, rangen jüdische Überlebende bereits direkt nach 1945 um eine würdige Bestattung der Toten und eine sichtbare Erinnerung an die Shoah. Der Historiker Dr. Alexander Walther geht in seinem Vortrag der Rolle jüdischer Akteure wie Lin Jaldati, Helmut Eschwege oder Heinz Knobloch nach. Anhand persönlicher Nachlässe zeigt er ihr spannungsreiches Handeln zwischen eigensinniger Aufklärungsarbeit und teils schmerzhaften Zugeständnissen an die SED. \r\n\r\nIm Anschluss an den Vortrag besteht die Möglichkeit, an einer Kurzführung durch die Ausstellung \"Zwischen Integration, Ausgrenzung und Verfolgung: Auf den Spuren jüdischer Geschichte\" im Staatsarchiv oder an einem Rundgang im benachbarten Bundesarchiv - Stasi-Unterlagen-Archiv teilzunehmen. Es können außerdem Anträge auf Einsicht in die Stasi-Unterlagen gestellt werden.\r\n\r\nDie Veranstaltung ist eine Kooperation der Sächsischen Landeszentrale für politische Bildung, des Staatsarchivs Chemnitz, des Stasi-Unterlagen-Archivs Chemnitz und der Volkshochschule Chemnitz im Projekt „Kontrovers vor Ort“. Die Veranstaltungsreihe findet statt im Rahmen von TACHELES 2026, dem Jahr der jüdischen Kultur in Sachsen.\r\n\r\nWeitere Informationen zur Veranstaltung können Sie auf der Website des Stasi-Unterlagen-Archivs nachlesen: https://vhs.link/Mh9mFg",
+                       "location":  "Staatsarchiv Chemnitz",
+                       "room":  "Elsasser Straße 8",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-12-01",
+                                         "date_to":  "2026-12-01",
+                                         "time_to":  "20:30",
+                                         "time_from":  "19:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2610025",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Führung durch die Medizinhistorische Sammlung des Klinikums Chemnitz",
+                       "description":  "Bei dieser Führung tauchen Sie ein in die faszinierende Geschichte der sächsischen Medizin. Über 40 Jahre lang wurden im Krankenhaus Küchwald Instrumente, Geräte und Apparate aus den verschiedensten medizinischen Fachbereichen gesammelt. Von der Äthermaske bis zum Narkosegerät, vom starren Bronchoskop bis zum flexiblen Gastroskop – eine beeindruckende Auswahl historischer Geräte kann hier aus nächster Nähe betrachtet werden. Die historischen Räume des alten Badehauses bieten dafür den idealen Rahmen. Der Fokus liegt besonders auf Geräten, die in Chemnitz und Umgebung entwickelt wurden. ",
+                       "location":  "Treffpunkt: Bürgerstraße 2/Ecke Beyerstraße (Apotheke)",
+                       "room":  "",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-02-03",
+                                         "date_to":  "2027-02-03",
+                                         "time_to":  "11:30",
+                                         "time_from":  "10:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2610204",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Zur Diskussion: Wie hat sich Arbeit verändert?",
+                       "description":  "Mit Internet, Digitalisierung und Künstlicher Intelligenz verändern sich Arbeitswelten seit vielen Jahren spürbar. Unter anderem wird Arbeit flexibler und mobiler, Grenzen zwischen Erwerbsarbeit und anderen Lebensbereichen verschwimmen. Kommunikation und Zusammenarbeit werden mittlerweile in hohem Maß über digitale Medien organisiert. Damit ändern sich Anforderungen an die Einzelnen, Kollegialität und die Bedeutung des betrieblichen Arbeitsplatzes als sozialem Ort. \r\nDer Vortrag gibt einen Überblick über zentrale Forschungsergebnisse, insbesondere zum Wandel von Büroarbeit.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-10",
+                                         "date_to":  "2026-11-10",
+                                         "time_to":  "19:30",
+                                         "time_from":  "18:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2611020",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "»Opa war kein Nazi?« - Familienrecherche zum Nationalsozialismus",
+                       "description":  "Der Nationalsozialismus wirkt auf vielfältige Weise bis in die heutige Gesellschaft hinein. Viele Menschen fragen sich, welche Rollen ihre Familienangehörigen, Bekannten oder Vereinsmitglieder während dieser Zeit innehatten. Wer sich auf den Weg der Recherche begibt, ist nicht immer im Besitz umfangreicher Dokumente. Manchmal liefern Erzählungen oder persönliche Dokumente erste Anhaltspunkte, Einige beginnen die Suche ohne jegliches Vorwissen.  \r\nDoch wie recherchiert man eigentlich in einem Archiv? Was lässt sich dort über die eigenen Vorfahren herausfinden – und was vielleicht auch nicht? Wie sind die Ergebnisse zu verstehen? Diesen Fragen widmen sich die Teilnehmerinnen und Teilnehmer des Workshops mit professioneller Unterstützung des Historikers und Journalisten Dr. Johannes Spohr. Er führt in die Grundlagen der Recherche ein, liefert Anregungen und Tipps und geht auf individuelle Fragen zur Recherche ein. Der Workshop ermutigt dazu, Archive zu nutzen und Hürden abzubauen. Außerdem wird diskutiert, welche Bedeutung eine solche Recherche hat – individuell und gesellschaftlich. \r\nDieser Workshop ist eine Kooperation des Buntmacher*innen e. V. und der Volkshochschule Chemnitz. Er wird durch den Lokalen Aktionsplan für Demokratie, Toleranz und ein weltoffenes Chemnitz im Rahmen des Bundesprogramms „Demokratie leben!\" sowie durch den Landespräventionsrat des Freistaates Sachsen gefördert.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-16",
+                                         "date_to":  "2026-11-16",
+                                         "time_to":  "19:00",
+                                         "time_from":  "16:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612041",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Einführung in die Schriftkunde",
+                       "description":  "Die deutsche Kurrentschrift war etwa seit Beginn der Neuzeit bis ins 20. Jahrhundert hinein die übliche Geschäftsschrift im deutschen Sprachraum. Wer mit handschriftlichen Quellen aus diesem Zeitraum arbeitet, muss diese Schrift daher sicher lesen können. Dieser Kurs informiert über das Schriftbild der deutschen Kurrent von den Anfängen bis zum Sütterlin und erläutert gängige Abkürzungen, die heute nicht mehr ohne Weiteres verstanden werden. Vor allem aber wird das Lesen der deutschen Kurrentschrift anhand von Beispielen aus dem 17. bis 20. Jahrhundert geübt. Einige Schreibübungen erleichtern den Einstieg. ",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-18",
+                                         "date_to":  "2027-02-01",
+                                         "time_to":  "20:15",
+                                         "time_from":  "18:45"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612045",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Führung durch den Lern- und Gedenkort Kaßberg-Gefängnis",
+                       "description":  "Die Führung gibt einen Überblick über die doppelte Diktaturgeschichte des ehemaligen Kaßberg-Gefängnisses. Der Rundgang führt durch die drei Ausstellungsbereiche: Zeit des Nationalsozialismus, Untersuchungshaft in der Zeit des sowjetischen Geheimdienstes NKWD/MGB und Zeit der DDR-Staatssicherheit. Der innerdeutsche Häftlingsfreikauf wird thematisiert.\r\nDie Führung beleuchtet ausgewählte Haftschicksale und gibt einen ersten Einblick in Hintergründe und Zusammenhänge der jeweiligen Repressionsapparate.",
+                       "location":  "Lern- und Gedenkort Kaßberg-Gefängnis",
+                       "room":  "Kaßbergstraße 16c",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-11",
+                                         "date_to":  "2026-11-11",
+                                         "time_to":  "16:30",
+                                         "time_from":  "15:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612071",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Führung durch die Gedenkstätte Hoheneck",
+                       "description":  "Der Rundgang führt in die Geschichte des ehemaligen Gefängnisses Hoheneck ein und beleuchtet die politische Strafjustiz in der DDR. Etwa 24.000 Frauen waren dort teils aus politischen Gründen inhaftiert. \r\nDie Führung gibt grundlegende Informationen zur Geschichte des Gebäudes, zum Leben der Inhaftierten, zur Bedeutung dieses Ortes in der deutschen Geschichte und zeigt die politischen Hintergründe. Wir laden Sie ein, die im Sommer 2024 eröffnete Gedenkstätte kennenzulernen.",
+                       "location":  "Treffpunkt: An der Stalburg 6/7",
+                       "room":  "09366 Stollberg, OT Hoheneck",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-28",
+                                         "date_to":  "2026-11-28",
+                                         "time_to":  "15:30",
+                                         "time_from":  "13:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612081",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Von Spulen und Büchern - Führung durch die Alte Aktienspinnerei Chemnitz",
+                       "description":  "Die Alte Aktienspinnerei Chemnitz war mit ihrer Erbauung in der Mitte des 19. Jahrhunderts die größte Baumwollspinnerei Sachsens und ein bedeutender Ort der sächsischen Industriegeschichte. Seither wurde das Gebäude nicht nur als Spinnerei, sondern auch auf verschiedenste andere Weisen genutzt. Seit 2020 beherbergt es die Bibliothek und das Archiv der Technischen Universität Chemnitz. \r\nNicht nur äußerlich macht das Gebäude seit der Sanierung (2014 bis 2020) nachhaltig Eindruck. Auch im Inneren eröffnet sich heute ein imposantes Ensemble als Ort des Lernens und Forschens, aber auch der Kommunikation und der Begegnung. Diese Führung lädt ein, das Gebäude, seine Geschichte und die heutige Nutzung kennenzulernen.",
+                       "location":  "Foyer der Universitätsbibliothek",
+                       "room":  "Straße der Nationen 33",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-11-13",
+                                         "date_to":  "2026-11-13",
+                                         "time_to":  "17:15",
+                                         "time_from":  "15:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612091",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Café Philo: Zur Diskussion um Krieg und Frieden",
+                       "description":  "Deutschland soll wieder „kriegstüchtig“ werden, das US-Verteidigungsministerium wurde in „Kriegsministerium“ umbenannt und der Begriff des Krieges, der in den letzten Jahrzehnten aus dem gesellschaftlichen Bewusstsein verschwunden schien, wird wieder salonfähig. Krieg erscheint in den Debatten als Mittel zur Durchsetzung imperialer, aber auch vermeintlich moralischer Ziele. \r\nDas Café Philo nimmt dies zum Anlass, die klassischen Fragen nach einem gerechten Krieg, aber auch Fragen nach dem Stand des Pazifismus, nach der Legitimität humanitärer Intervention und nicht zuletzt nach der Veränderung des Krieges durch Drohnen und Cyberangriffe zu diskutieren. Wir laden Sie zum philosophischen Gespräch ein. \r\nDiese Veranstaltung ist eine Kooperation des Freien Instituts für Bildung e. V. und der Volkshochschule Chemnitz. \r\nTermine:\r\nW2613010 \t06.10.2026, 19:00 Uhr Weltecho, Annaberger Straße 24\r\nW2613011\t03.11.2026, 19:00 Uhr Kulturhaus Arthur, Hohe Straße 33\r\nW2613012\t12.01.2027, 19:00 Uhr Weltecho, Annaberger Straße 24\r\nW2613013\t02.02.2027, 19:00 Uhr Kulturhaus Arthur, Hohe Straße 33",
+                       "location":  "Weltecho",
+                       "room":  "Annaberger Straße 24",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-12",
+                                         "date_to":  "2027-01-12",
+                                         "time_to":  "21:15",
+                                         "time_from":  "19:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2613012",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Café Philo: Zur Diskussion um Krieg und Frieden",
+                       "description":  "Deutschland soll wieder „kriegstüchtig“ werden, das US-Verteidigungsministerium wurde in „Kriegsministerium“ umbenannt und der Begriff des Krieges, der in den letzten Jahrzehnten aus dem gesellschaftlichen Bewusstsein verschwunden schien, wird wieder salonfähig. Krieg erscheint in den Debatten als Mittel zur Durchsetzung imperialer, aber auch vermeintlich moralischer Ziele. \r\nDas Café Philo nimmt dies zum Anlass, die klassischen Fragen nach einem gerechten Krieg, aber auch Fragen nach dem Stand des Pazifismus, nach der Legitimität humanitärer Intervention und nicht zuletzt nach der Veränderung des Krieges durch Drohnen und Cyberangriffe zu diskutieren. Wir laden Sie zum philosophischen Gespräch ein. \r\nDiese Veranstaltung ist eine Kooperation des Freien Instituts für Bildung e. V. und der Volkshochschule Chemnitz. \r\nTermine:\r\nW2613010 \t06.10.2026, 19:00 Uhr Weltecho, Annaberger Straße 24\r\nW2613011\t03.11.2026, 19:00 Uhr Kulturhaus Arthur, Hohe Straße 33\r\nW2613012\t12.01.2027, 19:00 Uhr Weltecho, Annaberger Straße 24\r\nW2613013\t02.02.2027, 19:00 Uhr Kulturhaus Arthur, Hohe Straße 33",
+                       "location":  "Kulturhaus Arthur",
+                       "room":  "Hohe Straße 33",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-02-02",
+                                         "date_to":  "2027-02-02",
+                                         "time_to":  "21:15",
+                                         "time_from":  "19:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2613013",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Vereinsstammtisch zum Thema Seniorenarbeit",
+                       "description":  "Beim Vereinsstammtisch haben ehrenamtlich Engagierte und Vorstände aus Vereinen die Möglichkeit, sich in lockerer und informeller Atmosphäre zusammenzufinden, kennenzulernen, zu vernetzen und gemeinsam über verschiedene Themen auszutauschen. \r\nIn entspannter Atmosphäre haben Sie an diesem Abend die Gelegenheit, andere gemeinnützige Träger und Engagierte kennenzulernen, die ebenfalls vor allem die älteren Semester im Blick haben und für diese Zielgruppe Beteiligungsmöglichkeiten anbieten. Wir laden Sie ein, Erfahrungen auszutauschen und über Ihre Arbeit, Herausforderungen und Ideen ins Gespräch zu kommen. \r\nDie Veranstaltung ist eine Kooperation der Bürgerstiftung für Chemnitz und der Volkshochschule Chemnitz.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-12-02",
+                                         "date_to":  "2026-12-02",
+                                         "time_to":  "18:30",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2616041",
                        "ticket_phone":  ""
                    },
                    {
@@ -829,29 +1151,6 @@
                        "ticket_phone":  ""
                    },
                    {
-                       "title":  "Hochsensibilität: Was ist das?",
-                       "description":  "Bis zu 30 Prozent der Bevölkerung gelten als hochsensibel. Sie nehmen Reize, Gefühle und Stimmungen oft besonders intensiv wahr und bringen damit viele besondere Fähigkeiten mit. Gleichzeitig können Hektik, Leistungsdruck und ein unruhiger Alltag schneller zur Belastung werden. Hochsensibilität wird noch immer unterschätzt oder falsch verstanden.\r\nIn diesem Kurs gehen wir dem Thema gemeinsam nach und kommen miteinander ins Gespräch. Was steckt hinter Hochsensibilität? Wie zeigt sie sich im Alltag? Und welche Chancen können darin liegen? Der Kurs lädt dazu ein, mehr Verständnis für hochsensible Menschen zu entwickeln und ihre Stärken bewusster wahrzunehmen.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.18",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-11-05",
-                                         "date_to":  "2026-11-05",
-                                         "time_to":  "20:00",
-                                         "time_from":  "17:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632211",
-                       "ticket_phone":  ""
-                   },
-                   {
                        "title":  "Gewürze neu entdecken – was Zimt, Kardamom \u0026 Co. können",
                        "description":  "Gewürze sind weit mehr als Aromageber. Sie unterstützen die Verdauung, wärmen von innen und können Süße vertiefen. In diesem Kurs entdecken Sie die Wirkung typischer Wintergewürze und lernen ihre sinnvolle Kombination kennen. \r\nWir stellen eigene Gewürzmischungen her und erleben, wie sie Speisen verwandeln. Gemeinsam bereiten wir z. B. ein aromatisches Linsen-Wurzel-Gemüse sowie ein fein abgestimmtes Birnen-Dessert mit Kardamom zu – würzig, duftend und überraschend ausgewogen. \r\nDer Kurs lädt ein zu entdecken, wie Gewürze Tiefe schenken, Süße verfeinern und Gerichte harmonisch abrunden können. Ihre individuell zusammengestellten Mischungen sowie inspirierende Ideen für eine geschmackvolle Alltagsküche nehmen Sie mit nach Hause – für ein neues Gewürzerlebnis mit mehr Aroma, Wärme und bewussten Genuss.",
                        "location":  "TIETZ",
@@ -1036,6 +1335,52 @@
                        "ticket_phone":  ""
                    },
                    {
+                       "title":  "Rhetorik und Kommunikation - Crashkurs",
+                       "description":  "Gelungene Kommunikation findet immer dann statt, wenn eine gute Verbindung zur Gesprächspartnerin und zum Gesprächspartner aufgebaut werden kann. Hierfür gibt es verschiedene Techniken, die Sie erlernen können. Anwendungsgebiete sind Gespräche, Verhandlungen, Streitgespräche, Präsentationen und Vorträge. Bei allen Gesprächsformen gibt es wiederkehrende Abläufe, die Sie kennen sollten, damit Sie Ihr gewünschtes Ergebnis erreichen. Lernen Sie die Techniken der Profis kennen, z. B. verbale sowie nonverbale Kommunikation, Fragetechniken, Rhetorik für Kurzvorträge und den Umgang mit schwierigen Gesprächspartnerinnen und -partnern.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-15",
+                                         "date_to":  "2027-01-16",
+                                         "time_to":  "21:30",
+                                         "time_from":  "16:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B200",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Wertschätzend und auf Augenhöhe - Gewaltfreie Kommunikation für den Beruf",
+                       "description":  "Im beruflichen Kontakt mit Kolleginnen und Kollegen, Vorgesetzten oder Schutzbefohlenen ist das Gespräch ein wichtiges Element, um eigene Anliegen zu äußern und sich über Vorhaben der Anderen zu verständigen. Eine wertschätzende Kommunikation ist die sichere Grundlage, um gemeinsam etwas zu bewegen, Konflikte zu klären und Beziehungen zu stärken. Bei der Gewaltfreien Kommunikation nach Dr. Marshall B. Rosenberg ist weniger die Methode entscheidend, als vielmehr die Haltung, mit der Gespräche und Besprechungen geführt werden. \r\n\r\nDer Kurs gibt eine Einführung. Praktische Übungen unter Anleitung der erfahrenen Kursleitung ermöglichen Ihnen die Anwendung und den Transfer in Ihren beruflichen Alltag.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.07",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-16",
+                                         "date_to":  "2027-01-16",
+                                         "time_to":  "16:30",
+                                         "time_from":  "09:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B202",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Generationen führen – Zusammenarbeit im Wandel gestalten -NEU-",
                        "description":  "In vielen Teams arbeiten bis zu vier Generationen zusammen und bringen unterschiedliche Erfahrungen, Kommunikationsstile sowie Vorstellungen von Arbeit mit. Diese Vielfalt kann herausfordernd sein, bietet aber zugleich großes Potenzial für erfolgreiche Zusammenarbeit, Innovation und gegenseitiges Lernen. \r\nIn diesem Kurs setzen Sie sich mit den Besonderheiten verschiedener Generationen in der Arbeitswelt und deren Auswirkungen auf die Zusammenarbeit auseinander. Sie erfahren, wie Führung verbindend wirken kann und wie es gelingt, ein respektvolles sowie produktives Miteinander zu fördern. Anhand praxisnaher Beispiele entwickeln Sie Strategien, um generationenübergreifende Teams erfolgreich zu führen, Missverständnisse frühzeitig zu erkennen und Perspektiven konstruktiv zu nutzen.",
                        "location":  "online",
@@ -1059,6 +1404,29 @@
                        "ticket_phone":  ""
                    },
                    {
+                       "title":  "Werteorientiert führen – Haltung zeigt Wirkung -NEU-",
+                       "description":  "Erfolgreiche Führung beginnt nicht bei Methoden oder Tools, sondern bei der eigenen Haltung. In einer dynamischen Arbeitswelt ist eine wertebasierte Führung der Schlüssel zu Orientierung, Vertrauen im Team und klaren Entscheidungen. \r\nIn diesem Kurs setzen Sie sich mit Ihren persönlichen Werten und deren Einfluss auf Ihr Führungsverhalten auseinander. Sie reflektieren, welche Haltung Ihr Handeln prägt und wie Sie authentisch führen können. Anhand konkreter Beispiele aus dem Arbeitsalltag entwickeln Sie Strategien, um Ihre Werte im Führungsalltag sichtbar und wirksam umzusetzen. Der Kurs bietet Raum für Selbstreflexion, Austausch sowie praktische Impulse, die Sie direkt in Ihren beruflichen Alltag übertragen können.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-02-01",
+                                         "date_to":  "2027-02-01",
+                                         "time_to":  "16:45",
+                                         "time_from":  "10:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B213",
+                       "ticket_phone":  ""
+                   },
+                   {
                        "title":  "Was mich triggert und warum: Biografische Selbstreflexion für den pädagogischen Alltag -NEU-",
                        "description":  "Kinder, die ständig Widerworte geben und einen innerlich aufwühlen: Manche Situationen im pädagogischen Alltag kosten unverhältnismäßig viel Kraft. Oft liegt das nicht an den Kindern, sondern daran, was diese Situationen in Ihnen auslösen - eigene, tief verankerte Erziehungserfahrungen, die Ihr Handeln steuern, ohne dass Sie es bemerken.\r\n\r\nIn diesem Seminar erkunden Sie, welche Prägungen aus der eigenen Geschichte Sie im Alltag begleiten und wie Sie aus diesem Wissen heraus neue Handlungsmöglichkeiten entwickeln. Sie reflektieren, was Sie dabei unterstützt, Situationen im pädagogischen Alltag gelassener zu begegnen und bewusster zu handeln.",
                        "location":  "TIETZ",
@@ -1079,6 +1447,29 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B400",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Kraftquellen der eigenen Biografie entdecken – Ressourcen erkennen und für den Kita-Alltag nutzen  -NEU-",
+                       "description":  "Nach einem langen Arbeitstag in der Kita nach Hause kommen und noch Energie haben, für sich selbst, für einen schönen Abend, für das, worauf man sich freut. Das klingt für viele pädagogische Fachkräfte weit entfernt. Dabei liegt die Antwort oft in der eigenen Geschichte.\r\nIn diesem Seminar ergründen Sie, was Ihnen im Leben immer wieder Freude und Kraft gegeben hat. Mit kreativen Methoden finden Sie heraus, wie Sie diese Momente bewusst wieder in Ihren Alltag holen können. Sie entdecken Ihre persönlichen Kraftquellen neu: Menschen, Orte, Rituale. Entwickeln Sie ein Gespür dafür, was Ihnen guttut und gehen Sie gelassener und freudiger in den Kita-Alltag.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.62",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-19",
+                                         "date_to":  "2027-01-19",
+                                         "time_to":  "15:30",
+                                         "time_from":  "09:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B401",
                        "ticket_phone":  ""
                    },
                    {
@@ -1171,6 +1562,29 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B407",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Kollegiale Fallberatung in pädagogischen Teams -NEU-",
+                       "description":  "Kollegiale Fallberatung unterstützt pädagogische Teams dabei, Herausforderungen aus dem Berufsalltag strukturiert, lösungsorientiert und gemeinsam zu reflektieren. \r\n\r\nIn diesem Kurs lernen Sie das Prinzip der kollegialen Fallberatung kennen und erfahren, wie Sie Gespräche methodisch klar und praxisnah gestalten können. Im Mittelpunkt stehen Ablauf, Rollen, Gesprächsstruktur sowie hilfreiche Methoden. Beispiele aus der pädagogischen Arbeit und Übungen fördern die sichere Anwendung im eigenen Team und im Berufsalltag.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.08",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-09",
+                                         "date_to":  "2027-01-09",
+                                         "time_to":  "13:30",
+                                         "time_from":  "09:30"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265B409",
                        "ticket_phone":  ""
                    },
                    {
