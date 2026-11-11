@@ -244,8 +244,8 @@
                                   ],
                        "dates":  [
                                      {
-                                         "date_from":  "2027-03-22",
-                                         "date_to":  "2027-03-22",
+                                         "date_from":  "2027-06-19",
+                                         "date_to":  "2027-06-19",
                                          "time_to":  "17:00",
                                          "time_from":  "10:00"
                                      }
@@ -462,7 +462,7 @@
                    },
                    {
                        "title":  "Effiziente Meetings - klar, fokussiert, ergebnisorientiert -NEU-",
-                       "description":  "Meetings sollen Zusammenarbeit erleichtern, werden aber schnell zu Zeitfressern. In diesem praxisorientierten Kurs lernen Sie, Besprechungen klar zu strukturieren, zielgerichtet zu moderieren und zu verbindlichen Ergebnissen zu führen.\r\nSie erfahren, wie Sie Ziele und Agenda sinnvoll gestalten, Diskussionen auf Kurs halten, mit Vielredner und Abschweifungen umgehen und Entscheidungen sowie nächste Schritte sichern. Praktische Übungen und konkrete Methoden sorgen dafür, dass Sie das Gelernte direkt in Ihrem Arbeitsalltag einsetzen können.",
+                       "description":  "Meetings sollen Zusammenarbeit erleichtern, werden aber schnell zu Zeitfressern. In diesem praxisorientierten Kurs lernen Sie, Besprechungen klar zu strukturieren, zielgerichtet zu moderieren und zu verbindlichen Ergebnissen zu führen.\r\nSie erfahren, wie Sie Ziele und Agenda sinnvoll gestalten, Diskussionen auf Kurs halten, mit Vielrednern und Abschweifungen umgehen und Entscheidungen sowie nächste Schritte sichern. Praktische Übungen und konkrete Methoden sorgen dafür, dass Sie das Gelernte direkt in Ihrem Arbeitsalltag einsetzen können.",
                        "location":  "online",
                        "room":  "",
                        "organizer":  "",
@@ -531,7 +531,7 @@
                    },
                    {
                        "title":  "Change Management: Veränderungen erfolgreich gestalten",
-                       "description":  "Veränderungen gehören zum Alltag von Organisationen, sei es durch neue Technologien, Marktbedingungen oder interne Umstrukturierungen. Damit Veränderungen gelingen, braucht es neben einer klaren Strategie vor allem ein bewusstes Change Management, das Menschen mitnimmt und Orientierung gibt. In diesem Seminar lernen Sie die zentralen Grundlagen und Erfolgsfaktoren des Change Managements kennen. Anhand von Praxisbeispielen und Übungen wird vermittelt, wie Veränderungsprozesse geplant, kommuniziert und umgesetzt werden können.",
+                       "description":  "Veränderungen gehören zum Alltag von Organisationen, sei es durch neue Technologien, Marktbedingungen oder interne Umstrukturierungen. Damit Veränderungen gelingen, braucht es neben einer klaren Strategie vor allem ein bewusstes Change Management, das Menschen mitnimmt und Orientierung gibt. In diesem Kurs lernen Sie die zentralen Grundlagen und Erfolgsfaktoren des Change Managements kennen. Anhand von Praxisbeispielen und Übungen wird vermittelt, wie Veränderungsprozesse geplant, kommuniziert und umgesetzt werden können. ",
                        "location":  "online",
                        "room":  "",
                        "organizer":  "",
@@ -757,29 +757,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2610204",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Zur Diskussion: Wie hat sich Arbeit verändert?",
-                       "description":  "Mit Internet, Digitalisierung und Künstlicher Intelligenz verändern sich Arbeitswelten seit vielen Jahren spürbar. Unter anderem wird Arbeit flexibler und mobiler, Grenzen zwischen Erwerbsarbeit und anderen Lebensbereichen verschwimmen. Kommunikation und Zusammenarbeit werden mittlerweile in hohem Maß über digitale Medien organisiert. Damit ändern sich Anforderungen an die Einzelnen, Kollegialität und die Bedeutung des betrieblichen Arbeitsplatzes als sozialem Ort. \r\nDer Vortrag gibt einen Überblick über zentrale Forschungsergebnisse, insbesondere zum Wandel von Büroarbeit.",
-                       "location":  "TIETZ",
-                       "room":  "Kursraum 4.07",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-11-10",
-                                         "date_to":  "2026-11-10",
-                                         "time_to":  "19:30",
-                                         "time_from":  "18:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2611020",
                        "ticket_phone":  ""
                    },
                    {
