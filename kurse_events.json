@@ -806,29 +806,6 @@
                        "ticket_phone":  ""
                    },
                    {
-                       "title":  "Führung durch den Lern- und Gedenkort Kaßberg-Gefängnis",
-                       "description":  "Die Führung gibt einen Überblick über die doppelte Diktaturgeschichte des ehemaligen Kaßberg-Gefängnisses. Der Rundgang führt durch die drei Ausstellungsbereiche: Zeit des Nationalsozialismus, Untersuchungshaft in der Zeit des sowjetischen Geheimdienstes NKWD/MGB und Zeit der DDR-Staatssicherheit. Der innerdeutsche Häftlingsfreikauf wird thematisiert.\r\nDie Führung beleuchtet ausgewählte Haftschicksale und gibt einen ersten Einblick in Hintergründe und Zusammenhänge der jeweiligen Repressionsapparate.",
-                       "location":  "Lern- und Gedenkort Kaßberg-Gefängnis",
-                       "room":  "Kaßbergstraße 16c",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-11-11",
-                                         "date_to":  "2026-11-11",
-                                         "time_to":  "16:30",
-                                         "time_from":  "15:00"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2612071",
-                       "ticket_phone":  ""
-                   },
-                   {
                        "title":  "Führung durch die Gedenkstätte Hoheneck",
                        "description":  "Der Rundgang führt in die Geschichte des ehemaligen Gefängnisses Hoheneck ein und beleuchtet die politische Strafjustiz in der DDR. Etwa 24.000 Frauen waren dort teils aus politischen Gründen inhaftiert. \r\nDie Führung gibt grundlegende Informationen zur Geschichte des Gebäudes, zum Leben der Inhaftierten, zur Bedeutung dieses Ortes in der deutschen Geschichte und zeigt die politischen Hintergründe. Wir laden Sie ein, die im Sommer 2024 eröffnete Gedenkstätte kennenzulernen.",
                        "location":  "Treffpunkt: An der Stalburg 6/7",
@@ -1217,29 +1194,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2632611",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Selbstbestimmt vorsorgen: Vollmachten und Verfügungen im Überblick",
-                       "description":  "Niemand setzt sich gerne mit dem Gedanken auseinander, durch Krankheit oder Unfall die eigenen Angelegenheiten nicht mehr selbst regeln zu können. Doch wer frühzeitig vorsorgt, stellt sicher, dass die eigenen Wünsche respektiert werden und entlastet gleichzeitig seine Angehörigen in schweren Zeiten.\r\n\r\nIm Vortrag werden Fachbegriffe erläutert und Sie erfahren, worauf es bei der rechtlichen Vorsorge ankommt.\r\n\r\nDie Referentin, Linda Schreckenberger, ist im Betreuungsverein Chemnitz „Netzwerk Behindertenhilfe e. V.\"  tätig.\r\n\r\nDiese Veranstaltung ist eine Kooperation der Pro Seniore Residenz Chemnitz und der Volkshochschule Chemnitz.",
-                       "location":  "Speisesaal der Pro Seniore Residenz Chemnitz",
-                       "room":  "Salzstraße 40",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-11-11",
-                                         "date_to":  "2026-11-11",
-                                         "time_to":  "16:00",
-                                         "time_from":  "14:30"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2636102",
                        "ticket_phone":  ""
                    },
                    {
