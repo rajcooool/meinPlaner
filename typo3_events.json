@@ -1,102 +1,6 @@
 {
     "events": [
         {
-            "title": "Die Feuerprobe \u2013 Novemberpogrom 1938",
-            "description": "<p>Erwin Leiser, der als 15j\u00e4hriger die Novemberpogrome in Berlin erlebte und Anfang 1939 nach Schweden fl\u00fcchten konnte, beschr\u00e4nkt sich in seinem Film nicht auf die wenigen sp\u00e4rlichen Dokumentaraufnahmen aus der damaligen Zeit. In einer \u00e4u\u00dferst gr\u00fcndlichen Recherche ist es ihm gelungen, eine Reihe interessanter Zeitzeugen zu finden und zu interviewen. Durch die Verbindung von historischen Aufnahmen und Texten mit der Schilderung pers\u00f6nlicher Erlebnisse durch die Zeitzeugen verliert die Trag\u00f6die ihre Anonymit\u00e4t und wird dadurch f\u00fcr den Zuschauer besonders eindringlich.&nbsp;</p> <p>Eine Kooperationsveranstaltung des Buntmacher*innen e.V. und der Stadtbibliothek Chemnitz als Teil des Themenjahres \u201eTacheles \u2013 Jahr der j\u00fcdischen Kultur in Sachsen\u201c. Gef\u00f6rdert durch den Lokalen Aktionsplan f\u00fcr Demokratie, Toleranz und ein weltoffenes Chemnitz, im Rahmen des Bundesprogramms \u201eDemokratie leben!\u201c, durch den Landespr\u00e4ventionsrat des Freistaates Sachsen.</p> <p><i>Eintritt: frei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/die-feuerprobe7.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-12",
-                    "date_to": "",
-                    "time_from": "18:00",
-                    "time_to": "20:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/die-feuerprobe-novemberpogrom-1938"
-        },
-        {
-            "title": "Sprechstunde digitale Angebote und E-Books",
-            "description": "<p>Sie wissen nicht, warum Zeitungen bei <strong>PressReader</strong> nicht laden, wie Sie <strong>filmfriend</strong> auf dem Fernseher starten, wo Sie <strong>LinkedIn</strong>-Kurse absolvieren k\u00f6nnen oder wie Sie Ihr Onleihe-E-Book auf dem <strong>E-Book-Reader</strong> lesen k\u00f6nnen?</p> <p>In unserer individuellen Beratung kl\u00e4ren wir allgemeine Fragen, helfen bei der Bedienung und l\u00f6sen Hardware-Probleme rund um all unsere digitalen Angebote.</p> <p>Anmeldung erbeten unter <a class=\"cc_extern\" href=\"https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot\" target=\"_blank\">https://www.supersaas.de/schedule/Stadtbibliothek-Chemnitz/Sprechstunde_digitales_Angebot</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Sprechstunde_gif.gif",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-12",
-                    "date_to": "",
-                    "time_from": "16:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2-1-2-1"
-        },
-        {
-            "title": "Digitale Barrieren und wie wir sie \u00fcberwinden",
-            "description": "<p>\"Wir leben in einer digitalen Welt. Dabei kommen wir kaum noch darum herum<br />unsere Daten und viele pers\u00f6nliche Informationen von uns preiszugeben.<br />Doch was passiert damit, wenn wir irgendwann nicht mehr da sind? Wie auch<br />in der echten Welt, m\u00fcssen wir uns auch in der digitalen Welt mit unserem<br />Erbe besch\u00e4ftigen. Wir wollen Ihnen dabei unsere Unterst\u00fctzung anbieten.</p> <p>In dieser Veranstaltung wollen wir uns daher zum einen mit dem \"Digitalen<br />Nachlass\" und unserem digitalen Erbe auseinandersetzen. Wir wollen<br />Strategien entwickeln richtig damit umzugehen, technische M\u00f6glichkeiten<br />aufzeigen und auf rechtliche Aspekte hinweisen. Vor allem sollen dabei<br />aber auch pers\u00f6nliche W\u00fcnsche nicht zu kurz kommen.</p> <p>Au\u00dferdem wollen wir im Rahmen dieser Veranstaltung einen Blick in die<br />elektronische Patientenakte werfen - was ist die ePA, wie funktioniert sie<br />und weshalb ist sie sinnvoll?</p> <p>Wie k\u00f6nnen wir mit all diesen digitalen Barrieren umgehen? In dieser<br />Veranstaltung wollen wir ihnen wertvolle Einblicke und praktische Tipps<br />mitgeben.\"</p>",
-            "organizer": "",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Nachlass.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-12",
-                    "date_to": "",
-                    "time_from": "17:30",
-                    "time_to": "19:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/digitale-barrieren-und-wie-wir-sie-ueberwinden"
-        },
-        {
-            "title": "Workshop Einf\u00fchrung BorrowBox",
-            "description": "<div class=\"cc_content\"><p>Sie m\u00f6chten den Umgang mit unserer neuen Online-Bibliothek BorrowBox erlernen? Hier erfahren Sie, was die Plattform zu bieten hat und welche \u00c4nderungen es im Vergleich zur Onleihe gibt. Wir geben eine allgemeine Einf\u00fchrung und kl\u00e4ren individuelle Fragen.&nbsp;</p> <p>Bitte hier kostenlos <strong>anmelden:&nbsp;</strong> <a class=\"cc_intern\" href=\"t3://page?uid=325\">https://www.stadtbibliothek-chemnitz.de/bibliothek-digital/ebook-sprechstunde</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p></div>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/001_bilder/012_content/DigitaleAngebote/2609_DE_BBX_Poster_Titelvielfalt_EBOOK_A3.png",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-12",
-                    "date_to": "",
-                    "time_from": "14:00",
-                    "time_to": "16:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/workshop-einfuehrung-borrowbox"
-        },
-        {
             "title": "CHOR-SINFONISCHES KONZERT",
             "description": "<p class=\"cvGsUA block-font-kerning-normal block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-center\">Wenn die Singakademie Chemnitz und das Jugendsinfonieorchester der St\u00e4dtischen Musikschule Chemnitz gemeinsam auf der B\u00fchne stehen, treffen unterschiedliche Generationen und musikalische Erfahrungen aufeinander. Was beide Ensembles verbindet, ist die Freude daran, im Zusammenspiel gemeinsam etwas entstehen zu lassen.</p> <p class=\"cvGsUA block-font-kerning-normal block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-center\">Gerade darin liegt der besondere Reiz dieses Konzertabends: Erfahrene S\u00e4nger musizieren Seite an Seite mit jungen Instrumentalisten.</p> <p class=\"cvGsUA block-font-kerning-normal block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-center\">Das Programm unseres gemeinsamen Konzertes am 14. November 2026 \u00f6ffnet ganz unterschiedliche musikalische R\u00e4ume. Gro\u00dfe, festliche Chormusik und klassische Werke treffen auf moderne, von Film und popul\u00e4rer Musikkultur gepr\u00e4gte Kl\u00e4nge. Romantische Orchesterfarben begegnen der klaren Eleganz der Klassik. Dabei geht es immer wieder um gro\u00dfe Gef\u00fchle: um Frieden und Freiheit, Gemeinschaft und Gerechtigkeit und nicht zuletzt um die Kraft des Augenblicks. So verbindet das Programm die Tradition der klassischen Chormusik und Sinfonik mit Klangwelten, die direkt ins Ohr und ins Herz gehen.</p> <p class=\"cvGsUA block-font-kerning-normal block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-center\">F\u00fcr die jungen Musiker des Jugendsinfonieorchesters der St\u00e4dtischen Musikschule Chemnitz ist ein solches Projekt eine besondere Gelegenheit: Gemeinsam mit einem gro\u00dfen Chor zu musizieren bedeutet, aufmerksam aufeinander zu h\u00f6ren, Verantwortung f\u00fcr den eigenen Part zu \u00fcbernehmen und zugleich Teil eines gro\u00dfen musikalischen Ganzen zu sein. Auch f\u00fcr die Singakademie als gr\u00f6\u00dfter und \u00e4ltester Konzertchor der Stadt Chemnitz bedeutet die Zusammenarbeit wertvolle Impulse und eine neue, spannende Dynamik.</p> <p class=\"cvGsUA block-font-kerning-normal block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-center\">Im Mittelpunkt steht dabei vor allem eines: die Freude am gemeinsamen Musizieren. Wenn viele einzelne Stimmen und Instrumente zusammenfinden, entsteht ein Konzert voller Energie und gro\u00dfer Emotionen.</p> <p class=\"cvGsUA block-font-kerning-normal block-font-feature-liga-off block-font-feature-clig-off block-font-feature-calt-off direction-ltr align-center\">Die Singakademie Chemnitz und das Jugendsinfonieorchester der St\u00e4dtischen Musikschule Chemnitz laden Sie herzlich ein, diese besondere Begegnung mitzuerleben.</p>  <p><strong>Tickets:</strong> <a href=\"https://city-ticket.de/events/chor-sinfonisches-konzert-chemnitz-markuskirche-2026-11-14/\" target=\"_self\" rel=\"external\">https://city-ticket.de/events/chor-sinfonisches-konzert-chemnitz-markuskirche-2026-11-14/</a></p>",
             "organizer": "",
@@ -266,7 +170,7 @@
         },
         {
             "title": "Chemnitzer Buchsalon zu Gast im Literaturforum Bibliothek",
-            "description": "<h4>Chemnitzer Buchsalon und Heike Gei\u00dfler zu Gast im Literaturforum Bibliothek</h4> <p>Termin: Sonntag, 15. November 2026</p> <p>Beginn: 11 Uhr</p> <p>Ort: TIETZ, Stadtbibliothek, Veranstaltungssaal, Moritzstra\u00dfe 20, 09111 Chemnitz</p> <p>Eintritt: frei</p> <p><strong>Drei Kritiker:innen besprechen drei aktuelle B\u00fccher aus Sachsen.</strong></p> <ul><li data-list-item-id=\"e145558d58e17e5b509979e964c0400f5\">Eileen M\u00e4gel, Dresdner Autorin und Lyrikerin, spricht \u00fcber \u201eDie zweitgr\u00f6\u00dfte Liebe\u201c von Ruth Maria Thomas&nbsp;</li><li data-list-item-id=\"e9ef6fdb45612ace05232e59746921fd8\">Angela Malz, langj\u00e4hriges Mitglied des Chemnitzer Literarischen Quintetts, bespricht \u201eStolz und Zweifel\u201c von Marlen Hobrack.</li><li data-list-item-id=\"e17f4e2ef929c07adcb3e839037ff0768\">Burkhard M\u00fcller, langj\u00e4hriger Rezensent des Buchsalons und Literaturkritiker, spricht \u00fcber \"Nach der Sonne schauen\" von Martina Hefter.</li></ul> <p><strong>Im Anschluss liest Heike Gei\u00dfler&nbsp;aus ihrem neuen Roman \u201eMichaela Kohlhaas\u201c, moderiert von Eileen M\u00e4gel.</strong></p> <p>Die Veranstaltungsreihe <a class=\"cc_extern\" href=\"https://bibliotheksverband-sachsen.de/literaturforum-bibliothek/lesungstermine\" target=\"_blank\">Literaturforum Bibliothek</a> wird vom S\u00e4chsischen Staatsministerium f\u00fcr Wissenschaft, Kultur und Tourismus gef\u00f6rdert und vom Bibliotheksverband Sachsen organisiert. Das Projekt wird mitfinanziert durch Steuermittel auf der Grundlage des vom S\u00e4chsischen Landtag beschlossenen Haushaltes.&nbsp;</p>",
+            "description": "<h4>Chemnitzer Buchsalon und Heike Gei\u00dfler zu Gast im Literaturforum Bibliothek</h4> <p>Termin: Sonntag, 15. November 2026</p> <p>Beginn: 11 Uhr</p> <p>Ort: TIETZ, Stefan-Heym-Forum (3. Etage), Moritzstra\u00dfe 20, 09111 Chemnitz</p> <p>Eintritt: frei</p> <p><strong>Drei Kritiker:innen besprechen drei aktuelle B\u00fccher aus Sachsen.</strong></p> <ul><li data-list-item-id=\"e145558d58e17e5b509979e964c0400f5\">Eileen M\u00e4gel, Dresdner Autorin und Lyrikerin, spricht \u00fcber \u201eDie zweitgr\u00f6\u00dfte Liebe\u201c von Ruth Maria Thomas&nbsp;</li><li data-list-item-id=\"e9ef6fdb45612ace05232e59746921fd8\">Angela Malz, langj\u00e4hriges Mitglied des Chemnitzer Literarischen Quintetts, bespricht \u201eStolz und Zweifel\u201c von Marlen Hobrack.</li><li data-list-item-id=\"e17f4e2ef929c07adcb3e839037ff0768\">Burkhard M\u00fcller, langj\u00e4hriger Rezensent des Buchsalons und Literaturkritiker, spricht \u00fcber \"Nach der Sonne schauen\" von Martina Hefter.</li></ul> <p><strong>Im Anschluss liest Heike Gei\u00dfler&nbsp;aus ihrem neuen Roman \u201eMichaela Kohlhaas\u201c, moderiert von Eileen M\u00e4gel.</strong></p> <p>Die Veranstaltungsreihe <a class=\"cc_extern\" href=\"https://bibliotheksverband-sachsen.de/literaturforum-bibliothek/lesungstermine\" target=\"_blank\">Literaturforum Bibliothek</a> wird vom S\u00e4chsischen Staatsministerium f\u00fcr Wissenschaft, Kultur und Tourismus gef\u00f6rdert und vom Bibliotheksverband Sachsen organisiert. Das Projekt wird mitfinanziert durch Steuermittel auf der Grundlage des vom S\u00e4chsischen Landtag beschlossenen Haushaltes.&nbsp;</p>",
             "organizer": "Stadtbibliothek Chemnitz",
             "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
             "room": "",
@@ -1933,6 +1837,54 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/smartphone-sprechstunde-fuer-senioren-1-1"
         },
         {
+            "title": "BibLab: Einf\u00fchrung AudioStudio",
+            "description": "<p>Sie wollten schon immer mal einen Podcast oder ein H\u00f6rspiel produzieren? Sie suchen nach einem Raum, um Ihre Texte digital aufzunehmen und zu bearbeiten? Dann nutzen Sie die Technik im BibLab! Heute zeigen wir Ihnen, wie es geht, morgen schon werden Sie selbst aktiv.</p> <p>Zielgruppe: Einf\u00fchrungsveranstaltung f\u00fcr Interessierte</p> <p>Die Termine:<br />Dienstag | 12.01.2027 | 10 bis 11 Uhr, 11.30 bis 12.30 Uhr, 14 bis 15 Uhr, 15.30 bis 16.30 Uhr |</p> <p>Ort: TIETZ, Zentralbibliothek, BibliotheksLabor, MakerBereich<br /><br /><i>kostenfrei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Audiostudio.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2027-01-12",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-einfuehrung-audiostudio-2-3-3"
+        },
+        {
+            "title": "BibLab: Einf\u00fchrung MedienLabor",
+            "description": "<p>Sie haben Schallplatten, Dias und Audio/VHS-Kassetten daheim, die Sie endlich in Ihrer digitalen Playlist haben wollen?&nbsp;</p> <p>Dann nutzen Sie die Technik im BibLab! Heute zeigen wir Ihnen, wie es geht, morgen schon digitalisieren Sie eigenh\u00e4ndig Ihre Sammlungen.</p> <p>Zielgruppe: Einf\u00fchrungsveranstaltung f\u00fcr Interessierte</p> <p><i>kostenfrei</i></p>  <p>Die Termine:<br />Dienstag | 12.01.2027 | 10 bis 11 Uhr, 11.30 bis 12.30 Uhr, 14 bis 15 Uhr, 15.30 bis 16.30 Uhr |<br /><br />Ort: TIETZ, Zentralbibliothek, BibliotheksLabor, MakerBereich</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Medienlabor.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2027-01-12",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-einfuehrung-medienlabor-2-2-1-1-1"
+        },
+        {
             "title": "Infoveranstaltung: Influencer - der beste Freund meines Kindes?",
             "description": "<p>Influencer sind aus sozialen Medien wie Instagram, YouTube und Twitch nicht mehr wegzudenken. Mit ihren Inhalten begeistern sie viele Menschen - und oft entsteht eine starke,<br />beinahe freundschaftliche Verbindung zu ihnen. Fachleute sprechen dabei von parasozialen Beziehungen. Welchen Einfluss haben solche Beziehungen? Was bedeuten sie f\u00fcr Kinder und Jugendliche, die Influencern folgen? Was steckt hinter dem Ph\u00e4nomen Influencer und warum m\u00f6chten so viele selbst Influencer werden? In dieser Veranstaltung f\u00fcr Eltern sprechen wir \u00fcber das Gesch\u00e4ftsmodell der Influencer, stellen aktuelle Influencer und Trends vor und beleuchten Chancen und m\u00f6gliche Risiken parasozialer Beziehungen</p> <p><strong>Wo?</strong></p> <p>Stadtbibliothek im TIETZ/ Lernraum</p> <p><strong>Wann?</strong></p> <p>21.01.2027 (17.30 bis 19 Uhr)</p> <p><strong>Wer?</strong></p> <p>Eltern und Gro\u00dfeltern</p> <p><strong>Wie?</strong></p> <p>kostenfrei, Anmeldung erbeten</p>",
             "organizer": "BibLab-C Projektnetzwerk",
@@ -2009,6 +1961,54 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/es-gibt-fuer-alles-eine-app"
         },
         {
+            "title": "BibLab: Einf\u00fchrung MedienLabor",
+            "description": "<p>Sie haben Schallplatten, Dias und Audio/VHS-Kassetten daheim, die Sie endlich in Ihrer digitalen Playlist haben wollen?&nbsp;</p> <p>Dann nutzen Sie die Technik im BibLab! Heute zeigen wir Ihnen, wie es geht, morgen schon digitalisieren Sie eigenh\u00e4ndig Ihre Sammlungen.</p> <p>Zielgruppe: Einf\u00fchrungsveranstaltung f\u00fcr Interessierte</p> <p><i>kostenfrei</i></p>  <p>Die Termine:<br />Dienstag | 02.02.2027 | 10 bis 11 Uhr, 11.30 bis 12.30 Uhr, 14 bis 15 Uhr, 15.30 bis 16.30 Uhr |<br /><br />Ort: TIETZ, Zentralbibliothek, BibliotheksLabor, MakerBereich</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Medienlabor.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2027-02-02",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-einfuehrung-medienlabor-2-2-1-2"
+        },
+        {
+            "title": "BibLab: Einf\u00fchrung AudioStudio",
+            "description": "<p>Sie wollten schon immer mal einen Podcast oder ein H\u00f6rspiel produzieren? Sie suchen nach einem Raum, um Ihre Texte digital aufzunehmen und zu bearbeiten?&nbsp;</p> <p>Dann nutzen Sie die Technik im BibLab! Heute zeigen wir Ihnen, wie es geht, morgen schon werden Sie selbst aktiv.</p> <p>Zielgruppe: Einf\u00fchrungsveranstaltung f\u00fcr Interessierte</p> <p>Die Termine:<br />Dienstag | 02.02.2027 | 10 bis 11 Uhr, 11.30 bis 12.30 Uhr, 14 bis 15 Uhr, 15.30 bis 16.30 Uhr |</p> <p>Ort: TIETZ, Zentralbibliothek, BiblotheksLabor, MakerBereich<br /><br /><i>kostenfrei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Audiostudio.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2027-02-02",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-einfuehrung-audiostudio-2-3-2"
+        },
+        {
             "title": "Einf\u00fchrung/ F\u00fchrerschein 3D-Drucker",
             "description": "<p>Wie funktioniert ein 3D-Drucker? Wo finde ich nutzbare Modelle? Was muss ich einstellen?<br />Wir zeigen Ihnen, wie sie den 3D-Drucker und die Software PursaSlicer bedienen. Die Einf\u00fchrung dauert circa 2 Stunden und ist kostenfrei.</p> <p>Danach erhalten Sie einen F\u00fchrerschein und k\u00f6nnen die Technik selbstst\u00e4ndig nutzen.</p> <p>M\u00f6chten Sie sich schon vorab mit 3D-Drucken besch\u00e4ftigen? Dann st\u00f6bern Sie doch mal in unseren Medien zu 3D-Druck oder besuchen Sie den Kurs \u201e3D-Druck \u2013Grundlagen\u201c auf unserem E-Learning-Portal.</p>  <p>Zielgruppe: <strong>Einf\u00fchrungsveranstaltung f\u00fcr Erwachsene und Kinder ab 12 Jahren in Begleitung eines Erwachsenen</strong></p> <p><i>kostenfrei, mit Anmeldung</i></p>  <p>Der Termin:<br />&nbsp;| 25.02.27 | 15 bis 17 Uhr<br /><br />Ort: TIETZ, Zentralbibliothek, BibLab-C, MakerBereich</p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -2031,6 +2031,78 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1"
+        },
+        {
+            "title": "Techniktag im BibliotheksLabor",
+            "description": "<p>Du interessierst dich f\u00fcr Medien und hast Lust Technik auszuprobieren?</p> <p>Dann besuche unseren Techniktag. An diesem Nachmittag kann man sich an verschiedenen Stationen informieren und interessante Mitmach-Angebote ausprobieren (Roboter und Audiostudio ausprobieren, Programmieren f\u00fcr Kinder testen, 3D-Druck bewundern, MINT Angebote kennen lernen\u2026).</p> <p>Unterst\u00fctzt wird die Veranstaltung vom Verein F\u00f6rderer der Stadtbibliothek Chemnitz.</p>  <p>F\u00fcr Kinder ab 8 Jahren, Jugendliche und Erwachsene</p> <p>Ort: TIETZ, Zentralbibliothek, Bibliothekslabor (BibLab)</p> <p>Zeit: 27.02.27 - 14 bis 18 Uhr</p> <p>Veranstalter: Stadtbibliothek Chemnitz</p> <p><i>kostenfrei, ohne Anmeldung</i></p>   ",
+            "organizer": "BibLab-C Projektnetzwerk",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Grafik_MakerDay.png",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2027-02-27",
+                    "date_to": "",
+                    "time_from": "14:00",
+                    "time_to": "18:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/techniktag-im-bibliothekslabor"
+        },
+        {
+            "title": "BibLab: Einf\u00fchrung MedienLabor",
+            "description": "<p>Sie haben Schallplatten, Dias und Audio/VHS-Kassetten daheim, die Sie endlich in Ihrer digitalen Playlist haben wollen? Dann nutzen Sie die Technik im BibLab!</p> <p>Heute zeigen wir Ihnen, wie es geht, morgen schon digitalisieren Sie eigenh\u00e4ndig Ihre Sammlungen.</p> <p>Zielgruppe: Einf\u00fchrungsveranstaltung f\u00fcr Interessierte</p> <p><i>kostenfrei</i></p>  <p>Die Termine:<br />Dienstag | 02.03.2027 | 10 bis 11 Uhr, 11.30 bis 12.30 Uhr, 14 bis 15 Uhr, 15.30 bis 16.30 Uhr |<br /><br />Ort: TIETZ, Zentralbibliothek, BibliotheksLabor, MakerBereich</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Medienlabor.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2027-03-02",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-einfuehrung-medienlabor-2-2-1-3"
+        },
+        {
+            "title": "BibLab: Einf\u00fchrung AudioStudio",
+            "description": "<p>Sie wollten schon immer mal einen Podcast oder ein H\u00f6rspiel produzieren? Sie suchen nach einem Raum, um Ihre Texte digital aufzunehmen und zu bearbeiten? Dann nutzen Sie die Technik im BibLab!</p> <p>Heute zeigen wir Ihnen, wie es geht, morgen schon werden Sie selbst aktiv.</p> <p>Zielgruppe: Einf\u00fchrungsveranstaltung f\u00fcr Interessierte</p> <p>Die Termine:<br />Dienstag | 02.03.2027 | 10 bis 11 Uhr, 11.30 bis 12.30 Uhr, 14 bis 15 Uhr, 15.30 bis 16.30 Uhr |</p> <p>Ort: TIETZ, Zentralbibliothek, BibLab-C, MakerBereich<br /><br /><i>kostenfrei</i></p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Tietz, Zentralbibliothek, BibLab-C",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Audiostudio.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2027-03-02",
+                    "date_to": "",
+                    "time_from": "10:00",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-einfuehrung-audiostudio-2-3-5"
         },
         {
             "title": "Smartphone Sprechstunde f\u00fcr Senioren",
