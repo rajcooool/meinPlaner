@@ -706,8 +706,8 @@
                                      {
                                          "date_from":  "2026-12-01",
                                          "date_to":  "2026-12-01",
-                                         "time_to":  "20:30",
-                                         "time_from":  "19:00"
+                                         "time_to":  "19:30",
+                                         "time_from":  "18:00"
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2610025",
@@ -918,29 +918,6 @@
                                      }
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2622500",
-                       "ticket_phone":  ""
-                   },
-                   {
-                       "title":  "Syodou – japanische Kalligrafie",
-                       "description":  "Japanische Kalligrafie, „Syodou“, ist die Kunst des „Schönschreibens“ mit Schreibpinsel. „Syodou“ wurde etwa im sechsten und siebten Jahrhundert aus der chinesischen Kalligrafie übernommen. Die Schriftzeichen entstanden anfangs aus dem praktischen Gebrauch. Mit der Genese der Kultur entwickelte sich auch die Methode, Schriftzeichen ästhetisch auszudrücken. Darüber hinaus kann die japanische Kalligrafie das Leben praktisch verschönern, den Geist mit diesem Hobby bereichern und individuelle Schönheit ausdrücken. Im Lernprozess wird die Persönlichkeit trainiert und das Gefühl verfeinert. Die Materialkosten sind im Kursentgelt enthalten.",
-                       "location":  "TIETZ",
-                       "room":  "",
-                       "organizer":  "",
-                       "images":  [
-                                      {
-                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
-                                          "copyright":  ""
-                                      }
-                                  ],
-                       "dates":  [
-                                     {
-                                         "date_from":  "2026-11-19",
-                                         "date_to":  "2026-11-19",
-                                         "time_to":  "20:15",
-                                         "time_from":  "18:45"
-                                     }
-                                 ],
-                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W2624201",
                        "ticket_phone":  ""
                    },
                    {
