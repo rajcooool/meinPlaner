@@ -1,54 +1,6 @@
 {
     "events": [
         {
-            "title": "Wir suchen Ihre Geschichten zur Amiga-Schallplatte",
-            "description": "<p>Die Stadtbibliothek Chemnitz plant zum 80. Geburtstag des Plattenlabels Amiga im kommenden Jahr eine kleine Ausstellung. Daf\u00fcr suchen wir pers\u00f6nliche Erlebnisse und kleine Geschichten, die Chemnitzer B\u00fcrger und B\u00fcrgerinnen mit Amiga Schallplatten verbinden. M\u00f6chten Sie Ihre Erinnerung mit uns teilen? Dann kommen Sie gern am 20. November (14 bis 17 Uhr) in der Zentralbibliothek im Tietz vorbei, dort k\u00f6nnen Sie sich Amiga Schallplatten anschauen und uns ihre Geschichte erz\u00e4hlen. Wir freuen uns auf Sie!</p> <p><strong>Wann?</strong></p> <p>20.11.2026 (14 bis 17 Uhr)</p> <p><strong>Wo?</strong></p> <p>Zentralbibliothek im TIETZ/ Open Space</p> <p><strong>Was?</strong></p> <p>Schallplatten anschauen, Geschichten/ Erlebnisse teilen</p>  ",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Tietz, Zentralbibliothek, BibLab-C",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/Foto_AmigaPlatte.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-20",
-                    "date_to": "",
-                    "time_from": "14:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/wir-suchen-ihre-geschichten-zur-amiga-schallplatte"
-        },
-        {
-            "title": "AUSGEBUCHT! Kuscheltier-\u00dcbernachtung zum Bundesweiten Vorlesetag",
-            "description": "<p>Diese Veranstaltung ist bereits ausgebucht.</p>  <p><strong>Was?</strong></p> <p>Lasst eure Kuscheltiere eine aufregende Nacht voller Geschichten und neuer Freunde in der Stadtbibliothek verbringen!</p> <p>Nach einer gemeinsamen Gute-Nacht-Geschichte mit den Kuscheltier-Mamas und Kuscheltier-Papas hei\u00dft es \u201eTsch\u00fcss, bis morgen!\u201c und das Abenteuer beginnt. Was eure Kuscheltiere bei ihrer \u00dcbernachtung erlebt haben, erfahrt ihr am n\u00e4chsten Tag, wenn ihr eure kuscheligen Freunde an der Zentralen Theke wieder abholt (10 \u2013 18 Uhr).</p> <p><strong>Wo?</strong></p> <p>Zentralbibliothek im TIETZ, Kinderbibliothek</p> <p><strong>Wer?</strong></p> <p>F\u00fcr Kinder von 5 bis 8 Jahren, ein Kuscheltier je Kind</p> <p><strong>Wann?</strong></p> <p>20.11.2026, 17:00 Uhr</p> <p>Eintritt frei, Anmeldung erforderlich<br />&nbsp;</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Zentralbibliothek im TIETZ, Kinderbibliothek",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Teaser-Kuscheltier\u00fcbernachtung.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-20",
-                    "date_to": "",
-                    "time_from": "17:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/kuscheltier-uebernachtung-zum-bundesweiten-vorlesetag"
-        },
-        {
             "title": "Ganz in Familie: Die Mumins \u2013 eine sch\u00f6ne Bescherung",
             "description": "<p><strong>Was?</strong></p> <p>Ein frech-poetisches Figurentheater mit Marie Bretschneider f\u00fcr Kinder und Erwachsene nach einer Winterweihnachtsgeschichte von Tove Jansson.</p> <p>Weihnachten steht vor der T\u00fcr und nat\u00fcrlich ist das ganze Mumintal in Aufruhr. Nur die Familie Mumin liegt wie jedes Jahr im Winterschlaf und h\u00e4tte das Fest auch fast verschlafen, wenn nicht der Hemul die kleinen Trolle mit seinem lauten Geschimpfe geweckt h\u00e4tte: \u201eWeihnachten ist das Schlimmste was es gibt!\u201c flucht er beim Schneesaugen. \u201eAlarm! Das Schlimmste was es gibt, steht vor der T\u00fcr!\u201c ruft Muminpapa.</p> <p><strong>Wo?</strong></p> <p>Tietz, Veranstaltungssaal</p> <p><strong>Wer?</strong></p> <p>empfohlen ab 4 Jahren</p> <p><strong>Wann?</strong></p> <p>21.11.2026, 15:30 Uhr</p> <p>Eintritt: 5\u20ac, erm\u00e4\u00dfigt 3\u20ac, Anmeldung erbeten</p> <p>Kartenverkauf am Infotresen im Erdgeschoss des Tietz</p>",
             "organizer": "Stadtbibliothek Chemnitz",
