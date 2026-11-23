@@ -1517,6 +1517,75 @@
                                  ],
                        "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265G200",
                        "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Messengerdienste und Social Media vorgestellt",
+                       "description":  "Voraussetzungen: Der Kurs spricht Personen an, die sich weiterführend mit ihrem Smartphone beschäftigen möchten.\r\n\r\nMessengerdienste, z. B. WhatsApp und Telegram, sind Programme auf dem Smartphone, mit denen Sie Nachrichten verschicken und empfangen können – und das in Echtzeit. Auch auf Social-Media-Plattformen können Sie Nachrichten versenden, Bilder hochladen und sich in Foren mit anderen austauschen. Sie lernen in diesem Kurs verschiedene Messengerdienste und Social-Media-Plattformen kennen. Sie sprechen mit einem erfahrenen Kursleiter über die Installation der Apps sowie die Kosten und diskutieren Fragen, z. B. zum Datenschutz.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.64",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2026-12-01",
+                                         "date_to":  "2026-12-01",
+                                         "time_to":  "19:15",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265M104",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Alltagshelfer Smartphone: Apps rund um die Gesundheit",
+                       "description":  "Voraussetzungen: Der Kurs spricht Personen an, die sich weiterführend mit ihrem Smartphone beschäftigen möchten.\r\n\r\nIn diesem Kurs lernen Sie Apps kennen, die speziell für Seniorinnen und Senioren hilfreich im Alltag sein können. Sie erfahren, welche Apps rund um Gesundheit, Bewegung und Wohlbefinden nützlich sind, von Schrittzählern und Sportprogrammen bis hin zu Notfallfunktionen.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.64",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-01-12",
+                                         "date_to":  "2027-01-12",
+                                         "time_to":  "19:15",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265M108",
+                       "ticket_phone":  ""
+                   },
+                   {
+                       "title":  "Mobil mit dem Smartphone",
+                       "description":  "Voraussetzungen: Der Kurs spricht Personen an, die sich weiterführend mit ihrem Smartphone beschäftigen möchten.\r\n\r\nSie möchten Ihre nächsten Wandertouren planen? Sie bereiten gerade Ihren nächsten Urlaub vor? In diesem Kurs erfahren Sie viel Nützliches rund um Mobilität mit dem Smartphone. Sie lernen, Routen zum Fahrradfahren in praktischen Apps zu finden oder zu planen. Sie erlernen, mit dem Smartphone Unterkünfte für Ihren Urlaub zu suchen und digital einzuchecken. Sie üben, an Ihrem eigenen Telefon den Standort zu teilen und den schnellsten Fußweg zur nächsten Urlaubsattraktion zu finden. Diese und noch viele weitere Tipps rund um Ihre Reisen erhalten Sie in diesem Kurs.",
+                       "location":  "TIETZ",
+                       "room":  "Kursraum 4.64",
+                       "organizer":  "",
+                       "images":  [
+                                      {
+                                          "url":  "https://www.vhs-chemnitz.de/fileadmin/vhs-chemnitz/Logo/vhs_Chemnitz.png",
+                                          "copyright":  ""
+                                      }
+                                  ],
+                       "dates":  [
+                                     {
+                                         "date_from":  "2027-02-02",
+                                         "date_to":  "2027-02-02",
+                                         "time_to":  "19:15",
+                                         "time_from":  "17:00"
+                                     }
+                                 ],
+                       "ticket_url":  "https://www.vhs-chemnitz.de/p/557-C-W265M109",
+                       "ticket_phone":  ""
                    }
                ]
 }
