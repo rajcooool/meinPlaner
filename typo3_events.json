@@ -25,6 +25,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/kiew-eine-festung-ueber-dem-abgrund"
         },
         {
+            "title": "Stern der Weihnacht",
+            "description": "<p><strong>Kindermusiktheater Ellen Heimrath</strong></p> <p>Termin: Dienstag, 24.11., 15:30 Uhr</p> <p>Ort: Stadtteilbibliothek Yorck-Center&nbsp;</p> <p><i>Eintritt: frei</i></p> <p>Winni, der Weihnachtsmanngeselle, ist verzweifelt! Gemeinsam mit dem Weihnachts-engel Angie hat er in seiner Lehrzeit zwar alles M\u00f6gliche Wissenswerte \u00fcber Weihnachten gesammelt, aber niemand konnte ihnen bei der L\u00f6sung der Spezialaufgabe helfen: Wie bringt man den Stern der Weihnacht zum Leuchten? Und heute ist nun Winnis Gesellenzeit um und die Pr\u00fcfung steht bevor! Angie wagt noch einen letzten Versuch, das Geheimnis zu l\u00fcften und fliegt in Sturm und Schnee hinaus...&nbsp;</p> <p>Empfohlen ab 6 Jahren</p>",
+            "organizer": "Stadtbibliothek Chemnitz",
+            "location": "Stadtteilbibliothek im Yorckgebiet",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Kindertheater-Heinrath.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-24",
+                    "date_to": "",
+                    "time_from": "15:30",
+                    "time_to": "16:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "0371 488 4222",
+            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/stern-der-weihnacht"
+        },
+        {
             "title": "Fantastische Gespr\u00e4che mit Agricola",
             "description": "<p>Wussten Sie, dass Herr Doktor Georgius Agricola immer mal in unserer Stadt auftaucht, um sich \u00fcber seine ehemalige Wirkungsst\u00e4tte zu informieren? So auch im Kulturhauptstadt-Jahr 2025. Almut Fehrmann hat ihn getroffen, mit ihm gesprochen und die Dialoge aufgeschrieben. In einer szenischen Lesung l\u00e4sst sie Sie teilhaben, mit Harald Linke als Agricola an ihrer Seite.&nbsp;</p> <p>Eine Veranstaltung in Kooperation mit dem 1. Chemnitzer Autorenverein</p> <p>Der Eintritt ist frei.</p>",
             "organizer": "Stadtbibliothek Chemnitz",
