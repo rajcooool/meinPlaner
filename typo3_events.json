@@ -1,174 +1,6 @@
 {
     "events": [
         {
-            "title": "Stern der Weihnacht",
-            "description": "<p><strong>Kindermusiktheater Ellen Heimrath</strong></p> <p>Termin: Dienstag, 24.11., 15:30 Uhr</p> <p>Ort: Stadtteilbibliothek Yorck-Center&nbsp;</p> <p><i>Eintritt: frei</i></p> <p>Winni, der Weihnachtsmanngeselle, ist verzweifelt! Gemeinsam mit dem Weihnachts-engel Angie hat er in seiner Lehrzeit zwar alles M\u00f6gliche Wissenswerte \u00fcber Weihnachten gesammelt, aber niemand konnte ihnen bei der L\u00f6sung der Spezialaufgabe helfen: Wie bringt man den Stern der Weihnacht zum Leuchten? Und heute ist nun Winnis Gesellenzeit um und die Pr\u00fcfung steht bevor! Angie wagt noch einen letzten Versuch, das Geheimnis zu l\u00fcften und fliegt in Sturm und Schnee hinaus...&nbsp;</p> <p>Empfohlen ab 6 Jahren</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Stadtteilbibliothek im Yorckgebiet",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Kindertheater-Heinrath.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-24",
-                    "date_to": "",
-                    "time_from": "15:30",
-                    "time_to": "16:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/stern-der-weihnacht"
-        },
-        {
-            "title": "Fantastische Gespr\u00e4che mit Agricola",
-            "description": "<p>Wussten Sie, dass Herr Doktor Georgius Agricola immer mal in unserer Stadt auftaucht, um sich \u00fcber seine ehemalige Wirkungsst\u00e4tte zu informieren? So auch im Kulturhauptstadt-Jahr 2025. Almut Fehrmann hat ihn getroffen, mit ihm gesprochen und die Dialoge aufgeschrieben. In einer szenischen Lesung l\u00e4sst sie Sie teilhaben, mit Harald Linke als Agricola an ihrer Seite.&nbsp;</p> <p>Eine Veranstaltung in Kooperation mit dem 1. Chemnitzer Autorenverein</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "Stefan-Heym-Forum",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/Agricola.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-24",
-                    "date_to": "",
-                    "time_from": "18:00",
-                    "time_to": "19:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/fantastische-gespraeche-mit-agricola"
-        },
-        {
-            "title": "Auf leisen Sohlen... im Yorck",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Stadtteilbibliothek im Yorckgebiet",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Yorck.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-24",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-yorck-3"
-        },
-        {
-            "title": "Welcome to the library - Lerntisch f\u00fcr Deutschlernende",
-            "description": "<p>Ehrenamtliche Lernpaten helfen Deutschlernenden bei Hausaufgaben aus den DaF-Kursen, helfen bei der Pr\u00fcfungsvorbereitung und \u00fcben die Kommunikation in deutscher Sprache.</p> <p><i>kostenfrei</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Bereich Kultur & L\u00e4nder",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2026/1.31_Lerntisch_c_SBC.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-24",
-                    "date_to": "",
-                    "time_from": "13:00",
-                    "time_to": "15:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/refugees-welcome-in-the-library-1-2-1-3"
-        },
-        {
-            "title": "Auf leisen Sohlen... in Einsiedel",
-            "description": "<p><strong>Geschichten zum Zuh\u00f6ren vorgetragen f\u00fcr alle mit gespitzten Ohren</strong></p> <p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "F\u00f6rderer der Stadtbibliothek Chemnitz e. V.",
-            "location": "Stadtteilbibliothek Einsiedel",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2021/Vorlesen-Einsiedel.JPG",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-24",
-                    "date_to": "",
-                    "time_from": "16:00",
-                    "time_to": "17:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-2-8-2"
-        },
-        {
-            "title": "Auf leisen Sohlen\u2026 im TIETZ",
-            "description": "<p>Unsere Vorlesepaten lesen neueste Kinderb\u00fccher, Klassiker, \u201eBestseller\u201c der eigenen Kinderzeit oder auch selbst geschriebene Texte.</p> <p>Der Eintritt ist frei.</p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Kinderwelt",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Vorlesen-Auf-leisen-Sohlen-Tietz-1.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-24",
-                    "date_to": "",
-                    "time_from": "16:30",
-                    "time_to": "17:30"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/auf-leisen-sohlen-im-tietz"
-        },
-        {
-            "title": "Facharbeits-Sprechstunde f\u00fcr Sch\u00fcler:innen",
-            "description": "<p>Wir helfen beim Recherchieren in Bibliothekskatalogen sowie Online-Datenbanken und bieten kostenlos Hilfe zur Selbsthilfe f\u00fcr eine effektive Recherche.</p> <p>Die Anmeldung mit Angabe des Themas der Facharbeit ist erforderlich. Nutzen Sie unser <a class=\"cc_intern\" href=\"t3://page?uid=129\">Online-Buchungssystem</a> oder senden Sie eine <a class=\"cc_mail\" href=\"mailto:facharbeit@stadtbibliothek-chemnitz.de\">E-Mail</a>.</p> <p><i>kostenfrei (mit g\u00fcltigem Bibliotheksausweis)</i></p>",
-            "organizer": "Stadtbibliothek Chemnitz",
-            "location": "TIETZ, Zentralbibliothek, Beratungstheke Wissenschaft & Technik",
-            "room": "",
-            "images": [
-                {
-                    "url": "https://www.stadtbibliothek-chemnitz.de/fileadmin/mediamanager/003_events/2025/Facharbeitssprechstunde-Julia.jpg",
-                    "copyright": ""
-                }
-            ],
-            "dates": [
-                {
-                    "date_from": "2026-11-24",
-                    "date_to": "",
-                    "time_from": "15:00",
-                    "time_to": "18:00"
-                }
-            ],
-            "ticket_url": "",
-            "ticket_phone": "0371 488 4222",
-            "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-2"
-        },
-        {
             "title": "Workshop Einf\u00fchrung BorrowBox",
             "description": "<div class=\"cc_content\"><p>Sie m\u00f6chten den Umgang mit unserer neuen Online-Bibliothek BorrowBox erlernen? Hier erfahren Sie, was die Plattform zu bieten hat und welche \u00c4nderungen es im Vergleich zur Onleihe gibt. Wir geben eine allgemeine Einf\u00fchrung und kl\u00e4ren individuelle Fragen.&nbsp;</p> <p>Bitte hier kostenlos <strong>anmelden:&nbsp;</strong> <a class=\"cc_intern\" href=\"t3://page?uid=325\">https://www.stadtbibliothek-chemnitz.de/bibliothek-digital/ebook-sprechstunde</a></p> <p>oder melden Sie sich telefonisch unter 4884222 an.</p> <p><i>Eintritt: frei</i></p></div>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -287,6 +119,30 @@
             "ticket_url": "",
             "ticket_phone": "0371 488 4222",
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/einfuehrung-fuehrerschein-3d-drucker-1-1-1-2"
+        },
+        {
+            "title": "Winterliche Tanzcollage",
+            "description": "<p>Lassen Sie sich bei dieser winterlichen Tanzcollage auf die kommende Advents- und Weihnachtszeit einstimmen. Der Fachbereich Tanz pr\u00e4sentiert ein vielf\u00e4ltiges Programm zu Popsongs sowie klassicher Musik. Freuen Sie sich auf das Kinderballett, die Beitr\u00e4ge des kreativen Kindertanzes sowie die Jazzdance-Gruppen.&nbsp;</p>",
+            "organizer": "",
+            "location": "Konzertsaal/ St\u00e4dtische Musikschule Chemnitz",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Faecher/Gesang_Tanz/angebot_faecher_tanz_musik_schule_chemnitz__1_.jpg",
+                    "copyright": ""
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-11-28",
+                    "date_to": "",
+                    "time_from": "11:00",
+                    "time_to": "12:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/winterliche-tanzcollage"
         },
         {
             "title": "Auf leisen Sohlen\u2026 im Vita",
@@ -721,6 +577,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/biblab-c-freifunk-sprechstunde-tietz-edition-1-3-1-8"
         },
         {
+            "title": "Tastenzauber im Advent",
+            "description": "<p>Gerade im Winter l\u00e4sst das Klavier mit sanften Harmonien und leisen L\u00e4ufen den Zauber der winterlichen Jahreszeit widerspiegeln. Deshalb laden wir Sie zum Innehalten und Tr\u00e4umen in der gem\u00fctlichen Vorweihnachtszeit ein.</p>",
+            "organizer": "",
+            "location": "Konzertsaal / St\u00e4dtische Musikschule Chemnitz",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Unsplashed_Daria_Glakteeva_Klavierweihnachten.jpg",
+                    "copyright": "Foto: Daria Glakteeva (Unsplashed)"
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-12-08",
+                    "date_to": "",
+                    "time_from": "18:00",
+                    "time_to": "19:30"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/tastenzauber-im-advent"
+        },
+        {
             "title": "BibLab: Einf\u00fchrung AudioStudio",
             "description": "<p>Sie wollten schon immer mal einen Podcast oder ein H\u00f6rspiel produzieren? Sie suchen nach einem Raum, um Ihre Texte digital aufzunehmen und zu bearbeiten? Dann nutzen Sie die Technik im BibLab! Heute zeigen wir Ihnen, wie es geht, morgen schon werden Sie selbst aktiv.</p> <p>Zielgruppe: Einf\u00fchrungsveranstaltung f\u00fcr Interessierte</p> <p>Die Termine:<br />Dienstag | 08.12. | 10 bis 11 Uhr, 11.30 bis 12.30 Uhr, 14 bis 15 Uhr, 15.30 bis 16.30 Uhr |</p> <p>Ort: TIETZ, Zentralbibliothek, BibliotheksLabor, MakerBereich<br /><br /><i>kostenfrei</i></p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -841,6 +721,30 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/facharbeits-sprechstunde-fuer-schuelerinnen-5-1"
         },
         {
+            "title": "Weihnachtliche Mix-Collage",
+            "description": "<p>Wir laden Sie ganz herzlich zu unserer weihnachtlichen Mix-Collage ein, bei welcher Sch\u00fclerinnen und Sch\u00fcler mit unterschiedlichsten Instrumenten und Besetzungen ein abwechslungreichen Programm vorstellen und auf die besinnlichste Zeit des Jahres einstimmen.</p>",
+            "organizer": "",
+            "location": "Konzertsaal / St\u00e4dtische Musikschule Chemnitz",
+            "room": "",
+            "images": [
+                {
+                    "url": "https://www.musikschule-chemnitz.de/fileadmin/mediamanager_musikschule/Homepage/Veranstaltungen/Unsplashed_Natilyn_Hicks_Mixbild.jpg",
+                    "copyright": "Foto: Unsplashed"
+                }
+            ],
+            "dates": [
+                {
+                    "date_from": "2026-12-09",
+                    "date_to": "",
+                    "time_from": "18:30",
+                    "time_to": "20:00"
+                }
+            ],
+            "ticket_url": "",
+            "ticket_phone": "",
+            "event_url": "https://www.musikschule-chemnitz.de/veranstaltungen/event/weihnachtliche-mix-collage-1"
+        },
+        {
             "title": "19. Chemnitzer Leseadvent \u2013 Lesungen, Gespr\u00e4che und Musik",
             "description": "<p>Die Reihe Leseadvent bietet in der oftmals hektischen Vorweihnachtszeit den Menschen einen Moment des Innehaltens und des Nachdenkens. Chemnitzer Pers\u00f6nlichkeiten lesen Texte zum Thema Ankunft bzw. Advent vor und werden zu ihrer Person und ihren aktuellen Projekten befragt. Sch\u00fclerinnen und Sch\u00fclern der St\u00e4dtischen Musikschule umrahmen die Veranstaltungen musikalisch.</p> <p>heute zu Gast: Christoph Magirius, Superintendent i.R., Mitorganisator des \"Runden Tisches\" in Karl-Marx-Stadt zur Wendezeit und Ehrenb\u00fcrger der Stadt Chemnitz</p> <p>Moderation: Carsten Friedrich, Evangelisches Forum</p>",
             "organizer": "Stadtbibliothek Chemnitz",
@@ -889,8 +793,8 @@
             "event_url": "https://www.stadtbibliothek-chemnitz.de/aktuelles/eventdetails/e-book-sprechstunde-2"
         },
         {
-            "title": "Weihnachts-Werkstatt im BibliotheksLabor",
-            "description": "<p>Am<strong> 12.12.2026</strong> laden wir euch zum gem\u00fctlichen Weihnachts-Basteln zu uns in die<strong> Bibliothek im TIETZ, ins BibliotheksLabor</strong> ein! Von <strong>14 bis 18 Uhr</strong> erwartet alle kleinen und gro\u00dfen K\u00fcnstler ein kreatives Beisammensein, Bastelspa\u00df und weihnachtliche Vorfreude.</p> <p>Kostenfrei und ohne Anmeldung</p>",
+            "title": "kleine Weihnachts-Werkstatt im BibliotheksLabor",
+            "description": "<p>Am<strong> 12.12.2026</strong> laden wir euch zum gem\u00fctlichen Weihnachtsbasteln zu uns in die<strong> Bibliothek im TIETZ, ins BibliotheksLabor</strong> ein! Von <strong>14 bis 17.30 Uhr</strong> erwartet alle kleinen und gro\u00dfen K\u00fcnstler ein kreatives Beisammensein, Bastelspa\u00df und weihnachtliche Vorfreude.</p> <p><strong>Was erwartet euch?</strong></p> <p>- Weihnachtskarten bedrucken und gestalten</p> <p>- LED-Karten basteln</p> <p>- kreatives Basteln mit Papier</p> <p>Kostenfrei und ohne Anmeldung</p>",
             "organizer": "BibLab-C Projektnetzwerk",
             "location": "Tietz, Zentralbibliothek, BibLab-C",
             "room": "",
@@ -905,7 +809,7 @@
                     "date_from": "2026-12-12",
                     "date_to": "",
                     "time_from": "14:00",
-                    "time_to": "18:00"
+                    "time_to": "17:30"
                 }
             ],
             "ticket_url": "",
@@ -1278,7 +1182,7 @@
         },
         {
             "title": "Weihnachten mit Gesang und Sprecherziehung",
-            "description": "<p>Bei diesem Konzert h\u00f6ren Sie Weihnachtliche Kl\u00e4nge von S\u00e4ngerinnen und S\u00e4ngern der St\u00e4dtischen Musikschule Chemnitz</p>",
+            "description": "<p>Bei diesem Konzert h\u00f6ren Sie weihnachtliche Kl\u00e4nge von S\u00e4ngerinnen und S\u00e4ngern der St\u00e4dtischen Musikschule Chemnitz.</p> <p>Die jungen Musikerinnen und Musiker der Musikschule pr\u00e4sentieren in festlicher Atmosph\u00e4re ein abwechslungsreiches Programm aus traditionellen und modernen Weihnachtsliedern.</p>",
             "organizer": "",
             "location": "Kammermusiksaal / St\u00e4dtische Musikschule Chemnitz",
             "room": "",
